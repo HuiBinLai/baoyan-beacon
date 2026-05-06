@@ -3951,6 +3951,271 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-19918e162d68",
+    "school": "北京大学",
+    "department": "校级/待分院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 校级/待分院",
+    "tracks": [
+      "教育心理"
+    ],
+    "qualityFlags": [
+      "学院待复核"
+    ],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-05-06",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2025-09-08",
+        "notices": [
+          {
+            "id": "auto-51ccfd65e7f6",
+            "title": "北京大学2026年接收推荐免试研究生办法（校本部）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-05-06",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20250901134327320368.pdf"
+          },
+          {
+            "id": "auto-3db06f6a9285",
+            "title": "北京大学2024年接收推荐免试研究生办法（校本部）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-05-06",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20230904123632003647.pdf"
+          },
+          {
+            "id": "search-65e57bf89aee",
+            "title": "北京大学 2026 年接收推荐免试研究生办法(校本部)",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20250901134327320368.pdf"
+          },
+          {
+            "id": "search-b1cecf17f602",
+            "title": "北京大学 关于推荐 2026 届优秀本科毕业生免试攻读研究生的办法 (校...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-08",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://dean.pku.edu.cn/web/notice_details.php?id=692"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "search-dd375dd0682b",
+            "title": "北京大学 2025 年接收推荐免试研究生办法(校本部)",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20240910105625196643.pdf"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "search-438c77d123b5",
+            "title": "北京大学 2024 年接收推荐免试研究生办法(校本部)",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20230904123632003647.pdf"
+          },
+          {
+            "id": "search-397ce8048b37",
+            "title": "北京大学 关于推荐 2024 届优秀本科毕业生免试攻读研究生的办法 (校...",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.sis.pku.edu.cn/message27/1201886sis_20191369701.htm"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "结果公示",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2022-09-01",
+        "lastApplicationEnd": "2022-09-12",
+        "notices": [
+          {
+            "id": "search-354b656a5b7d",
+            "title": "北大 发布 | 北京大学 关于推荐 2023 届优秀本科毕业生免试攻读研究生...",
+            "stage": "结果公示",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2022-09-01",
+            "applicationEnd": "2022-09-12",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://news.pku.edu.cn/xwzh/67d399946adb4b6ca32825681efd3853.htm"
+          },
+          {
+            "id": "search-c5450355c584",
+            "title": "北京大学 2023 年接收推荐免试研究生办法(校本部)",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20220907135229009307.pdf"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "search-44fd7d680e32",
+            "title": "【 通知 】22届本科毕业生 推免 资格申请和办理成绩单 - 校园热点(CampusInfo...",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://bbs.pku.edu.cn/v2/mobile/post-read-single.php?bid=351&postid=24588387&type=2"
+          },
+          {
+            "id": "search-0fc5e50e7b2c",
+            "title": "北京大学 2022 年接收推荐免试研究生办法(校本部)",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20210908223357744219.pdf"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 11,
+    "llmStructuredCount": 9,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ],
+    "stages": [
+      "推免报名",
+      "结果公示"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [
+      "待结构化"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-090a3b682786",
     "school": "北京师范大学",
     "department": "校级/待分院",
@@ -6452,245 +6717,6 @@
       "生物学",
       "数学",
       "计算机科学与技术"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-19918e162d68",
-    "school": "北京大学",
-    "department": "校级/待分院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 校级/待分院",
-    "tracks": [
-      "教育心理"
-    ],
-    "qualityFlags": [
-      "学院待复核"
-    ],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2025-09-08",
-        "notices": [
-          {
-            "id": "search-65e57bf89aee",
-            "title": "北京大学 2026 年接收推荐免试研究生办法(校本部)",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20250901134327320368.pdf"
-          },
-          {
-            "id": "search-b1cecf17f602",
-            "title": "北京大学 关于推荐 2026 届优秀本科毕业生免试攻读研究生的办法 (校...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-08",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://dean.pku.edu.cn/web/notice_details.php?id=692"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "search-dd375dd0682b",
-            "title": "北京大学 2025 年接收推荐免试研究生办法(校本部)",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20240910105625196643.pdf"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "search-438c77d123b5",
-            "title": "北京大学 2024 年接收推荐免试研究生办法(校本部)",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20230904123632003647.pdf"
-          },
-          {
-            "id": "search-397ce8048b37",
-            "title": "北京大学 关于推荐 2024 届优秀本科毕业生免试攻读研究生的办法 (校...",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.sis.pku.edu.cn/message27/1201886sis_20191369701.htm"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "结果公示",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2022-09-01",
-        "lastApplicationEnd": "2022-09-12",
-        "notices": [
-          {
-            "id": "search-354b656a5b7d",
-            "title": "北大 发布 | 北京大学 关于推荐 2023 届优秀本科毕业生免试攻读研究生...",
-            "stage": "结果公示",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2022-09-01",
-            "applicationEnd": "2022-09-12",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://news.pku.edu.cn/xwzh/67d399946adb4b6ca32825681efd3853.htm"
-          },
-          {
-            "id": "search-c5450355c584",
-            "title": "北京大学 2023 年接收推荐免试研究生办法(校本部)",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20220907135229009307.pdf"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "search-44fd7d680e32",
-            "title": "【 通知 】22届本科毕业生 推免 资格申请和办理成绩单 - 校园热点(CampusInfo...",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://bbs.pku.edu.cn/v2/mobile/post-read-single.php?bid=351&postid=24588387&type=2"
-          },
-          {
-            "id": "search-0fc5e50e7b2c",
-            "title": "北京大学 2022 年接收推荐免试研究生办法(校本部)",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20210908223357744219.pdf"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 9,
-    "llmStructuredCount": 9,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023,
-      2022
-    ],
-    "stages": [
-      "推免报名",
-      "结果公示"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [
-      "待结构化"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
