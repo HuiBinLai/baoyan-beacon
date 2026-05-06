@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ruc-gaoling-ai",
+    "school": "中国人民大学",
+    "department": "高瓴人工智能学院",
+    "region": "北京",
+    "baseUrl": "https://ai.ruc.edu.cn/newslist/notice/",
+    "listUrls": [
+      "https://ai.ruc.edu.cn/newslist/notice/index1.htm",
+      "https://ai.ruc.edu.cn/newslist/notice/index2.htm",
+      "https://ai.ruc.edu.cn/newslist/notice/index3.htm"
+    ],
+    "includeKeywords": ["推免", "推荐免试", "免试", "夏令营", "研学营", "预推免", "直博"],
+    "excludeKeywords": ["博士后", "招聘", "奖学金", "强基", "本科生", "初试成绩", "成绩复核", "青少年", "大赛"]
+  }
+]

@@ -9,7 +9,13 @@
     "start": "next start",
     "lint": "eslint",
     "fetch:notices": "node scripts/fetch-notices.mjs",
-    "harvest:985": "node scripts/harvest-985.mjs"
+    "harvest:985": "node scripts/harvest-985.mjs",
+    "structure:notices": "node scripts/structure-notices.mjs",
+    "normalize:notices": "node scripts/normalize-notices.mjs",
+    "classify:notices": "node scripts/classify-notices.mjs",
+    "crawl:colleges": "node scripts/crawl-college-notices.mjs",
+    "audit:coverage": "node scripts/audit-coverage.mjs",
+    "report:status": "node scripts/generate-status-report.mjs"
   },
   "dependencies": {
     "next": "16.2.4",

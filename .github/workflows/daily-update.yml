@@ -25,18 +25,32 @@ jobs:
         run: npm ci
 
       - name: Discover notice candidates
+        env:
+          LLM_PROVIDER: zhipu
+          LLM_BASE_URL: https://open.bigmodel.cn/api/paas/v4
+          LLM_MODEL: glm-4-flash-250414
+          LLM_API_KEY: ${{ secrets.ZHIPUAI_API_KEY }}
         run: |
           node scripts/fetch-notices.mjs
-          node scripts/harvest-985.mjs --years 2026 --max-per-query 2
+          node scripts/harvest-985.mjs --years 2026 --max-per-query 3 --deep
+          node scripts/crawl-college-notices.mjs
+          if [ -n "$LLM_API_KEY" ]; then
+            node scripts/structure-notices.mjs --only-unstructured --llm --concurrency 1 --llm-retries 3
+          else
+            node scripts/structure-notices.mjs --only-unstructured --concurrency 4
+          fi
+          node scripts/normalize-notices.mjs
+          node scripts/classify-notices.mjs
+          node scripts/audit-coverage.mjs
 
       - name: Commit updates
         run: |
-          if git diff --quiet -- content/notices.json; then
+          if git diff --quiet -- content/notices.json content/coverage-report.json; then
             echo "No content changes."
           else
             git config user.name "baoyan-beacon-bot"
             git config user.email "actions@github.com"
-            git add content/notices.json
+            git add content/notices.json content/coverage-report.json
             git commit -m "chore: discover notice candidates"
             git push
           fi

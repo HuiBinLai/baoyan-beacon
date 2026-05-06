@@ -1,0 +1,463 @@
+{
+  "generatedAt": "2026-05-06T19:11:36.676Z",
+  "currentYear": 2026,
+  "totals": {
+    "notices": 1105,
+    "schools": 39,
+    "coveredSchools": 39,
+    "staleSchools": 0,
+    "missingSchools": 0,
+    "collegeSources": 1,
+    "missingCollegeSources": 0,
+    "llmStructured": 1091,
+    "unstructured": 0
+  },
+  "schools": [
+    {
+      "school": "中国人民大学",
+      "region": "北京",
+      "total": 38,
+      "currentYear": 7,
+      "recentFiveYears": 37,
+      "departments": 14,
+      "llmStructured": 29,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "北京大学",
+      "region": "北京",
+      "total": 22,
+      "currentYear": 4,
+      "recentFiveYears": 22,
+      "departments": 10,
+      "llmStructured": 20,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "清华大学",
+      "region": "北京",
+      "total": 30,
+      "currentYear": 4,
+      "recentFiveYears": 30,
+      "departments": 16,
+      "llmStructured": 30,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "复旦大学",
+      "region": "上海",
+      "total": 31,
+      "currentYear": 5,
+      "recentFiveYears": 31,
+      "departments": 17,
+      "llmStructured": 31,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "上海交通大学",
+      "region": "上海",
+      "total": 20,
+      "currentYear": 3,
+      "recentFiveYears": 20,
+      "departments": 12,
+      "llmStructured": 20,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "浙江大学",
+      "region": "浙江",
+      "total": 34,
+      "currentYear": 9,
+      "recentFiveYears": 34,
+      "departments": 16,
+      "llmStructured": 34,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "南京大学",
+      "region": "江苏",
+      "total": 37,
+      "currentYear": 8,
+      "recentFiveYears": 37,
+      "departments": 17,
+      "llmStructured": 37,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "中国科学技术大学",
+      "region": "安徽",
+      "total": 14,
+      "currentYear": 1,
+      "recentFiveYears": 14,
+      "departments": 8,
+      "llmStructured": 14,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "西安交通大学",
+      "region": "陕西",
+      "total": 36,
+      "currentYear": 6,
+      "recentFiveYears": 36,
+      "departments": 11,
+      "llmStructured": 36,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "哈尔滨工业大学",
+      "region": "黑龙江",
+      "total": 27,
+      "currentYear": 6,
+      "recentFiveYears": 27,
+      "departments": 17,
+      "llmStructured": 27,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "北京航空航天大学",
+      "region": "北京",
+      "total": 26,
+      "currentYear": 4,
+      "recentFiveYears": 25,
+      "departments": 14,
+      "llmStructured": 25,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "北京理工大学",
+      "region": "北京",
+      "total": 24,
+      "currentYear": 5,
+      "recentFiveYears": 24,
+      "departments": 12,
+      "llmStructured": 24,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "中国农业大学",
+      "region": "北京",
+      "total": 26,
+      "currentYear": 6,
+      "recentFiveYears": 26,
+      "departments": 10,
+      "llmStructured": 26,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "北京师范大学",
+      "region": "北京",
+      "total": 18,
+      "currentYear": 3,
+      "recentFiveYears": 18,
+      "departments": 6,
+      "llmStructured": 18,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "中央民族大学",
+      "region": "北京",
+      "total": 35,
+      "currentYear": 6,
+      "recentFiveYears": 35,
+      "departments": 16,
+      "llmStructured": 35,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "南开大学",
+      "region": "天津",
+      "total": 24,
+      "currentYear": 5,
+      "recentFiveYears": 24,
+      "departments": 8,
+      "llmStructured": 24,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "天津大学",
+      "region": "天津",
+      "total": 35,
+      "currentYear": 5,
+      "recentFiveYears": 35,
+      "departments": 18,
+      "llmStructured": 35,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "大连理工大学",
+      "region": "辽宁",
+      "total": 34,
+      "currentYear": 8,
+      "recentFiveYears": 34,
+      "departments": 16,
+      "llmStructured": 34,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "东北大学",
+      "region": "辽宁",
+      "total": 18,
+      "currentYear": 2,
+      "recentFiveYears": 17,
+      "departments": 4,
+      "llmStructured": 18,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "吉林大学",
+      "region": "吉林",
+      "total": 25,
+      "currentYear": 6,
+      "recentFiveYears": 25,
+      "departments": 17,
+      "llmStructured": 24,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "同济大学",
+      "region": "上海",
+      "total": 27,
+      "currentYear": 3,
+      "recentFiveYears": 27,
+      "departments": 13,
+      "llmStructured": 27,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "华东师范大学",
+      "region": "上海",
+      "total": 28,
+      "currentYear": 3,
+      "recentFiveYears": 28,
+      "departments": 19,
+      "llmStructured": 28,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "东南大学",
+      "region": "江苏",
+      "total": 31,
+      "currentYear": 5,
+      "recentFiveYears": 31,
+      "departments": 18,
+      "llmStructured": 30,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "厦门大学",
+      "region": "福建",
+      "total": 33,
+      "currentYear": 6,
+      "recentFiveYears": 33,
+      "departments": 16,
+      "llmStructured": 33,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "山东大学",
+      "region": "山东",
+      "total": 35,
+      "currentYear": 5,
+      "recentFiveYears": 35,
+      "departments": 21,
+      "llmStructured": 35,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "中国海洋大学",
+      "region": "山东",
+      "total": 23,
+      "currentYear": 6,
+      "recentFiveYears": 23,
+      "departments": 14,
+      "llmStructured": 23,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "武汉大学",
+      "region": "湖北",
+      "total": 34,
+      "currentYear": 7,
+      "recentFiveYears": 34,
+      "departments": 20,
+      "llmStructured": 34,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "华中科技大学",
+      "region": "湖北",
+      "total": 32,
+      "currentYear": 3,
+      "recentFiveYears": 32,
+      "departments": 12,
+      "llmStructured": 32,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "湖南大学",
+      "region": "湖南",
+      "total": 36,
+      "currentYear": 5,
+      "recentFiveYears": 36,
+      "departments": 10,
+      "llmStructured": 36,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "中南大学",
+      "region": "湖南",
+      "total": 31,
+      "currentYear": 6,
+      "recentFiveYears": 31,
+      "departments": 16,
+      "llmStructured": 31,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "中山大学",
+      "region": "广东",
+      "total": 34,
+      "currentYear": 6,
+      "recentFiveYears": 34,
+      "departments": 19,
+      "llmStructured": 34,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "华南理工大学",
+      "region": "广东",
+      "total": 23,
+      "currentYear": 2,
+      "recentFiveYears": 23,
+      "departments": 11,
+      "llmStructured": 23,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "四川大学",
+      "region": "四川",
+      "total": 28,
+      "currentYear": 6,
+      "recentFiveYears": 28,
+      "departments": 14,
+      "llmStructured": 28,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "重庆大学",
+      "region": "重庆",
+      "total": 34,
+      "currentYear": 7,
+      "recentFiveYears": 34,
+      "departments": 17,
+      "llmStructured": 34,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "电子科技大学",
+      "region": "四川",
+      "total": 30,
+      "currentYear": 7,
+      "recentFiveYears": 30,
+      "departments": 16,
+      "llmStructured": 30,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "西北工业大学",
+      "region": "陕西",
+      "total": 25,
+      "currentYear": 3,
+      "recentFiveYears": 25,
+      "departments": 13,
+      "llmStructured": 25,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "西北农林科技大学",
+      "region": "陕西",
+      "total": 26,
+      "currentYear": 5,
+      "recentFiveYears": 26,
+      "departments": 10,
+      "llmStructured": 26,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "兰州大学",
+      "region": "甘肃",
+      "total": 28,
+      "currentYear": 3,
+      "recentFiveYears": 28,
+      "departments": 12,
+      "llmStructured": 28,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "school": "国防科技大学",
+      "region": "湖南",
+      "total": 13,
+      "currentYear": 2,
+      "recentFiveYears": 13,
+      "departments": 3,
+      "llmStructured": 13,
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    }
+  ],
+  "collegeSources": [
+    {
+      "id": "ruc-gaoling-ai",
+      "school": "中国人民大学",
+      "department": "高瓴人工智能学院",
+      "total": 9,
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023
+      ],
+      "latestDate": "2025-06-30",
+      "status": "covered"
+    }
+  ],
+  "actionItems": []
+}

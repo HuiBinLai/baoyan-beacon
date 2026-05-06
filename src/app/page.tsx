@@ -19,7 +19,17 @@ type Notice = {
   sourceUrl: string;
   summary: string;
   tags: string[];
-  confidence: "demo" | "auto" | "verified";
+  confidence: "auto" | "verified";
+  applicationStart?: string;
+  applicationEnd?: string;
+  registrationTime?: string;
+  requirements?: string[];
+  materials?: string[];
+  applicationMethod?: string;
+  targetStudents?: string;
+  structuredStatus?: string;
+  degreeTypes?: string[];
+  noticeStage?: string;
 };
 
 const typedNotices = notices as Notice[];
@@ -27,6 +37,7 @@ const typedNotices = notices as Notice[];
 const noticeTypes = ["全部", ...Array.from(new Set(typedNotices.map((notice) => notice.type)))];
 const schools = ["全部院校", ...Array.from(new Set(typedNotices.map((notice) => notice.school)))];
 const majors = ["全部专业", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.majors)))];
+const degreeTypes = ["全部培养类型", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.degreeTypes || [])))];
 const years = ["近五年", ...Array.from(new Set(typedNotices.map((notice) => notice.year))).sort((a, b) => b - a).map(String)];
 const resultLimit = 120;
 
@@ -54,6 +65,7 @@ export default function Home() {
   const [query, setQuery] = useState("");
   const [school, setSchool] = useState("全部院校");
   const [major, setMajor] = useState("全部专业");
+  const [degreeType, setDegreeType] = useState("全部培养类型");
   const [type, setType] = useState("全部");
   const [year, setYear] = useState("近五年");
   const deferredQuery = useDeferredValue(query.trim().toLowerCase());
@@ -65,8 +77,10 @@ export default function Home() {
       notice.department,
       notice.region,
       notice.type,
+      notice.noticeStage,
       notice.summary,
       ...notice.majors,
+      ...(notice.degreeTypes || []),
       ...notice.tags,
     ]
       .join(" ")
@@ -75,16 +89,17 @@ export default function Home() {
     const matchesQuery = deferredQuery ? haystack.includes(deferredQuery) : true;
     const matchesSchool = school === "全部院校" || notice.school === school;
     const matchesMajor = major === "全部专业" || notice.majors.includes(major);
+    const matchesDegreeType = degreeType === "全部培养类型" || notice.degreeTypes?.includes(degreeType);
     const matchesType = type === "全部" || notice.type === type;
     const matchesYear = year === "近五年" || String(notice.year) === year;
 
-    return matchesQuery && matchesSchool && matchesMajor && matchesType && matchesYear;
+    return matchesQuery && matchesSchool && matchesMajor && matchesDegreeType && matchesType && matchesYear;
   });
 
   const visibleNotices = filteredNotices.slice(0, resultLimit);
 
   const verifiedCount = typedNotices.filter((notice) => notice.confidence === "verified").length;
-  const demoCount = typedNotices.filter((notice) => notice.confidence === "demo").length;
+  const structuredCount = typedNotices.filter((notice) => notice.structuredStatus).length;
 
   return (
     <main className="min-h-screen overflow-hidden bg-[var(--paper)] text-[var(--ink)]">
@@ -192,7 +207,7 @@ export default function Home() {
                 placeholder="搜索：清华 计算机 夏令营 / 0854 预推免 / 直博"
                 className="rounded-2xl border border-[var(--line)] bg-[var(--paper)] px-5 py-4 text-base font-semibold outline-none transition focus:border-[var(--sea)] focus:bg-white"
               />
-              <div className="grid gap-3 md:grid-cols-4">
+              <div className="grid gap-3 md:grid-cols-5">
                 <select
                   aria-label="院校筛选"
                   value={school}
@@ -210,6 +225,16 @@ export default function Home() {
                   className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
                 >
                   {majors.map((item) => (
+                    <option key={item}>{item}</option>
+                  ))}
+                </select>
+                <select
+                  aria-label="培养类型筛选"
+                  value={degreeType}
+                  onChange={(event) => setDegreeType(event.target.value)}
+                  className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
+                >
+                  {degreeTypes.map((item) => (
                     <option key={item}>{item}</option>
                   ))}
                 </select>
@@ -239,8 +264,8 @@ export default function Home() {
 
           <div className="mt-8 grid gap-4 md:grid-cols-3">
             <StatCard label="已索引信息" value={String(typedNotices.length)} detail="通知、面经、门槛参考统一建模" />
+            <StatCard label="已结构化" value={String(structuredCount)} detail="报名时间、要求、材料等字段已抽取" />
             <StatCard label="已核验" value={String(verifiedCount)} detail="人工确认来源和时间后标记" />
-            <StatCard label="演示占位" value={String(demoCount)} detail="上线前替换为真实抓取数据" />
           </div>
 
           <div className="mt-8 flex flex-col gap-2 rounded-[1.5rem] border border-[var(--line)] bg-white/70 p-4 text-sm font-bold text-[var(--muted)] md:flex-row md:items-center md:justify-between">
@@ -261,12 +286,17 @@ export default function Home() {
                   <div className="min-w-0">
                     <div className="flex flex-wrap items-center gap-2">
                       <span className="rounded-full bg-[var(--mist)] px-3 py-1 text-xs font-black text-[var(--sea)]">
-                        {notice.type}
+                        {notice.noticeStage || notice.type}
                       </span>
+                      {displayDegreeTypes(notice.degreeTypes).map((item) => (
+                        <span key={item} className="rounded-full bg-white px-3 py-1 text-xs font-black text-[var(--navy)] ring-1 ring-[var(--line)]">
+                          {item}
+                        </span>
+                      ))}
                       <span className="rounded-full bg-[var(--beam-soft)] px-3 py-1 text-xs font-black text-[var(--rust)]">
-                        {notice.confidence === "demo" ? "示例数据" : notice.confidence === "verified" ? "已核验" : "自动抽取"}
+                        {notice.confidence === "verified" ? "已核验" : notice.structuredStatus?.startsWith("heuristic") ? "规则结构化" : "待复核"}
                       </span>
-                      {isClosingSoon(notice.deadline) ? (
+                      {isClosingSoon(notice.applicationEnd || notice.deadline) ? (
                         <span className="rounded-full bg-red-50 px-3 py-1 text-xs font-black text-red-600">
                           即将截止
                         </span>
@@ -279,6 +309,15 @@ export default function Home() {
                       {notice.school} · {notice.department}
                     </p>
                     <p className="mt-3 max-w-4xl leading-8 text-[var(--muted)]">{notice.summary}</p>
+                    <div className="mt-4 grid gap-3 rounded-3xl bg-[var(--paper)] p-4 text-sm font-semibold text-[var(--muted)] md:grid-cols-2">
+                      <InfoLine label="报名时间" value={notice.registrationTime || dateRange(notice.applicationStart, notice.applicationEnd)} />
+                      <InfoLine label="报名方式" value={notice.applicationMethod} />
+                      <InfoLine label="面向对象" value={notice.targetStudents} />
+                      <InfoLine label="培养类型" value={displayDegreeTypes(notice.degreeTypes).join(" / ")} />
+                      <InfoLine label="结构化状态" value={notice.structuredStatus ? statusText(notice.structuredStatus) : "待结构化"} />
+                    </div>
+                    <KeyList title="申请条件" items={notice.requirements} />
+                    <KeyList title="材料要求" items={notice.materials} />
                     <div className="mt-4 flex flex-wrap gap-2">
                       {notice.majors.map((item) => (
                         <span key={item} className="rounded-full border border-[var(--line)] px-3 py-1 text-xs font-bold text-[var(--muted)]">
@@ -294,7 +333,7 @@ export default function Home() {
                     </div>
                     <div className="flex items-center justify-between gap-4">
                       <span>截止日期</span>
-                      <span className="text-[var(--rust)]">{formatDate(notice.deadline)}</span>
+                      <span className="text-[var(--rust)]">{formatDate(notice.applicationEnd || notice.deadline)}</span>
                     </div>
                     <a
                       href={notice.sourceUrl}
@@ -347,6 +386,69 @@ function StatCard({ label, value, detail }: { label: string; value: string; deta
       <p className="mt-2 leading-7 text-[var(--muted)]">{detail}</p>
     </div>
   );
+}
+
+function InfoLine({ label, value }: { label: string; value?: string }) {
+  return (
+    <div>
+      <span className="text-xs font-black tracking-[0.18em] text-[var(--rust)]">{label}</span>
+      <p className="mt-1 line-clamp-2 leading-6 text-[var(--navy)]">{value || "待确认"}</p>
+    </div>
+  );
+}
+
+function KeyList({ title, items }: { title: string; items?: string[] }) {
+  const visibleItems = (items || []).filter(Boolean).slice(0, 3);
+
+  if (visibleItems.length === 0) {
+    return null;
+  }
+
+  return (
+    <div className="mt-4 rounded-3xl border border-[var(--line)] bg-white/70 p-4">
+      <h4 className="text-sm font-black tracking-[0.18em] text-[var(--rust)]">{title}</h4>
+      <ul className="mt-2 grid gap-2 text-sm leading-6 text-[var(--muted)]">
+        {visibleItems.map((item) => (
+          <li key={item} className="line-clamp-2">
+            {item}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+function displayDegreeTypes(items?: string[]) {
+  const visibleItems = (items || []).filter((item) => item && item !== "待确认").slice(0, 3);
+  return visibleItems.length > 0 ? visibleItems : ["待确认"];
+}
+
+function dateRange(start?: string, end?: string) {
+  if (start && end) {
+    return `${formatDate(start)} 至 ${formatDate(end)}`;
+  }
+
+  if (end) {
+    return `截止 ${formatDate(end)}`;
+  }
+
+  return "";
+}
+
+function statusText(status: string) {
+  if (status === "llm") {
+    return "LLM 结构化";
+  }
+
+  if (status === "heuristic_page") {
+    return "规则抽取，已读取原文";
+  }
+
+  if (status === "heuristic_title") {
+    return "规则抽取，仅标题/摘要";
+  }
+
+  return status;
 }
 
 function GuardrailCard({ title, desc }: { title: string; desc: string }) {

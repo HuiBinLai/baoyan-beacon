@@ -7,9 +7,24 @@ const universitiesPath = new URL("content/universities-985.json", root);
 
 const currentYear = new Date().getFullYear();
 const defaultYears = Array.from({ length: 5 }, (_, index) => currentYear - index);
-const keywords = ["夏令营", "预推免", "推免", "推荐免试", "免试攻读", "直博"];
+const keywords = ["夏令营", "研学营", "预推免", "预报名", "推免", "推免生", "推荐免试", "免试攻读", "直博", "接收办法", "工作办法", "实施细则"];
 const excludeWords = ["考研网", "新东方", "高顿", "保研通", "知乎", "小红书", "百度", "豆丁", "道客", "中公", "跨考", "掌上考研"];
 const excludeTitleWords = ["登录", "入口", "系统", "名单", "结果公示"];
+const basicQueryTemplates = [
+  "{site} {school} {year} 夏令营 推免",
+  "{site} {school} {year} 预推免 通知",
+  "{site} {school} {year} 推荐免试 研究生",
+];
+const deepQueryTemplates = [
+  "{site} {school} {year} 推免生 接收 工作 报名 通知",
+  "{site} {school} {year} 接收优秀应届本科毕业生免试攻读研究生",
+  "{site} {school} {year} 推荐免试研究生 工作办法",
+  "{site} {school} {year} 直接攻读博士",
+  "{site} {school} {year} 优秀大学生夏令营 通知",
+  "{site} {school} {year} 研学营 推免",
+  "{site} {school} {year} 学院 推免",
+  "{site} {school} {year} 研究生 推免 接收",
+];
 const majorHints = [
   "哲学",
   "经济学",
@@ -89,6 +104,8 @@ function parseArgs() {
     schools: [],
     years: defaultYears,
     maxPerQuery: 3,
+    deep: false,
+    sleepMs: 420,
     dryRun: false,
   };
 
@@ -103,12 +120,26 @@ function parseArgs() {
     } else if (arg === "--max-per-query") {
       options.maxPerQuery = Number(args[index + 1]);
       index += 1;
+    } else if (arg === "--deep") {
+      options.deep = true;
+    } else if (arg === "--sleep-ms") {
+      options.sleepMs = Number(args[index + 1]);
+      index += 1;
     } else if (arg === "--dry-run") {
       options.dryRun = true;
     }
   }
 
   return options;
+}
+
+function buildQueries(university, year, deep) {
+  const site = `site:${university.domains[0]}`;
+  const templates = deep ? [...basicQueryTemplates, ...deepQueryTemplates] : basicQueryTemplates;
+  return templates.map((template) => template
+    .replace("{site}", site)
+    .replace("{school}", university.name)
+    .replace("{year}", String(year)));
 }
 
 function cleanText(value) {
@@ -430,11 +461,7 @@ async function main() {
 
   for (const university of universities) {
     for (const year of options.years) {
-      const queries = [
-        `site:${university.domains[0]} ${university.name} ${year} 夏令营 推免`,
-        `site:${university.domains[0]} ${university.name} ${year} 预推免 通知`,
-        `site:${university.domains[0]} ${university.name} ${year} 推荐免试 研究生`,
-      ];
+      const queries = buildQueries(university, year, options.deep);
 
       for (const query of queries) {
         console.log(`search: ${query}`);
@@ -456,7 +483,7 @@ async function main() {
           additions.push(toNotice(result, university, year));
         }
 
-        await sleep(420);
+        await sleep(options.sleepMs);
       }
     }
   }
