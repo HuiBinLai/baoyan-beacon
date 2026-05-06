@@ -41,16 +41,17 @@ jobs:
           fi
           node scripts/normalize-notices.mjs
           node scripts/classify-notices.mjs
+          node scripts/build-projects.mjs
           node scripts/audit-coverage.mjs
 
       - name: Commit updates
         run: |
-          if git diff --quiet -- content/notices.json content/coverage-report.json; then
+          if git diff --quiet -- content/notices.json content/projects.json content/coverage-report.json; then
             echo "No content changes."
           else
             git config user.name "baoyan-beacon-bot"
             git config user.email "actions@github.com"
-            git add content/notices.json content/coverage-report.json
+            git add content/notices.json content/projects.json content/coverage-report.json
             git commit -m "chore: discover notice candidates"
             git push
           fi

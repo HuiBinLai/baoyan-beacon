@@ -13,6 +13,7 @@
     "structure:notices": "node scripts/structure-notices.mjs",
     "normalize:notices": "node scripts/normalize-notices.mjs",
     "classify:notices": "node scripts/classify-notices.mjs",
+    "build:projects": "node scripts/build-projects.mjs",
     "crawl:colleges": "node scripts/crawl-college-notices.mjs",
     "audit:coverage": "node scripts/audit-coverage.mjs",
     "report:status": "node scripts/generate-status-report.mjs"

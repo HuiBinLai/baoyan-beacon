@@ -1,60 +1,89 @@
 "use client";
 
 import Link from "next/link";
+import type { ReactNode } from "react";
 import { useDeferredValue, useState } from "react";
-import notices from "../../content/notices.json";
+import projects from "../../content/projects.json";
 
-type Notice = {
+type ProjectNotice = {
   id: string;
   title: string;
-  school: string;
-  department: string;
-  majors: string[];
-  type: string;
+  stage: string;
   year: number;
-  region: string;
-  deadline: string;
   publishedAt: string;
-  sourceName: string;
-  sourceUrl: string;
-  summary: string;
-  tags: string[];
-  confidence: "auto" | "verified";
   applicationStart?: string;
   applicationEnd?: string;
-  registrationTime?: string;
-  requirements?: string[];
-  materials?: string[];
-  applicationMethod?: string;
-  targetStudents?: string;
-  structuredStatus?: string;
-  degreeTypes?: string[];
-  noticeStage?: string;
+  degreeTypes: string[];
+  sourceUrl: string;
 };
 
-const typedNotices = notices as Notice[];
+type ProjectTimeline = {
+  year: number;
+  count: number;
+  stages: string[];
+  degreeTypes: string[];
+  firstPublishedAt?: string;
+  lastPublishedAt?: string;
+  firstApplicationStart?: string;
+  lastApplicationEnd?: string;
+  notices: ProjectNotice[];
+};
 
-const noticeTypes = ["全部阶段", ...Array.from(new Set(typedNotices.map((notice) => notice.noticeStage || notice.type)))];
-const schools = ["全部院校", ...Array.from(new Set(typedNotices.map((notice) => notice.school)))];
-const majors = ["全部专业", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.majors)))];
-const degreeTypes = ["全部培养类型", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.degreeTypes || [])))];
-const allYearsLabel = "全部招生年份";
-const recentYearsLabel = "最近五年";
+type Project = {
+  id: string;
+  school: string;
+  department: string;
+  region: string;
+  levels?: string[];
+  title: string;
+  tracks: string[];
+  qualityFlags: string[];
+  timeline: ProjectTimeline[];
+  currentSeasonStatus: string;
+  currentSeasonCount: number;
+  latestPastYear?: number;
+  noticeCount: number;
+  llmStructuredCount: number;
+  years: number[];
+  stages: string[];
+  degreeTypes: string[];
+  majors: string[];
+  referenceNote: string;
+};
+
+const typedProjects = projects as Project[];
 const currentSeasonAdmissionYear = new Date().getFullYear() + 1;
 const currentSeasonLabel = `当前季 ${currentSeasonAdmissionYear} 招生`;
-const yearValues = Array.from(new Set(typedNotices.map((notice) => notice.year))).sort((a, b) => b - a);
+const recentYearsLabel = "最近五年";
+const allYearsLabel = "全部招生年份";
+const allTracksLabel = "全部专业方向";
+const allSchoolsLabel = "全部院校";
+const allRegionsLabel = "全部地区";
+const allStagesLabel = "全部阶段";
+const allDegreesLabel = "全部培养类型";
+const allStatusLabel = "全部状态";
+const currentFoundLabel = "当前季已发现";
+const currentWatchingLabel = "当前季监控中";
+const needsReviewLabel = "需要复核";
+
+const yearValues = Array.from(new Set(typedProjects.flatMap((project) => project.years))).sort((a, b) => b - a);
 const latestAdmissionYear = Math.max(...yearValues);
 const recentYearValues = yearValues.filter((item) => item <= latestAdmissionYear && item >= latestAdmissionYear - 4);
-const yearCounts = yearValues.map((item) => ({
-  year: item,
-  count: typedNotices.filter((notice) => notice.year === item).length,
-}));
-const years = [recentYearsLabel, allYearsLabel, ...yearValues.map(String)];
-const resultLimit = 120;
-const currentSeasonCount = typedNotices.filter((notice) => notice.year === currentSeasonAdmissionYear).length;
+const yearOptions = [currentSeasonLabel, recentYearsLabel, allYearsLabel, ...yearValues.map(String)];
+const trackOptions = [allTracksLabel, ...Array.from(new Set(typedProjects.flatMap((project) => project.tracks))).sort((a, b) => a.localeCompare(b, "zh-CN"))];
+const schoolOptions = [allSchoolsLabel, ...Array.from(new Set(typedProjects.map((project) => project.school)))];
+const regionOptions = [allRegionsLabel, ...Array.from(new Set(typedProjects.map((project) => project.region))).sort((a, b) => a.localeCompare(b, "zh-CN"))];
+const stageOptions = [allStagesLabel, ...Array.from(new Set(typedProjects.flatMap((project) => project.stages)))];
+const degreeOptions = [allDegreesLabel, ...Array.from(new Set(typedProjects.flatMap((project) => project.degreeTypes)))];
+const resultLimit = 90;
 
-function formatDate(date: string) {
+function formatDate(date?: string) {
   if (!date) {
+    return "待确认";
+  }
+
+  const parsed = new Date(date);
+  if (Number.isNaN(parsed.getTime())) {
     return "待确认";
   }
 
@@ -62,386 +91,267 @@ function formatDate(date: string) {
     year: "numeric",
     month: "2-digit",
     day: "2-digit",
-  }).format(new Date(date));
+  }).format(parsed);
 }
 
-function isClosingSoon(deadline: string) {
-  if (!deadline) {
-    return false;
+function projectHref(project: Project) {
+  return `/projects?id=${encodeURIComponent(project.id)}`;
+}
+
+function yearCount(year: number) {
+  return typedProjects.filter((project) => project.years.includes(year)).length;
+}
+
+function currentSeasonProjects() {
+  return typedProjects.filter((project) => project.currentSeasonCount > 0);
+}
+
+function latestReference(project: Project) {
+  return project.timeline.find((entry) => entry.year < currentSeasonAdmissionYear) || project.timeline[0];
+}
+
+function timelineText(entry?: ProjectTimeline) {
+  if (!entry) {
+    return "暂无往年时间";
   }
 
-  const remaining = new Date(deadline).getTime() - Date.now();
-  return remaining > 0 && remaining < 1000 * 60 * 60 * 24 * 14;
+  const published = entry.firstPublishedAt ? `发布 ${formatDate(entry.firstPublishedAt)}` : "发布时间待确认";
+  const start = entry.firstApplicationStart ? formatDate(entry.firstApplicationStart) : "待确认";
+  const end = entry.lastApplicationEnd ? formatDate(entry.lastApplicationEnd) : "待确认";
+  return `${entry.year} 招生：${published}，报名 ${start} 至 ${end}`;
+}
+
+function compact(values: string[], limit = 4) {
+  return values.filter((item) => item && item !== "待确认").slice(0, limit);
 }
 
 export default function Home() {
-  const [query, setQuery] = useState("");
-  const [school, setSchool] = useState("全部院校");
-  const [major, setMajor] = useState("全部专业");
-  const [degreeType, setDegreeType] = useState("全部培养类型");
-  const [type, setType] = useState("全部");
+  const [track, setTrack] = useState(allTracksLabel);
+  const [school, setSchool] = useState(allSchoolsLabel);
+  const [region, setRegion] = useState(allRegionsLabel);
+  const [stage, setStage] = useState(allStagesLabel);
+  const [degree, setDegree] = useState(allDegreesLabel);
   const [year, setYear] = useState(recentYearsLabel);
+  const [status, setStatus] = useState(allStatusLabel);
+  const [query, setQuery] = useState("");
   const deferredQuery = useDeferredValue(query.trim().toLowerCase());
 
-  const filteredNotices = typedNotices.filter((notice) => {
+  const filteredProjects = typedProjects.filter((project) => {
     const haystack = [
-      notice.title,
-      notice.school,
-      notice.department,
-      notice.region,
-      notice.type,
-      notice.noticeStage,
-      notice.summary,
-      ...notice.majors,
-      ...(notice.degreeTypes || []),
-      ...notice.tags,
+      project.title,
+      project.school,
+      project.department,
+      project.region,
+      ...project.tracks,
+      ...project.stages,
+      ...project.degreeTypes,
+      ...project.majors,
+      ...project.timeline.flatMap((entry) => entry.notices.map((notice) => notice.title)),
     ]
       .join(" ")
       .toLowerCase();
-
     const matchesQuery = deferredQuery ? haystack.includes(deferredQuery) : true;
-    const matchesSchool = school === "全部院校" || notice.school === school;
-    const matchesMajor = major === "全部专业" || notice.majors.includes(major);
-    const matchesDegreeType = degreeType === "全部培养类型" || notice.degreeTypes?.includes(degreeType);
-    const matchesType = type === "全部阶段" || (notice.noticeStage || notice.type) === type;
+    const matchesTrack = track === allTracksLabel || project.tracks.includes(track);
+    const matchesSchool = school === allSchoolsLabel || project.school === school;
+    const matchesRegion = region === allRegionsLabel || project.region === region;
+    const matchesStage = stage === allStagesLabel || project.stages.includes(stage);
+    const matchesDegree = degree === allDegreesLabel || project.degreeTypes.includes(degree);
+    const matchesStatus =
+      status === allStatusLabel ||
+      (status === currentFoundLabel && project.currentSeasonCount > 0) ||
+      (status === currentWatchingLabel && project.currentSeasonCount === 0) ||
+      (status === needsReviewLabel && project.qualityFlags.length > 0);
     const matchesYear =
       year === allYearsLabel ||
-      (year === currentSeasonLabel && notice.year === currentSeasonAdmissionYear) ||
-      (year === recentYearsLabel && recentYearValues.includes(notice.year)) ||
-      String(notice.year) === year;
+      (year === currentSeasonLabel && project.currentSeasonCount > 0) ||
+      (year === recentYearsLabel && project.years.some((item) => recentYearValues.includes(item))) ||
+      project.years.includes(Number(year));
 
-    return matchesQuery && matchesSchool && matchesMajor && matchesDegreeType && matchesType && matchesYear;
+    return matchesQuery && matchesTrack && matchesSchool && matchesRegion && matchesStage && matchesDegree && matchesStatus && matchesYear;
   });
-
-  const visibleNotices = filteredNotices.slice(0, resultLimit);
-
-  const verifiedCount = typedNotices.filter((notice) => notice.confidence === "verified").length;
-  const structuredCount = typedNotices.filter((notice) => notice.structuredStatus).length;
+  const visibleProjects = filteredProjects.slice(0, resultLimit);
+  const currentCount = currentSeasonProjects().length;
 
   return (
     <main className="min-h-screen overflow-hidden bg-[var(--paper)] text-[var(--ink)]">
-      <section className="relative px-5 pb-12 pt-8 sm:px-8 lg:px-12">
+      <section className="relative px-5 pb-10 pt-8 sm:px-8 lg:px-12">
         <div className="beacon-glow" />
-        <nav className="relative z-10 mx-auto flex max-w-7xl items-center justify-between rounded-full border border-white/60 bg-white/70 px-4 py-3 shadow-[0_12px_40px_rgba(15,23,42,0.08)] backdrop-blur">
+        <nav className="relative z-10 mx-auto flex max-w-7xl items-center justify-between rounded-full border border-white/60 bg-white/75 px-4 py-3 shadow-[0_12px_40px_rgba(15,23,42,0.08)] backdrop-blur">
           <Link href="/" className="flex items-center gap-3">
-            <span className="grid size-10 place-items-center rounded-full bg-[var(--navy)] text-lg text-[var(--beam)]">
-              灯
-            </span>
+            <span className="grid size-10 place-items-center rounded-full bg-[var(--navy)] text-lg text-[var(--beam)]">灯</span>
             <span>
-              <span className="block text-sm font-semibold tracking-[0.24em] text-[var(--muted)]">
-                BAOYAN BEACON
-              </span>
+              <span className="block text-sm font-semibold tracking-[0.24em] text-[var(--muted)]">BAOYAN BEACON</span>
               <span className="block text-xl font-black">保研灯塔</span>
             </span>
           </Link>
           <div className="hidden items-center gap-2 text-sm font-semibold text-[var(--muted)] md:flex">
-            <a href="#notices" className="rounded-full px-4 py-2 transition hover:bg-[var(--mist)]">
-              信息索引
-            </a>
-            <Link href="/submit" className="rounded-full px-4 py-2 transition hover:bg-[var(--mist)]">
-              投稿共建
-            </Link>
-            <a href="#guardrails" className="rounded-full px-4 py-2 transition hover:bg-[var(--mist)]">
-              风险边界
-            </a>
+            <a href="#projects" className="rounded-full px-4 py-2 transition hover:bg-[var(--mist)]">项目检索</a>
+            <Link href="/projects" className="rounded-full px-4 py-2 transition hover:bg-[var(--mist)]">项目库</Link>
+            <Link href="/submit" className="rounded-full px-4 py-2 transition hover:bg-[var(--mist)]">补充/纠错</Link>
           </div>
         </nav>
 
-        <div className="relative z-10 mx-auto grid max-w-7xl gap-10 pb-8 pt-16 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
+        <div className="relative z-10 mx-auto grid max-w-7xl gap-8 pb-8 pt-14 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
           <div className="animate-rise">
             <p className="mb-5 inline-flex rounded-full border border-[var(--beam)]/60 bg-[var(--beam-soft)] px-4 py-2 text-sm font-bold text-[var(--navy)]">
-              开源的推免信息索引与经验资料库
+              {currentSeasonLabel}监控中 · 往期信息仅供参考
             </p>
             <h1 className="max-w-4xl text-5xl font-black leading-[1.02] tracking-[-0.06em] text-[var(--navy)] sm:text-7xl">
-              把分散在官网和公众号里的保研信息，照亮成一张地图。
+              查推免项目，看往年时间，别错过报名。
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-9 text-[var(--muted)]">
-              每日聚合高校推免、夏令营、预推免通知，沉淀往年面经和门槛参考。
-              第一版采用 GitHub 共建和外部讨论机制，先快跑上线，再逐步增强自动化。
+              按专业方向、院校、地区、阶段和培养类型筛选项目；进入项目主页查看往年发布时间、报名区间、申请条件和官方原文。
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <a
-                href="#notices"
-                className="rounded-full bg-[var(--navy)] px-7 py-4 text-center text-sm font-black text-white shadow-[0_18px_45px_rgba(15,23,42,0.22)] transition hover:-translate-y-0.5"
-              >
-                搜索最新信息
+              <a href="#projects" className="rounded-full bg-[var(--navy)] px-7 py-4 text-center text-sm font-black text-white shadow-[0_18px_45px_rgba(15,23,42,0.22)] transition hover:-translate-y-0.5">
+                开始筛选项目
               </a>
-              <Link
-                href="/submit"
+              <button
+                type="button"
+                onClick={() => {
+                  setTrack("计算机/AI");
+                  setYear(recentYearsLabel);
+                }}
                 className="rounded-full border border-[var(--navy)]/15 bg-white px-7 py-4 text-center text-sm font-black text-[var(--navy)] transition hover:-translate-y-0.5 hover:border-[var(--navy)]/40"
               >
-                提交公众号/官网链接
-              </Link>
+                看计算机/AI方向
+              </button>
             </div>
           </div>
 
-          <div className="animate-float rounded-[2rem] border border-white/70 bg-white/75 p-5 shadow-[0_30px_80px_rgba(12,28,51,0.16)] backdrop-blur">
+          <div className="rounded-[2rem] border border-white/70 bg-white/85 p-5 shadow-[0_30px_80px_rgba(12,28,51,0.14)] backdrop-blur">
             <div className="rounded-[1.5rem] bg-[var(--navy)] p-6 text-white">
-              <div className="flex items-start justify-between gap-4">
-                <div>
-                  <p className="text-sm font-semibold text-white/55">今日索引状态</p>
-                  <h2 className="mt-2 text-3xl font-black">MVP 数据管线</h2>
-                </div>
-                <span className="rounded-full bg-[var(--beam)] px-3 py-1 text-xs font-black text-[var(--navy)]">
-                  Day 1
-                </span>
+              <p className="text-sm font-semibold text-white/60">当前季状态</p>
+              <h2 className="mt-2 text-3xl font-black">{currentSeasonAdmissionYear} 招生</h2>
+              <p className="mt-4 leading-8 text-white/70">
+                {currentCount > 0
+                  ? `已发现 ${currentCount} 个项目有当前季通知。`
+                  : "暂未发现当前季官方通知。现在适合先看往年发布时间和材料要求，提前准备成绩单、排名证明、英语证明和个人陈述。"}
+              </p>
+              <div className="mt-6 grid gap-3 sm:grid-cols-3">
+                <StatusTile label="项目库" value={String(typedProjects.length)} />
+                <StatusTile label="通知归档" value="1105" />
+                <StatusTile label="AI/计算机" value={String(typedProjects.filter((project) => project.tracks.includes("计算机/AI")).length)} />
               </div>
-              <div className="mt-8 grid gap-3">
-                {[
-                  ["官网抓取", "GitHub Actions 每日定时执行"],
-                  ["公众号", "用户提交链接，AI/规则抽取"],
-                  ["讨论区", "外部 GitHub Discussions/微信群"],
-                  ["交易", "仅展示外链和联系方式，不做支付"],
-                ].map(([title, desc]) => (
-                  <div key={title} className="rounded-2xl bg-white/8 p-4 ring-1 ring-white/10">
-                    <div className="text-base font-black">{title}</div>
-                    <div className="mt-1 text-sm leading-6 text-white/62">{desc}</div>
-                  </div>
+              <p className="mt-5 rounded-2xl bg-white/10 p-4 text-sm leading-7 text-white/72">
+                往期时间只用于估算准备节奏，最终报名时间、条件和材料以当年官方通知为准。
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="projects" className="relative z-10 px-5 py-10 sm:px-8 lg:px-12">
+        <div className="mx-auto max-w-7xl">
+          <div className="rounded-[2rem] border border-[var(--line)] bg-white/88 p-5 shadow-[0_24px_60px_rgba(12,28,51,0.08)]">
+            <div className="grid gap-3 md:grid-cols-3 lg:grid-cols-6">
+              <Select label="专业方向" value={track} onChange={setTrack} options={trackOptions} />
+              <Select label="招生年份" value={year} onChange={setYear} options={yearOptions} />
+              <Select label="院校" value={school} onChange={setSchool} options={schoolOptions} />
+              <Select label="地区" value={region} onChange={setRegion} options={regionOptions} />
+              <Select label="阶段" value={stage} onChange={setStage} options={stageOptions} />
+              <Select label="培养类型" value={degree} onChange={setDegree} options={degreeOptions} />
+            </div>
+            <div className="mt-3 grid gap-3 md:grid-cols-[1fr_14rem]">
+              <input
+                aria-label="在筛选结果中搜索"
+                value={query}
+                onChange={(event) => setQuery(event.target.value)}
+                placeholder="在当前筛选结果中搜索：高瓴、人工智能、电子信息、直博、六级..."
+                className="rounded-2xl border border-[var(--line)] bg-[var(--paper)] px-5 py-4 text-base font-semibold outline-none transition focus:border-[var(--sea)] focus:bg-white"
+              />
+              <Select label="状态" value={status} onChange={setStatus} options={[allStatusLabel, currentFoundLabel, currentWatchingLabel, needsReviewLabel]} />
+            </div>
+          </div>
+
+          <div className="mt-5 rounded-[2rem] border border-[var(--line)] bg-white/78 p-5">
+            <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
+              <div>
+                <p className="text-sm font-black tracking-[0.22em] text-[var(--rust)]">RESULTS</p>
+                <h2 className="mt-2 text-3xl font-black tracking-[-0.04em] text-[var(--navy)]">
+                  匹配到 {filteredProjects.length} 个项目
+                </h2>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                <YearButton active={year === currentSeasonLabel} label={currentSeasonLabel} count={currentCount} onClick={() => setYear(currentSeasonLabel)} />
+                <YearButton active={year === recentYearsLabel} label={recentYearsLabel} count={typedProjects.filter((project) => project.years.some((item) => recentYearValues.includes(item))).length} onClick={() => setYear(recentYearsLabel)} />
+                {yearValues.slice(0, 5).map((item) => (
+                  <YearButton key={item} active={year === String(item)} label={`${item} 招生`} count={yearCount(item)} onClick={() => setYear(String(item))} />
                 ))}
               </div>
             </div>
           </div>
-        </div>
-      </section>
 
-      <section id="notices" className="relative z-10 px-5 py-12 sm:px-8 lg:px-12">
-        <div className="mx-auto max-w-7xl">
-          <div className="grid gap-5 lg:grid-cols-[0.85fr_1.15fr]">
-            <div>
-              <p className="text-sm font-black tracking-[0.24em] text-[var(--rust)]">SEARCH</p>
-              <h2 className="mt-3 text-4xl font-black tracking-[-0.04em] text-[var(--navy)]">
-                快速定位院校和专业
-              </h2>
-              <p className="mt-4 max-w-xl leading-8 text-[var(--muted)]">
-                当前默认展示最近五年历史库；按今天的推免节奏，接下来重点监控的是 {currentSeasonAdmissionYear} 招生季。
-                接入数据库后，这套筛选字段会直接映射到搜索索引和后台审核流。
-              </p>
-            </div>
-            <div className="grid gap-3 rounded-[2rem] border border-[var(--line)] bg-white/85 p-4 shadow-[0_24px_60px_rgba(12,28,51,0.08)]">
-              <input
-                aria-label="搜索通知"
-                value={query}
-                onChange={(event) => setQuery(event.target.value)}
-                placeholder="搜索：清华 计算机 夏令营 / 0854 预推免 / 直博"
-                className="rounded-2xl border border-[var(--line)] bg-[var(--paper)] px-5 py-4 text-base font-semibold outline-none transition focus:border-[var(--sea)] focus:bg-white"
-              />
-              <div className="grid gap-3 md:grid-cols-5">
-                <select
-                  aria-label="院校筛选"
-                  value={school}
-                  onChange={(event) => setSchool(event.target.value)}
-                  className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
-                >
-                  {schools.map((item) => (
-                    <option key={item}>{item}</option>
-                  ))}
-                </select>
-                <select
-                  aria-label="专业筛选"
-                  value={major}
-                  onChange={(event) => setMajor(event.target.value)}
-                  className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
-                >
-                  {majors.map((item) => (
-                    <option key={item}>{item}</option>
-                  ))}
-                </select>
-                <select
-                  aria-label="培养类型筛选"
-                  value={degreeType}
-                  onChange={(event) => setDegreeType(event.target.value)}
-                  className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
-                >
-                  {degreeTypes.map((item) => (
-                    <option key={item}>{item}</option>
-                  ))}
-                </select>
-                <select
-                  aria-label="阶段筛选"
-                  value={type}
-                  onChange={(event) => setType(event.target.value)}
-                  className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
-                >
-                  {noticeTypes.map((item) => (
-                    <option key={item}>{item}</option>
-                  ))}
-                </select>
-                <select
-                  aria-label="年份筛选"
-                  value={year}
-                  onChange={(event) => setYear(event.target.value)}
-                  className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
-                >
-                  {years.map((item) => (
-                    <option key={item}>{item}</option>
-                  ))}
-                </select>
-              </div>
-            </div>
-          </div>
-
-          <div className="mt-8 grid gap-4 md:grid-cols-3">
-            <StatCard label="已索引信息" value={String(typedNotices.length)} detail="通知、面经、门槛参考统一建模" />
-            <StatCard label="已结构化" value={String(structuredCount)} detail="报名时间、要求、材料等字段已抽取" />
-            <StatCard label="已核验" value={String(verifiedCount)} detail="人工确认来源和时间后标记" />
-          </div>
-
-          <div className="mt-5 rounded-[2rem] border border-[var(--line)] bg-white/80 p-5">
-            <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
-              <div>
-                <p className="text-sm font-black tracking-[0.22em] text-[var(--rust)]">ADMISSION YEAR</p>
-                <h3 className="mt-2 text-2xl font-black tracking-[-0.03em] text-[var(--navy)]">按招生年份分类</h3>
-              </div>
-              <p className="max-w-2xl text-sm font-semibold leading-7 text-[var(--muted)]">
-                这里的 2026 指“2026 级/2026 年接收推免生”，很多通知实际会在 2025 年发布和报名；发布时间会在卡片右侧单独展示。
-              </p>
-            </div>
-            <div className="mt-4 flex flex-wrap gap-2">
-              <YearButton active={year === currentSeasonLabel} label={currentSeasonLabel} count={currentSeasonCount} onClick={() => setYear(currentSeasonLabel)} />
-              <YearButton active={year === recentYearsLabel} label={recentYearsLabel} count={recentYearValues.reduce((sum, item) => sum + (yearCounts.find((entry) => entry.year === item)?.count || 0), 0)} onClick={() => setYear(recentYearsLabel)} />
-              <YearButton active={year === allYearsLabel} label={allYearsLabel} count={typedNotices.length} onClick={() => setYear(allYearsLabel)} />
-              {yearCounts.map((item) => (
-                <YearButton
-                  key={item.year}
-                  active={year === String(item.year)}
-                  label={`${item.year} 招生`}
-                  count={item.count}
-                  onClick={() => setYear(String(item.year))}
-                />
-              ))}
-            </div>
-          </div>
-
-          <div className="mt-8 flex flex-col gap-2 rounded-[1.5rem] border border-[var(--line)] bg-white/70 p-4 text-sm font-bold text-[var(--muted)] md:flex-row md:items-center md:justify-between">
-            <span>
-              找到 <span className="text-[var(--navy)]">{filteredNotices.length}</span> 条结果
-              {filteredNotices.length > resultLimit ? `，当前先展示前 ${resultLimit} 条` : ""}
-            </span>
-            <span>建议输入“院校 + 学院/专业 + 招生年份”，例如：中国人民大学 法学院 2026</span>
-          </div>
-
-          <div className="mt-5 grid gap-4">
-            {visibleNotices.map((notice) => (
-              <article
-                key={notice.id}
-                className="group rounded-[2rem] border border-[var(--line)] bg-white/90 p-5 shadow-[0_18px_45px_rgba(12,28,51,0.06)] transition hover:-translate-y-1 hover:border-[var(--sea)]/30 hover:shadow-[0_28px_70px_rgba(12,28,51,0.12)]"
-              >
-                <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
-                  <div className="min-w-0">
-                    <div className="flex flex-wrap items-center gap-2">
-                      <span className="rounded-full bg-[var(--mist)] px-3 py-1 text-xs font-black text-[var(--sea)]">
-                        {notice.noticeStage || notice.type}
-                      </span>
-                      {displayDegreeTypes(notice.degreeTypes).map((item) => (
-                        <span key={item} className="rounded-full bg-white px-3 py-1 text-xs font-black text-[var(--navy)] ring-1 ring-[var(--line)]">
-                          {item}
-                        </span>
-                      ))}
-                      <span className="rounded-full bg-[var(--beam-soft)] px-3 py-1 text-xs font-black text-[var(--rust)]">
-                        {notice.confidence === "verified" ? "已核验" : notice.structuredStatus?.startsWith("heuristic") ? "规则结构化" : "待复核"}
-                      </span>
-                      {isClosingSoon(notice.applicationEnd || notice.deadline) ? (
-                        <span className="rounded-full bg-red-50 px-3 py-1 text-xs font-black text-red-600">
-                          即将截止
-                        </span>
-                      ) : null}
-                    </div>
-                    <h3 className="mt-3 text-2xl font-black tracking-[-0.03em] text-[var(--navy)]">
-                      {notice.title}
-                    </h3>
-                    <p className="mt-2 text-base font-semibold text-[var(--muted)]">
-                      {notice.school} · {notice.department}
-                    </p>
-                    <p className="mt-3 max-w-4xl leading-8 text-[var(--muted)]">{notice.summary}</p>
-                    <div className="mt-4 grid gap-3 rounded-3xl bg-[var(--paper)] p-4 text-sm font-semibold text-[var(--muted)] md:grid-cols-2">
-                      <InfoLine label="报名时间" value={notice.registrationTime || dateRange(notice.applicationStart, notice.applicationEnd)} />
-                      <InfoLine label="报名方式" value={notice.applicationMethod} />
-                      <InfoLine label="面向对象" value={notice.targetStudents} />
-                      <InfoLine label="招生年份" value={`${notice.year} 招生`} />
-                      <InfoLine label="培养类型" value={displayDegreeTypes(notice.degreeTypes).join(" / ")} />
-                      <InfoLine label="结构化状态" value={notice.structuredStatus ? statusText(notice.structuredStatus) : "待结构化"} />
-                    </div>
-                    <KeyList title="申请条件" items={notice.requirements} />
-                    <KeyList title="材料要求" items={notice.materials} />
-                    <div className="mt-4 flex flex-wrap gap-2">
-                      {notice.majors.map((item) => (
-                        <span key={item} className="rounded-full border border-[var(--line)] px-3 py-1 text-xs font-bold text-[var(--muted)]">
-                          {item}
-                        </span>
-                      ))}
-                    </div>
-                  </div>
-                  <div className="grid shrink-0 gap-3 rounded-3xl bg-[var(--paper)] p-4 text-sm font-bold text-[var(--muted)] lg:w-60">
-                    <div className="flex items-center justify-between gap-4">
-                      <span>发布时间/索引</span>
-                      <span className="text-[var(--navy)]">{formatDate(notice.publishedAt)}</span>
-                    </div>
-                    <div className="flex items-center justify-between gap-4">
-                      <span>招生年份</span>
-                      <span className="text-[var(--sea)]">{notice.year}</span>
-                    </div>
-                    <div className="flex items-center justify-between gap-4">
-                      <span>截止日期</span>
-                      <span className="text-[var(--rust)]">{formatDate(notice.applicationEnd || notice.deadline)}</span>
-                    </div>
-                    <a
-                      href={notice.sourceUrl}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="mt-2 rounded-full bg-white px-4 py-3 text-center text-[var(--navy)] ring-1 ring-[var(--line)] transition group-hover:bg-[var(--navy)] group-hover:text-white"
-                    >
-                      查看原文
-                    </a>
-                  </div>
-                </div>
-              </article>
+          <div className="mt-5 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+            {visibleProjects.map((project) => (
+              <ProjectCard key={project.id} project={project} />
             ))}
           </div>
 
-          {filteredNotices.length === 0 ? (
+          {filteredProjects.length === 0 ? (
             <div className="mt-8 rounded-[2rem] border border-dashed border-[var(--line)] bg-white/70 p-10 text-center">
-              <h3 className="text-2xl font-black text-[var(--navy)]">暂时没有匹配结果</h3>
-              <p className="mt-3 text-[var(--muted)]">换一个关键词试试，或提交你看到的官网/公众号链接。</p>
+              <h3 className="text-2xl font-black text-[var(--navy)]">暂时没有匹配项目</h3>
+              <p className="mt-3 text-[var(--muted)]">可以放宽专业方向或年份筛选，或者提交你看到的官网/公众号链接。</p>
             </div>
           ) : null}
-        </div>
-      </section>
-
-      <section id="guardrails" className="px-5 py-14 sm:px-8 lg:px-12">
-        <div className="mx-auto grid max-w-7xl gap-4 lg:grid-cols-3">
-          <GuardrailCard
-            title="公众号收集"
-            desc="不批量搬运全文。优先保存标题、摘要、结构化字段和原文链接，公众号内容通过用户投稿链接进入审核队列。"
-          />
-          <GuardrailCard
-            title="讨论区外部化"
-            desc="站内不做自由评论。问题沉淀为 FAQ，实时讨论跳转 GitHub Discussions、微信群或飞书群，降低个人运营风险。"
-          />
-          <GuardrailCard
-            title="交易轻入口"
-            desc="第一版只允许外部链接和联系方式展示，不做支付、担保、聊天和评价，保留举报与过期下架机制。"
-          />
         </div>
       </section>
     </main>
   );
 }
 
-function StatCard({ label, value, detail }: { label: string; value: string; detail: string }) {
+function Select({ label, value, onChange, options }: { label: string; value: string; onChange: (value: string) => void; options: string[] }) {
   return (
-    <div className="rounded-[2rem] border border-[var(--line)] bg-white/80 p-5">
-      <p className="text-sm font-black tracking-[0.2em] text-[var(--muted)]">{label}</p>
-      <div className="mt-3 text-4xl font-black tracking-[-0.05em] text-[var(--navy)]">{value}</div>
-      <p className="mt-2 leading-7 text-[var(--muted)]">{detail}</p>
-    </div>
+    <label className="grid gap-1">
+      <span className="text-xs font-black tracking-[0.16em] text-[var(--rust)]">{label}</span>
+      <select value={value} onChange={(event) => onChange(event.target.value)} className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none">
+        {options.map((item) => (
+          <option key={item}>{item}</option>
+        ))}
+      </select>
+    </label>
   );
 }
 
-function InfoLine({ label, value }: { label: string; value?: string }) {
+function ProjectCard({ project }: { project: Project }) {
+  const reference = latestReference(project);
+  const tags = [...compact(project.tracks, 2), ...compact(project.degreeTypes, 2), ...compact(project.stages, 1)];
+
   return (
-    <div>
-      <span className="text-xs font-black tracking-[0.18em] text-[var(--rust)]">{label}</span>
-      <p className="mt-1 line-clamp-2 leading-6 text-[var(--navy)]">{value || "待确认"}</p>
+    <article className="group flex min-h-full flex-col rounded-[2rem] border border-[var(--line)] bg-white/92 p-5 shadow-[0_18px_45px_rgba(12,28,51,0.06)] transition hover:-translate-y-1 hover:border-[var(--sea)]/30 hover:shadow-[0_28px_70px_rgba(12,28,51,0.12)]">
+      <div className="flex flex-wrap gap-2">
+        <Badge tone={project.currentSeasonCount > 0 ? "hot" : "soft"}>{project.currentSeasonStatus}</Badge>
+        {project.qualityFlags.map((item) => (
+          <Badge key={item} tone="warn">{item}</Badge>
+        ))}
+      </div>
+      <p className="mt-4 text-sm font-black tracking-[0.18em] text-[var(--rust)]">{project.school} · {project.region}</p>
+      <h3 className="mt-2 text-2xl font-black leading-8 tracking-[-0.03em] text-[var(--navy)]">{project.department}</h3>
+      <p className="mt-3 text-sm font-semibold leading-7 text-[var(--muted)]">{timelineText(reference)}</p>
+      <div className="mt-4 grid gap-2 rounded-3xl bg-[var(--paper)] p-4 text-sm font-semibold text-[var(--muted)]">
+        <InfoLine label="覆盖年份" value={project.years.slice(0, 5).join(" / ")} />
+        <InfoLine label="相关专业" value={compact(project.majors, 6).join(" / ") || "待确认"} />
+        <InfoLine label="往期提醒" value={project.referenceNote} />
+      </div>
+      <div className="mt-4 flex flex-wrap gap-2">
+        {(tags.length ? tags : ["待确认"]).map((item) => (
+          <Badge key={item}>{item}</Badge>
+        ))}
+      </div>
+      <div className="mt-auto pt-5">
+        <Link href={projectHref(project)} className="block rounded-full bg-[var(--navy)] px-5 py-3 text-center text-sm font-black text-white transition group-hover:-translate-y-0.5">
+          查看项目主页
+        </Link>
+      </div>
+    </article>
+  );
+}
+
+function StatusTile({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="rounded-2xl bg-white/10 p-4">
+      <p className="text-xs font-black tracking-[0.18em] text-white/50">{label}</p>
+      <div className="mt-2 text-3xl font-black">{value}</div>
     </div>
   );
 }
@@ -463,65 +373,22 @@ function YearButton({ active, label, count, onClick }: { active: boolean; label:
   );
 }
 
-function KeyList({ title, items }: { title: string; items?: string[] }) {
-  const visibleItems = (items || []).filter(Boolean).slice(0, 3);
-
-  if (visibleItems.length === 0) {
-    return null;
-  }
-
+function InfoLine({ label, value }: { label: string; value?: string }) {
   return (
-    <div className="mt-4 rounded-3xl border border-[var(--line)] bg-white/70 p-4">
-      <h4 className="text-sm font-black tracking-[0.18em] text-[var(--rust)]">{title}</h4>
-      <ul className="mt-2 grid gap-2 text-sm leading-6 text-[var(--muted)]">
-        {visibleItems.map((item) => (
-          <li key={item} className="line-clamp-2">
-            {item}
-          </li>
-        ))}
-      </ul>
+    <div>
+      <span className="text-xs font-black tracking-[0.16em] text-[var(--rust)]">{label}</span>
+      <p className="mt-1 line-clamp-2 leading-6 text-[var(--navy)]">{value || "待确认"}</p>
     </div>
   );
 }
 
-function displayDegreeTypes(items?: string[]) {
-  const visibleItems = (items || []).filter((item) => item && item !== "待确认").slice(0, 3);
-  return visibleItems.length > 0 ? visibleItems : ["待确认"];
-}
+function Badge({ children, tone = "default" }: { children: ReactNode; tone?: "default" | "hot" | "soft" | "warn" }) {
+  const className = {
+    default: "bg-white text-[var(--navy)] ring-1 ring-[var(--line)]",
+    hot: "bg-red-50 text-red-700",
+    soft: "bg-[var(--beam-soft)] text-[var(--rust)]",
+    warn: "bg-amber-50 text-amber-700",
+  }[tone];
 
-function dateRange(start?: string, end?: string) {
-  if (start && end) {
-    return `${formatDate(start)} 至 ${formatDate(end)}`;
-  }
-
-  if (end) {
-    return `截止 ${formatDate(end)}`;
-  }
-
-  return "";
-}
-
-function statusText(status: string) {
-  if (status === "llm") {
-    return "LLM 结构化";
-  }
-
-  if (status === "heuristic_page") {
-    return "规则抽取，已读取原文";
-  }
-
-  if (status === "heuristic_title") {
-    return "规则抽取，仅标题/摘要";
-  }
-
-  return status;
-}
-
-function GuardrailCard({ title, desc }: { title: string; desc: string }) {
-  return (
-    <div className="rounded-[2rem] border border-[var(--line)] bg-[var(--navy)] p-6 text-white shadow-[0_24px_60px_rgba(12,28,51,0.14)]">
-      <h3 className="text-2xl font-black">{title}</h3>
-      <p className="mt-4 leading-8 text-white/68">{desc}</p>
-    </div>
-  );
+  return <span className={`rounded-full px-3 py-1 text-xs font-black ${className}`}>{children}</span>;
 }
