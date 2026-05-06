@@ -38,7 +38,16 @@ const noticeTypes = ["全部", ...Array.from(new Set(typedNotices.map((notice) =
 const schools = ["全部院校", ...Array.from(new Set(typedNotices.map((notice) => notice.school)))];
 const majors = ["全部专业", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.majors)))];
 const degreeTypes = ["全部培养类型", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.degreeTypes || [])))];
-const years = ["近五年", ...Array.from(new Set(typedNotices.map((notice) => notice.year))).sort((a, b) => b - a).map(String)];
+const allYearsLabel = "全部招生年份";
+const recentYearsLabel = "最近五年";
+const yearValues = Array.from(new Set(typedNotices.map((notice) => notice.year))).sort((a, b) => b - a);
+const latestAdmissionYear = Math.max(...yearValues);
+const recentYearValues = yearValues.filter((item) => item <= latestAdmissionYear && item >= latestAdmissionYear - 4);
+const yearCounts = yearValues.map((item) => ({
+  year: item,
+  count: typedNotices.filter((notice) => notice.year === item).length,
+}));
+const years = [recentYearsLabel, allYearsLabel, ...yearValues.map(String)];
 const resultLimit = 120;
 
 function formatDate(date: string) {
@@ -47,6 +56,7 @@ function formatDate(date: string) {
   }
 
   return new Intl.DateTimeFormat("zh-CN", {
+    year: "numeric",
     month: "2-digit",
     day: "2-digit",
   }).format(new Date(date));
@@ -67,7 +77,7 @@ export default function Home() {
   const [major, setMajor] = useState("全部专业");
   const [degreeType, setDegreeType] = useState("全部培养类型");
   const [type, setType] = useState("全部");
-  const [year, setYear] = useState("近五年");
+  const [year, setYear] = useState(recentYearsLabel);
   const deferredQuery = useDeferredValue(query.trim().toLowerCase());
 
   const filteredNotices = typedNotices.filter((notice) => {
@@ -91,7 +101,10 @@ export default function Home() {
     const matchesMajor = major === "全部专业" || notice.majors.includes(major);
     const matchesDegreeType = degreeType === "全部培养类型" || notice.degreeTypes?.includes(degreeType);
     const matchesType = type === "全部" || notice.type === type;
-    const matchesYear = year === "近五年" || String(notice.year) === year;
+    const matchesYear =
+      year === allYearsLabel ||
+      (year === recentYearsLabel && recentYearValues.includes(notice.year)) ||
+      String(notice.year) === year;
 
     return matchesQuery && matchesSchool && matchesMajor && matchesDegreeType && matchesType && matchesYear;
   });
@@ -268,12 +281,37 @@ export default function Home() {
             <StatCard label="已核验" value={String(verifiedCount)} detail="人工确认来源和时间后标记" />
           </div>
 
+          <div className="mt-5 rounded-[2rem] border border-[var(--line)] bg-white/80 p-5">
+            <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
+              <div>
+                <p className="text-sm font-black tracking-[0.22em] text-[var(--rust)]">ADMISSION YEAR</p>
+                <h3 className="mt-2 text-2xl font-black tracking-[-0.03em] text-[var(--navy)]">按招生年份分类</h3>
+              </div>
+              <p className="max-w-2xl text-sm font-semibold leading-7 text-[var(--muted)]">
+                这里的 2026 指“2026 级/2026 年接收推免生”，很多通知实际会在 2025 年发布和报名；发布时间会在卡片右侧单独展示。
+              </p>
+            </div>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <YearButton active={year === recentYearsLabel} label={recentYearsLabel} count={recentYearValues.reduce((sum, item) => sum + (yearCounts.find((entry) => entry.year === item)?.count || 0), 0)} onClick={() => setYear(recentYearsLabel)} />
+              <YearButton active={year === allYearsLabel} label={allYearsLabel} count={typedNotices.length} onClick={() => setYear(allYearsLabel)} />
+              {yearCounts.map((item) => (
+                <YearButton
+                  key={item.year}
+                  active={year === String(item.year)}
+                  label={`${item.year} 招生`}
+                  count={item.count}
+                  onClick={() => setYear(String(item.year))}
+                />
+              ))}
+            </div>
+          </div>
+
           <div className="mt-8 flex flex-col gap-2 rounded-[1.5rem] border border-[var(--line)] bg-white/70 p-4 text-sm font-bold text-[var(--muted)] md:flex-row md:items-center md:justify-between">
             <span>
               找到 <span className="text-[var(--navy)]">{filteredNotices.length}</span> 条结果
               {filteredNotices.length > resultLimit ? `，当前先展示前 ${resultLimit} 条` : ""}
             </span>
-            <span>建议输入“院校 + 学院/专业 + 年份”，例如：中国人民大学 法学院 2026</span>
+            <span>建议输入“院校 + 学院/专业 + 招生年份”，例如：中国人民大学 法学院 2026</span>
           </div>
 
           <div className="mt-5 grid gap-4">
@@ -313,6 +351,7 @@ export default function Home() {
                       <InfoLine label="报名时间" value={notice.registrationTime || dateRange(notice.applicationStart, notice.applicationEnd)} />
                       <InfoLine label="报名方式" value={notice.applicationMethod} />
                       <InfoLine label="面向对象" value={notice.targetStudents} />
+                      <InfoLine label="招生年份" value={`${notice.year} 招生`} />
                       <InfoLine label="培养类型" value={displayDegreeTypes(notice.degreeTypes).join(" / ")} />
                       <InfoLine label="结构化状态" value={notice.structuredStatus ? statusText(notice.structuredStatus) : "待结构化"} />
                     </div>
@@ -328,8 +367,12 @@ export default function Home() {
                   </div>
                   <div className="grid shrink-0 gap-3 rounded-3xl bg-[var(--paper)] p-4 text-sm font-bold text-[var(--muted)] lg:w-60">
                     <div className="flex items-center justify-between gap-4">
-                      <span>发布时间</span>
+                      <span>发布时间/索引</span>
                       <span className="text-[var(--navy)]">{formatDate(notice.publishedAt)}</span>
+                    </div>
+                    <div className="flex items-center justify-between gap-4">
+                      <span>招生年份</span>
+                      <span className="text-[var(--sea)]">{notice.year}</span>
                     </div>
                     <div className="flex items-center justify-between gap-4">
                       <span>截止日期</span>
@@ -394,6 +437,23 @@ function InfoLine({ label, value }: { label: string; value?: string }) {
       <span className="text-xs font-black tracking-[0.18em] text-[var(--rust)]">{label}</span>
       <p className="mt-1 line-clamp-2 leading-6 text-[var(--navy)]">{value || "待确认"}</p>
     </div>
+  );
+}
+
+function YearButton({ active, label, count, onClick }: { active: boolean; label: string; count: number; onClick: () => void }) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className={`rounded-full px-4 py-2 text-sm font-black transition ${
+        active
+          ? "bg-[var(--navy)] text-white shadow-[0_12px_30px_rgba(12,28,51,0.18)]"
+          : "bg-[var(--paper)] text-[var(--muted)] ring-1 ring-[var(--line)] hover:bg-white hover:text-[var(--navy)]"
+      }`}
+    >
+      {label}
+      <span className={active ? "ml-2 text-[var(--beam)]" : "ml-2 text-[var(--rust)]"}>{count}</span>
+    </button>
   );
 }
 
