@@ -25,7 +25,9 @@ jobs:
         run: npm ci
 
       - name: Discover notice candidates
-        run: node scripts/fetch-notices.mjs
+        run: |
+          node scripts/fetch-notices.mjs
+          node scripts/harvest-985.mjs --years 2026 --max-per-query 2
 
       - name: Commit updates
         run: |

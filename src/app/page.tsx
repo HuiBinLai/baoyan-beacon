@@ -27,6 +27,8 @@ const typedNotices = notices as Notice[];
 const noticeTypes = ["全部", ...Array.from(new Set(typedNotices.map((notice) => notice.type)))];
 const schools = ["全部院校", ...Array.from(new Set(typedNotices.map((notice) => notice.school)))];
 const majors = ["全部专业", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.majors)))];
+const years = ["近五年", ...Array.from(new Set(typedNotices.map((notice) => notice.year))).sort((a, b) => b - a).map(String)];
+const resultLimit = 120;
 
 function formatDate(date: string) {
   if (!date) {
@@ -53,6 +55,7 @@ export default function Home() {
   const [school, setSchool] = useState("全部院校");
   const [major, setMajor] = useState("全部专业");
   const [type, setType] = useState("全部");
+  const [year, setYear] = useState("近五年");
   const deferredQuery = useDeferredValue(query.trim().toLowerCase());
 
   const filteredNotices = typedNotices.filter((notice) => {
@@ -73,9 +76,12 @@ export default function Home() {
     const matchesSchool = school === "全部院校" || notice.school === school;
     const matchesMajor = major === "全部专业" || notice.majors.includes(major);
     const matchesType = type === "全部" || notice.type === type;
+    const matchesYear = year === "近五年" || String(notice.year) === year;
 
-    return matchesQuery && matchesSchool && matchesMajor && matchesType;
+    return matchesQuery && matchesSchool && matchesMajor && matchesType && matchesYear;
   });
+
+  const visibleNotices = filteredNotices.slice(0, resultLimit);
 
   const verifiedCount = typedNotices.filter((notice) => notice.confidence === "verified").length;
   const demoCount = typedNotices.filter((notice) => notice.confidence === "demo").length;
@@ -186,7 +192,7 @@ export default function Home() {
                 placeholder="搜索：清华 计算机 夏令营 / 0854 预推免 / 直博"
                 className="rounded-2xl border border-[var(--line)] bg-[var(--paper)] px-5 py-4 text-base font-semibold outline-none transition focus:border-[var(--sea)] focus:bg-white"
               />
-              <div className="grid gap-3 md:grid-cols-3">
+              <div className="grid gap-3 md:grid-cols-4">
                 <select
                   aria-label="院校筛选"
                   value={school}
@@ -217,6 +223,16 @@ export default function Home() {
                     <option key={item}>{item}</option>
                   ))}
                 </select>
+                <select
+                  aria-label="年份筛选"
+                  value={year}
+                  onChange={(event) => setYear(event.target.value)}
+                  className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
+                >
+                  {years.map((item) => (
+                    <option key={item}>{item}</option>
+                  ))}
+                </select>
               </div>
             </div>
           </div>
@@ -227,8 +243,16 @@ export default function Home() {
             <StatCard label="演示占位" value={String(demoCount)} detail="上线前替换为真实抓取数据" />
           </div>
 
-          <div className="mt-8 grid gap-4">
-            {filteredNotices.map((notice) => (
+          <div className="mt-8 flex flex-col gap-2 rounded-[1.5rem] border border-[var(--line)] bg-white/70 p-4 text-sm font-bold text-[var(--muted)] md:flex-row md:items-center md:justify-between">
+            <span>
+              找到 <span className="text-[var(--navy)]">{filteredNotices.length}</span> 条结果
+              {filteredNotices.length > resultLimit ? `，当前先展示前 ${resultLimit} 条` : ""}
+            </span>
+            <span>建议输入“院校 + 学院/专业 + 年份”，例如：中国人民大学 法学院 2026</span>
+          </div>
+
+          <div className="mt-5 grid gap-4">
+            {visibleNotices.map((notice) => (
               <article
                 key={notice.id}
                 className="group rounded-[2rem] border border-[var(--line)] bg-white/90 p-5 shadow-[0_18px_45px_rgba(12,28,51,0.06)] transition hover:-translate-y-1 hover:border-[var(--sea)]/30 hover:shadow-[0_28px_70px_rgba(12,28,51,0.12)]"

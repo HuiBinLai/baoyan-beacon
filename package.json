@@ -8,7 +8,8 @@
     "build:static": "STATIC_EXPORT=1 NEXT_PUBLIC_BASE_PATH=/baoyan next build",
     "start": "next start",
     "lint": "eslint",
-    "fetch:notices": "node scripts/fetch-notices.mjs"
+    "fetch:notices": "node scripts/fetch-notices.mjs",
+    "harvest:985": "node scripts/harvest-985.mjs"
   },
   "dependencies": {
     "next": "16.2.4",
