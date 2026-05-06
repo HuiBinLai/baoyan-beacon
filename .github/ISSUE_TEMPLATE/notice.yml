@@ -1,0 +1,38 @@
+name: 通知线索
+description: 提交官网或公众号上的推免、夏令营、预推免通知
+title: "[通知线索] "
+labels: ["submission", "notice"]
+body:
+  - type: input
+    id: school
+    attributes:
+      label: 院校/学院
+      placeholder: 例如：浙江大学 软件学院
+    validations:
+      required: true
+  - type: input
+    id: major
+    attributes:
+      label: 专业/方向
+      placeholder: 例如：软件工程 / 0854
+  - type: input
+    id: source_url
+    attributes:
+      label: 原文链接
+      placeholder: 官网链接或公众号文章链接
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 补充说明
+      description: 可填写发布时间、截止时间、报名方式、你已经整理出的摘要。
+    validations:
+      required: false
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: 提交确认
+      options:
+        - label: 我确认该信息来自公开来源，且不包含隐私、泄题、盗版或违法违规内容。
+          required: true

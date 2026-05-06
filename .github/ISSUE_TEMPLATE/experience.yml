@@ -1,0 +1,43 @@
+name: 经验分享
+description: 分享面经、机试/笔试题型、入营门槛和时间线
+title: "[经验分享] "
+labels: ["ugc", "experience"]
+body:
+  - type: input
+    id: school
+    attributes:
+      label: 院校/学院
+      placeholder: 例如：南京大学 法学院
+    validations:
+      required: true
+  - type: input
+    id: major
+    attributes:
+      label: 专业/方向
+      placeholder: 例如：法律硕士 / 法学
+  - type: dropdown
+    id: year
+    attributes:
+      label: 年份
+      options:
+        - "2026"
+        - "2025"
+        - "2024"
+        - "2023"
+        - "其他"
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: 经验内容
+      description: 请尽量匿名化，不要包含他人隐私、攻击性评价、泄题内容或未经授权资料。
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: 投稿确认
+      options:
+        - label: 我确认这是本人原创或已获授权内容，并同意维护者审核、整理后发布。
+          required: true

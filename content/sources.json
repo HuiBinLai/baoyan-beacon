@@ -1,0 +1,38 @@
+[
+  {
+    "school": "清华大学",
+    "name": "清华大学研究生招生网",
+    "url": "https://yz.tsinghua.edu.cn/",
+    "region": "北京"
+  },
+  {
+    "school": "北京大学",
+    "name": "北京大学研究生招生网",
+    "url": "https://admission.pku.edu.cn/",
+    "region": "北京"
+  },
+  {
+    "school": "复旦大学",
+    "name": "复旦大学研究生招生网",
+    "url": "https://gsao.fudan.edu.cn/",
+    "region": "上海"
+  },
+  {
+    "school": "上海交通大学",
+    "name": "上海交通大学研究生招生网",
+    "url": "https://yzb.sjtu.edu.cn/",
+    "region": "上海"
+  },
+  {
+    "school": "浙江大学",
+    "name": "浙江大学研究生招生网",
+    "url": "https://grs.zju.edu.cn/yjszs/",
+    "region": "浙江"
+  },
+  {
+    "school": "南京大学",
+    "name": "南京大学研究生招生网",
+    "url": "https://yzb.nju.edu.cn/",
+    "region": "江苏"
+  }
+]

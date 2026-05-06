@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f5f0e6;
+  --ink: #132033;
+  --navy: #102033;
+  --muted: #607085;
+  --line: #d9d0bd;
+  --beam: #ffd166;
+  --beam-soft: #fff1c2;
+  --sea: #146c72;
+  --mist: #dff2ee;
+  --rust: #b8572a;
+  --font-display: "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", serif;
+  --font-body: "Avenir Next", "PingFang SC", "Hiragino Sans GB", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 10% 0%, rgba(255, 209, 102, 0.22), transparent 28rem),
+    radial-gradient(circle at 90% 8%, rgba(20, 108, 114, 0.14), transparent 24rem),
+    var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+}
+
+h1,
+h2,
+h3,
+.font-black {
+  font-family: var(--font-display);
+}
+
+::selection {
+  background: var(--beam);
+  color: var(--navy);
+}
+
+.beacon-glow {
+  animation: sweep 8s ease-in-out infinite alternate;
+  background: linear-gradient(102deg, transparent 0%, rgba(255, 209, 102, 0.16) 42%, rgba(255, 209, 102, 0.42) 50%, rgba(255, 209, 102, 0.16) 58%, transparent 100%);
+  filter: blur(1px);
+  height: 42rem;
+  left: 35%;
+  pointer-events: none;
+  position: absolute;
+  top: -10rem;
+  transform: rotate(-16deg);
+  transform-origin: top center;
+  width: 44rem;
+}
+
+.animate-rise {
+  animation: rise 0.7s ease-out both;
+}
+
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes sweep {
+  from {
+    opacity: 0.7;
+    transform: rotate(-20deg) translateX(-3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: rotate(-10deg) translateX(4rem);
+  }
+}
