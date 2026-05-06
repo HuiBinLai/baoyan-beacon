@@ -34,12 +34,14 @@ type Notice = {
 
 const typedNotices = notices as Notice[];
 
-const noticeTypes = ["全部", ...Array.from(new Set(typedNotices.map((notice) => notice.type)))];
+const noticeTypes = ["全部阶段", ...Array.from(new Set(typedNotices.map((notice) => notice.noticeStage || notice.type)))];
 const schools = ["全部院校", ...Array.from(new Set(typedNotices.map((notice) => notice.school)))];
 const majors = ["全部专业", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.majors)))];
 const degreeTypes = ["全部培养类型", ...Array.from(new Set(typedNotices.flatMap((notice) => notice.degreeTypes || [])))];
 const allYearsLabel = "全部招生年份";
 const recentYearsLabel = "最近五年";
+const currentSeasonAdmissionYear = new Date().getFullYear() + 1;
+const currentSeasonLabel = `当前季 ${currentSeasonAdmissionYear} 招生`;
 const yearValues = Array.from(new Set(typedNotices.map((notice) => notice.year))).sort((a, b) => b - a);
 const latestAdmissionYear = Math.max(...yearValues);
 const recentYearValues = yearValues.filter((item) => item <= latestAdmissionYear && item >= latestAdmissionYear - 4);
@@ -49,6 +51,7 @@ const yearCounts = yearValues.map((item) => ({
 }));
 const years = [recentYearsLabel, allYearsLabel, ...yearValues.map(String)];
 const resultLimit = 120;
+const currentSeasonCount = typedNotices.filter((notice) => notice.year === currentSeasonAdmissionYear).length;
 
 function formatDate(date: string) {
   if (!date) {
@@ -100,9 +103,10 @@ export default function Home() {
     const matchesSchool = school === "全部院校" || notice.school === school;
     const matchesMajor = major === "全部专业" || notice.majors.includes(major);
     const matchesDegreeType = degreeType === "全部培养类型" || notice.degreeTypes?.includes(degreeType);
-    const matchesType = type === "全部" || notice.type === type;
+    const matchesType = type === "全部阶段" || (notice.noticeStage || notice.type) === type;
     const matchesYear =
       year === allYearsLabel ||
+      (year === currentSeasonLabel && notice.year === currentSeasonAdmissionYear) ||
       (year === recentYearsLabel && recentYearValues.includes(notice.year)) ||
       String(notice.year) === year;
 
@@ -209,7 +213,8 @@ export default function Home() {
                 快速定位院校和专业
               </h2>
               <p className="mt-4 max-w-xl leading-8 text-[var(--muted)]">
-                当前先使用本地 JSON 数据演示完整体验。接入 Supabase 后，这套筛选字段会直接映射到数据库和搜索索引。
+                当前默认展示最近五年历史库；按今天的推免节奏，接下来重点监控的是 {currentSeasonAdmissionYear} 招生季。
+                接入数据库后，这套筛选字段会直接映射到搜索索引和后台审核流。
               </p>
             </div>
             <div className="grid gap-3 rounded-[2rem] border border-[var(--line)] bg-white/85 p-4 shadow-[0_24px_60px_rgba(12,28,51,0.08)]">
@@ -252,7 +257,7 @@ export default function Home() {
                   ))}
                 </select>
                 <select
-                  aria-label="类型筛选"
+                  aria-label="阶段筛选"
                   value={type}
                   onChange={(event) => setType(event.target.value)}
                   className="rounded-2xl border border-[var(--line)] bg-white px-4 py-3 font-semibold outline-none"
@@ -292,6 +297,7 @@ export default function Home() {
               </p>
             </div>
             <div className="mt-4 flex flex-wrap gap-2">
+              <YearButton active={year === currentSeasonLabel} label={currentSeasonLabel} count={currentSeasonCount} onClick={() => setYear(currentSeasonLabel)} />
               <YearButton active={year === recentYearsLabel} label={recentYearsLabel} count={recentYearValues.reduce((sum, item) => sum + (yearCounts.find((entry) => entry.year === item)?.count || 0), 0)} onClick={() => setYear(recentYearsLabel)} />
               <YearButton active={year === allYearsLabel} label={allYearsLabel} count={typedNotices.length} onClick={() => setYear(allYearsLabel)} />
               {yearCounts.map((item) => (
