@@ -4,12 +4,13 @@ import fs from "node:fs/promises";
 const root = new URL("../", import.meta.url);
 const noticesPath = new URL("content/notices.json", root);
 const universitiesPath = new URL("content/universities-985.json", root);
+const graduateUnitsPath = new URL("content/graduate-units.json", root);
 
 const currentYear = new Date().getFullYear();
 const defaultYears = Array.from({ length: 5 }, (_, index) => currentYear - index);
 const keywords = ["夏令营", "研学营", "预推免", "预报名", "推免", "推免生", "推荐免试", "免试攻读", "直博", "接收办法", "工作办法", "实施细则"];
 const excludeWords = ["考研网", "新东方", "高顿", "保研通", "知乎", "小红书", "百度", "豆丁", "道客", "中公", "跨考", "掌上考研"];
-const excludeTitleWords = ["登录", "入口", "系统", "名单", "结果公示"];
+const excludeTitleWords = ["登录", "入口", "系统", "名单", "结果公示", "培养方案", "推免工作实施细则", "推荐工作实施办法", "推荐工作安排"];
 const basicQueryTemplates = [
   "{site} {school} {year} 夏令营 推免",
   "{site} {school} {year} 预推免 通知",
@@ -24,6 +25,17 @@ const deepQueryTemplates = [
   "{site} {school} {year} 研学营 推免",
   "{site} {school} {year} 学院 推免",
   "{site} {school} {year} 研究生 推免 接收",
+];
+const unitBasicQueryTemplates = [
+  "{site} {school} {department} {year} 推免",
+  "{site} {school} {department} {year} 夏令营",
+  "{site} {school} {department} {year} 推荐免试",
+];
+const unitDeepQueryTemplates = [
+  "{site} {school} {department} {year} 接收优秀应届本科毕业生免试攻读",
+  "{site} {school} {department} {year} 推免生 接收 工作 报名 通知",
+  "{site} {school} {department} {year} 预报名 预推免",
+  "{site} {school} {department} {year} 直博",
 ];
 const majorHints = [
   "哲学",
@@ -107,6 +119,10 @@ function parseArgs() {
     deep: false,
     sleepMs: 420,
     dryRun: false,
+    graduateUnits: false,
+    departments: [],
+    unitLimit: Infinity,
+    unitOffset: 0,
   };
 
   for (let index = 0; index < args.length; index += 1) {
@@ -127,18 +143,36 @@ function parseArgs() {
       index += 1;
     } else if (arg === "--dry-run") {
       options.dryRun = true;
+    } else if (arg === "--graduate-units") {
+      options.graduateUnits = true;
+    } else if (arg === "--department") {
+      options.departments.push(args[index + 1]);
+      index += 1;
+    } else if (arg === "--unit-limit") {
+      options.unitLimit = Number(args[index + 1]);
+      index += 1;
+    } else if (arg === "--unit-offset") {
+      options.unitOffset = Number(args[index + 1]);
+      index += 1;
     }
   }
 
   return options;
 }
 
-function buildQueries(university, year, deep) {
+function buildQueries(university, year, deep, unit = null) {
   const site = `site:${university.domains[0]}`;
-  const templates = deep ? [...basicQueryTemplates, ...deepQueryTemplates] : basicQueryTemplates;
+  const templates = unit
+    ? deep
+      ? [...unitBasicQueryTemplates, ...unitDeepQueryTemplates]
+      : unitBasicQueryTemplates
+    : deep
+      ? [...basicQueryTemplates, ...deepQueryTemplates]
+      : basicQueryTemplates;
   return templates.map((template) => template
     .replace("{site}", site)
     .replace("{school}", university.name)
+    .replace("{department}", unit?.department || "")
     .replace("{year}", String(year)));
 }
 
@@ -149,6 +183,13 @@ function cleanText(value) {
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .replace(/^[-_\s]+|[-_\s]+$/g, "")
+    .trim();
+}
+
+function normalizeChineseSpaces(value) {
+  return String(value || "")
+    .replace(/([\u4e00-\u9fa5])\s+([\u4e00-\u9fa5])/g, "$1$2")
+    .replace(/\s+/g, " ")
     .trim();
 }
 
@@ -173,6 +214,15 @@ function sleep(ms) {
   return new Promise((resolve) => {
     setTimeout(resolve, ms);
   });
+}
+
+function rotate(items, offset) {
+  if (!items.length) {
+    return items;
+  }
+
+  const safeOffset = ((Number(offset) || 0) % items.length + items.length) % items.length;
+  return [...items.slice(safeOffset), ...items.slice(0, safeOffset)];
 }
 
 function idFor(url, title) {
@@ -201,13 +251,33 @@ function inferYear(title, fallbackYear) {
 }
 
 function inferDepartment(title) {
-  const match = title.match(/([\u4e00-\u9fa5A-Za-z0-9（）()·-]{2,28}(学院|学部|研究院|书院|中心|系|所))/);
+  const normalizedTitle = normalizeChineseSpaces(title);
+  const match = normalizedTitle.match(/([\u4e00-\u9fa5A-Za-z0-9（）()·-]{2,28}(学院|学部|研究院|书院|中心|系|所|部))/);
   if (!match) {
     return "待结构化";
   }
 
   const department = match[1].replace(/^.*大学/, "");
   return department || match[1];
+}
+
+function normalizeUnitText(value) {
+  return normalizeChineseSpaces(value)
+    .replace(/中国人民大学/g, "")
+    .replace(/\s+/g, "")
+    .replace(/[（）()]/g, "");
+}
+
+function unitMatchesTitle(title, unit) {
+  if (!unit) {
+    return false;
+  }
+
+  const normalizedTitle = normalizeUnitText(title);
+  return [unit.department, ...(unit.aliases || [])]
+    .map(normalizeUnitText)
+    .filter((item) => item.length >= 2)
+    .some((alias) => normalizedTitle.includes(alias));
 }
 
 function inferMajors(title) {
@@ -263,6 +333,10 @@ function shouldKeep(title, url, university) {
   }
 
   if (excludeTitleWords.some((word) => title.includes(word))) {
+    return false;
+  }
+
+  if (/\.pdf($|\?)/i.test(url) && !/(招生简章|报名通知|接收|工作办法|夏令营|研学营|预推免)/.test(title)) {
     return false;
   }
 
@@ -383,23 +457,25 @@ async function search(query, maxPerQuery) {
   return found.slice(0, maxPerQuery);
 }
 
-function toNotice(result, university, queryYear) {
+function toNotice(result, university, queryYear, unit = null) {
   const year = inferYear(result.title, queryYear);
+  const unitHit = unitMatchesTitle(result.title, unit);
+  const department = unitHit ? unit.department : inferDepartment(result.title);
   return {
     id: `search-${idFor(result.url, result.title)}`,
     title: result.title,
     school: university.name,
-    department: inferDepartment(result.title),
+    department,
     majors: inferMajors(result.title),
     type: inferType(result.title),
     year,
     region: university.region,
     deadline: "",
     publishedAt: `${Math.min(year, currentYear)}-01-01`,
-    sourceName: `${university.name}官方站点`,
+    sourceName: unitHit ? `${university.name}${unit.department}官方站点` : `${university.name}官方站点`,
     sourceUrl: result.url,
     summary: `搜索引擎发现的${university.name}${year}年${inferType(result.title)}相关官方信息，已按官方域名过滤。请在后台复核学院、专业、截止日期和正文摘要。`,
-    tags: ["985", "官方域名", "搜索发现", result.engine],
+    tags: ["985", "官方域名", "搜索发现", result.engine, ...(unit ? ["院系补漏", unit.id] : [])],
     confidence: "auto",
   };
 }
@@ -458,32 +534,44 @@ async function main() {
   const known = new Set(notices.flatMap((notice) => [`${notice.sourceUrl}:${notice.title}`, notice.sourceUrl.replace(/\/$/, "")]));
   const priorities = new Map(JSON.parse(universitiesRaw).map((university) => [university.name, university.priority]));
   const additions = [];
+  const graduateUnits = options.graduateUnits
+    ? rotate(
+      JSON.parse(await fs.readFile(graduateUnitsPath, "utf8"))
+      .filter((unit) => universities.some((university) => university.name === unit.school))
+      .filter((unit) => options.departments.length === 0 || options.departments.includes(unit.department))
+      .sort((a, b) => (a.schoolPriority || 999) - (b.schoolPriority || 999) || (a.priority || 999) - (b.priority || 999)),
+      options.unitOffset,
+    ).slice(0, options.unitLimit)
+    : [];
 
   for (const university of universities) {
-    for (const year of options.years) {
-      const queries = buildQueries(university, year, options.deep);
+    const unitScope = options.graduateUnits ? graduateUnits.filter((unit) => unit.school === university.name) : [null];
+    for (const unit of unitScope) {
+      for (const year of options.years) {
+        const queries = buildQueries(university, year, options.deep, unit);
 
-      for (const query of queries) {
-        console.log(`search: ${query}`);
-        const results = await search(query, options.maxPerQuery);
+        for (const query of queries) {
+          console.log(`search: ${query}`);
+          const results = await search(query, options.maxPerQuery);
 
-        for (const result of results) {
-          if (!shouldKeep(result.title, result.url, university)) {
-            continue;
+          for (const result of results) {
+            if (!shouldKeep(result.title, result.url, university)) {
+              continue;
+            }
+
+            const key = `${result.url}:${result.title}`;
+            const urlKey = result.url.replace(/\/$/, "");
+            if (known.has(key) || known.has(urlKey)) {
+              continue;
+            }
+
+            known.add(key);
+            known.add(urlKey);
+            additions.push(toNotice(result, university, year, unit));
           }
 
-          const key = `${result.url}:${result.title}`;
-          const urlKey = result.url.replace(/\/$/, "");
-          if (known.has(key) || known.has(urlKey)) {
-            continue;
-          }
-
-          known.add(key);
-          known.add(urlKey);
-          additions.push(toNotice(result, university, year));
+          await sleep(options.sleepMs);
         }
-
-        await sleep(options.sleepMs);
       }
     }
   }

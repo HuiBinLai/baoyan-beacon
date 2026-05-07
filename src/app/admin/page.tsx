@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useDeferredValue, useState } from "react";
 import notices from "../../../content/notices.json";
 import universities from "../../../content/universities-985.json";
+import unitCoverage from "../../../content/graduate-unit-coverage.json";
 
 type Notice = {
   id: string;
@@ -22,12 +23,36 @@ type University = {
   priority: number;
 };
 
+type UnitCoverageItem = {
+  id: string;
+  school: string;
+  department: string;
+  total: number;
+  recentFiveYears: number;
+  currentSeason: number;
+  years: number[];
+  status: "covered" | "stale" | "missing";
+};
+
+type UnitCoverageReport = {
+  totals: {
+    units: number;
+    covered: number;
+    stale: number;
+    missing: number;
+    currentSeasonCovered: number;
+  };
+  units: UnitCoverageItem[];
+};
+
 const typedNotices = notices as Notice[];
 const typedUniversities = universities as University[];
+const typedUnitCoverage = unitCoverage as UnitCoverageReport;
 
 export default function AdminPage() {
   const [query, setQuery] = useState("");
   const [status, setStatus] = useState("auto");
+  const [coverageSchool, setCoverageSchool] = useState("中国人民大学");
   const deferredQuery = useDeferredValue(query.trim().toLowerCase());
 
   const universityCoverage = typedUniversities.map((university) => {
@@ -51,6 +76,16 @@ export default function AdminPage() {
   const autoCount = typedNotices.filter((notice) => notice.confidence === "auto").length;
   const verifiedCount = typedNotices.filter((notice) => notice.confidence === "verified").length;
   const rucCount = typedNotices.filter((notice) => notice.school === "中国人民大学").length;
+  const selectedUnitItems = typedUnitCoverage.units.filter((item) => item.school === coverageSchool);
+  const schoolUnitOptions = Array.from(new Set(typedUnitCoverage.units.map((item) => item.school)));
+  const schoolUnitSummary = schoolUnitOptions.map((schoolName) => {
+    const items = typedUnitCoverage.units.filter((item) => item.school === schoolName);
+    return {
+      school: schoolName,
+      covered: items.filter((item) => item.status === "covered").length,
+      total: items.length,
+    };
+  });
 
   return (
     <main className="min-h-screen bg-[var(--paper)] px-5 py-8 text-[var(--ink)] sm:px-8 lg:px-12">
@@ -75,11 +110,12 @@ export default function AdminPage() {
           </div>
         </nav>
 
-        <section className="grid gap-4 md:grid-cols-4">
+        <section className="grid gap-4 md:grid-cols-5">
           <Metric label="总条目" value={typedNotices.length} />
           <Metric label="待复核" value={autoCount} />
           <Metric label="已核验" value={verifiedCount} />
           <Metric label="人大条目" value={rucCount} />
+          <Metric label="院系清单覆盖" value={`${typedUnitCoverage.totals.covered}/${typedUnitCoverage.totals.units}`} />
         </section>
 
         <section className="mt-6 grid gap-6 lg:grid-cols-[0.85fr_1.15fr]">
@@ -154,12 +190,66 @@ export default function AdminPage() {
             </div>
           </div>
         </section>
+
+        <section className="mt-6 rounded-[2rem] border border-[var(--line)] bg-white/85 p-5">
+          <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
+            <div>
+              <h2 className="text-2xl font-black text-[var(--navy)]">985 院系覆盖</h2>
+              <p className="mt-2 leading-7 text-[var(--muted)]">
+                每所学校先建立院系/培养单位清单，再判断哪些院系已有近五年项目候选，哪些还需要继续补官网或公众号来源。
+              </p>
+            </div>
+            <select
+              value={coverageSchool}
+              onChange={(event) => setCoverageSchool(event.target.value)}
+              className="rounded-2xl border border-[var(--line)] bg-[var(--paper)] px-4 py-3 text-sm font-black text-[var(--navy)] outline-none"
+            >
+              {schoolUnitSummary.map((item) => (
+                <option key={item.school} value={item.school}>
+                  {item.school} {item.covered}/{item.total}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div className="mt-5 grid gap-2 md:grid-cols-3 xl:grid-cols-6">
+            {schoolUnitSummary.map((item) => (
+              <button
+                key={item.school}
+                type="button"
+                onClick={() => setCoverageSchool(item.school)}
+                className={`rounded-2xl px-4 py-3 text-left text-sm font-black transition ${
+                  item.school === coverageSchool ? "bg-[var(--navy)] text-white" : "bg-[var(--paper)] text-[var(--navy)] hover:bg-white"
+                }`}
+              >
+                <span className="block truncate">{item.school}</span>
+                <span className={item.school === coverageSchool ? "mt-1 block text-[var(--beam)]" : "mt-1 block text-[var(--rust)]"}>
+                  {item.covered}/{item.total}
+                </span>
+              </button>
+            ))}
+          </div>
+          <div className="mt-5 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+            {selectedUnitItems.map((item) => (
+              <div key={item.id} className="rounded-2xl bg-[var(--paper)] p-4">
+                <div className="flex items-center justify-between gap-3">
+                  <h3 className="font-black text-[var(--navy)]">{item.department}</h3>
+                  <span className={`rounded-full px-3 py-1 text-xs font-black ${item.status === "covered" ? "bg-green-50 text-green-700" : "bg-amber-50 text-amber-700"}`}>
+                    {item.status === "covered" ? "已覆盖" : "待补源"}
+                  </span>
+                </div>
+                <p className="mt-2 text-sm font-semibold leading-6 text-[var(--muted)]">
+                  {item.total} 条记录 · 近五年 {item.recentFiveYears} 条 · {item.years.slice(0, 5).join(" / ") || "暂无年份"}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
       </div>
     </main>
   );
 }
 
-function Metric({ label, value }: { label: string; value: number }) {
+function Metric({ label, value }: { label: string; value: number | string }) {
   return (
     <div className="rounded-[2rem] border border-[var(--line)] bg-white/85 p-5">
       <p className="text-sm font-black tracking-[0.2em] text-[var(--muted)]">{label}</p>

@@ -163,6 +163,13 @@ function splitSentences(text) {
     .filter((sentence) => sentence.length >= 8 && sentence.length <= 260);
 }
 
+function normalizeChineseSpaces(value) {
+  return String(value || "")
+    .replace(/([\u4e00-\u9fa5])\s+([\u4e00-\u9fa5])/g, "$1$2")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function detectCharset(contentType, bytes) {
   const headerMatch = contentType?.match(/charset=([^;\s]+)/i);
   if (headerMatch) {
@@ -280,7 +287,8 @@ function inferDepartment(title, fallback) {
     return fallback;
   }
 
-  const match = title.match(/([\u4e00-\u9fa5A-Za-z0-9（）()·-]{2,28}(学院|学部|研究院|书院|中心|系|所))/);
+  const normalizedTitle = normalizeChineseSpaces(title);
+  const match = normalizedTitle.match(/([\u4e00-\u9fa5A-Za-z0-9（）()·-]{2,28}(学院|学部|研究院|书院|中心|系|所|部))/);
   return match ? match[1].replace(/^.*大学/, "") : "待结构化";
 }
 

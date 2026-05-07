@@ -2,6 +2,8 @@ import fs from "node:fs/promises";
 
 const root = new URL("../", import.meta.url);
 const noticesPath = new URL("content/notices.json", root);
+const graduateUnitsPath = new URL("content/graduate-units.json", root);
+let graduateUnits = [];
 
 function toText(value, fallback = "") {
   if (value === null || value === undefined) {
@@ -19,6 +21,11 @@ function toText(value, fallback = "") {
   return String(value).trim() || fallback;
 }
 
+function toOptionalText(value) {
+  const text = toText(value);
+  return /^(未知|不详|待定|无|没有|N\/A|null|undefined)$/i.test(text) ? "" : text;
+}
+
 function toTextArray(value, fallback = ["待确认"]) {
   const raw = Array.isArray(value) ? value : [value];
   const clean = raw
@@ -34,9 +41,38 @@ function toTextArray(value, fallback = ["待确认"]) {
       return [item];
     })
     .map((item) => toText(item))
+    .filter((item) => !/^(未知|不详|待定|无|没有|N\/A|null|undefined)$/i.test(item))
     .filter(Boolean);
 
   return Array.from(new Set(clean)).slice(0, 30).length > 0 ? Array.from(new Set(clean)).slice(0, 30) : fallback;
+}
+
+function normalizeDepartmentText(value) {
+  return toText(value)
+    .replace(/中国人民大学/g, "")
+    .replace(/([\u4e00-\u9fa5])\s+([\u4e00-\u9fa5])/g, "$1$2")
+    .replace(/\s+/g, "")
+    .replace(/[（）()]/g, "")
+    .trim();
+}
+
+function normalizeDepartment(value, school) {
+  const cleaned = normalizeDepartmentText(value);
+  if (!cleaned) {
+    return "待确认";
+  }
+
+  const matched = graduateUnits.find((unit) => {
+    if (unit.school !== school) {
+      return false;
+    }
+
+    return [unit.department, ...(unit.aliases || [])]
+      .map(normalizeDepartmentText)
+      .some((alias) => alias && (cleaned === alias || cleaned.includes(alias)));
+  });
+
+  return matched?.department || cleaned;
 }
 
 function normalizeNotice(notice) {
@@ -45,13 +81,13 @@ function normalizeNotice(notice) {
     id: toText(notice.id),
     title: toText(notice.title, "未命名通知"),
     school: toText(notice.school, "待确认"),
-    department: toText(notice.department, "待确认"),
+    department: normalizeDepartment(notice.department, toText(notice.school, "待确认")),
     majors: toTextArray(notice.majors),
     type: toText(notice.type, "推免"),
     year: Number(notice.year) || new Date().getFullYear(),
     region: toText(notice.region, "待确认"),
-    deadline: toText(notice.deadline),
-    publishedAt: toText(notice.publishedAt),
+    deadline: toOptionalText(notice.deadline),
+    publishedAt: toOptionalText(notice.publishedAt),
     sourceName: toText(notice.sourceName),
     sourceUrl: toText(notice.sourceUrl),
     summary: toText(notice.summary),
@@ -60,17 +96,18 @@ function normalizeNotice(notice) {
     requirements: toTextArray(notice.requirements, []),
     materials: toTextArray(notice.materials, []),
     degreeTypes: toTextArray(notice.degreeTypes, ["待确认"]),
-    applicationStart: toText(notice.applicationStart),
-    applicationEnd: toText(notice.applicationEnd),
-    registrationTime: toText(notice.registrationTime),
-    applicationMethod: toText(notice.applicationMethod),
-    targetStudents: toText(notice.targetStudents),
+    applicationStart: toOptionalText(notice.applicationStart),
+    applicationEnd: toOptionalText(notice.applicationEnd),
+    registrationTime: toOptionalText(notice.registrationTime),
+    applicationMethod: toOptionalText(notice.applicationMethod),
+    targetStudents: toOptionalText(notice.targetStudents),
     structuredStatus: toText(notice.structuredStatus),
     noticeStage: toText(notice.noticeStage),
   };
 }
 
 async function main() {
+  graduateUnits = await fs.readFile(graduateUnitsPath, "utf8").then(JSON.parse).catch(() => []);
   const notices = JSON.parse(await fs.readFile(noticesPath, "utf8"));
   const next = notices.map(normalizeNotice);
   await fs.writeFile(noticesPath, `${JSON.stringify(next, null, 2)}\n`);

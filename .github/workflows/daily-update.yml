@@ -31,9 +31,15 @@ jobs:
           LLM_MODEL: glm-4-flash-250414
           LLM_API_KEY: ${{ secrets.ZHIPUAI_API_KEY }}
         run: |
+          ADMISSION_YEARS=$(node -e "const y = new Date().getFullYear(); console.log([y + 1, y].join(','));")
+          UNIT_OFFSET=$(node -e "const start = new Date(Date.UTC(new Date().getUTCFullYear(), 0, 0)); const diff = Date.now() - start.getTime(); console.log(Math.floor(diff / 86400000) * 80);")
           node scripts/fetch-notices.mjs
-          node scripts/harvest-985.mjs --years 2026 --max-per-query 3 --deep
+          node scripts/discover-graduate-units.mjs --max-pages 6 --max-results 3 --sleep-ms 250
+          node scripts/seed-units-from-notices.mjs
+          node scripts/harvest-985.mjs --years "$ADMISSION_YEARS" --max-per-query 3 --deep
+          node scripts/harvest-985.mjs --graduate-units --years "$ADMISSION_YEARS" --max-per-query 1 --unit-limit 80 --unit-offset "$UNIT_OFFSET" --sleep-ms 350
           node scripts/crawl-college-notices.mjs
+          node scripts/prune-notices.mjs
           if [ -n "$LLM_API_KEY" ]; then
             node scripts/structure-notices.mjs --only-unstructured --llm --concurrency 1 --llm-retries 3
           else
@@ -43,15 +49,16 @@ jobs:
           node scripts/classify-notices.mjs
           node scripts/build-projects.mjs
           node scripts/audit-coverage.mjs
+          node scripts/audit-graduate-units.mjs
 
       - name: Commit updates
         run: |
-          if git diff --quiet -- content/notices.json content/projects.json content/coverage-report.json; then
+          if git diff --quiet -- content/notices.json content/projects.json content/coverage-report.json content/graduate-unit-coverage.json; then
             echo "No content changes."
           else
             git config user.name "baoyan-beacon-bot"
             git config user.email "actions@github.com"
-            git add content/notices.json content/projects.json content/coverage-report.json
+            git add content/notices.json content/projects.json content/coverage-report.json content/graduate-units.json content/graduate-unit-coverage.json
             git commit -m "chore: discover notice candidates"
             git push
           fi

@@ -95,7 +95,6 @@ function escapeHtml(value) {
 }
 
 function capacityText(outSize, noticeSize) {
-  const dataMb = Math.max(outSize, noticeSize) / 1024 / 1024;
   if (!outSize) {
     return "当前还未生成静态导出目录，需以最终构建后的 out/ 体积估算。";
   }

@@ -75,6 +75,7 @@ const schoolOptions = [allSchoolsLabel, ...Array.from(new Set(typedProjects.map(
 const regionOptions = [allRegionsLabel, ...Array.from(new Set(typedProjects.map((project) => project.region))).sort((a, b) => a.localeCompare(b, "zh-CN"))];
 const stageOptions = [allStagesLabel, ...Array.from(new Set(typedProjects.flatMap((project) => project.stages)))];
 const degreeOptions = [allDegreesLabel, ...Array.from(new Set(typedProjects.flatMap((project) => project.degreeTypes)))];
+const noticeArchiveCount = typedProjects.reduce((sum, project) => sum + project.noticeCount, 0);
 const resultLimit = 90;
 
 function formatDate(date?: string) {
@@ -230,7 +231,7 @@ export default function Home() {
               </p>
               <div className="mt-6 grid gap-3 sm:grid-cols-3">
                 <StatusTile label="项目库" value={String(typedProjects.length)} />
-                <StatusTile label="通知归档" value="1105" />
+                <StatusTile label="通知归档" value={String(noticeArchiveCount)} />
                 <StatusTile label="AI/计算机" value={String(typedProjects.filter((project) => project.tracks.includes("计算机/AI")).length)} />
               </div>
               <p className="mt-5 rounded-2xl bg-white/10 p-4 text-sm leading-7 text-white/72">

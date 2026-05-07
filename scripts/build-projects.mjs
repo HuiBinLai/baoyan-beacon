@@ -4,7 +4,9 @@ import fs from "node:fs/promises";
 const root = new URL("../", import.meta.url);
 const noticesPath = new URL("content/notices.json", root);
 const projectsPath = new URL("content/projects.json", root);
+const graduateUnitsPath = new URL("content/graduate-units.json", root);
 const currentSeasonAdmissionYear = new Date().getFullYear() + 1;
+let canonicalUnits = [];
 
 const trackDefinitions = [
   {
@@ -57,35 +59,46 @@ const trackDefinitions = [
   },
 ];
 
-function textOf(notice) {
-  return [
-    notice.title,
-    notice.school,
-    notice.department,
-    notice.summary,
-    notice.noticeStage,
-    notice.type,
-    ...(notice.majors || []),
-    ...(notice.degreeTypes || []),
-    ...(notice.tags || []),
-  ]
-    .filter(Boolean)
-    .join(" ");
-}
-
 function hash(value) {
   return crypto.createHash("sha1").update(value).digest("hex").slice(0, 12);
 }
 
-function cleanDepartment(value, school) {
+async function readJson(url, fallback) {
+  try {
+    return JSON.parse(await fs.readFile(url, "utf8"));
+  } catch (error) {
+    if (error.code === "ENOENT") {
+      return fallback;
+    }
+
+    throw error;
+  }
+}
+
+function normalizeDepartmentText(value) {
   const raw = Array.isArray(value) ? value.join("、") : String(value || "");
-  const cleaned = raw.replace(/^.*大学/, "").trim();
+  return raw
+    .replace(/中国人民大学/g, "")
+    .replace(/([\u4e00-\u9fa5])\s+([\u4e00-\u9fa5])/g, "$1$2")
+    .replace(/\s+/g, "")
+    .replace(/[（）()]/g, "")
+    .trim();
+}
+
+function cleanDepartment(value, school) {
+  const cleaned = normalizeDepartmentText(value);
 
   if (!cleaned || cleaned === "待结构化" || cleaned === "待确认") {
     return `${school}校级/待分院`;
   }
 
-  return cleaned;
+  const schoolUnits = canonicalUnits.filter((unit) => unit.school === school);
+  const matchedUnit = schoolUnits.find((unit) => {
+    const aliases = [unit.department, ...(unit.aliases || [])].map(normalizeDepartmentText).filter(Boolean);
+    return aliases.some((alias) => cleaned === alias || cleaned.includes(alias));
+  });
+
+  return matchedUnit?.department || cleaned;
 }
 
 function projectId(school, department) {
@@ -97,12 +110,45 @@ function unique(values) {
 }
 
 function inferTracks(items) {
-  const text = items.map(textOf).join(" ");
+  const first = items[0];
+  const department = cleanDepartment(first.department, first.school);
+  if (department.includes("待分院")) {
+    return ["综合/待确认"];
+  }
+
+  const strongText = unique(items.flatMap((item) => [item.title, item.department])).join(" ");
+  const majorText = unique(items.flatMap((item) => item.majors || [])).join(" ");
   const tracks = trackDefinitions
-    .filter((track) => track.keywords.some((keyword) => text.includes(keyword)))
+    .map((track) => {
+      const score = track.keywords.reduce((sum, keyword) => {
+        if (strongText.includes(keyword)) {
+          return sum + 6;
+        }
+
+        if (majorText.includes(keyword)) {
+          return sum + 3;
+        }
+
+        return sum;
+      }, 0);
+      return { name: track.name, score };
+    })
+    .filter((track) => track.score >= 6)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 3)
     .map((track) => track.name);
 
   return tracks.length > 0 ? unique(tracks) : ["综合/待确认"];
+}
+
+function filterMajors(majors, tracks) {
+  const blockedByTrack = new Map([
+    ["计算机/AI", ["法学", "法律", "教育学", "公共管理"]],
+    ["法学", ["人工智能", "电子信息", "计算机科学与技术"]],
+  ]);
+  const blocked = new Set(tracks.flatMap((track) => blockedByTrack.get(track) || []));
+  const filtered = majors.filter((major) => !blocked.has(major));
+  return filtered.length > 0 ? filtered : majors;
 }
 
 function dateRange(values) {
@@ -174,6 +220,7 @@ function toProject(items) {
   const department = cleanDepartment(first.department, first.school);
   const summary = projectSummary(sorted);
   const tags = unique(sorted.flatMap((item) => item.tags || []));
+  const tracks = inferTracks(sorted);
 
   return {
     id: projectId(first.school, department),
@@ -182,14 +229,16 @@ function toProject(items) {
     region: first.region || "待确认",
     levels: tags.filter((tag) => ["985", "211", "双一流"].includes(tag)),
     title: `${first.school} · ${department}`,
-    tracks: inferTracks(sorted),
+    tracks,
     qualityFlags: department.includes("待分院") ? ["学院待复核"] : [],
     ...summary,
+    majors: filterMajors(summary.majors, tracks),
     referenceNote: "往期时间仅供参考，具体以当年官方通知为准。",
   };
 }
 
 async function main() {
+  canonicalUnits = await readJson(graduateUnitsPath, []);
   const notices = JSON.parse(await fs.readFile(noticesPath, "utf8"));
   const groups = new Map();
 
