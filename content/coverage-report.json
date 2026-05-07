@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T14:19:14.353Z",
+  "generatedAt": "2026-05-07T14:59:45.733Z",
   "currentYear": 2026,
   "totals": {
     "notices": 1095,
@@ -9,7 +9,7 @@
     "missingSchools": 0,
     "collegeSources": 2,
     "missingCollegeSources": 0,
-    "llmStructured": 1068,
+    "llmStructured": 1078,
     "unstructured": 0
   },
   "schools": [
@@ -20,7 +20,7 @@
       "currentYear": 14,
       "recentFiveYears": 69,
       "departments": 21,
-      "llmStructured": 48,
+      "llmStructured": 58,
       "latestDate": "2026-01-01",
       "status": "covered"
     },

@@ -70,6 +70,8 @@ function parseArgs() {
     llm: false,
     llmRetries: 3,
     llmRetryBaseMs: 1200,
+    llmMinIntervalMs: Number(process.env.LLM_MIN_INTERVAL_MS || 3500),
+    llm429BackoffMs: Number(process.env.LLM_429_BACKOFF_MS || 20000),
     onlyUnstructured: false,
     needsReview: false,
     school: "",
@@ -95,6 +97,12 @@ function parseArgs() {
     } else if (arg === "--llm-retry-base-ms") {
       options.llmRetryBaseMs = Number(args[index + 1]);
       index += 1;
+    } else if (arg === "--llm-min-interval-ms") {
+      options.llmMinIntervalMs = Number(args[index + 1]);
+      index += 1;
+    } else if (arg === "--llm-429-backoff-ms") {
+      options.llm429BackoffMs = Number(args[index + 1]);
+      index += 1;
     } else if (arg === "--only-unstructured") {
       options.onlyUnstructured = true;
     } else if (arg === "--needs-review") {
@@ -111,6 +119,19 @@ function parseArgs() {
   }
 
   return options;
+}
+
+let nextLlmRequestAt = 0;
+
+async function waitForLlmSlot(options) {
+  const interval = Math.max(0, Number(options.llmMinIntervalMs) || 0);
+  const now = Date.now();
+  const waitMs = Math.max(0, nextLlmRequestAt - now);
+  nextLlmRequestAt = Math.max(now, nextLlmRequestAt) + interval;
+
+  if (waitMs > 0) {
+    await sleep(waitMs);
+  }
 }
 
 function needsReview(notice) {
@@ -438,6 +459,7 @@ async function llmExtract(notice, pageText, options) {
 
   let lastError = null;
   for (let attempt = 0; attempt <= options.llmRetries; attempt += 1) {
+    await waitForLlmSlot(options);
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), timeoutMs);
     try {
@@ -456,6 +478,10 @@ async function llmExtract(notice, pageText, options) {
         const retryable = response.status === 429 || response.status >= 500;
         const error = new Error(`LLM request failed: ${response.status} ${detail}`);
         error.retryable = retryable;
+        if (response.status === 429) {
+          const retryAfter = Number(response.headers.get("retry-after") || 0);
+          error.retryAfterMs = retryAfter > 0 ? retryAfter * 1000 : options.llm429BackoffMs;
+        }
         throw error;
       }
 
@@ -471,7 +497,8 @@ async function llmExtract(notice, pageText, options) {
         break;
       }
 
-      const backoff = options.llmRetryBaseMs * 2 ** attempt + Math.floor(Math.random() * 500);
+      const backoff = (error.retryAfterMs || options.llmRetryBaseMs * 2 ** attempt) + Math.floor(Math.random() * 500);
+      console.warn(`LLM retry ${attempt + 1}/${options.llmRetries} for ${notice.id}: wait ${Math.round(backoff / 1000)}s`);
       await sleep(backoff);
     } finally {
       clearTimeout(timer);
@@ -531,6 +558,10 @@ async function runPool(items, concurrency, worker) {
 async function main() {
   await loadLocalEnv();
   const options = parseArgs();
+  if (options.llm && options.concurrency !== 1) {
+    console.log(`llm=true: forcing concurrency 1 to avoid provider rate limits (requested ${options.concurrency})`);
+    options.concurrency = 1;
+  }
   const raw = await fs.readFile(noticesPath, "utf8");
   const notices = JSON.parse(raw)
     .filter((notice) => notice.confidence !== "demo" && !notice.id?.startsWith("demo") && !notice.title?.includes("示例占位"));

@@ -131,7 +131,7 @@
         ],
         "firstPublishedAt": "2024-01-01",
         "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2024-07-01",
+        "firstApplicationStart": "2024-06-24",
         "lastApplicationEnd": "2024-09-29",
         "notices": [
           {
@@ -140,8 +140,8 @@
             "stage": "夏令营/研学营",
             "year": 2024,
             "publishedAt": "2024-01-01",
-            "applicationStart": "2024-07-01",
-            "applicationEnd": "2024-07-01",
+            "applicationStart": "2024-06-24",
+            "applicationEnd": "2024-06-24",
             "degreeTypes": [
               "待确认"
             ],
@@ -273,7 +273,7 @@
     "currentSeasonCount": 0,
     "latestPastYear": 2026,
     "noticeCount": 11,
-    "llmStructuredCount": 10,
+    "llmStructuredCount": 11,
     "years": [
       2026,
       2025,
@@ -420,19 +420,6 @@
         "lastApplicationEnd": "",
         "notices": [
           {
-            "id": "search-0d86ab4fe4b6",
-            "title": "中国人民大学2024 年 接收优秀应届本科毕业生免试攻读 博士 研究生 ...",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pgs.ruc.edu.cn/info/1062/3176.htm"
-          },
-          {
             "id": "search-3f69eb0d49be",
             "title": "中国人民大学2024 年接收优秀应届本科毕业生免试攻读硕士研究生...",
             "stage": "推免报名",
@@ -445,6 +432,19 @@
               "硕士"
             ],
             "sourceUrl": "https://pgs.ruc.edu.cn/info/1062/3174.htm"
+          },
+          {
+            "id": "search-0d86ab4fe4b6",
+            "title": "中国人民大学2024 年 接收优秀应届本科毕业生免试攻读 博士 研究生 ...",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://pgs.ruc.edu.cn/info/1062/3176.htm"
           }
         ]
       },
@@ -487,8 +487,9 @@
         ],
         "degreeTypes": [
           "直博",
-          "硕士",
-          "待确认"
+          "学术型硕士",
+          "待确认",
+          "硕士"
         ],
         "firstPublishedAt": "2022-01-01",
         "lastPublishedAt": "2022-01-01",
@@ -505,7 +506,7 @@
             "applicationEnd": "",
             "degreeTypes": [
               "直博",
-              "硕士"
+              "学术型硕士"
             ],
             "sourceUrl": "https://pgs.ruc.edu.cn/info/1053/1384.htm"
           },
@@ -543,7 +544,7 @@
     "currentSeasonCount": 0,
     "latestPastYear": 2026,
     "noticeCount": 9,
-    "llmStructuredCount": 0,
+    "llmStructuredCount": 8,
     "years": [
       2026,
       2025,
@@ -1037,7 +1038,6 @@
     "title": "中国人民大学 · 教育学院",
     "tracks": [
       "经管金融",
-      "法学",
       "教育心理"
     ],
     "qualityFlags": [],
@@ -1150,7 +1150,7 @@
             "stage": "夏令营/研学营",
             "year": 2022,
             "publishedAt": "2022-01-01",
-            "applicationStart": "",
+            "applicationStart": "2022-09-12",
             "applicationEnd": "2022-09-15",
             "degreeTypes": [
               "待确认"
@@ -1177,7 +1177,7 @@
     "currentSeasonCount": 0,
     "latestPastYear": 2026,
     "noticeCount": 5,
-    "llmStructuredCount": 4,
+    "llmStructuredCount": 5,
     "years": [
       2026,
       2025,
@@ -1204,9 +1204,7 @@
       "高等教育学",
       "教育经济与管理",
       "行政管理（教育行政管理）",
-      "教育行政管理",
-      "法学",
-      "法律"
+      "教育行政管理"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -1457,11 +1455,6 @@
       "学术型硕士"
     ],
     "majors": [
-      "社会学",
-      "人类学",
-      "民俗学",
-      "社会工作",
-      "社会政策",
       "社会学（学术型硕士）",
       "社会学（硕博直通）",
       "人类学（学术型硕士）",
