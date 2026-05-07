@@ -12,5 +12,18 @@
     ],
     "includeKeywords": ["推免", "推荐免试", "免试", "夏令营", "研学营", "预推免", "直博"],
     "excludeKeywords": ["博士后", "招聘", "奖学金", "强基", "本科生", "初试成绩", "成绩复核", "青少年", "大赛"]
+  },
+  {
+    "id": "ruc-labor-human-resources",
+    "school": "中国人民大学",
+    "department": "劳动人事学院",
+    "region": "北京",
+    "baseUrl": "https://slhr.ruc.edu.cn/rcpy/",
+    "listUrls": [
+      "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/index.htm",
+      "https://slhr.ruc.edu.cn/rcpy/zs/zsxx/index.htm"
+    ],
+    "includeKeywords": ["推免", "推荐免试", "免试", "夏令营", "研学营", "优秀大学生", "接收优秀应届本科毕业生", "招生简章"],
+    "excludeKeywords": ["博士后", "招聘", "初试成绩", "成绩复核", "复试名单", "复试成绩", "复试录取", "港澳台", "优秀营员名单", "入营名单", "候补名单", "公示"]
   }
 ]

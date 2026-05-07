@@ -210,12 +210,12 @@ export default function Home() {
               <button
                 type="button"
                 onClick={() => {
-                  setTrack("计算机/AI");
+                  setSchool("中国人民大学");
                   setYear(recentYearsLabel);
                 }}
                 className="rounded-full border border-[var(--navy)]/15 bg-white px-7 py-4 text-center text-sm font-black text-[var(--navy)] transition hover:-translate-y-0.5 hover:border-[var(--navy)]/40"
               >
-                看计算机/AI方向
+                查看中国人民大学
               </button>
             </div>
           </div>
@@ -232,7 +232,7 @@ export default function Home() {
               <div className="mt-6 grid gap-3 sm:grid-cols-3">
                 <StatusTile label="项目库" value={String(typedProjects.length)} />
                 <StatusTile label="通知归档" value={String(noticeArchiveCount)} />
-                <StatusTile label="AI/计算机" value={String(typedProjects.filter((project) => project.tracks.includes("计算机/AI")).length)} />
+                <StatusTile label="覆盖院校" value={String(schoolOptions.length - 1)} />
               </div>
               <p className="mt-5 rounded-2xl bg-white/10 p-4 text-sm leading-7 text-white/72">
                 往期时间只用于估算准备节奏，最终报名时间、条件和材料以当年官方通知为准。

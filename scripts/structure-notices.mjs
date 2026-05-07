@@ -71,6 +71,9 @@ function parseArgs() {
     llmRetries: 3,
     llmRetryBaseMs: 1200,
     onlyUnstructured: false,
+    needsReview: false,
+    school: "",
+    department: "",
     dryRun: false,
   };
 
@@ -94,12 +97,32 @@ function parseArgs() {
       index += 1;
     } else if (arg === "--only-unstructured") {
       options.onlyUnstructured = true;
+    } else if (arg === "--needs-review") {
+      options.needsReview = true;
+    } else if (arg === "--school") {
+      options.school = args[index + 1];
+      index += 1;
+    } else if (arg === "--department") {
+      options.department = args[index + 1];
+      index += 1;
     } else if (arg === "--dry-run") {
       options.dryRun = true;
     }
   }
 
   return options;
+}
+
+function needsReview(notice) {
+  const majors = notice.majors || [];
+  const degreeTypes = notice.degreeTypes || [];
+  return (
+    !notice.structuredStatus ||
+    notice.department === "待结构化" ||
+    notice.department === "待确认" ||
+    majors.includes("待确认") ||
+    degreeTypes.includes("待确认")
+  );
 }
 
 function sleep(ms) {
@@ -390,6 +413,8 @@ async function llmExtract(notice, pageText, options) {
     "你是研究生推免招生信息结构化助手。只从给定文本抽取事实，不要猜测。",
     "返回严格 JSON，字段：department, majors, degreeTypes, applicationStart, applicationEnd, registrationTime, requirements, materials, applicationMethod, targetStudents, summary。",
     "degreeTypes 只能从这些值中选：学术型硕士、专业型硕士、直博、博士、硕士、待确认。可多选。",
+    "department 必须是具体学院/系/研究院；如果文本是学校层面的研究生院招生章程或总办法，不属于某个学院，填“校级/待分院”，不要填“待结构化”。",
+    "majors 只抽取文本中明确出现的专业或方向；学校层面总办法未知时返回 [\"待确认\"]。",
     "日期用 YYYY-MM-DD；未知填空字符串；requirements/materials 是字符串数组。",
     "",
     `标题：${notice.title}`,
@@ -510,9 +535,16 @@ async function main() {
   const notices = JSON.parse(raw)
     .filter((notice) => notice.confidence !== "demo" && !notice.id?.startsWith("demo") && !notice.title?.includes("示例占位"));
 
-  const indexed = notices.map((notice, index) => ({ notice, index }));
+  const filteredIndexed = notices
+    .map((notice, index) => ({ notice, index }))
+    .filter(({ notice }) => !options.school || notice.school === options.school)
+    .filter(({ notice }) => !options.department || String(notice.department || "").includes(options.department));
+  const reviewIndexed = options.needsReview ? filteredIndexed.filter(({ notice }) => needsReview(notice)) : filteredIndexed;
+  const limitedIndexed = reviewIndexed.slice(0, options.limit);
   const selectedIndexes = new Set(
-    (options.onlyUnstructured ? indexed.filter(({ notice }) => !notice.structuredStatus) : indexed.slice(0, options.limit))
+    (options.onlyUnstructured
+      ? filteredIndexed.filter(({ notice }) => !notice.structuredStatus).slice(0, options.limit)
+      : limitedIndexed)
       .map(({ index }) => index),
   );
   const selected = notices.filter((_, index) => selectedIndexes.has(index));
@@ -520,7 +552,7 @@ async function main() {
   console.log(`structuring ${selected.length} notices, untouched ${untouched.length}, llm=${options.llm}`);
 
   const structured = await runPool(selected, options.concurrency, async (notice, index) => {
-    if ((index + 1) % 50 === 0) {
+    if ((index + 1) % 5 === 0 || index === selected.length - 1) {
       console.log(`structured ${index + 1}/${selected.length}`);
     }
 

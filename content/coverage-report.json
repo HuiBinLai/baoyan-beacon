@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-07T07:29:34.044Z",
+  "generatedAt": "2026-05-07T14:19:14.353Z",
   "currentYear": 2026,
   "totals": {
-    "notices": 1089,
+    "notices": 1095,
     "schools": 39,
     "coveredSchools": 39,
     "staleSchools": 0,
     "missingSchools": 0,
-    "collegeSources": 1,
+    "collegeSources": 2,
     "missingCollegeSources": 0,
-    "llmStructured": 1077,
+    "llmStructured": 1068,
     "unstructured": 0
   },
   "schools": [
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 64,
-      "currentYear": 12,
-      "recentFiveYears": 63,
-      "departments": 22,
-      "llmStructured": 57,
+      "total": 70,
+      "currentYear": 14,
+      "recentFiveYears": 69,
+      "departments": 21,
+      "llmStructured": 48,
       "latestDate": "2026-01-01",
       "status": "covered"
     },
@@ -456,6 +456,21 @@
         2023
       ],
       "latestDate": "2025-06-30",
+      "status": "covered"
+    },
+    {
+      "id": "ruc-labor-human-resources",
+      "school": "中国人民大学",
+      "department": "劳动人事学院",
+      "total": 8,
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022
+      ],
+      "latestDate": "2026-01-01",
       "status": "covered"
     }
   ],

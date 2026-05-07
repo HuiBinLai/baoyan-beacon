@@ -65,25 +65,34 @@ function inferDegreeTypes(notice) {
 }
 
 function inferNoticeStage(notice) {
-  const text = `${notice.title} ${notice.summary || ""}`;
+  const title = notice.title || "";
+  const text = `${title} ${notice.summary || ""}`;
 
   if (/补充通知/.test(text)) {
     return "补充通知";
   }
 
-  if (/夏令营|研学营/.test(text)) {
+  if (/招生简章/.test(title)) {
+    return "招生简章";
+  }
+
+  if (/夏令营|研学营/.test(title)) {
     return "夏令营/研学营";
   }
 
-  if (/预推免|预报名/.test(text)) {
+  if (/预推免|预报名/.test(title)) {
     return "预推免";
   }
 
-  if (/复试|面试|考核/.test(text)) {
+  if (/推免|推荐免试|免试攻读|接收优秀应届本科毕业生/.test(title)) {
+    return "推免报名";
+  }
+
+  if (/复试|面试|考核/.test(title)) {
     return "复试/考核";
   }
 
-  if (/公示|名单|结果/.test(text)) {
+  if (/公示|名单|结果/.test(title)) {
     return "结果公示";
   }
 

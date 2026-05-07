@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T07:29:34.293Z",
+  "generatedAt": "2026-05-07T14:19:14.587Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -15625,14 +15625,17 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
+        2026,
+        2025,
+        2024,
         2023,
         2022
       ],
-      "latestDate": "2023-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
