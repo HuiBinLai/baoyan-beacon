@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-08T02:57:10.530Z",
+  "generatedAt": "2026-05-08T17:25:18.649Z",
   "currentYear": 2026,
   "totals": {
-    "notices": 1097,
+    "notices": 1165,
     "schools": 39,
     "coveredSchools": 39,
     "staleSchools": 0,
     "missingSchools": 0,
-    "collegeSources": 2,
-    "missingCollegeSources": 0,
-    "llmStructured": 1078,
+    "collegeSources": 19,
+    "missingCollegeSources": 3,
+    "llmStructured": 1146,
     "unstructured": 0
   },
   "schools": [
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 70,
-      "currentYear": 14,
-      "recentFiveYears": 69,
-      "departments": 21,
-      "llmStructured": 58,
+      "total": 138,
+      "currentYear": 48,
+      "recentFiveYears": 130,
+      "departments": 35,
+      "llmStructured": 126,
       "latestDate": "2026-01-01",
       "status": "covered"
     },
@@ -448,14 +448,88 @@
       "id": "ruc-gaoling-ai",
       "school": "中国人民大学",
       "department": "高瓴人工智能学院",
-      "total": 7,
+      "total": 14,
       "years": [
         2026,
         2025,
         2024,
+        2023,
+        2020,
+        2019
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-cd3a02b4b857",
+      "school": "中国人民大学",
+      "department": "公共管理学院",
+      "total": 22,
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-335eb85665e8",
+      "school": "中国人民大学",
+      "department": "国际关系学院",
+      "total": 4,
+      "years": [
+        2026,
+        2025,
         2023
       ],
-      "latestDate": "2025-06-30",
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-c7e8cc62ef3f",
+      "school": "中国人民大学",
+      "department": "国际文化交流学院",
+      "total": 2,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-96cd25f517b6",
+      "school": "中国人民大学",
+      "department": "国际学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-f7627357f55a",
+      "school": "中国人民大学",
+      "department": "和平与发展学院",
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-1fad5416512c",
+      "school": "中国人民大学",
+      "department": "化学与生命资源学院",
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -472,7 +546,136 @@
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
+    },
+    {
+      "id": "auto-fda347d6e715",
+      "school": "中国人民大学",
+      "department": "深圳研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-fae0a0637375",
+      "school": "中国人民大学",
+      "department": "生态环境学院",
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-8bc96fe7d07f",
+      "school": "中国人民大学",
+      "department": "体育部",
+      "total": 3,
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-b9bb2440e2ee",
+      "school": "中国人民大学",
+      "department": "统计学院",
+      "total": 2,
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-7f0766ae713d",
+      "school": "中国人民大学",
+      "department": "统计与大数据研究院",
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-a5d644ead328",
+      "school": "中国人民大学",
+      "department": "文学院",
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-8dce64c662ce",
+      "school": "中国人民大学",
+      "department": "心理学系",
+      "total": 7,
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-173f39eab2b3",
+      "school": "中国人民大学",
+      "department": "应用经济学院",
+      "total": 3,
+      "years": [
+        2026,
+        2020
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-f9c70ac74498",
+      "school": "中国人民大学",
+      "department": "哲学院",
+      "total": 7,
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-3ac65107d004",
+      "school": "中国人民大学",
+      "department": "智慧治理学院",
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "auto-7aaf26db045e",
+      "school": "中国人民大学",
+      "department": "中共党史党建学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
     }
   ],
-  "actionItems": []
+  "actionItems": [
+    "中国人民大学国际学院 已登记源但暂无候选，需要检查公告页。",
+    "中国人民大学深圳研究院 已登记源但暂无候选，需要检查公告页。",
+    "中国人民大学中共党史党建学院 已登记源但暂无候选，需要检查公告页。"
+  ]
 }

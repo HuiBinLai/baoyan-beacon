@@ -3,7 +3,9 @@ import fs from "node:fs/promises";
 const root = new URL("../", import.meta.url);
 const noticesPath = new URL("content/notices.json", root);
 const graduateUnitsPath = new URL("content/graduate-units.json", root);
+const collegeSourcesPath = new URL("content/college-sources.json", root);
 let graduateUnits = [];
+let collegeSources = [];
 
 function toText(value, fallback = "") {
   if (value === null || value === undefined) {
@@ -75,13 +77,53 @@ function normalizeDepartment(value, school) {
   return matched?.department || cleaned;
 }
 
+function urlHost(url) {
+  try {
+    return new URL(url).hostname.toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
+function urlHomepage(url) {
+  try {
+    const parsed = new URL(url);
+    return `${parsed.protocol}//${parsed.hostname}/`;
+  } catch {
+    return "";
+  }
+}
+
+function matchedCollegeSource(notice, department) {
+  const school = toText(notice.school, "待确认");
+  const host = urlHost(notice.sourceUrl);
+
+  return collegeSources.find((source) => {
+    if (source.school !== school) {
+      return false;
+    }
+
+    if (normalizeDepartmentText(source.department) === normalizeDepartmentText(department)) {
+      return true;
+    }
+
+    const sourceHost = urlHost(source.homepageUrl || source.baseUrl || "");
+    return sourceHost && host && sourceHost === host;
+  });
+}
+
 function normalizeNotice(notice) {
+  const school = toText(notice.school, "待确认");
+  const department = normalizeDepartment(notice.department, school);
+  const source = matchedCollegeSource(notice, department);
+  const homepage = urlHomepage(notice.sourceUrl);
+
   return {
     ...notice,
     id: toText(notice.id),
     title: toText(notice.title, "未命名通知"),
-    school: toText(notice.school, "待确认"),
-    department: normalizeDepartment(notice.department, toText(notice.school, "待确认")),
+    school,
+    department,
     majors: toTextArray(notice.majors),
     type: toText(notice.type, "推免"),
     year: Number(notice.year) || new Date().getFullYear(),
@@ -90,6 +132,9 @@ function normalizeNotice(notice) {
     publishedAt: toOptionalText(notice.publishedAt),
     sourceName: toText(notice.sourceName),
     sourceUrl: toText(notice.sourceUrl),
+    sourceHost: toOptionalText(notice.sourceHost) || urlHost(notice.sourceUrl),
+    sourceHomepage: toOptionalText(notice.sourceHomepage) || homepage,
+    departmentHomepage: toOptionalText(notice.departmentHomepage) || source?.homepageUrl || source?.baseUrl || homepage,
     summary: toText(notice.summary),
     tags: toTextArray(notice.tags, []),
     confidence: notice.confidence === "verified" ? "verified" : "auto",
@@ -108,6 +153,7 @@ function normalizeNotice(notice) {
 
 async function main() {
   graduateUnits = await fs.readFile(graduateUnitsPath, "utf8").then(JSON.parse).catch(() => []);
+  collegeSources = await fs.readFile(collegeSourcesPath, "utf8").then(JSON.parse).catch(() => []);
   const notices = JSON.parse(await fs.readFile(noticesPath, "utf8"));
   const next = notices.map(normalizeNotice);
   await fs.writeFile(noticesPath, `${JSON.stringify(next, null, 2)}\n`);

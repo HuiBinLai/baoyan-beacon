@@ -188,12 +188,37 @@ function parseAnchors(html, listUrl) {
   return results;
 }
 
+function pageTitle(html) {
+  const title = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]
+    || html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1]
+    || html.match(/<h2[^>]*>([\s\S]*?)<\/h2>/i)?.[1]
+    || "";
+  return cleanText(title);
+}
+
 function officialDomain(url, university) {
   try {
     const hostname = new URL(url).hostname.toLowerCase();
     return university.domains.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`));
   } catch {
     return false;
+  }
+}
+
+function sourceHost(url) {
+  try {
+    return new URL(url).hostname.toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
+function sourceHomepage(url) {
+  try {
+    const parsed = new URL(url);
+    return `${parsed.protocol}//${parsed.hostname}/`;
+  } catch {
+    return "";
   }
 }
 
@@ -221,11 +246,46 @@ function shouldKeep(candidate, source, university) {
   return true;
 }
 
+function isLikelyListPage(candidate) {
+  const text = `${candidate.title} ${candidate.url}`;
+  return /下页|下一页|尾页|更多|招生|通知|公告|研究生|index\d+|list\d+|yjszs|zsxx/i.test(text);
+}
+
+async function expandListUrls(source, university) {
+  const urls = new Set(source.listUrls || []);
+  const seedUrls = Array.from(urls);
+
+  for (const listUrl of seedUrls) {
+    const html = await fetchHtml(listUrl);
+    if (!html) {
+      continue;
+    }
+
+    for (const anchor of parseAnchors(html, listUrl)) {
+      if (!officialDomain(anchor.url, university) || !isLikelyListPage(anchor)) {
+        continue;
+      }
+
+      urls.add(anchor.url);
+      if (urls.size >= (source.maxListPages || 8)) {
+        break;
+      }
+    }
+  }
+
+  return Array.from(urls).slice(0, source.maxListPages || 8);
+}
+
 async function candidatesForSource(source, university) {
   const candidates = [];
 
-  for (const listUrl of source.listUrls) {
+  for (const listUrl of await expandListUrls(source, university)) {
     const html = await fetchHtml(listUrl);
+    const title = pageTitle(html);
+    if (title && shouldKeep({ title, excerpt: cleanText(html).slice(0, 500), url: listUrl }, source, university)) {
+      candidates.push({ title, excerpt: "", url: listUrl });
+    }
+
     for (const candidate of parseAnchors(html, listUrl)) {
       if (shouldKeep(candidate, source, university)) {
         candidates.push(candidate);
@@ -255,6 +315,9 @@ async function createNotice(candidate, source, university) {
     publishedAt: inferPublishedAt(candidate.url, year),
     sourceName: `${source.school}${source.department}官方站点`,
     sourceUrl: candidate.url,
+    sourceHost: sourceHost(candidate.url),
+    sourceHomepage: sourceHomepage(candidate.url),
+    departmentHomepage: source.homepageUrl || source.baseUrl || sourceHomepage(candidate.url),
     summary: candidate.excerpt || `${source.department}学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。`,
     tags: ["985", "官方域名", "学院官网", "补漏", source.id],
     confidence: "auto",

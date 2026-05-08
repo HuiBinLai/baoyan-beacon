@@ -5,6 +5,7 @@ const root = new URL("../", import.meta.url);
 const noticesPath = new URL("content/notices.json", root);
 const universitiesPath = new URL("content/universities-985.json", root);
 const graduateUnitsPath = new URL("content/graduate-units.json", root);
+const graduateUnitCoveragePath = new URL("content/graduate-unit-coverage.json", root);
 
 const currentYear = new Date().getFullYear();
 const defaultYears = Array.from({ length: 5 }, (_, index) => currentYear - index);
@@ -123,6 +124,8 @@ function parseArgs() {
     departments: [],
     unitLimit: Infinity,
     unitOffset: 0,
+    missingOnly: false,
+    engines: ["baidu", "bing", "duckduckgo"],
   };
 
   for (let index = 0; index < args.length; index += 1) {
@@ -153,6 +156,11 @@ function parseArgs() {
       index += 1;
     } else if (arg === "--unit-offset") {
       options.unitOffset = Number(args[index + 1]);
+      index += 1;
+    } else if (arg === "--missing-only") {
+      options.missingOnly = true;
+    } else if (arg === "--engines") {
+      options.engines = args[index + 1].split(",").map((engine) => engine.trim()).filter(Boolean);
       index += 1;
     }
   }
@@ -294,6 +302,23 @@ function officialDomain(url, domains) {
   }
 }
 
+function sourceHost(url) {
+  try {
+    return new URL(url).hostname.toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
+function sourceHomepage(url) {
+  try {
+    const parsed = new URL(url);
+    return `${parsed.protocol}//${parsed.hostname}/`;
+  } catch {
+    return "";
+  }
+}
+
 function normalizeUrl(rawUrl) {
   try {
     const url = new URL(decodeHtml(rawUrl));
@@ -411,7 +436,7 @@ function parseBaidu(html) {
   return results;
 }
 
-async function search(query, maxPerQuery) {
+async function search(query, maxPerQuery, enabledEngines) {
   const encoded = encodeURIComponent(query);
   const urls = [
     {
@@ -432,7 +457,7 @@ async function search(query, maxPerQuery) {
   ];
   const found = [];
 
-  for (const item of urls) {
+  for (const item of urls.filter((engine) => enabledEngines.includes(engine.engine))) {
     try {
       const response = await fetch(item.url, {
         headers: {
@@ -448,13 +473,20 @@ async function search(query, maxPerQuery) {
     } catch (error) {
       console.warn(`search failed: ${item.engine} ${error.message}`);
     }
-
-    if (found.length >= maxPerQuery) {
-      break;
-    }
   }
 
-  return found.slice(0, maxPerQuery);
+  const seen = new Set();
+  return found
+    .filter((result) => {
+      const key = `${result.url}::${result.title}`;
+      if (!result.url || seen.has(key)) {
+        return false;
+      }
+
+      seen.add(key);
+      return true;
+    })
+    .slice(0, maxPerQuery);
 }
 
 function toNotice(result, university, queryYear, unit = null) {
@@ -474,6 +506,9 @@ function toNotice(result, university, queryYear, unit = null) {
     publishedAt: `${Math.min(year, currentYear)}-01-01`,
     sourceName: unitHit ? `${university.name}${unit.department}官方站点` : `${university.name}官方站点`,
     sourceUrl: result.url,
+    sourceHost: sourceHost(result.url),
+    sourceHomepage: sourceHomepage(result.url),
+    departmentHomepage: unit?.sourceUrl || sourceHomepage(result.url),
     summary: `搜索引擎发现的${university.name}${year}年${inferType(result.title)}相关官方信息，已按官方域名过滤。请在后台复核学院、专业、截止日期和正文摘要。`,
     tags: ["985", "官方域名", "搜索发现", result.engine, ...(unit ? ["院系补漏", unit.id] : [])],
     confidence: "auto",
@@ -534,11 +569,23 @@ async function main() {
   const known = new Set(notices.flatMap((notice) => [`${notice.sourceUrl}:${notice.title}`, notice.sourceUrl.replace(/\/$/, "")]));
   const priorities = new Map(JSON.parse(universitiesRaw).map((university) => [university.name, university.priority]));
   const additions = [];
+  let missingUnitIds = null;
+  if (options.missingOnly) {
+    try {
+      const report = JSON.parse(await fs.readFile(graduateUnitCoveragePath, "utf8"));
+      missingUnitIds = new Set((report.units || []).filter((unit) => unit.status !== "covered").map((unit) => unit.id));
+      console.log(`missing unit scope: ${missingUnitIds.size}`);
+    } catch {
+      missingUnitIds = new Set();
+    }
+  }
+
   const graduateUnits = options.graduateUnits
     ? rotate(
       JSON.parse(await fs.readFile(graduateUnitsPath, "utf8"))
       .filter((unit) => universities.some((university) => university.name === unit.school))
       .filter((unit) => options.departments.length === 0 || options.departments.includes(unit.department))
+      .filter((unit) => !missingUnitIds || missingUnitIds.has(unit.id))
       .sort((a, b) => (a.schoolPriority || 999) - (b.schoolPriority || 999) || (a.priority || 999) - (b.priority || 999)),
       options.unitOffset,
     ).slice(0, options.unitLimit)
@@ -552,7 +599,7 @@ async function main() {
 
         for (const query of queries) {
           console.log(`search: ${query}`);
-          const results = await search(query, options.maxPerQuery);
+          const results = await search(query, options.maxPerQuery, options.engines);
 
           for (const result of results) {
             if (!shouldKeep(result.title, result.url, university)) {

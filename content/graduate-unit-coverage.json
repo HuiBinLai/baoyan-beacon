@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T02:57:10.954Z",
+  "generatedAt": "2026-05-08T17:25:18.833Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,9 +10,9 @@
   ],
   "totals": {
     "units": 1202,
-    "covered": 516,
+    "covered": 530,
     "stale": 0,
-    "missing": 686,
+    "missing": 672,
     "currentSeasonCovered": 0
   },
   "units": [
@@ -15534,16 +15534,18 @@
       "department": "高瓴人工智能学院",
       "sourceName": "中国人民大学高瓴人工智能学院官方站点",
       "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/index1.htm",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 14,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
         2025,
         2024,
-        2023
+        2023,
+        2020,
+        2019
       ],
-      "latestDate": "2025-06-30",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -15552,12 +15554,15 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-guoxue",
@@ -15565,12 +15570,13 @@
       "department": "国学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2025,
-        2024
+        2024,
+        2022
       ],
       "latestDate": "2025-01-01",
       "status": "covered"
@@ -15581,12 +15587,15 @@
       "department": "应用经济学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2020
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-economics",
@@ -15594,14 +15603,16 @@
       "department": "经济学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 6,
+      "recentFiveYears": 5,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
-        2023
+        2023,
+        2020
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -15610,13 +15621,14 @@
       "department": "财政金融学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
+        2026,
         2024
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -15644,12 +15656,15 @@
       "department": "统计学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-statistics-big-data",
@@ -15657,12 +15672,14 @@
       "department": "统计与大数据研究院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-law",
@@ -15670,8 +15687,8 @@
       "department": "法学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 12,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15690,43 +15707,21 @@
       "department": "国际关系学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2023
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-literature",
       "school": "中国人民大学",
       "department": "文学院",
-      "sourceName": "人大研招网学院联系电话",
-      "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
-      "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
-    },
-    {
-      "id": "ruc-international-culture",
-      "school": "中国人民大学",
-      "department": "国际文化交流学院",
-      "sourceName": "人大研招网学院联系电话",
-      "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
-      "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
-    },
-    {
-      "id": "ruc-foreign-languages",
-      "school": "中国人民大学",
-      "department": "外国语学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
       "total": 1,
@@ -15739,20 +15734,53 @@
       "status": "covered"
     },
     {
+      "id": "ruc-international-culture",
+      "school": "中国人民大学",
+      "department": "国际文化交流学院",
+      "sourceName": "人大研招网学院联系电话",
+      "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+      "total": 2,
+      "recentFiveYears": 2,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "ruc-foreign-languages",
+      "school": "中国人民大学",
+      "department": "外国语学院",
+      "sourceName": "人大研招网学院联系电话",
+      "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+      "total": 2,
+      "recentFiveYears": 2,
+      "currentSeason": 0,
+      "years": [
+        2026,
+        2023
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
       "id": "ruc-journalism",
       "school": "中国人民大学",
       "department": "新闻学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 14,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
         2025,
         2024,
         2023,
-        2022
+        2022,
+        2020,
+        2019
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -15810,13 +15838,14 @@
       "department": "信息学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 3,
+      "total": 4,
       "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026,
         2024,
-        2022
+        2022,
+        2020
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -15827,12 +15856,14 @@
       "department": "生态环境学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-chemistry-life",
@@ -15840,12 +15871,14 @@
       "department": "化学与生命资源学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-physics",
@@ -15869,12 +15902,18 @@
       "department": "心理学系",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-business",
@@ -16003,12 +16042,14 @@
       "department": "和平与发展学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-public-administration",
@@ -16016,12 +16057,20 @@
       "department": "公共管理学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 22,
+      "recentFiveYears": 20,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-education",
@@ -16047,12 +16096,15 @@
       "department": "体育部",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ruc-shenzhen",
@@ -16086,12 +16138,14 @@
       "department": "智慧治理学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "93f3429df1",
@@ -17703,23 +17757,9 @@
     "中国科学技术大学稀土学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学量子信息与量子科技创新研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学国家高性能计算中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学哲学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学应用经济学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学统计学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学统计与大数据研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学国际关系学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学文学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学国际文化交流学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学生态环境学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学化学与生命资源学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学心理学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国人民大学中共党史党建学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学和平与发展学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学公共管理学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学体育部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国人民大学深圳研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国人民大学国际学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国人民大学智慧治理学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中山大学学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中山大学直属系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中山大学干部在线学习中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",

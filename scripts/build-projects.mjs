@@ -189,6 +189,9 @@ function yearTimeline(items) {
           applicationEnd: item.applicationEnd || item.deadline || "",
           degreeTypes: item.degreeTypes || ["待确认"],
           sourceUrl: item.sourceUrl,
+          sourceHost: item.sourceHost || "",
+          sourceHomepage: item.sourceHomepage || "",
+          departmentHomepage: item.departmentHomepage || "",
         })),
     };
   });
@@ -211,6 +214,9 @@ function projectSummary(items) {
     stages: unique(items.map((item) => item.noticeStage || item.type)),
     degreeTypes: unique(items.flatMap((item) => item.degreeTypes || [])),
     majors: unique(items.flatMap((item) => item.majors || []).filter((item) => item !== "待确认")).slice(0, 16),
+    sourceHosts: unique(items.map((item) => item.sourceHost)).slice(0, 8),
+    sourceHomepages: unique(items.map((item) => item.sourceHomepage)).slice(0, 8),
+    departmentHomepages: unique(items.map((item) => item.departmentHomepage)).slice(0, 8),
   };
 }
 
