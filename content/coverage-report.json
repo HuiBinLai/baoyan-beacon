@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T14:59:45.733Z",
+  "generatedAt": "2026-05-08T02:57:10.530Z",
   "currentYear": 2026,
   "totals": {
-    "notices": 1095,
+    "notices": 1097,
     "schools": 39,
     "coveredSchools": 39,
     "staleSchools": 0,
@@ -27,12 +27,12 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 22,
-      "currentYear": 4,
-      "recentFiveYears": 22,
-      "departments": 10,
+      "total": 24,
+      "currentYear": 6,
+      "recentFiveYears": 24,
+      "departments": 12,
       "llmStructured": 20,
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-05-07",
       "status": "covered"
     },
     {
