@@ -12,6 +12,7 @@
     "harvest:985": "node scripts/harvest-985.mjs",
     "discover:units": "node scripts/discover-graduate-units.mjs",
     "discover:college-sources": "node scripts/discover-college-sources.mjs",
+    "prune:units": "node scripts/prune-graduate-units.mjs",
     "seed:units": "node scripts/seed-units-from-notices.mjs",
     "structure:notices": "node scripts/structure-notices.mjs",
     "normalize:notices": "node scripts/normalize-notices.mjs",

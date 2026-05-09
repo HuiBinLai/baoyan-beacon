@@ -43,8 +43,10 @@ function parseArgs() {
     school: valueAfter(args, "--school"),
     department: valueAfter(args, "--department"),
     limit: Number(valueAfter(args, "--limit") || Infinity),
+    offset: Number(valueAfter(args, "--offset") || 0),
     maxListUrls: Number(valueAfter(args, "--max-list-urls") || 8),
     sleepMs: Number(valueAfter(args, "--sleep-ms") || 250),
+    engines: (valueAfter(args, "--engines") || "baidu,bing,duckduckgo").split(",").map((engine) => engine.trim()).filter(Boolean),
   };
 }
 
@@ -284,7 +286,7 @@ function parseBaidu(html) {
   return results;
 }
 
-async function search(query, debug = false) {
+async function search(query, options) {
   const encoded = encodeURIComponent(query);
   const engines = [
     { name: "baidu", url: `https://www.baidu.com/s?wd=${encoded}`, parser: parseBaidu },
@@ -293,10 +295,10 @@ async function search(query, debug = false) {
   ];
   const results = [];
 
-  for (const engine of engines) {
+  for (const engine of engines.filter((item) => options.engines.includes(item.name))) {
     const html = await fetchSearchHtml(engine.url);
     const parsed = engine.parser(html).map((item) => ({ ...item, engine: engine.name }));
-    if (debug) {
+    if (options.debug) {
       console.log(`search ${engine.name}: html=${html.length} parsed=${parsed.length} query=${query}`);
     }
     results.push(...parsed);
@@ -388,7 +390,7 @@ async function discoverSourceForUnit(unit, university, options) {
     ];
 
     for (const query of queries) {
-      searchResults.push(...await search(query, options.debug));
+      searchResults.push(...await search(query, options));
       await sleep(options.sleepMs);
     }
 
@@ -523,7 +525,7 @@ async function main() {
     .filter((unit) => !options.school || unit.school === options.school)
     .filter((unit) => !options.department || unit.department === options.department)
     .filter((unit) => !missingIds || missingIds.has(unit.id))
-    .slice(0, options.limit);
+    .slice(options.offset, options.offset + options.limit);
   const discovered = [];
 
   for (const [index, unit] of selectedUnits.entries()) {

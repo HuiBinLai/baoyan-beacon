@@ -36,8 +36,9 @@ jobs:
           node scripts/fetch-notices.mjs
           node scripts/discover-graduate-units.mjs --max-pages 6 --max-results 3 --sleep-ms 250
           node scripts/seed-units-from-notices.mjs
+          node scripts/prune-graduate-units.mjs
           node scripts/audit-graduate-units.mjs
-          node scripts/discover-college-sources.mjs --missing-only --search --limit 80 --sleep-ms 350
+          node scripts/discover-college-sources.mjs --missing-only --search --limit 80 --sleep-ms 350 --engines baidu
           node scripts/harvest-985.mjs --years "$ADMISSION_YEARS" --max-per-query 3 --deep
           node scripts/harvest-985.mjs --graduate-units --missing-only --years "$ADMISSION_YEARS" --max-per-query 1 --unit-limit 80 --unit-offset "$UNIT_OFFSET" --sleep-ms 350
           node scripts/crawl-college-notices.mjs

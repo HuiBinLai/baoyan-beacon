@@ -23,6 +23,7 @@ function parseArgs() {
   const args = process.argv.slice(2);
   const options = {
     source: "",
+    school: "",
     dryRun: false,
   };
 
@@ -30,6 +31,9 @@ function parseArgs() {
     const arg = args[index];
     if (arg === "--source") {
       options.source = args[index + 1];
+      index += 1;
+    } else if (arg === "--school") {
+      options.school = args[index + 1];
       index += 1;
     } else if (arg === "--dry-run") {
       options.dryRun = true;
@@ -332,7 +336,9 @@ async function main() {
     fs.readFile(universitiesPath, "utf8").then(JSON.parse),
     fs.readFile(noticesPath, "utf8").then(JSON.parse),
   ]);
-  const selectedSources = options.source ? sources.filter((source) => source.id === options.source) : sources;
+  const selectedSources = sources
+    .filter((source) => !options.source || source.id === options.source)
+    .filter((source) => !options.school || source.school === options.school);
   const existingKeys = new Set(notices.map((notice) => `${notice.sourceUrl}::${notice.title}`));
   const additions = [];
 

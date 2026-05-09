@@ -1,448 +1,5 @@
 [
   {
-    "id": "ruc-gaoling-ai",
-    "school": "中国人民大学",
-    "department": "高瓴人工智能学院",
-    "aliases": [
-      "高瓴人工智能学院",
-      "人工智能学院"
-    ],
-    "sourceName": "中国人民大学高瓴人工智能学院官方站点",
-    "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/index1.htm",
-    "priority": 1
-  },
-  {
-    "id": "ruc-philosophy",
-    "school": "中国人民大学",
-    "department": "哲学院",
-    "aliases": [
-      "哲学院",
-      "哲学系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 2
-  },
-  {
-    "id": "ruc-guoxue",
-    "school": "中国人民大学",
-    "department": "国学院",
-    "aliases": [
-      "国学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 3
-  },
-  {
-    "id": "ruc-applied-economics",
-    "school": "中国人民大学",
-    "department": "应用经济学院",
-    "aliases": [
-      "应用经济学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 4
-  },
-  {
-    "id": "ruc-economics",
-    "school": "中国人民大学",
-    "department": "经济学院",
-    "aliases": [
-      "经济学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 5
-  },
-  {
-    "id": "ruc-finance",
-    "school": "中国人民大学",
-    "department": "财政金融学院",
-    "aliases": [
-      "财政金融学院",
-      "财金学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 6
-  },
-  {
-    "id": "ruc-labor",
-    "school": "中国人民大学",
-    "department": "劳动人事学院",
-    "aliases": [
-      "劳动人事学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 7
-  },
-  {
-    "id": "ruc-statistics",
-    "school": "中国人民大学",
-    "department": "统计学院",
-    "aliases": [
-      "统计学院",
-      "统计学系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 8
-  },
-  {
-    "id": "ruc-statistics-big-data",
-    "school": "中国人民大学",
-    "department": "统计与大数据研究院",
-    "aliases": [
-      "统计与大数据研究院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 9
-  },
-  {
-    "id": "ruc-law",
-    "school": "中国人民大学",
-    "department": "法学院",
-    "aliases": [
-      "法学院",
-      "法律硕士专业学位"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 10
-  },
-  {
-    "id": "ruc-international-relations",
-    "school": "中国人民大学",
-    "department": "国际关系学院",
-    "aliases": [
-      "国际关系学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 11
-  },
-  {
-    "id": "ruc-literature",
-    "school": "中国人民大学",
-    "department": "文学院",
-    "aliases": [
-      "文学院",
-      "中国语言文学系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 12
-  },
-  {
-    "id": "ruc-international-culture",
-    "school": "中国人民大学",
-    "department": "国际文化交流学院",
-    "aliases": [
-      "国际文化交流学院",
-      "对外语言学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 13
-  },
-  {
-    "id": "ruc-foreign-languages",
-    "school": "中国人民大学",
-    "department": "外国语学院",
-    "aliases": [
-      "外国语学院",
-      "外语系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 14
-  },
-  {
-    "id": "ruc-journalism",
-    "school": "中国人民大学",
-    "department": "新闻学院",
-    "aliases": [
-      "新闻学院",
-      "新闻传播学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 15
-  },
-  {
-    "id": "ruc-history",
-    "school": "中国人民大学",
-    "department": "历史学院",
-    "aliases": [
-      "历史学院",
-      "历史系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 16
-  },
-  {
-    "id": "ruc-art",
-    "school": "中国人民大学",
-    "department": "艺术学院",
-    "aliases": [
-      "艺术学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 17
-  },
-  {
-    "id": "ruc-math",
-    "school": "中国人民大学",
-    "department": "数学学院",
-    "aliases": [
-      "数学学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 18
-  },
-  {
-    "id": "ruc-information",
-    "school": "中国人民大学",
-    "department": "信息学院",
-    "aliases": [
-      "信息学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 19
-  },
-  {
-    "id": "ruc-ecology-environment",
-    "school": "中国人民大学",
-    "department": "生态环境学院",
-    "aliases": [
-      "生态环境学院",
-      "环境学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 20
-  },
-  {
-    "id": "ruc-chemistry-life",
-    "school": "中国人民大学",
-    "department": "化学与生命资源学院",
-    "aliases": [
-      "化学与生命资源学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 21
-  },
-  {
-    "id": "ruc-physics",
-    "school": "中国人民大学",
-    "department": "物理学院",
-    "aliases": [
-      "物理学院",
-      "理学院物理学系",
-      "物理学系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 22
-  },
-  {
-    "id": "ruc-psychology",
-    "school": "中国人民大学",
-    "department": "心理学系",
-    "aliases": [
-      "心理学系",
-      "心理学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 23
-  },
-  {
-    "id": "ruc-business",
-    "school": "中国人民大学",
-    "department": "商学院",
-    "aliases": [
-      "商学院",
-      "工商管理学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 24
-  },
-  {
-    "id": "ruc-rural-development",
-    "school": "中国人民大学",
-    "department": "农业与农村发展学院",
-    "aliases": [
-      "农业与农村发展学院",
-      "农业经济系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 25
-  },
-  {
-    "id": "ruc-information-resource",
-    "school": "中国人民大学",
-    "department": "信息资源管理学院",
-    "aliases": [
-      "信息资源管理学院",
-      "档案学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 26
-  },
-  {
-    "id": "ruc-marxism",
-    "school": "中国人民大学",
-    "department": "马克思主义学院",
-    "aliases": [
-      "马克思主义学院",
-      "马列主义学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 27
-  },
-  {
-    "id": "ruc-party-history",
-    "school": "中国人民大学",
-    "department": "中共党史党建学院",
-    "aliases": [
-      "中共党史党建学院",
-      "中共党史系"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 28
-  },
-  {
-    "id": "ruc-sociology",
-    "school": "中国人民大学",
-    "department": "社会学院",
-    "aliases": [
-      "社会学院",
-      "社会与人口学院",
-      "社会学所"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 29
-  },
-  {
-    "id": "ruc-population-health",
-    "school": "中国人民大学",
-    "department": "人口与健康学院",
-    "aliases": [
-      "人口与健康学院",
-      "人口学所"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 30
-  },
-  {
-    "id": "ruc-disciplinary-inspection",
-    "school": "中国人民大学",
-    "department": "纪检监察学院",
-    "aliases": [
-      "纪检监察学院",
-      "监察学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 31
-  },
-  {
-    "id": "ruc-peace-development",
-    "school": "中国人民大学",
-    "department": "和平与发展学院",
-    "aliases": [
-      "和平与发展学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 32
-  },
-  {
-    "id": "ruc-public-administration",
-    "school": "中国人民大学",
-    "department": "公共管理学院",
-    "aliases": [
-      "公共管理学院",
-      "行政学所"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 33
-  },
-  {
-    "id": "ruc-education",
-    "school": "中国人民大学",
-    "department": "教育学院",
-    "aliases": [
-      "教育学院",
-      "教科所"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 34
-  },
-  {
-    "id": "ruc-sports",
-    "school": "中国人民大学",
-    "department": "体育部",
-    "aliases": [
-      "体育部"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 35
-  },
-  {
-    "id": "ruc-shenzhen",
-    "school": "中国人民大学",
-    "department": "深圳研究院",
-    "aliases": [
-      "深圳研究院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 36
-  },
-  {
-    "id": "ruc-international-college",
-    "school": "中国人民大学",
-    "department": "国际学院",
-    "aliases": [
-      "国际学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 37
-  },
-  {
-    "id": "ruc-smart-governance",
-    "school": "中国人民大学",
-    "department": "智慧治理学院",
-    "aliases": [
-      "智慧治理学院"
-    ],
-    "sourceName": "人大研招网学院联系电话",
-    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-    "priority": 38
-  },
-  {
     "id": "3f147b61b9",
     "school": "北京大学",
     "department": "医学部",
@@ -454,19 +11,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 2,
     "priority": 1
-  },
-  {
-    "id": "d7b044d638",
-    "school": "北京大学",
-    "department": "学部与院系",
-    "aliases": [
-      "学部与院系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 2
   },
   {
     "id": "f53dfecbd1",
@@ -1288,97 +832,6 @@
     "priority": 70
   },
   {
-    "id": "64a036cefb",
-    "school": "北京大学",
-    "department": "领导信箱北大概况招生学部",
-    "aliases": [
-      "领导信箱北大概况招生学部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 71
-  },
-  {
-    "id": "1ec9a57f03",
-    "school": "北京大学",
-    "department": "与院系",
-    "aliases": [
-      "与院系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 72
-  },
-  {
-    "id": "e4ab002b70",
-    "school": "北京大学",
-    "department": "跨学科类医学部",
-    "aliases": [
-      "跨学科类医学部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 73
-  },
-  {
-    "id": "1a8736579d",
-    "school": "北京大学",
-    "department": "师资队伍管理部",
-    "aliases": [
-      "师资队伍管理部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 74
-  },
-  {
-    "id": "d46ffdecbc",
-    "school": "北京大学",
-    "department": "科研成果研究机构学术期刊管理部",
-    "aliases": [
-      "科研成果研究机构学术期刊管理部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 75
-  },
-  {
-    "id": "4346204118",
-    "school": "北京大学",
-    "department": "北大概况招生学部",
-    "aliases": [
-      "北大概况招生学部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 76
-  },
-  {
-    "id": "d88ba5a439",
-    "school": "北京大学",
-    "department": "领导信箱学部",
-    "aliases": [
-      "领导信箱学部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 77
-  },
-  {
     "id": "38b4c67e9e",
     "school": "北京大学",
     "department": "王选计算机研究所软件与微电子学院",
@@ -1403,19 +856,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 2,
     "priority": 79
-  },
-  {
-    "id": "d2190cc163",
-    "school": "北京大学",
-    "department": "（宗教学系",
-    "aliases": [
-      "（宗教学系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://phil.pku.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 80
   },
   {
     "id": "6703847c7e",
@@ -1444,19 +884,6 @@
     "priority": 82
   },
   {
-    "id": "798938fccc",
-    "school": "北京大学",
-    "department": "学院法学院",
-    "aliases": [
-      "学院法学院"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 83
-  },
-  {
     "id": "f4d9cef6fb",
     "school": "北京大学",
     "department": "人口研究所国家发展研究院",
@@ -1483,19 +910,6 @@
     "priority": 85
   },
   {
-    "id": "0dd6123e38",
-    "school": "北京大学",
-    "department": "跨学科类元培学院",
-    "aliases": [
-      "跨学科类元培学院"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 86
-  },
-  {
     "id": "1606ee2b43",
     "school": "北京大学",
     "department": "燕京学堂区域与国别研究院",
@@ -1509,45 +923,6 @@
     "priority": 87
   },
   {
-    "id": "d9b8e1a477",
-    "school": "北京大学",
-    "department": "标识系",
-    "aliases": [
-      "标识系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/IdentificationSystem.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 88
-  },
-  {
-    "id": "d59d38b6ed",
-    "school": "北京大学",
-    "department": "管理部",
-    "aliases": [
-      "管理部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://www.pku.edu.cn/scientificResearch.html#p3",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 89
-  },
-  {
-    "id": "fb69cb60be",
-    "school": "北京大学",
-    "department": "联系院系",
-    "aliases": [
-      "联系院系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 90
-  },
-  {
     "id": "e36fb7e1c6",
     "school": "北京大学",
     "department": "新媒体研究院",
@@ -1559,149 +934,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 2,
     "priority": 91
-  },
-  {
-    "id": "e0b1d1a834",
-    "school": "北京大学",
-    "department": "联系信息联系",
-    "aliases": [
-      "联系信息联系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 92
-  },
-  {
-    "id": "af647d665b",
-    "school": "北京大学",
-    "department": "招办联系",
-    "aliases": [
-      "招办联系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 93
-  },
-  {
-    "id": "1f8542ebb0",
-    "school": "北京大学",
-    "department": "招生公示联系",
-    "aliases": [
-      "招生公示联系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 94
-  },
-  {
-    "id": "ee0e06f032",
-    "school": "北京大学",
-    "department": "信息联系",
-    "aliases": [
-      "信息联系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 95
-  },
-  {
-    "id": "b8e22a836e",
-    "school": "北京大学",
-    "department": "院系联系",
-    "aliases": [
-      "院系联系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 96
-  },
-  {
-    "id": "ee0b8a0cf1",
-    "school": "北京大学",
-    "department": "各研究生招生院系",
-    "aliases": [
-      "各研究生招生院系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 97
-  },
-  {
-    "id": "81eb8f31cd",
-    "school": "北京大学",
-    "department": "联系方式序号代码院系",
-    "aliases": [
-      "联系方式序号代码院系"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 98
-  },
-  {
-    "id": "7da3b56478",
-    "school": "北京大学",
-    "department": "五四体育中心",
-    "aliases": [
-      "五四体育中心"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 99
-  },
-  {
-    "id": "df4b09c06b",
-    "school": "北京大学",
-    "department": "王克桢楼现代农学院",
-    "aliases": [
-      "王克桢楼现代农学院"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 100
-  },
-  {
-    "id": "ffe06c4a84",
-    "school": "北京大学",
-    "department": "陈守仁国际研究中心",
-    "aliases": [
-      "陈守仁国际研究中心"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 101
-  },
-  {
-    "id": "bed04fc2d6",
-    "school": "北京大学",
-    "department": "研招办医学部",
-    "aliases": [
-      "研招办医学部"
-    ],
-    "sourceName": "北京大学官方院系页面自动发现",
-    "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 2,
-    "priority": 102
   },
   {
     "id": "f872127d43",
@@ -1858,45 +1090,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 3,
     "priority": 2
-  },
-  {
-    "id": "525ec40193",
-    "school": "清华大学",
-    "department": "共设33个学院",
-    "aliases": [
-      "共设33个学院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 3
-  },
-  {
-    "id": "024b05584a",
-    "school": "清华大学",
-    "department": "54个系",
-    "aliases": [
-      "54个系"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 4
-  },
-  {
-    "id": "68d92c70e7",
-    "school": "清华大学",
-    "department": "16个书院",
-    "aliases": [
-      "16个书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 5
   },
   {
     "id": "953493a80c",
@@ -2118,19 +1311,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 3,
     "priority": 24
-  },
-  {
-    "id": "4e1327df08",
-    "school": "清华大学",
-    "department": "基础工业训练中心",
-    "aliases": [
-      "基础工业训练中心"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.icenter.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 25
   },
   {
     "id": "efdb96c104",
@@ -3017,214 +2197,6 @@
     "priority": 99
   },
   {
-    "id": "71afc3a0c5",
-    "school": "清华大学",
-    "department": "苏世民书院",
-    "aliases": [
-      "苏世民书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.sc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 100
-  },
-  {
-    "id": "9f9258b110",
-    "school": "清华大学",
-    "department": "新雅书院",
-    "aliases": [
-      "新雅书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.xyc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 101
-  },
-  {
-    "id": "848ab66a78",
-    "school": "清华大学",
-    "department": "致理书院",
-    "aliases": [
-      "致理书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.zlc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 102
-  },
-  {
-    "id": "9f3cdf12a3",
-    "school": "清华大学",
-    "department": "日新书院",
-    "aliases": [
-      "日新书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.rxc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 103
-  },
-  {
-    "id": "369e20fd7d",
-    "school": "清华大学",
-    "department": "未央书院",
-    "aliases": [
-      "未央书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.wyc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 104
-  },
-  {
-    "id": "cc1842b2f2",
-    "school": "清华大学",
-    "department": "探微书院",
-    "aliases": [
-      "探微书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.twc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 105
-  },
-  {
-    "id": "30ee78e017",
-    "school": "清华大学",
-    "department": "行健书院",
-    "aliases": [
-      "行健书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.xjc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 106
-  },
-  {
-    "id": "a54dc543eb",
-    "school": "清华大学",
-    "department": "求真书院",
-    "aliases": [
-      "求真书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://qzc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 107
-  },
-  {
-    "id": "5a8719266b",
-    "school": "清华大学",
-    "department": "为先书院",
-    "aliases": [
-      "为先书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.wxc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 108
-  },
-  {
-    "id": "dae569a8fb",
-    "school": "清华大学",
-    "department": "秀钟书院",
-    "aliases": [
-      "秀钟书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xzc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 109
-  },
-  {
-    "id": "38742cbbb2",
-    "school": "清华大学",
-    "department": "笃实书院",
-    "aliases": [
-      "笃实书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.dsc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 110
-  },
-  {
-    "id": "80908074f3",
-    "school": "清华大学",
-    "department": "至善书院",
-    "aliases": [
-      "至善书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.zsc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 111
-  },
-  {
-    "id": "5fba3eaba5",
-    "school": "清华大学",
-    "department": "无穹书院",
-    "aliases": [
-      "无穹书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://wqc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 112
-  },
-  {
-    "id": "a5eb5ea060",
-    "school": "清华大学",
-    "department": "紫荆书院",
-    "aliases": [
-      "紫荆书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://zijingcollege.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 113
-  },
-  {
-    "id": "87110df307",
-    "school": "清华大学",
-    "department": "自强书院",
-    "aliases": [
-      "自强书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://zqc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 114
-  },
-  {
-    "id": "83ef18088f",
-    "school": "清华大学",
-    "department": "水木书院",
-    "aliases": [
-      "水木书院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://smc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 115
-  },
-  {
     "id": "dff1f42504",
     "school": "清华大学",
     "department": "全球创新学院",
@@ -3264,45 +2236,6 @@
     "priority": 118
   },
   {
-    "id": "277d6b0904",
-    "school": "清华大学",
-    "department": "艺术教育中心",
-    "aliases": [
-      "艺术教育中心"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.arts.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 119
-  },
-  {
-    "id": "4347752d95",
-    "school": "清华大学",
-    "department": "语言教学中心",
-    "aliases": [
-      "语言教学中心"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "http://www.lc.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 120
-  },
-  {
-    "id": "4f86c81cb6",
-    "school": "清华大学",
-    "department": "数学基础教学中心",
-    "aliases": [
-      "数学基础教学中心"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.tcm.tsinghua.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 121
-  },
-  {
     "id": "65163c0497",
     "school": "清华大学",
     "department": "出土文献研究与保护中心",
@@ -3314,19 +2247,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 3,
     "priority": 122
-  },
-  {
-    "id": "bd2100898c",
-    "school": "清华大学",
-    "department": "为非实体学院",
-    "aliases": [
-      "为非实体学院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 123
   },
   {
     "id": "92037ee963",
@@ -3405,32 +2325,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 3,
     "priority": 129
-  },
-  {
-    "id": "8499805a4a",
-    "school": "清华大学",
-    "department": "学系经济学研究所法学院",
-    "aliases": [
-      "学系经济学研究所法学院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 130
-  },
-  {
-    "id": "c97359e485",
-    "school": "清华大学",
-    "department": "学系经济学研究所航天航空学院",
-    "aliases": [
-      "学系经济学研究所航天航空学院"
-    ],
-    "sourceName": "清华大学官方院系页面自动发现",
-    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 3,
-    "priority": 131
   },
   {
     "id": "312aa670f4",
@@ -4486,19 +3380,6 @@
     "priority": 68
   },
   {
-    "id": "264bd1209c",
-    "school": "上海交通大学",
-    "department": "（网络空间安全学院",
-    "aliases": [
-      "（网络空间安全学院"
-    ],
-    "sourceName": "上海交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.cs.sjtu.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 5,
-    "priority": 69
-  },
-  {
     "id": "1e915c290d",
     "school": "上海交通大学",
     "department": "集成电路学院",
@@ -4510,19 +3391,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 5,
     "priority": 70
-  },
-  {
-    "id": "aa6b7d30ae",
-    "school": "上海交通大学",
-    "department": "（信息与电子工程学院",
-    "aliases": [
-      "（信息与电子工程学院"
-    ],
-    "sourceName": "上海交通大学官方院系页面自动发现",
-    "sourceUrl": "https://icisee.sjtu.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 5,
-    "priority": 71
   },
   {
     "id": "a86b7ed406",
@@ -4679,19 +3547,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 5,
     "priority": 83
-  },
-  {
-    "id": "af8514d977",
-    "school": "上海交通大学",
-    "department": "（中美物流研究院",
-    "aliases": [
-      "（中美物流研究院"
-    ],
-    "sourceName": "上海交通大学官方院系页面自动发现",
-    "sourceUrl": "http://www.sugli.sjtu.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 5,
-    "priority": 84
   },
   {
     "id": "6288df85a7",
@@ -5838,19 +4693,6 @@
     "priority": 9087
   },
   {
-    "id": "3e80ab4f5f",
-    "school": "中国科学技术大学",
-    "department": "学部/学院",
-    "aliases": [
-      "学部/学院"
-    ],
-    "sourceName": "中国科学技术大学官方院系页面自动发现",
-    "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 8,
-    "priority": 1
-  },
-  {
     "id": "fa74f23abb",
     "school": "中国科学技术大学",
     "department": "少年班学院",
@@ -6813,32 +5655,6 @@
     "priority": 78
   },
   {
-    "id": "8618abd703",
-    "school": "中国科学技术大学",
-    "department": "院系介绍学部",
-    "aliases": [
-      "院系介绍学部"
-    ],
-    "sourceName": "中国科学技术大学官方院系页面自动发现",
-    "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 8,
-    "priority": 79
-  },
-  {
-    "id": "3815971f4b",
-    "school": "中国科学技术大学",
-    "department": "学院少年班学院",
-    "aliases": [
-      "学院少年班学院"
-    ],
-    "sourceName": "中国科学技术大学官方院系页面自动发现",
-    "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 8,
-    "priority": 80
-  },
-  {
     "id": "0bc19c0500",
     "school": "中国科学技术大学",
     "department": "集成电路学院",
@@ -6850,19 +5666,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 8,
     "priority": 81
-  },
-  {
-    "id": "d14024a04c",
-    "school": "中国科学技术大学",
-    "department": "(国家示范性微电子学院",
-    "aliases": [
-      "(国家示范性微电子学院"
-    ],
-    "sourceName": "中国科学技术大学官方院系页面自动发现",
-    "sourceUrl": "https://sme.ustc.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 8,
-    "priority": 82
   },
   {
     "id": "5b66ad1938",
@@ -6915,19 +5718,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 8,
     "priority": 86
-  },
-  {
-    "id": "05fac92fdb",
-    "school": "中国科学技术大学",
-    "department": "（科教融合学院",
-    "aliases": [
-      "（科教融合学院"
-    ],
-    "sourceName": "中国科学技术大学官方院系页面自动发现",
-    "sourceUrl": "https://env.ustc.edu.cn/",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 8,
-    "priority": 87
   },
   {
     "id": "d8285e0948",
@@ -7463,19 +6253,6 @@
     "priority": 32
   },
   {
-    "id": "670a85e73c",
-    "school": "西安交通大学",
-    "department": "国家储能平台（中心",
-    "aliases": [
-      "国家储能平台（中心"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2187",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 33
-  },
-  {
     "id": "cef952060e",
     "school": "西安交通大学",
     "department": "国家卓越工程师学院",
@@ -7489,19 +6266,6 @@
     "priority": 34
   },
   {
-    "id": "76c5429594",
-    "school": "西安交通大学",
-    "department": "国家医学攻关平台（中心",
-    "aliases": [
-      "国家医学攻关平台（中心"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2247",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 35
-  },
-  {
     "id": "e04cedfa3e",
     "school": "西安交通大学",
     "department": "创新港研究院",
@@ -7513,136 +6277,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 9,
     "priority": 36
-  },
-  {
-    "id": "690c8809b9",
-    "school": "西安交通大学",
-    "department": "本科书院",
-    "aliases": [
-      "本科书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/yxsz.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 37
-  },
-  {
-    "id": "e128561353",
-    "school": "西安交通大学",
-    "department": "彭康书院",
-    "aliases": [
-      "彭康书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/pksy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 38
-  },
-  {
-    "id": "690673fb91",
-    "school": "西安交通大学",
-    "department": "文治书院",
-    "aliases": [
-      "文治书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/wzsy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 39
-  },
-  {
-    "id": "11b3601782",
-    "school": "西安交通大学",
-    "department": "宗濂书院",
-    "aliases": [
-      "宗濂书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/zlsy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 40
-  },
-  {
-    "id": "8983c7e5c7",
-    "school": "西安交通大学",
-    "department": "启德书院",
-    "aliases": [
-      "启德书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/qdsy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 41
-  },
-  {
-    "id": "0cb6fff414",
-    "school": "西安交通大学",
-    "department": "仲英书院",
-    "aliases": [
-      "仲英书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/zysy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 42
-  },
-  {
-    "id": "30723a7f06",
-    "school": "西安交通大学",
-    "department": "励志书院",
-    "aliases": [
-      "励志书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/lzsy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 43
-  },
-  {
-    "id": "175304c08e",
-    "school": "西安交通大学",
-    "department": "崇实书院",
-    "aliases": [
-      "崇实书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/cssy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 44
-  },
-  {
-    "id": "51a5606504",
-    "school": "西安交通大学",
-    "department": "南洋书院",
-    "aliases": [
-      "南洋书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/nysy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 45
-  },
-  {
-    "id": "825e2868d2",
-    "school": "西安交通大学",
-    "department": "钱学森书院",
-    "aliases": [
-      "钱学森书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/bksy/qxssy.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 46
   },
   {
     "id": "cd389b20ca",
@@ -7825,19 +6459,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 9,
     "priority": 60
-  },
-  {
-    "id": "da9ef141f4",
-    "school": "西安交通大学",
-    "department": "其它本科书院",
-    "aliases": [
-      "其它本科书院"
-    ],
-    "sourceName": "西安交通大学官方院系页面自动发现",
-    "sourceUrl": "https://www.xjtu.edu.cn/yxsz.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 9,
-    "priority": 61
   },
   {
     "id": "e65e9906ce",
@@ -12975,19 +11596,6 @@
     "priority": 55
   },
   {
-    "id": "d45a43330c",
-    "school": "中国海洋大学",
-    "department": "基础教学中心",
-    "aliases": [
-      "基础教学中心"
-    ],
-    "sourceName": "当前通知库自动归并",
-    "sourceUrl": "http://tcfc.ouc.edu.cn/2025/0922/c7042a507209/page.htm",
-    "sourceStatus": "from_notices",
-    "schoolPriority": 26,
-    "priority": 9301
-  },
-  {
     "id": "4d7a12e0d4",
     "school": "中国海洋大学",
     "department": "管理学院",
@@ -13363,19 +11971,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 27,
     "priority": 21
-  },
-  {
-    "id": "9bd11c3863",
-    "school": "武汉大学",
-    "department": "管理部",
-    "aliases": [
-      "管理部"
-    ],
-    "sourceName": "武汉大学官方院系页面自动发现",
-    "sourceUrl": "https://whu.edu.cn/kxyj/glbm.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 27,
-    "priority": 22
   },
   {
     "id": "31aad2f0a4",
@@ -14093,32 +12688,6 @@
     "priority": 1
   },
   {
-    "id": "7f3fb1bf2b",
-    "school": "中山大学",
-    "department": "院系",
-    "aliases": [
-      "院系"
-    ],
-    "sourceName": "中山大学官方院系页面自动发现",
-    "sourceUrl": "https://sysu.edu.cn/yxsz/yx.htm",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 31,
-    "priority": 2
-  },
-  {
-    "id": "fd47a37fcf",
-    "school": "中山大学",
-    "department": "学院",
-    "aliases": [
-      "学院"
-    ],
-    "sourceName": "中山大学官方院系页面自动发现",
-    "sourceUrl": "https://sysu.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 31,
-    "priority": 3
-  },
-  {
     "id": "e8a4fcfac0",
     "school": "中山大学",
     "department": "直属系",
@@ -14195,19 +12764,6 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 31,
     "priority": 9
-  },
-  {
-    "id": "f71d9e8de5",
-    "school": "中山大学",
-    "department": "会议现场（党委宣传部",
-    "aliases": [
-      "会议现场（党委宣传部"
-    ],
-    "sourceName": "中山大学官方院系页面自动发现",
-    "sourceUrl": "https://sysu.edu.cn/department.html",
-    "sourceStatus": "auto_discovered",
-    "schoolPriority": 31,
-    "priority": 10
   },
   {
     "id": "27cbf9735f",
@@ -15599,5 +14155,448 @@
     "sourceStatus": "from_notices",
     "schoolPriority": 39,
     "priority": 9467
+  },
+  {
+    "id": "ruc-gaoling-ai",
+    "school": "中国人民大学",
+    "department": "高瓴人工智能学院",
+    "aliases": [
+      "高瓴人工智能学院",
+      "人工智能学院"
+    ],
+    "sourceName": "中国人民大学高瓴人工智能学院官方站点",
+    "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/index1.htm",
+    "priority": 1
+  },
+  {
+    "id": "ruc-philosophy",
+    "school": "中国人民大学",
+    "department": "哲学院",
+    "aliases": [
+      "哲学院",
+      "哲学系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 2
+  },
+  {
+    "id": "ruc-guoxue",
+    "school": "中国人民大学",
+    "department": "国学院",
+    "aliases": [
+      "国学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 3
+  },
+  {
+    "id": "ruc-applied-economics",
+    "school": "中国人民大学",
+    "department": "应用经济学院",
+    "aliases": [
+      "应用经济学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 4
+  },
+  {
+    "id": "ruc-economics",
+    "school": "中国人民大学",
+    "department": "经济学院",
+    "aliases": [
+      "经济学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 5
+  },
+  {
+    "id": "ruc-finance",
+    "school": "中国人民大学",
+    "department": "财政金融学院",
+    "aliases": [
+      "财政金融学院",
+      "财金学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 6
+  },
+  {
+    "id": "ruc-labor",
+    "school": "中国人民大学",
+    "department": "劳动人事学院",
+    "aliases": [
+      "劳动人事学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 7
+  },
+  {
+    "id": "ruc-statistics",
+    "school": "中国人民大学",
+    "department": "统计学院",
+    "aliases": [
+      "统计学院",
+      "统计学系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 8
+  },
+  {
+    "id": "ruc-statistics-big-data",
+    "school": "中国人民大学",
+    "department": "统计与大数据研究院",
+    "aliases": [
+      "统计与大数据研究院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 9
+  },
+  {
+    "id": "ruc-law",
+    "school": "中国人民大学",
+    "department": "法学院",
+    "aliases": [
+      "法学院",
+      "法律硕士专业学位"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 10
+  },
+  {
+    "id": "ruc-international-relations",
+    "school": "中国人民大学",
+    "department": "国际关系学院",
+    "aliases": [
+      "国际关系学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 11
+  },
+  {
+    "id": "ruc-literature",
+    "school": "中国人民大学",
+    "department": "文学院",
+    "aliases": [
+      "文学院",
+      "中国语言文学系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 12
+  },
+  {
+    "id": "ruc-international-culture",
+    "school": "中国人民大学",
+    "department": "国际文化交流学院",
+    "aliases": [
+      "国际文化交流学院",
+      "对外语言学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 13
+  },
+  {
+    "id": "ruc-foreign-languages",
+    "school": "中国人民大学",
+    "department": "外国语学院",
+    "aliases": [
+      "外国语学院",
+      "外语系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 14
+  },
+  {
+    "id": "ruc-journalism",
+    "school": "中国人民大学",
+    "department": "新闻学院",
+    "aliases": [
+      "新闻学院",
+      "新闻传播学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 15
+  },
+  {
+    "id": "ruc-history",
+    "school": "中国人民大学",
+    "department": "历史学院",
+    "aliases": [
+      "历史学院",
+      "历史系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 16
+  },
+  {
+    "id": "ruc-art",
+    "school": "中国人民大学",
+    "department": "艺术学院",
+    "aliases": [
+      "艺术学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 17
+  },
+  {
+    "id": "ruc-math",
+    "school": "中国人民大学",
+    "department": "数学学院",
+    "aliases": [
+      "数学学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 18
+  },
+  {
+    "id": "ruc-information",
+    "school": "中国人民大学",
+    "department": "信息学院",
+    "aliases": [
+      "信息学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 19
+  },
+  {
+    "id": "ruc-ecology-environment",
+    "school": "中国人民大学",
+    "department": "生态环境学院",
+    "aliases": [
+      "生态环境学院",
+      "环境学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 20
+  },
+  {
+    "id": "ruc-chemistry-life",
+    "school": "中国人民大学",
+    "department": "化学与生命资源学院",
+    "aliases": [
+      "化学与生命资源学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 21
+  },
+  {
+    "id": "ruc-physics",
+    "school": "中国人民大学",
+    "department": "物理学院",
+    "aliases": [
+      "物理学院",
+      "理学院物理学系",
+      "物理学系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 22
+  },
+  {
+    "id": "ruc-psychology",
+    "school": "中国人民大学",
+    "department": "心理学系",
+    "aliases": [
+      "心理学系",
+      "心理学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 23
+  },
+  {
+    "id": "ruc-business",
+    "school": "中国人民大学",
+    "department": "商学院",
+    "aliases": [
+      "商学院",
+      "工商管理学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 24
+  },
+  {
+    "id": "ruc-rural-development",
+    "school": "中国人民大学",
+    "department": "农业与农村发展学院",
+    "aliases": [
+      "农业与农村发展学院",
+      "农业经济系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 25
+  },
+  {
+    "id": "ruc-information-resource",
+    "school": "中国人民大学",
+    "department": "信息资源管理学院",
+    "aliases": [
+      "信息资源管理学院",
+      "档案学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 26
+  },
+  {
+    "id": "ruc-marxism",
+    "school": "中国人民大学",
+    "department": "马克思主义学院",
+    "aliases": [
+      "马克思主义学院",
+      "马列主义学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 27
+  },
+  {
+    "id": "ruc-party-history",
+    "school": "中国人民大学",
+    "department": "中共党史党建学院",
+    "aliases": [
+      "中共党史党建学院",
+      "中共党史系"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 28
+  },
+  {
+    "id": "ruc-sociology",
+    "school": "中国人民大学",
+    "department": "社会学院",
+    "aliases": [
+      "社会学院",
+      "社会与人口学院",
+      "社会学所"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 29
+  },
+  {
+    "id": "ruc-population-health",
+    "school": "中国人民大学",
+    "department": "人口与健康学院",
+    "aliases": [
+      "人口与健康学院",
+      "人口学所"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 30
+  },
+  {
+    "id": "ruc-disciplinary-inspection",
+    "school": "中国人民大学",
+    "department": "纪检监察学院",
+    "aliases": [
+      "纪检监察学院",
+      "监察学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 31
+  },
+  {
+    "id": "ruc-peace-development",
+    "school": "中国人民大学",
+    "department": "和平与发展学院",
+    "aliases": [
+      "和平与发展学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 32
+  },
+  {
+    "id": "ruc-public-administration",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
+    "aliases": [
+      "公共管理学院",
+      "行政学所"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 33
+  },
+  {
+    "id": "ruc-education",
+    "school": "中国人民大学",
+    "department": "教育学院",
+    "aliases": [
+      "教育学院",
+      "教科所"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 34
+  },
+  {
+    "id": "ruc-sports",
+    "school": "中国人民大学",
+    "department": "体育部",
+    "aliases": [
+      "体育部"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 35
+  },
+  {
+    "id": "ruc-shenzhen",
+    "school": "中国人民大学",
+    "department": "深圳研究院",
+    "aliases": [
+      "深圳研究院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 36
+  },
+  {
+    "id": "ruc-international-college",
+    "school": "中国人民大学",
+    "department": "国际学院",
+    "aliases": [
+      "国际学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 37
+  },
+  {
+    "id": "ruc-smart-governance",
+    "school": "中国人民大学",
+    "department": "智慧治理学院",
+    "aliases": [
+      "智慧治理学院"
+    ],
+    "sourceName": "人大研招网学院联系电话",
+    "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
+    "priority": 38
   }
 ]
