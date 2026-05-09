@@ -1808,6 +1808,32 @@
     "priority": 9027
   },
   {
+    "id": "c51cd6ec6d",
+    "school": "北京大学",
+    "department": "2024年接收推荐免试研究生办法校本部",
+    "aliases": [
+      "2024年接收推荐免试研究生办法校本部"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://admission.pku.edu.cn/docs/20230904123632003647.pdf",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 2,
+    "priority": 9036
+  },
+  {
+    "id": "4565437f85",
+    "school": "北京大学",
+    "department": "2026年接收推荐免试研究生办法校本部",
+    "aliases": [
+      "2026年接收推荐免试研究生办法校本部"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://admission.pku.edu.cn/docs/20250901134327320368.pdf",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 2,
+    "priority": 9037
+  },
+  {
     "id": "b0d37ad15f",
     "school": "清华大学",
     "department": "奖助体系",

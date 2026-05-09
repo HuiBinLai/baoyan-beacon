@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T17:25:18.833Z",
+  "generatedAt": "2026-05-09T03:40:49.041Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,10 +9,10 @@
     2022
   ],
   "totals": {
-    "units": 1202,
-    "covered": 530,
+    "units": 1204,
+    "covered": 589,
     "stale": 0,
-    "missing": 672,
+    "missing": 615,
     "currentSeasonCovered": 0
   },
   "units": [
@@ -35,12 +35,14 @@
       "department": "学部与院系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "f53dfecbd1",
@@ -48,12 +50,14 @@
       "department": "理学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fs.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "706c4abfbb",
@@ -61,12 +65,14 @@
       "department": "信息科学与技术学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fis.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "f6eb75491f",
@@ -74,12 +80,14 @@
       "department": "工学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fe.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "467cccce39",
@@ -87,12 +95,20 @@
       "department": "人文学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fh.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 12,
+      "recentFiveYears": 8,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "92715f4ec0",
@@ -100,12 +116,19 @@
       "department": "社会科学学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fss.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 10,
+      "recentFiveYears": 8,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2020
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "a44105818f",
@@ -113,12 +136,14 @@
       "department": "经济与管理学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fem.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "93564fb96e",
@@ -126,12 +151,14 @@
       "department": "数学科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.math.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "92ef46421d",
@@ -139,12 +166,14 @@
       "department": "化学与分子工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.chem.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "302503b2d8",
@@ -152,12 +181,14 @@
       "department": "生命科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://bio.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "c7fc6c80b8",
@@ -165,12 +196,14 @@
       "department": "地球与空间科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sess.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "5aa0dbe2eb",
@@ -178,12 +211,14 @@
       "department": "心理与认知科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.psy.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "c1f79a3597",
@@ -191,12 +226,15 @@
       "department": "建筑与景观设计学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.cala.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "099d6b1da6",
@@ -204,12 +242,15 @@
       "department": "信息科学技术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://eecs.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "1cccc4c719",
@@ -217,12 +258,14 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "5766654a8a",
@@ -230,12 +273,15 @@
       "department": "集成电路学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ic.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 9,
+      "recentFiveYears": 9,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "a76c22caf7",
@@ -243,12 +289,16 @@
       "department": "智能学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://sai.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 10,
+      "recentFiveYears": 10,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "115bcecfd7",
@@ -256,12 +306,14 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "6f38e9dc8b",
@@ -282,13 +334,14 @@
       "department": "中国语言文学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://chinese.pku.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
+        2026,
         2025
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -297,12 +350,14 @@
       "department": "考古文博学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://archaeology.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 6,
+      "recentFiveYears": 6,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "9ff57f12f1",
@@ -310,12 +365,16 @@
       "department": "哲学系宗教学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://phil.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 13,
+      "recentFiveYears": 13,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "42b7acfa32",
@@ -323,12 +382,14 @@
       "department": "外国语学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sfl.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "10668e4e47",
@@ -336,12 +397,14 @@
       "department": "艺术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.art.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "a6e907aa13",
@@ -349,12 +412,15 @@
       "department": "对外汉语教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://hanyu.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "5c8525d279",
@@ -362,12 +428,17 @@
       "department": "歌剧研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://opera.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2017,
+        2016,
+        2015
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "f05cc61db3",
@@ -388,12 +459,14 @@
       "department": "力学与工程科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://mech.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "a4607f78b5",
@@ -401,12 +474,14 @@
       "department": "先进制造与机器人学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://amr.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "be14dcbc0e",
@@ -414,12 +489,16 @@
       "department": "材料科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.mse.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 11,
+      "recentFiveYears": 8,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2022,
+        2021
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "338b22a1f6",
@@ -427,12 +506,14 @@
       "department": "未来技术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://future.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "cebf12ced5",
@@ -440,12 +521,20 @@
       "department": "环境科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://cese.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 15,
+      "recentFiveYears": 11,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2016
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "554866a46c",
@@ -453,12 +542,15 @@
       "department": "国际关系学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.sis.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2020
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "836b55456b",
@@ -466,8 +558,8 @@
       "department": "法学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.law.pku.edu.cn/",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2026,
@@ -482,12 +574,14 @@
       "department": "信息管理系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.im.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "03ee2904aa",
@@ -495,12 +589,15 @@
       "department": "社会学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.shehui.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2019
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ef8743fea8",
@@ -508,12 +605,14 @@
       "department": "政府管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.sg.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "48025b3163",
@@ -521,12 +620,17 @@
       "department": "马克思主义学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://marxism.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 8,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2023,
+        2021,
+        2019
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "241ae2d891",
@@ -534,12 +638,15 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "cfecad5837",
@@ -560,12 +667,17 @@
       "department": "经济学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://econ.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 6,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2024,
+        2022,
+        2020
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "0c74824770",
@@ -573,12 +685,14 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "8b7733c45d",
@@ -625,12 +739,14 @@
       "department": "公共卫生学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sph.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "102dbc6cab",
@@ -690,12 +806,18 @@
       "department": "区域与国别研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ias.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 13,
+      "recentFiveYears": 13,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "107e7c6557",
@@ -703,12 +825,15 @@
       "department": "人工智能研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ai.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 9,
+      "recentFiveYears": 9,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "679583d272",
@@ -716,12 +841,15 @@
       "department": "碳中和研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://carbon.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "809c9df6fb",
@@ -729,12 +857,17 @@
       "department": "前沿交叉学科研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.aais.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 12,
+      "recentFiveYears": 12,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "b852a577df",
@@ -755,12 +888,16 @@
       "department": "现代农学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.saas.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 4,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2025,
+        2024,
+        2021
+      ],
+      "latestDate": "2025-01-01",
+      "status": "covered"
     },
     {
       "id": "e676521d61",
@@ -768,12 +905,14 @@
       "department": "信息工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ece.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "dd161c254e",
@@ -846,12 +985,16 @@
       "department": "汇丰商学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.phbs.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2023
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "90538f8ca1",
@@ -885,12 +1028,14 @@
       "department": "与院系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "e4ab002b70",
@@ -937,12 +1082,14 @@
       "department": "北大概况招生学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 17,
+      "recentFiveYears": 17,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "d88ba5a439",
@@ -976,12 +1123,17 @@
       "department": "哲学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://phil.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 17,
+      "recentFiveYears": 16,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024,
+        2019
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "d2190cc163",
@@ -989,12 +1141,16 @@
       "department": "（宗教学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://phil.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 15,
+      "recentFiveYears": 15,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2025,
+        2024
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "6703847c7e",
@@ -1015,13 +1171,15 @@
       "department": "国际关系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.sis.pku.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 4,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
-        2024
+        2026,
+        2024,
+        2020
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -1030,12 +1188,14 @@
       "department": "学院法学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "f4d9cef6fb",
@@ -1095,12 +1255,16 @@
       "department": "标识系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/IdentificationSystem.html",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 7,
+      "recentFiveYears": 4,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026,
+        2022,
+        2021
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "d59d38b6ed",
@@ -1121,12 +1285,14 @@
       "department": "联系院系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "e36fb7e1c6",
@@ -1134,12 +1300,14 @@
       "department": "新媒体研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://snm.pku.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "e0b1d1a834",
@@ -1147,12 +1315,14 @@
       "department": "联系信息联系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "af647d665b",
@@ -1160,12 +1330,14 @@
       "department": "招办联系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "1f8542ebb0",
@@ -1173,12 +1345,14 @@
       "department": "招生公示联系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "ee0e06f032",
@@ -1186,12 +1360,14 @@
       "department": "信息联系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://admission.pku.edu.cn/lxxx/lxyx/index.htm",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "b8e22a836e",
@@ -1306,8 +1482,8 @@
       "department": "历史学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://www.history.pku.edu.cn/zsjx/zs/abdf9fec9ac64bd1a8eb73416185dd0e.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2026,
@@ -1322,13 +1498,14 @@
       "department": "城市与环境学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://ues.pku.edu.cn/jyjx/yjsjy/zsxx/f311225988eb46d29d1328dea11805bf.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
+        2026,
         2025
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -1353,14 +1530,15 @@
       "department": "计算机学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://cs.pku.edu.cn/info/1022/3813.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -1399,13 +1577,45 @@
       "department": "物理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://www.phy.pku.edu.cn/info/1018/8414.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
       "years": [
+        2026,
         2023
       ],
-      "latestDate": "2023-01-01",
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "c51cd6ec6d",
+      "school": "北京大学",
+      "department": "2024年接收推荐免试研究生办法校本部",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://admission.pku.edu.cn/docs/20230904123632003647.pdf",
+      "total": 2,
+      "recentFiveYears": 2,
+      "currentSeason": 0,
+      "years": [
+        2026,
+        2024
+      ],
+      "latestDate": "2026-05-07",
+      "status": "covered"
+    },
+    {
+      "id": "4565437f85",
+      "school": "北京大学",
+      "department": "2026年接收推荐免试研究生办法校本部",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://admission.pku.edu.cn/docs/20250901134327320368.pdf",
+      "total": 3,
+      "recentFiveYears": 3,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-05-07",
       "status": "covered"
     },
     {
@@ -15554,8 +15764,8 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 10,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
@@ -17102,92 +17312,35 @@
   ],
   "actionItems": [
     "北京大学医学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学学部与院系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学理学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学信息科学与技术学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学工学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学人文学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学社会科学学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学经济与管理学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学数学科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学化学与分子工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学生命科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学地球与空间科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学心理与认知科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学建筑与景观设计学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学信息科学技术学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学电子学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学集成电路学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学智能学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学软件与微电子学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学软件工程国家工程研究中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学考古文博学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学哲学系宗教学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学外国语学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学艺术学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学对外汉语教育学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学歌剧研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学工学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学力学与工程科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学先进制造与机器人学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学材料科学与工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学未来技术学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学环境科学与工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学国际关系学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学信息管理系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学社会学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学政府管理学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学马克思主义学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学教育学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学体育教研部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学经济学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学光华管理学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学国家发展研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学基础医学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学药学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学公共卫生学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学护理学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学医学人文学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学医学继续教育学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学元培学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学区域与国别研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学人工智能研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学碳中和研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学前沿交叉学科研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学北京国际数学研究中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学现代农学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学信息工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学化学生物学与生物技术学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学环境与能源学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学城市规划与设计学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学新材料学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学科学智能学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学汇丰商学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学人文社会科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学领导信箱北大概况招生学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学与院系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学跨学科类医学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学师资队伍管理部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学科研成果研究机构学术期刊管理部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学北大概况招生学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学领导信箱学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学王选计算机研究所软件与微电子学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学哲学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学（宗教学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学工学院力学与工程科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学学院法学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学人口研究所国家发展研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学药学院公共卫生学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学跨学科类元培学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学燕京学堂区域与国别研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学标识系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学管理部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学联系院系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学新媒体研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学联系信息联系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学招办联系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学招生公示联系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学信息联系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学院系联系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学各研究生招生院系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学联系方式序号代码院系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
