@@ -1066,6 +1066,45 @@
     "priority": 9037
   },
   {
+    "id": "4b94e4b947",
+    "school": "北京大学",
+    "department": "宗教学系",
+    "aliases": [
+      "宗教学系"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://phil.pku.edu.cn/xwgg/tzgg/c83801861f2648fd8802714995227548.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 2,
+    "priority": 9043
+  },
+  {
+    "id": "01942b75ed",
+    "school": "北京大学",
+    "department": "人口研究所",
+    "aliases": [
+      "人口研究所"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 2,
+    "priority": 9067
+  },
+  {
+    "id": "b5cf5d93f6",
+    "school": "北京大学",
+    "department": "习近平新时代中国特色社会主义思想研究院",
+    "aliases": [
+      "习近平新时代中国特色社会主义思想研究院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/e860b3f0df8942c9895d4309e0888e83.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 2,
+    "priority": 9073
+  },
+  {
     "id": "b0d37ad15f",
     "school": "清华大学",
     "department": "奖助体系",
@@ -3677,6 +3716,19 @@
     "sourceStatus": "from_notices",
     "schoolPriority": 5,
     "priority": 9059
+  },
+  {
+    "id": "141eb1757f",
+    "school": "上海交通大学",
+    "department": "环境学院",
+    "aliases": [
+      "环境学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/2566",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 5,
+    "priority": 9452
   },
   {
     "id": "54ac1887bf",

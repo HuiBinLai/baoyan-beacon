@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T14:53:36.883Z",
+  "generatedAt": "2026-05-10T03:24:37.524Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,8 +9,8 @@
     2022
   ],
   "totals": {
-    "units": 1127,
-    "covered": 749,
+    "units": 1131,
+    "covered": 753,
     "stale": 4,
     "missing": 374,
     "currentSeasonCovered": 3
@@ -1340,6 +1340,53 @@
         2026
       ],
       "latestDate": "2026-05-07",
+      "status": "covered"
+    },
+    {
+      "id": "4b94e4b947",
+      "school": "北京大学",
+      "department": "宗教学系",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://phil.pku.edu.cn/xwgg/tzgg/c83801861f2648fd8802714995227548.htm",
+      "total": 19,
+      "recentFiveYears": 19,
+      "currentSeason": 0,
+      "years": [
+        2026,
+        2025,
+        2024
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "01942b75ed",
+      "school": "北京大学",
+      "department": "人口研究所",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
+      "total": 4,
+      "recentFiveYears": 4,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "b5cf5d93f6",
+      "school": "北京大学",
+      "department": "习近平新时代中国特色社会主义思想研究院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/e860b3f0df8942c9895d4309e0888e83.htm",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -9809,6 +9856,21 @@
         2022
       ],
       "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "141eb1757f",
+      "school": "上海交通大学",
+      "department": "环境学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://yzb.sjtu.edu.cn/post/2566",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2024
+      ],
+      "latestDate": "2024-01-01",
       "status": "covered"
     },
     {

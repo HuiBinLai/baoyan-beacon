@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T14:53:36.400Z",
+  "generatedAt": "2026-05-10T03:24:36.391Z",
   "currentYear": 2044,
   "totals": {
     "notices": 2034,
@@ -7,8 +7,8 @@
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
-    "collegeSources": 277,
-    "missingCollegeSources": 60,
+    "collegeSources": 313,
+    "missingCollegeSources": 96,
     "llmStructured": 1834,
     "unstructured": 0
   },
@@ -2069,6 +2069,33 @@
       "status": "covered"
     },
     {
+      "id": "auto-2ad43d9b4a20",
+      "school": "上海交通大学",
+      "department": "董浩云智能管理与物流研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-a74a6fc43ad6",
+      "school": "上海交通大学",
+      "department": "个性化医学研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-0ba0b5d4e0e6",
+      "school": "上海交通大学",
+      "department": "国际化办学浦江国际学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-85bf429b6613",
       "school": "上海交通大学",
       "department": "海洋学院",
@@ -2154,6 +2181,15 @@
       "status": "covered"
     },
     {
+      "id": "auto-6fe1fdf8ef55",
+      "school": "上海交通大学",
+      "department": "交叉学科致远学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-a90827fb0227",
       "school": "上海交通大学",
       "department": "教育学院",
@@ -2184,6 +2220,24 @@
       "id": "auto-0cdf797feff4",
       "school": "上海交通大学",
       "department": "空天科学技术研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-1e56e3c932ab",
+      "school": "上海交通大学",
+      "department": "李政道研究所中国法与社会研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-a86b7ed406ce",
+      "school": "上海交通大学",
+      "department": "理科数学科学学院",
       "total": 0,
       "years": [],
       "latestDate": "",
@@ -2265,6 +2319,15 @@
       "status": "missing"
     },
     {
+      "id": "auto-869ffa8c125c",
+      "school": "上海交通大学",
+      "department": "区域国别研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-d2c59d947067",
       "school": "上海交通大学",
       "department": "燃气轮机研究院",
@@ -2291,6 +2354,42 @@
       "status": "covered"
     },
     {
+      "id": "auto-728a79dfdc48",
+      "school": "上海交通大学",
+      "department": "人工智能研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-97df45e120e9",
+      "school": "上海交通大学",
+      "department": "人文社科安泰经济与管理学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-4614cae4561f",
+      "school": "上海交通大学",
+      "department": "上海智能制造研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-82f7a6021f57",
+      "school": "上海交通大学",
+      "department": "设置工科船舶海洋与建筑工程学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-e34844047681",
       "school": "上海交通大学",
       "department": "生命科学技术学院",
@@ -2303,9 +2402,27 @@
       "status": "covered"
     },
     {
+      "id": "auto-ec0ca5503adf",
+      "school": "上海交通大学",
+      "department": "生命科学生命科学技术学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-b62d50fb37ed",
       "school": "上海交通大学",
       "department": "生物医学工程学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-10657a4c8e1e",
+      "school": "上海交通大学",
+      "department": "碳中和发展研究院",
       "total": 0,
       "years": [],
       "latestDate": "",
@@ -2360,6 +2477,33 @@
       "status": "covered"
     },
     {
+      "id": "auto-1e468e287f27",
+      "school": "上海交通大学",
+      "department": "新农村发展研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-499ba338edf3",
+      "school": "上海交通大学",
+      "department": "研究院·基础研究系",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-4d0a2b14169d",
+      "school": "上海交通大学",
+      "department": "研究院·应用基础研究能源研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-4f615129dc42",
       "school": "上海交通大学",
       "department": "药学院",
@@ -2375,6 +2519,24 @@
       "status": "covered"
     },
     {
+      "id": "auto-64e29e4d882f",
+      "school": "上海交通大学",
+      "department": "医疗机器人研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-ece893868c8c",
+      "school": "上海交通大学",
+      "department": "医学影像先进技术研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-132daa9c093d",
       "school": "上海交通大学",
       "department": "医学院",
@@ -2384,6 +2546,24 @@
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
+    },
+    {
+      "id": "auto-9ecbf3d9a492",
+      "school": "上海交通大学",
+      "department": "医学院药学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-3b7a3fb34d7c",
+      "school": "上海交通大学",
+      "department": "元知机器人研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
     },
     {
       "id": "auto-ad03aed45d06",
@@ -2437,6 +2617,15 @@
       "status": "covered"
     },
     {
+      "id": "auto-58d4f4b89f26",
+      "school": "上海交通大学",
+      "department": "中文主页院系",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-50475338268c",
       "school": "上海交通大学",
       "department": "中英国际低碳学院",
@@ -2447,6 +2636,15 @@
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
+    },
+    {
+      "id": "auto-14509d364004",
+      "school": "上海交通大学",
+      "department": "转化医学研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
     },
     {
       "id": "auto-83994ca4700b",
@@ -2464,6 +2662,132 @@
       "id": "auto-e6f1310e106b",
       "school": "上海交通大学",
       "department": "自然科学研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-f16581abcb7c",
+      "school": "上海交通大学",
+      "department": "Bio-X研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-a4692f03e723",
+      "school": "上海交通大学",
+      "department": "Med-X研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-ae765fc1aa37",
+      "school": "上海交通大学",
+      "department": "X研究院转化医学研究院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-764bc9d66193",
+      "school": "浙江大学",
+      "department": "传媒学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-54ac1887bfe0",
+      "school": "浙江大学",
+      "department": "党委教师工作部",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-9c1a1dad091e",
+      "school": "浙江大学",
+      "department": "公共管理学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-e9e1ac0882eb",
+      "school": "浙江大学",
+      "department": "光华法学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-9091a727074c",
+      "school": "浙江大学",
+      "department": "经济学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-5b3459749dd8",
+      "school": "浙江大学",
+      "department": "马克思主义学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-779ea4e7b760",
+      "school": "浙江大学",
+      "department": "人事服务中心",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-00b7c52d18e8",
+      "school": "浙江大学",
+      "department": "人文学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-b7ce63949f95",
+      "school": "浙江大学",
+      "department": "社会学系",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-77faa5b933d4",
+      "school": "浙江大学",
+      "department": "数学学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-1bc93d521917",
+      "school": "浙江大学",
+      "department": "艺术与考古学院",
       "total": 0,
       "years": [],
       "latestDate": "",
@@ -3802,14 +4126,50 @@
     "清华大学土木水利学院 已登记源但暂无候选，需要检查公告页。",
     "清华大学哲学系 已登记源但暂无候选，需要检查公告页。",
     "清华大学智能产业研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学董浩云智能管理与物流研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学个性化医学研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学国际化办学浦江国际学院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学交叉学科致远学院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学空天科学技术研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学李政道研究所中国法与社会研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学理科数学科学学院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学密码学院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学汽车工程研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学区域国别研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学人工智能研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学人文社科安泰经济与管理学院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学上海智能制造研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学设置工科船舶海洋与建筑工程学院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学生命科学生命科学技术学院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学生物医学工程学院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学碳中和发展研究院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学外国语学院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学新农村发展研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学研究院·基础研究系 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学研究院·应用基础研究能源研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学医疗机器人研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学医学影像先进技术研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学医学院药学院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学元知机器人研究院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学致远学院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学中国法与社会研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学中文主页院系 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学转化医学研究院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学自然科学研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学Bio-X研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学Med-X研究院 已登记源但暂无候选，需要检查公告页。",
+    "上海交通大学X研究院转化医学研究院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学传媒学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学党委教师工作部 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学公共管理学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学光华法学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学经济学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学马克思主义学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学人事服务中心 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学人文学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学社会学系 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学数学学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学艺术与考古学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学北京研究院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学国家卓越工程师学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学化学物理系 已登记源但暂无候选，需要检查公告页。",

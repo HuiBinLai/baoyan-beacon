@@ -51292,95 +51292,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-b301470e0cf1",
-    "school": "北京大学",
-    "department": "北京大学人口研究所",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 北京大学人口研究所",
-    "tracks": [
-      "综合/待确认"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-f2dbc375625a",
-            "title": "北京大学人口研究所2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
-            "sourceHost": "ipr.pku.edu.cn",
-            "sourceHomepage": "https://ipr.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          },
-          {
-            "id": "college-abced4900f54",
-            "title": "北京大学人口研究所2026年“申请-考核制”博士研究生招生说明 2025-10-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
-            "sourceHost": "ipr.pku.edu.cn",
-            "sourceHomepage": "https://ipr.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 2,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "博士"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "ipr.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ipr.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://admission.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-7aadd5a0815f",
     "school": "北京大学",
     "department": "北京国际数学研究中心",
@@ -51801,6 +51712,95 @@
     ],
     "departmentHomepages": [
       "https://www.chem.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-01942b75ed87",
+    "school": "北京大学",
+    "department": "人口研究所",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 人口研究所",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-f2dbc375625a",
+            "title": "北京大学人口研究所2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
+            "sourceHost": "ipr.pku.edu.cn",
+            "sourceHomepage": "https://ipr.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          },
+          {
+            "id": "college-abced4900f54",
+            "title": "北京大学人口研究所2026年“申请-考核制”博士研究生招生说明 2025-10-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
+            "sourceHost": "ipr.pku.edu.cn",
+            "sourceHomepage": "https://ipr.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 2,
+    "llmStructuredCount": 2,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "博士"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "ipr.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://ipr.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://admission.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -63081,81 +63081,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-a6de2304d9a9",
-    "school": "北京大学",
-    "department": "北京大学习近平新时代中国特色社会主义思想研究院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 北京大学习近平新时代中国特色社会主义思想研究院",
-    "tracks": [
-      "综合/待确认"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2025-12-19",
-        "notices": [
-          {
-            "id": "college-a2b7f9b5c035",
-            "title": "北京大学习近平新时代中国特色社会主义思想研究院2026年“申请-考核”博士研究生招生说明 2025-10-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/e860b3f0df8942c9895d4309e0888e83.htm",
-            "sourceHost": "xnewera.pku.edu.cn",
-            "sourceHomepage": "https://xnewera.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 1,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "博士"
-    ],
-    "majors": [
-      "习近平新时代中国特色社会主义思想"
-    ],
-    "sourceHosts": [
-      "xnewera.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://xnewera.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://admission.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-962887d8e092",
     "school": "北京大学",
     "department": "北京大学燕京学堂",
@@ -63451,6 +63376,81 @@
     ],
     "departmentHomepages": [
       "https://cs.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-b5cf5d93f639",
+    "school": "北京大学",
+    "department": "习近平新时代中国特色社会主义思想研究院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 习近平新时代中国特色社会主义思想研究院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2025-12-19",
+        "notices": [
+          {
+            "id": "college-a2b7f9b5c035",
+            "title": "北京大学习近平新时代中国特色社会主义思想研究院2026年“申请-考核”博士研究生招生说明 2025-10-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/e860b3f0df8942c9895d4309e0888e83.htm",
+            "sourceHost": "xnewera.pku.edu.cn",
+            "sourceHomepage": "https://xnewera.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 1,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "博士"
+    ],
+    "majors": [
+      "习近平新时代中国特色社会主义思想"
+    ],
+    "sourceHosts": [
+      "xnewera.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://xnewera.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://admission.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
