@@ -29091,6 +29091,271 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-25fcc32a9046",
+    "school": "中国科学技术大学",
+    "department": "地球化学与行星科学系",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 地球化学与行星科学系",
+    "tracks": [
+      "理工基础",
+      "计算机/AI",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "复试/考核",
+          "推免"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-04-27",
+        "lastApplicationEnd": "2026-05-10",
+        "notices": [
+          {
+            "id": "college-7e7ebd5725ca",
+            "title": "地球和空间科学学院2026年博士“综合考核”工作安排",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://ess.ustc.edu.cn/2026/0506/c41218a736943/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "http://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          },
+          {
+            "id": "college-fb0cd6d923d0",
+            "title": "地球和空间科学学院2026年博士“综合考核”工作安排",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ess.ustc.edu.cn/2026/0506/c41218a736943/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "https://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          },
+          {
+            "id": "college-0599f5ada72f",
+            "title": "中国科大地球化学与行星科学营报名通知",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-04-27",
+            "applicationEnd": "2026-05-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ess.ustc.edu.cn/2026/0425/c41218a735817/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "https://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-34be77bc4492",
+            "title": "2025硕士招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2025/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-5088a3639462",
+            "title": "2024硕士招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2024/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-19fe1e68b680",
+            "title": "2023硕士招生简章",
+            "stage": "招生简章",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2023/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-5c6d30aa2949",
+            "title": "2022硕士招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2022/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 7,
+    "llmStructuredCount": 2,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ],
+    "stages": [
+      "复试/考核",
+      "推免",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认",
+      "硕士"
+    ],
+    "majors": [
+      "化学",
+      "固体地球物理",
+      "空间物理",
+      "地球化学",
+      "大气科学",
+      "资源与环境",
+      "行星科学与探测技术",
+      "地质学",
+      "资源勘查工程",
+      "行星科学",
+      "环境科学",
+      "人工智能",
+      "计算机科学与技术",
+      "网络空间安全",
+      "数学",
+      "物理学"
+    ],
+    "sourceHosts": [
+      "ess.ustc.edu.cn",
+      "yz1.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://ess.ustc.edu.cn/",
+      "https://ess.ustc.edu.cn/",
+      "https://yz1.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ess.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-4036cf011764",
     "school": "中国科学技术大学",
     "department": "临床医学院",
@@ -61614,111 +61879,6 @@
     ],
     "departmentHomepages": [
       "http://tcfc.ouc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-25fcc32a9046",
-    "school": "中国科学技术大学",
-    "department": "地球化学与行星科学系",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 地球化学与行星科学系",
-    "tracks": [
-      "理工基础",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "复试/考核",
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-04-27",
-        "lastApplicationEnd": "2026-05-10",
-        "notices": [
-          {
-            "id": "college-fb0cd6d923d0",
-            "title": "地球和空间科学学院2026年博士“综合考核”工作安排",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ess.ustc.edu.cn/2026/0506/c41218a736943/page.htm",
-            "sourceHost": "ess.ustc.edu.cn",
-            "sourceHomepage": "https://ess.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          },
-          {
-            "id": "college-0599f5ada72f",
-            "title": "中国科大地球化学与行星科学营报名通知",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-04-27",
-            "applicationEnd": "2026-05-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ess.ustc.edu.cn/2026/0425/c41218a735817/page.htm",
-            "sourceHost": "ess.ustc.edu.cn",
-            "sourceHomepage": "https://ess.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 2,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "复试/考核",
-      "推免"
-    ],
-    "degreeTypes": [
-      "博士",
-      "待确认"
-    ],
-    "majors": [
-      "固体地球物理",
-      "空间物理",
-      "地球化学",
-      "大气科学",
-      "资源与环境",
-      "行星科学与探测技术",
-      "地质学",
-      "资源勘查工程",
-      "行星科学",
-      "环境科学"
-    ],
-    "sourceHosts": [
-      "ess.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ess.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ess.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
