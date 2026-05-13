@@ -3588,6 +3588,19 @@
     "priority": 83
   },
   {
+    "id": "cec3939f45",
+    "school": "上海交通大学",
+    "department": "中美物流研究院",
+    "aliases": [
+      "中美物流研究院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/2564",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 5,
+    "priority": 9003
+  },
+  {
     "id": "6288df85a7",
     "school": "上海交通大学",
     "department": "国际与公共事务学院",

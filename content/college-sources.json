@@ -10240,6 +10240,53 @@
     "discoveredAt": "2026-05-09T23:15:54.879Z"
   },
   {
+    "id": "auto-8dfcafb5fb0c",
+    "school": "浙江大学",
+    "department": "材料学院",
+    "region": "浙江",
+    "homepageUrl": "https://hr.zju.edu.cn/",
+    "sourceHost": "hr.zju.edu.cn",
+    "baseUrl": "https://hr.zju.edu.cn/cn/1186/list.htm",
+    "listUrls": [
+      "https://hr.zju.edu.cn/cn/1186/list.htm"
+    ],
+    "includeKeywords": [
+      "推免",
+      "推荐免试",
+      "免试",
+      "夏令营",
+      "研学营",
+      "优秀大学生",
+      "预推免",
+      "预报名",
+      "直博",
+      "接收优秀应届本科毕业生",
+      "招生简章",
+      "研究生招生"
+    ],
+    "excludeKeywords": [
+      "博士后",
+      "招聘",
+      "人才招聘",
+      "初试成绩",
+      "成绩复核",
+      "复试名单",
+      "复试成绩",
+      "复试录取",
+      "港澳台",
+      "优秀营员名单",
+      "入营名单",
+      "候补名单",
+      "拟录取",
+      "公示",
+      "采购",
+      "招标"
+    ],
+    "maxListPages": 8,
+    "sourceStatus": "auto_discovered_with_search",
+    "discoveredAt": "2026-05-12T23:38:32.313Z"
+  },
+  {
     "id": "auto-764bc9d66193",
     "school": "浙江大学",
     "department": "传媒学院",
@@ -10295,7 +10342,12 @@
     "sourceHost": "jsgzb.zju.edu.cn",
     "baseUrl": "http://jsgzb.zju.edu.cn/",
     "listUrls": [
-      "http://jsgzb.zju.edu.cn/"
+      "http://jsgzb.zju.edu.cn/",
+      "http://jsgzb.zju.edu.cn/2026/0417/c11211a3153227/page.htm",
+      "http://jsgzb.zju.edu.cn/2026/0430/c11211a3157914/page.htm",
+      "http://jsgzb.zju.edu.cn/2026/0430/c11211a3157923/page.htm",
+      "http://jsgzb.zju.edu.cn/11210/list.htm",
+      "http://jsgzb.zju.edu.cn/2026/0511/c11211a3161283/page.htm"
     ],
     "includeKeywords": [
       "推免",
@@ -10332,6 +10384,53 @@
     "maxListPages": 8,
     "sourceStatus": "auto_discovered_with_search",
     "discoveredAt": "2026-05-09T23:16:03.367Z"
+  },
+  {
+    "id": "auto-d28c87b2d367",
+    "school": "浙江大学",
+    "department": "地球科学学院",
+    "region": "浙江",
+    "homepageUrl": "https://hr.zju.edu.cn/",
+    "sourceHost": "hr.zju.edu.cn",
+    "baseUrl": "https://hr.zju.edu.cn/cn/1186/list.htm",
+    "listUrls": [
+      "https://hr.zju.edu.cn/cn/1186/list.htm"
+    ],
+    "includeKeywords": [
+      "推免",
+      "推荐免试",
+      "免试",
+      "夏令营",
+      "研学营",
+      "优秀大学生",
+      "预推免",
+      "预报名",
+      "直博",
+      "接收优秀应届本科毕业生",
+      "招生简章",
+      "研究生招生"
+    ],
+    "excludeKeywords": [
+      "博士后",
+      "招聘",
+      "人才招聘",
+      "初试成绩",
+      "成绩复核",
+      "复试名单",
+      "复试成绩",
+      "复试录取",
+      "港澳台",
+      "优秀营员名单",
+      "入营名单",
+      "候补名单",
+      "拟录取",
+      "公示",
+      "采购",
+      "招标"
+    ],
+    "maxListPages": 8,
+    "sourceStatus": "auto_discovered_with_search",
+    "discoveredAt": "2026-05-12T23:38:25.881Z"
   },
   {
     "id": "auto-9c1a1dad091e",
@@ -10708,6 +10807,100 @@
     "maxListPages": 8,
     "sourceStatus": "auto_discovered_with_search",
     "discoveredAt": "2026-05-09T23:16:40.778Z"
+  },
+  {
+    "id": "auto-b9bd0d776770",
+    "school": "浙江大学",
+    "department": "物理学系",
+    "region": "浙江",
+    "homepageUrl": "https://hr.zju.edu.cn/",
+    "sourceHost": "hr.zju.edu.cn",
+    "baseUrl": "https://hr.zju.edu.cn/cn/1186/list.htm",
+    "listUrls": [
+      "https://hr.zju.edu.cn/cn/1186/list.htm"
+    ],
+    "includeKeywords": [
+      "推免",
+      "推荐免试",
+      "免试",
+      "夏令营",
+      "研学营",
+      "优秀大学生",
+      "预推免",
+      "预报名",
+      "直博",
+      "接收优秀应届本科毕业生",
+      "招生简章",
+      "研究生招生"
+    ],
+    "excludeKeywords": [
+      "博士后",
+      "招聘",
+      "人才招聘",
+      "初试成绩",
+      "成绩复核",
+      "复试名单",
+      "复试成绩",
+      "复试录取",
+      "港澳台",
+      "优秀营员名单",
+      "入营名单",
+      "候补名单",
+      "拟录取",
+      "公示",
+      "采购",
+      "招标"
+    ],
+    "maxListPages": 8,
+    "sourceStatus": "auto_discovered_with_search",
+    "discoveredAt": "2026-05-12T23:38:22.669Z"
+  },
+  {
+    "id": "auto-fb83319e00a6",
+    "school": "浙江大学",
+    "department": "心理系",
+    "region": "浙江",
+    "homepageUrl": "https://hr.zju.edu.cn/",
+    "sourceHost": "hr.zju.edu.cn",
+    "baseUrl": "https://hr.zju.edu.cn/cn/1186/list.htm",
+    "listUrls": [
+      "https://hr.zju.edu.cn/cn/1186/list.htm"
+    ],
+    "includeKeywords": [
+      "推免",
+      "推荐免试",
+      "免试",
+      "夏令营",
+      "研学营",
+      "优秀大学生",
+      "预推免",
+      "预报名",
+      "直博",
+      "接收优秀应届本科毕业生",
+      "招生简章",
+      "研究生招生"
+    ],
+    "excludeKeywords": [
+      "博士后",
+      "招聘",
+      "人才招聘",
+      "初试成绩",
+      "成绩复核",
+      "复试名单",
+      "复试成绩",
+      "复试录取",
+      "港澳台",
+      "优秀营员名单",
+      "入营名单",
+      "候补名单",
+      "拟录取",
+      "公示",
+      "采购",
+      "招标"
+    ],
+    "maxListPages": 8,
+    "sourceStatus": "auto_discovered_with_search",
+    "discoveredAt": "2026-05-12T23:38:29.089Z"
   },
   {
     "id": "auto-1bc93d521917",
