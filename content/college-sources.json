@@ -10621,6 +10621,53 @@
     "discoveredAt": "2026-05-09T23:16:29.814Z"
   },
   {
+    "id": "auto-3a08c37e1072",
+    "school": "浙江大学",
+    "department": "能源工程学院",
+    "region": "浙江",
+    "homepageUrl": "https://hr.zju.edu.cn/",
+    "sourceHost": "hr.zju.edu.cn",
+    "baseUrl": "https://hr.zju.edu.cn/cn/1186/list.htm",
+    "listUrls": [
+      "https://hr.zju.edu.cn/cn/1186/list.htm"
+    ],
+    "includeKeywords": [
+      "推免",
+      "推荐免试",
+      "免试",
+      "夏令营",
+      "研学营",
+      "优秀大学生",
+      "预推免",
+      "预报名",
+      "直博",
+      "接收优秀应届本科毕业生",
+      "招生简章",
+      "研究生招生"
+    ],
+    "excludeKeywords": [
+      "博士后",
+      "招聘",
+      "人才招聘",
+      "初试成绩",
+      "成绩复核",
+      "复试名单",
+      "复试成绩",
+      "复试录取",
+      "港澳台",
+      "优秀营员名单",
+      "入营名单",
+      "候补名单",
+      "拟录取",
+      "公示",
+      "采购",
+      "招标"
+    ],
+    "maxListPages": 8,
+    "sourceStatus": "auto_discovered_with_search",
+    "discoveredAt": "2026-05-13T23:40:53.767Z"
+  },
+  {
     "id": "auto-779ea4e7b760",
     "school": "浙江大学",
     "department": "人事服务中心",

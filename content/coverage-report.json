@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T03:49:40.818Z",
+  "generatedAt": "2026-05-14T03:35:15.120Z",
   "currentYear": 2044,
   "totals": {
     "notices": 2023,
@@ -7,8 +7,8 @@
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
-    "collegeSources": 317,
-    "missingCollegeSources": 91,
+    "collegeSources": 318,
+    "missingCollegeSources": 92,
     "llmStructured": 1662,
     "unstructured": 0
   },
@@ -2790,6 +2790,15 @@
       "status": "missing"
     },
     {
+      "id": "auto-3a08c37e1072",
+      "school": "浙江大学",
+      "department": "能源工程学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-779ea4e7b760",
       "school": "浙江大学",
       "department": "人事服务中心",
@@ -4219,6 +4228,7 @@
     "浙江大学光华法学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学经济学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学马克思主义学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学能源工程学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学人事服务中心 已登记源但暂无候选，需要检查公告页。",
     "浙江大学人文学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学社会学系 已登记源但暂无候选，需要检查公告页。",
