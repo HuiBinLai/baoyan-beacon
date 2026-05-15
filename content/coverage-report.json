@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T03:35:15.120Z",
+  "generatedAt": "2026-05-15T02:32:09.651Z",
   "currentYear": 2044,
   "totals": {
-    "notices": 2023,
+    "notices": 2024,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 302,
+      "total": 303,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 62,
@@ -1245,7 +1245,7 @@
       "id": "auto-a76c22caf7f0",
       "school": "北京大学",
       "department": "智能学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2026,
         2025,

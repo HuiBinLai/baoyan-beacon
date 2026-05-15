@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T03:35:16.226Z",
+  "generatedAt": "2026-05-15T02:32:10.747Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -287,8 +287,8 @@
       "department": "智能学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://sai.pku.edu.cn/",
-      "total": 18,
-      "recentFiveYears": 18,
+      "total": 19,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,

@@ -21981,6 +21981,275 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-2efceca6f684",
+    "school": "北京大学",
+    "department": "智能学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 智能学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2026-09-10",
+        "notices": [
+          {
+            "id": "college-f3660a2c1aa2",
+            "title": "北京大学智能学院2026年“申请-考核制” 博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-11-21",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/8955.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          },
+          {
+            "id": "college-94fef2e9df06",
+            "title": "北京大学智能学院2026年接收推荐免试研究生说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-09-01",
+            "applicationEnd": "2026-09-10",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3463.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          },
+          {
+            "id": "college-f01de9490f5a",
+            "title": "北京大学智能学院2026年推荐免试研究生复试安排",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3478.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 3,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-10-11",
+        "lastApplicationEnd": "2025-09-14",
+        "notices": [
+          {
+            "id": "college-06e7b5e9e5f8",
+            "title": "北京大学智能学院2025年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-10-11",
+            "applicationEnd": "2024-11-15",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3149.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          },
+          {
+            "id": "college-7e533ca27e08",
+            "title": "北京大学智能学院2025年接收推荐免试研究生说明",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-10",
+            "applicationEnd": "2025-09-14",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3108.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          },
+          {
+            "id": "college-8759948cb53d",
+            "title": "北京大学智能学院2025年推荐免试研究生复试安排",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3125.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2024-06-21",
+        "notices": [
+          {
+            "id": "college-68a00afd4b50",
+            "title": "北京大学智能学院关于举办2024年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3018.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          },
+          {
+            "id": "college-7d846ee027f8",
+            "title": "智能学院2024年优秀大学生夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-06-21",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3048.htm",
+            "sourceHost": "sai.pku.edu.cn",
+            "sourceHomepage": "http://sai.pku.edu.cn/",
+            "departmentHomepage": "http://sai.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2022-02-28",
+        "notices": [
+          {
+            "id": "college-2ab638dbcabb",
+            "title": "北京大学计算机学院卓越博士留学生项目2022年招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2022-02-28",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1060/11776.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://eecs.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 9,
+    "llmStructuredCount": 1,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2022
+    ],
+    "stages": [
+      "复试/考核",
+      "推免报名",
+      "夏令营/研学营",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认"
+    ],
+    "majors": [
+      "数学",
+      "智能科学与技术",
+      "计算机系统结构",
+      "计算机软件与理论",
+      "计算机应用技术"
+    ],
+    "sourceHosts": [
+      "sai.pku.edu.cn",
+      "eecs.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://sai.pku.edu.cn/",
+      "https://eecs.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://sai.pku.edu.cn/",
+      "https://eecs.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-78a72a5057cf",
     "school": "兰州大学",
     "department": "兰州大学校级/待分院",
@@ -24951,258 +25220,6 @@
     ],
     "departmentHomepages": [
       "https://fss.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-2efceca6f684",
-    "school": "北京大学",
-    "department": "智能学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 智能学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2026-09-10",
-        "notices": [
-          {
-            "id": "college-f3660a2c1aa2",
-            "title": "北京大学智能学院2026年“申请-考核制” 博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-11-21",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://sai.pku.edu.cn/info/1034/8955.htm",
-            "sourceHost": "sai.pku.edu.cn",
-            "sourceHomepage": "http://sai.pku.edu.cn/",
-            "departmentHomepage": "http://sai.pku.edu.cn/"
-          },
-          {
-            "id": "college-94fef2e9df06",
-            "title": "北京大学智能学院2026年接收推荐免试研究生说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-09-01",
-            "applicationEnd": "2026-09-10",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3463.htm",
-            "sourceHost": "sai.pku.edu.cn",
-            "sourceHomepage": "http://sai.pku.edu.cn/",
-            "departmentHomepage": "http://sai.pku.edu.cn/"
-          },
-          {
-            "id": "college-f01de9490f5a",
-            "title": "北京大学智能学院2026年推荐免试研究生复试安排",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3478.htm",
-            "sourceHost": "sai.pku.edu.cn",
-            "sourceHomepage": "http://sai.pku.edu.cn/",
-            "departmentHomepage": "http://sai.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-10-11",
-        "lastApplicationEnd": "2025-09-14",
-        "notices": [
-          {
-            "id": "college-06e7b5e9e5f8",
-            "title": "北京大学智能学院2025年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-10-11",
-            "applicationEnd": "2024-11-15",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3149.htm",
-            "sourceHost": "sai.pku.edu.cn",
-            "sourceHomepage": "http://sai.pku.edu.cn/",
-            "departmentHomepage": "http://sai.pku.edu.cn/"
-          },
-          {
-            "id": "college-7e533ca27e08",
-            "title": "北京大学智能学院2025年接收推荐免试研究生说明",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-10",
-            "applicationEnd": "2025-09-14",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3108.htm",
-            "sourceHost": "sai.pku.edu.cn",
-            "sourceHomepage": "http://sai.pku.edu.cn/",
-            "departmentHomepage": "http://sai.pku.edu.cn/"
-          },
-          {
-            "id": "college-8759948cb53d",
-            "title": "北京大学智能学院2025年推荐免试研究生复试安排",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3125.htm",
-            "sourceHost": "sai.pku.edu.cn",
-            "sourceHomepage": "http://sai.pku.edu.cn/",
-            "departmentHomepage": "http://sai.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2024-06-21",
-        "notices": [
-          {
-            "id": "college-7d846ee027f8",
-            "title": "智能学院2024年优秀大学生夏令营入营通知",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-06-21",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://sai.pku.edu.cn/info/1034/3048.htm",
-            "sourceHost": "sai.pku.edu.cn",
-            "sourceHomepage": "http://sai.pku.edu.cn/",
-            "departmentHomepage": "http://sai.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2022-02-28",
-        "notices": [
-          {
-            "id": "college-2ab638dbcabb",
-            "title": "北京大学计算机学院卓越博士留学生项目2022年招生简章",
-            "stage": "招生简章",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2022-02-28",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1060/11776.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://eecs.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 8,
-    "llmStructuredCount": 1,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2022
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "夏令营/研学营",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "博士",
-      "待确认"
-    ],
-    "majors": [
-      "数学",
-      "计算机系统结构",
-      "计算机软件与理论",
-      "计算机应用技术"
-    ],
-    "sourceHosts": [
-      "sai.pku.edu.cn",
-      "eecs.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://sai.pku.edu.cn/",
-      "https://eecs.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://sai.pku.edu.cn/",
-      "https://eecs.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
