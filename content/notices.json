@@ -1,52 +1,5 @@
 [
   {
-    "id": "college-68a00afd4b50",
-    "title": "北京大学智能学院关于举办2024年优秀大学生夏令营的通知",
-    "school": "北京大学",
-    "department": "智能学院",
-    "majors": [
-      "智能科学与技术"
-    ],
-    "type": "夏令营",
-    "year": 2024,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2024-01-01",
-    "sourceName": "北京大学智能学院官方站点",
-    "sourceUrl": "http://sai.pku.edu.cn/info/1034/3018.htm",
-    "sourceHost": "sai.pku.edu.cn",
-    "sourceHomepage": "http://sai.pku.edu.cn/",
-    "departmentHomepage": "http://sai.pku.edu.cn/",
-    "summary": "智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-a76c22caf7f0"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学智能学院关于举办2024年优秀大学生夏令营的通知。智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "智能学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-05-15",
-    "noticeStage": "夏令营/研学营",
-    "classifiedAt": "2026-05-15"
-  },
-  {
     "id": "college-703ed700aa42",
     "title": "中国人民大学文学院",
     "school": "中国人民大学",
@@ -67773,6 +67726,53 @@
     "sourceHost": "sport.muc.edu.cn",
     "sourceHomepage": "https://sport.muc.edu.cn/",
     "departmentHomepage": "https://sport.muc.edu.cn/"
+  },
+  {
+    "id": "college-68a00afd4b50",
+    "title": "北京大学智能学院关于举办2024年优秀大学生夏令营的通知",
+    "school": "北京大学",
+    "department": "智能学院",
+    "majors": [
+      "智能科学与技术"
+    ],
+    "type": "夏令营",
+    "year": 2024,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2024-01-01",
+    "sourceName": "北京大学智能学院官方站点",
+    "sourceUrl": "http://sai.pku.edu.cn/info/1034/3018.htm",
+    "sourceHost": "sai.pku.edu.cn",
+    "sourceHomepage": "http://sai.pku.edu.cn/",
+    "departmentHomepage": "http://sai.pku.edu.cn/",
+    "summary": "智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a76c22caf7f0"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学智能学院关于举办2024年优秀大学生夏令营的通知。智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "智能学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-05-15",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-05-15"
   },
   {
     "id": "college-aa1300a5c12d",
