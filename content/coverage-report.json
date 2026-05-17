@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-16T03:31:14.739Z",
+  "generatedAt": "2026-05-17T03:20:37.976Z",
   "currentYear": 2044,
   "totals": {
-    "notices": 2024,
+    "notices": 2027,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,10 +38,10 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 178,
+      "total": 181,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 48,
+      "departments": 49,
       "llmStructured": 143,
       "latestDate": "2026-01-01",
       "status": "stale"
@@ -1259,7 +1259,7 @@
       "id": "auto-b69e89812abf",
       "school": "清华大学",
       "department": "车辆与运载学院",
-      "total": 19,
+      "total": 20,
       "years": [
         2026,
         2025,
@@ -1273,7 +1273,7 @@
       "id": "auto-5cbcf2779070",
       "school": "清华大学",
       "department": "城市规划系",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,
@@ -1289,7 +1289,7 @@
       "id": "auto-65163c0497bf",
       "school": "清华大学",
       "department": "出土文献研究与保护中心",
-      "total": 2,
+      "total": 3,
       "years": [
         2026
       ],
@@ -1300,7 +1300,7 @@
       "id": "auto-5109aead1d1f",
       "school": "清华大学",
       "department": "创新创业与战略系",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,
@@ -1334,7 +1334,7 @@
       "id": "auto-bb7614a9cb75",
       "school": "清华大学",
       "department": "工程力学系",
-      "total": 9,
+      "total": 10,
       "years": [
         2026,
         2025,
@@ -1357,7 +1357,7 @@
       "id": "auto-8a1555af8482",
       "school": "清华大学",
       "department": "工业设计系",
-      "total": 30,
+      "total": 32,
       "years": [
         2026,
         2025,
@@ -1373,7 +1373,7 @@
       "id": "auto-d3ad835c55a1",
       "school": "清华大学",
       "department": "工艺美术系",
-      "total": 18,
+      "total": 19,
       "years": [
         2026,
         2025,
@@ -1453,7 +1453,7 @@
       "id": "auto-efdb96c10431",
       "school": "清华大学",
       "department": "航天航空学院",
-      "total": 35,
+      "total": 36,
       "years": [
         2026,
         2025,
@@ -1491,7 +1491,7 @@
       "id": "auto-bf42dc3e4524",
       "school": "清华大学",
       "department": "环境可持续系统管理系",
-      "total": 35,
+      "total": 36,
       "years": [
         2026,
         2025,
@@ -1507,7 +1507,7 @@
       "id": "auto-e2bf126a21a7",
       "school": "清华大学",
       "department": "环境艺术设计系",
-      "total": 22,
+      "total": 23,
       "years": [
         2026,
         2025,
@@ -1532,7 +1532,7 @@
       "id": "auto-65fa30f29b89",
       "school": "清华大学",
       "department": "绘画系",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,
@@ -1548,7 +1548,7 @@
       "id": "auto-a3c948275aed",
       "school": "清华大学",
       "department": "机械工程系",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,
@@ -1593,7 +1593,7 @@
       "id": "auto-e0050b4ec741",
       "school": "清华大学",
       "department": "建筑技术科学系",
-      "total": 18,
+      "total": 19,
       "years": [
         2026,
         2025,
@@ -1606,7 +1606,7 @@
       "id": "auto-953493a80c78",
       "school": "清华大学",
       "department": "建筑系",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,
@@ -1653,7 +1653,7 @@
       "id": "auto-bc1946012103",
       "school": "清华大学",
       "department": "景观学系",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,
@@ -1685,7 +1685,7 @@
       "id": "auto-028fe9eefa89",
       "school": "清华大学",
       "department": "历史系",
-      "total": 32,
+      "total": 33,
       "years": [
         2026,
         2025,
@@ -1713,7 +1713,7 @@
       "id": "auto-388aae5c16fb",
       "school": "清华大学",
       "department": "能源与动力工程系",
-      "total": 32,
+      "total": 33,
       "years": [
         2026,
         2025,
@@ -1750,7 +1750,7 @@
       "id": "auto-1ac063963b25",
       "school": "清华大学",
       "department": "人工智能学院",
-      "total": 18,
+      "total": 19,
       "years": [
         2026,
         2025,
@@ -1874,7 +1874,7 @@
       "id": "auto-64e39c01d19b",
       "school": "清华大学",
       "department": "信息国家研究中心",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,
@@ -1902,7 +1902,7 @@
       "id": "auto-6e523fba3bb2",
       "school": "清华大学",
       "department": "信息艺术设计系",
-      "total": 18,
+      "total": 19,
       "years": [
         2026,
         2025,
@@ -1948,7 +1948,7 @@
       "id": "auto-227e1862dcde",
       "school": "清华大学",
       "department": "艺术史论系",
-      "total": 7,
+      "total": 8,
       "years": [
         2026,
         2025,
@@ -1971,7 +1971,7 @@
       "id": "auto-cdcba6c3f5c5",
       "school": "清华大学",
       "department": "政治学系",
-      "total": 19,
+      "total": 20,
       "years": [
         2026,
         2025,
@@ -1995,7 +1995,7 @@
       "id": "auto-b8365efed3cc",
       "school": "清华大学",
       "department": "中国语言文学系",
-      "total": 30,
+      "total": 31,
       "years": [
         2026,
         2025,

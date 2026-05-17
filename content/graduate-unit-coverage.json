@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T03:31:15.895Z",
+  "generatedAt": "2026-05-17T03:20:39.069Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,9 +10,9 @@
   ],
   "totals": {
     "units": 1132,
-    "covered": 762,
+    "covered": 763,
     "stale": 3,
-    "missing": 367,
+    "missing": 366,
     "currentSeasonCovered": 4
   },
   "units": [
@@ -6701,8 +6701,8 @@
       "department": "车辆与运载学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.svm.tsinghua.edu.cn/",
-      "total": 19,
-      "recentFiveYears": 19,
+      "total": 20,
+      "recentFiveYears": 20,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7443,16 +7443,17 @@
       "department": "人文学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.rwxy.tsinghua.edu.cn/",
-      "total": 8,
-      "recentFiveYears": 7,
+      "total": 9,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024,
         2023,
         2021
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -7654,12 +7655,14 @@
       "department": "工业设计系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "e2bf126a21",
@@ -7844,8 +7847,8 @@
       "department": "出土文献研究与保护中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.ctwx.tsinghua.edu.cn/",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026
@@ -17247,7 +17250,6 @@
     "清华大学中国语言文学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学哲学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学艺术史论系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "清华大学工业设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学陶瓷艺术设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学视觉传达设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学染织服装艺术设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
