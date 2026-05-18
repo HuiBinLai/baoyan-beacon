@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-17T03:20:37.976Z",
+  "generatedAt": "2026-05-18T03:27:16.209Z",
   "currentYear": 2044,
   "totals": {
-    "notices": 2027,
+    "notices": 2029,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
-    "collegeSources": 318,
-    "missingCollegeSources": 92,
+    "collegeSources": 319,
+    "missingCollegeSources": 93,
     "llmStructured": 1662,
     "unstructured": 0
   },
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 248,
+      "total": 250,
       "currentYear": 0,
       "recentFiveYears": 1,
       "departments": 48,
@@ -2047,7 +2047,7 @@
       "id": "auto-45d7ff8dd7de",
       "school": "上海交通大学",
       "department": "船舶海洋与建筑工程学院",
-      "total": 8,
+      "total": 10,
       "years": [
         2026,
         2025
@@ -2748,6 +2748,15 @@
       "id": "auto-d28c87b2d367",
       "school": "浙江大学",
       "department": "地球科学学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-20695cbb3afb",
+      "school": "浙江大学",
+      "department": "电气工程学院",
       "total": 0,
       "years": [],
       "latestDate": "",
@@ -4224,6 +4233,7 @@
     "浙江大学传媒学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学党委教师工作部 已登记源但暂无候选，需要检查公告页。",
     "浙江大学地球科学学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学电气工程学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学公共管理学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学光华法学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学经济学院 已登记源但暂无候选，需要检查公告页。",

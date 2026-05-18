@@ -10433,6 +10433,53 @@
     "discoveredAt": "2026-05-12T23:38:25.881Z"
   },
   {
+    "id": "auto-20695cbb3afb",
+    "school": "浙江大学",
+    "department": "电气工程学院",
+    "region": "浙江",
+    "homepageUrl": "https://hr.zju.edu.cn/",
+    "sourceHost": "hr.zju.edu.cn",
+    "baseUrl": "https://hr.zju.edu.cn/cn/1186/list.htm",
+    "listUrls": [
+      "https://hr.zju.edu.cn/cn/1186/list.htm"
+    ],
+    "includeKeywords": [
+      "推免",
+      "推荐免试",
+      "免试",
+      "夏令营",
+      "研学营",
+      "优秀大学生",
+      "预推免",
+      "预报名",
+      "直博",
+      "接收优秀应届本科毕业生",
+      "招生简章",
+      "研究生招生"
+    ],
+    "excludeKeywords": [
+      "博士后",
+      "招聘",
+      "人才招聘",
+      "初试成绩",
+      "成绩复核",
+      "复试名单",
+      "复试成绩",
+      "复试录取",
+      "港澳台",
+      "优秀营员名单",
+      "入营名单",
+      "候补名单",
+      "拟录取",
+      "公示",
+      "采购",
+      "招标"
+    ],
+    "maxListPages": 8,
+    "sourceStatus": "auto_discovered_with_search",
+    "discoveredAt": "2026-05-17T23:21:05.825Z"
+  },
+  {
     "id": "auto-9c1a1dad091e",
     "school": "浙江大学",
     "department": "公共管理学院",

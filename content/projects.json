@@ -20503,6 +20503,268 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-0f353d45d296",
+    "school": "上海交通大学",
+    "department": "船舶海洋与建筑工程学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 船舶海洋与建筑工程学院",
+    "tracks": [
+      "建筑土木交通",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 6,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "专业型硕士",
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-06-01",
+        "lastApplicationEnd": "2026-07-31",
+        "notices": [
+          {
+            "id": "college-a82d5f84def3",
+            "title": "上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/14654.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-85a63209bef4",
+            "title": "上一条：上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-03",
+            "applicationEnd": "2026-07-31",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-03eb5c1a7153",
+            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15402.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c9303c643c54",
+            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15402.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d40f466f8fff",
+            "title": "上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-06-01",
+            "applicationEnd": "2025-06-20",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2a274ed4e8c4",
+            "title": "硕士研究生招生专业目录及考试科目",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/info/1022/3793.htm",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 4,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-65638bbae2d1",
+            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4cdb311185b0",
+            "title": "下一条：船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fc475487184c",
+            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-27c3e060a7f5",
+            "title": "下一条：船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 10,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名",
+      "推免",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "直博",
+      "专业型硕士",
+      "博士",
+      "硕士"
+    ],
+    "majors": [
+      "电子信息",
+      "数学",
+      "机械工程",
+      "土木工程",
+      "教育学",
+      "力学",
+      "交通运输工程",
+      "船舶与海洋工程"
+    ],
+    "sourceHosts": [
+      "oce.sjtu.edu.cn",
+      "naoce.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://oce.sjtu.edu.cn/",
+      "https://naoce.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://naoce.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-19540a532b3c",
     "school": "上海交通大学",
     "department": "心理学院",
@@ -26057,234 +26319,6 @@
       "https://yz.sdu.edu.cn/",
       "https://www.art.sdu.edu.cn/",
       "https://www.bkjx.sdu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-0f353d45d296",
-    "school": "上海交通大学",
-    "department": "船舶海洋与建筑工程学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 船舶海洋与建筑工程学院",
-    "tracks": [
-      "建筑土木交通",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "直博",
-          "专业型硕士",
-          "博士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-06-01",
-        "lastApplicationEnd": "2026-07-31",
-        "notices": [
-          {
-            "id": "college-85a63209bef4",
-            "title": "上一条：上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-03",
-            "applicationEnd": "2026-07-31",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-03eb5c1a7153",
-            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15402.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c9303c643c54",
-            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15402.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d40f466f8fff",
-            "title": "上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-06-01",
-            "applicationEnd": "2025-06-20",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2a274ed4e8c4",
-            "title": "硕士研究生招生专业目录及考试科目",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/info/1022/3793.htm",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-4cdb311185b0",
-            "title": "下一条：船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-fc475487184c",
-            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-27c3e060a7f5",
-            "title": "下一条：船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/13586.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 8,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免报名",
-      "推免",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "直博",
-      "专业型硕士",
-      "博士",
-      "硕士"
-    ],
-    "majors": [
-      "电子信息",
-      "数学",
-      "机械工程",
-      "土木工程",
-      "教育学",
-      "力学",
-      "交通运输工程",
-      "船舶与海洋工程"
-    ],
-    "sourceHosts": [
-      "naoce.sjtu.edu.cn",
-      "oce.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://naoce.sjtu.edu.cn/",
-      "https://oce.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://naoce.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
