@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-18T03:27:16.209Z",
+  "generatedAt": "2026-05-19T03:47:08.320Z",
   "currentYear": 2044,
   "totals": {
-    "notices": 2029,
+    "notices": 2032,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 319,
-    "missingCollegeSources": 93,
+    "missingCollegeSources": 92,
     "llmStructured": 1662,
     "unstructured": 0
   },
@@ -27,10 +27,10 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 303,
+      "total": 306,
       "currentYear": 1,
       "recentFiveYears": 1,
-      "departments": 62,
+      "departments": 63,
       "llmStructured": 139,
       "latestDate": "2044-01-01",
       "status": "covered"
@@ -821,7 +821,7 @@
       "id": "auto-809c9df6fb79",
       "school": "北京大学",
       "department": "前沿交叉学科研究院",
-      "total": 5,
+      "total": 7,
       "years": [
         2026,
         2025
@@ -948,10 +948,12 @@
       "id": "auto-302503b2d86d",
       "school": "北京大学",
       "department": "生命科学学院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-93564fb96e58",
@@ -4177,7 +4179,6 @@
     "北京大学基础医学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学人口研究所国家发展研究院 已登记源但暂无候选，需要检查公告页。",
     "北京大学人文社会科学学院 已登记源但暂无候选，需要检查公告页。",
-    "北京大学生命科学学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学数学科学学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学体育教研部 已登记源但暂无候选，需要检查公告页。",
     "北京大学未来技术学院 已登记源但暂无候选，需要检查公告页。",

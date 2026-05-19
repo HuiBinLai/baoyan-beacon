@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T03:27:17.308Z",
+  "generatedAt": "2026-05-19T03:47:09.404Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -170,8 +170,8 @@
       "department": "生命科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://bio.pku.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 6,
+      "recentFiveYears": 6,
       "currentSeason": 0,
       "years": [
         2026
@@ -876,8 +876,8 @@
       "department": "碳中和研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://carbon.pku.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 9,
+      "recentFiveYears": 9,
       "currentSeason": 0,
       "years": [
         2026,
@@ -892,8 +892,8 @@
       "department": "前沿交叉学科研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.aais.pku.edu.cn/",
-      "total": 12,
-      "recentFiveYears": 12,
+      "total": 15,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
