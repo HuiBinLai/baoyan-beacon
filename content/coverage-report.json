@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T03:47:08.320Z",
+  "generatedAt": "2026-05-20T03:45:27.764Z",
   "currentYear": 2044,
   "totals": {
-    "notices": 2032,
+    "notices": 2037,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 181,
+      "total": 186,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -1703,7 +1703,7 @@
       "id": "auto-b44a5c981efa",
       "school": "清华大学",
       "department": "领导力与组织管理系",
-      "total": 11,
+      "total": 16,
       "years": [
         2026,
         2025
