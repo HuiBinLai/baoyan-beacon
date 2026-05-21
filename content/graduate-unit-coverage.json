@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T03:45:28.850Z",
+  "generatedAt": "2026-05-21T03:57:53.202Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -14337,8 +14337,8 @@
       "department": "电子工程与信息科学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://eeis.ustc.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 9,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,

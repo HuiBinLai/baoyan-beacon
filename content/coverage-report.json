@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T03:45:27.764Z",
+  "generatedAt": "2026-05-21T03:57:52.058Z",
   "currentYear": 2044,
   "totals": {
-    "notices": 2037,
+    "notices": 2038,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 208,
+      "total": 209,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 48,
@@ -3012,7 +3012,7 @@
       "id": "auto-ecb12824cefc",
       "school": "中国科学技术大学",
       "department": "电子工程与信息科学系",
-      "total": 9,
+      "total": 10,
       "years": [
         2026,
         2025,

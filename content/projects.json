@@ -21435,6 +21435,278 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-61b92511c74f",
+    "school": "中国科学技术大学",
+    "department": "电子工程与信息科学系",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 电子工程与信息科学系",
+    "tracks": [
+      "计算机/AI",
+      "医学药学",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-3116159832c0",
+            "title": "2026年研究生招生科学营公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2026/0520/c2702a741249/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          },
+          {
+            "id": "college-ccc7a899bd3c",
+            "title": "电子工程与信息科学系2026年硕士研究生招生复试办法及复试流程",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2026/0319/c2702a723627/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-f0f9fef6e2c1",
+            "title": "未尽事宜，请在推免招生咨询群中咨询。",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0903/c2702a698535/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          },
+          {
+            "id": "college-6c5d5ee6918f",
+            "title": "中国科学技术大学电子工程与信息科学系 2025年研招夏令营公告",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0620/c2702a688341/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          },
+          {
+            "id": "college-c034eca650fc",
+            "title": "中国科学技术大学电子工程与信息科学系2025年硕士研究生招生复试办法及复试流程",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0317/c2702a677060/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          },
+          {
+            "id": "college-9f4caa64977c",
+            "title": "2025年研招夏令营公告",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0620/c2702a688341/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          },
+          {
+            "id": "college-9ee2d3dd88d1",
+            "title": "电子工程与信息科学系外校推免生招生公告",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0903/c2702a698535/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          },
+          {
+            "id": "college-113aeb188c19",
+            "title": "中国科学技术大学电子工程与信息科学系 2025年硕士研究生招生复...",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0317/c2702a677060/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2024-09-20",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-c96c166b3680",
+            "title": "未尽事宜，请在推免招生咨询群中咨询。",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2024/0906/c2702a652753/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          },
+          {
+            "id": "college-3ddaab638320",
+            "title": "电子工程与信息科学系外校推免生预面试公告",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-09-20",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eeis.ustc.edu.cn/2024/0906/c2702a652753/page.htm",
+            "sourceHost": "eeis.ustc.edu.cn",
+            "sourceHomepage": "https://eeis.ustc.edu.cn/",
+            "departmentHomepage": "https://eeis.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 10,
+    "llmStructuredCount": 2,
+    "years": [
+      2026,
+      2025,
+      2024
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士"
+    ],
+    "majors": [
+      "网络空间安全",
+      "信息与通信工程",
+      "电子科学技术",
+      "电子信息（电子与通信工程）",
+      "退役大学生计划",
+      "人工智能",
+      "电子信息",
+      "电子科学与技术",
+      "生物医学工程",
+      "数学"
+    ],
+    "sourceHosts": [
+      "eeis.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://eeis.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://eeis.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-1eaee3e8ca3a",
     "school": "中国科学技术大学",
     "department": "国际金融研究院",
@@ -23977,260 +24249,6 @@
     ],
     "departmentHomepages": [
       "https://soo.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-61b92511c74f",
-    "school": "中国科学技术大学",
-    "department": "电子工程与信息科学系",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 电子工程与信息科学系",
-    "tracks": [
-      "计算机/AI",
-      "医学药学",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-ccc7a899bd3c",
-            "title": "电子工程与信息科学系2026年硕士研究生招生复试办法及复试流程",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2026/0319/c2702a723627/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-f0f9fef6e2c1",
-            "title": "未尽事宜，请在推免招生咨询群中咨询。",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0903/c2702a698535/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          },
-          {
-            "id": "college-6c5d5ee6918f",
-            "title": "中国科学技术大学电子工程与信息科学系 2025年研招夏令营公告",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0620/c2702a688341/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          },
-          {
-            "id": "college-c034eca650fc",
-            "title": "中国科学技术大学电子工程与信息科学系2025年硕士研究生招生复试办法及复试流程",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0317/c2702a677060/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          },
-          {
-            "id": "college-9f4caa64977c",
-            "title": "2025年研招夏令营公告",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0620/c2702a688341/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          },
-          {
-            "id": "college-9ee2d3dd88d1",
-            "title": "电子工程与信息科学系外校推免生招生公告",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0903/c2702a698535/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          },
-          {
-            "id": "college-113aeb188c19",
-            "title": "中国科学技术大学电子工程与信息科学系 2025年硕士研究生招生复...",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2025/0317/c2702a677060/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2024-09-20",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-c96c166b3680",
-            "title": "未尽事宜，请在推免招生咨询群中咨询。",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2024/0906/c2702a652753/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          },
-          {
-            "id": "college-3ddaab638320",
-            "title": "电子工程与信息科学系外校推免生预面试公告",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-09-20",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eeis.ustc.edu.cn/2024/0906/c2702a652753/page.htm",
-            "sourceHost": "eeis.ustc.edu.cn",
-            "sourceHomepage": "https://eeis.ustc.edu.cn/",
-            "departmentHomepage": "https://eeis.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 9,
-    "llmStructuredCount": 2,
-    "years": [
-      2026,
-      2025,
-      2024
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "待确认"
-    ],
-    "majors": [
-      "电子科学技术",
-      "信息与通信工程",
-      "电子信息（电子与通信工程）",
-      "退役大学生计划",
-      "网络空间安全",
-      "人工智能",
-      "电子信息",
-      "电子科学与技术",
-      "生物医学工程",
-      "数学"
-    ],
-    "sourceHosts": [
-      "eeis.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://eeis.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://eeis.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
