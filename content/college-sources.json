@@ -9150,7 +9150,8 @@
     "sourceHost": "www.inrd.sjtu.edu.cn",
     "baseUrl": "http://www.inrd.sjtu.edu.cn/",
     "listUrls": [
-      "http://www.inrd.sjtu.edu.cn/"
+      "http://www.inrd.sjtu.edu.cn/",
+      "http://www.inrd.sjtu.edu.cn/Data/View/1101"
     ],
     "includeKeywords": [
       "推免",
