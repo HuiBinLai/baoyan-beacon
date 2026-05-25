@@ -4685,7 +4685,9 @@
       "http://yz.tsinghua.edu.cn/",
       "https://www.ad.tsinghua.edu.cn/zs/bkszs/a20222021.htm",
       "https://www.ad.tsinghua.edu.cn/zs/yjszs/yjszs.htm",
-      "https://yzbm.tsinghua.edu.cn/publish/infors"
+      "https://yzbm.tsinghua.edu.cn/publish/infors",
+      "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
+      "https://www.tsinghua.edu.cn/hzjl/gnhz/rcpyyjl.htm"
     ],
     "includeKeywords": [
       "推免",
@@ -5591,7 +5593,9 @@
       "https://yz.tsinghua.edu.cn/",
       "https://gix.tsinghua.edu.cn/info/1043/1408.htm",
       "https://yz.tsinghua.edu.cn/info/1018/1943.htm",
-      "http://yz.tsinghua.edu.cn/"
+      "http://yz.tsinghua.edu.cn/",
+      "http://gix.tsinghua.edu.cn/info/1043/1408.htm",
+      "http://gix.tsinghua.edu.cn/"
     ],
     "includeKeywords": [
       "推免",
@@ -5803,7 +5807,9 @@
       "http://pg.sem.tsinghua.edu.cn/",
       "http://pg.sem.tsinghua.edu.cn/bsxm/scyxx.htm",
       "https://www.sem.tsinghua.edu.cn/",
-      "https://www.sem.tsinghua.edu.cn/js/szdw/zzjs/xbyqnav/scyxx.htm"
+      "https://www.sem.tsinghua.edu.cn/js/szdw/zzjs/xbyqnav/scyxx.htm",
+      "https://www.sem.tsinghua.edu.cn/mark/",
+      "https://www.sem.tsinghua.edu.cn/mark/index.htm"
     ],
     "includeKeywords": [
       "推免",
