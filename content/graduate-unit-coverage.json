@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T03:47:09.672Z",
+  "generatedAt": "2026-05-27T03:47:06.408Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -8841,8 +8841,8 @@
       "department": "医学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 9,
-      "recentFiveYears": 9,
+      "total": 10,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9113,8 +9113,8 @@
       "department": "人工智能学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://soai.sjtu.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 15,
+      "total": 16,
+      "recentFiveYears": 16,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9226,8 +9226,8 @@
       "department": "张江高等研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://zias.sjtu.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026

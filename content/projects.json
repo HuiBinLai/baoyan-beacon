@@ -9567,7 +9567,7 @@
     "timeline": [
       {
         "year": 2026,
-        "count": 9,
+        "count": 10,
         "stages": [
           "推免报名",
           "夏令营/研学营",
@@ -9588,6 +9588,23 @@
         "firstApplicationStart": "2025-09-09",
         "lastApplicationEnd": "2026-05-25",
         "notices": [
+          {
+            "id": "college-b5949545a713",
+            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名） 2025-11-07",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
           {
             "id": "college-c5b8592f3099",
             "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
@@ -9908,7 +9925,7 @@
     "currentSeasonStatus": "监控中，暂未发现官方通知",
     "currentSeasonCount": 0,
     "latestPastYear": 2026,
-    "noticeCount": 15,
+    "noticeCount": 16,
     "llmStructuredCount": 9,
     "years": [
       2026,
@@ -59534,6 +59551,98 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-8042887bcee9",
+    "school": "上海交通大学",
+    "department": "张江高等研究院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 张江高等研究院",
+    "tracks": [
+      "医学药学",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-6800a66ede83",
+            "title": "医学院博士生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/xygk/jdjj#",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-40251b853c93",
+            "title": "招生简章-上海交通大学 | 张江高等研究院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://zias.sjtu.edu.cn/rcpy1/zsxx/zsjz.htm",
+            "sourceHost": "zias.sjtu.edu.cn",
+            "sourceHomepage": "https://zias.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 2,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "yzb.sjtu.edu.cn",
+      "zias.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzb.sjtu.edu.cn/",
+      "https://zias.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://zias.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-0fa39e525c08",
     "school": "上海交通大学",
     "department": "中欧国际工商学院",
@@ -79541,79 +79650,6 @@
     ],
     "departmentHomepages": [
       "https://tiyuxi.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-8042887bcee9",
-    "school": "上海交通大学",
-    "department": "张江高等研究院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 张江高等研究院",
-    "tracks": [
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-40251b853c93",
-            "title": "招生简章-上海交通大学 | 张江高等研究院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://zias.sjtu.edu.cn/rcpy1/zsxx/zsjz.htm",
-            "sourceHost": "zias.sjtu.edu.cn",
-            "sourceHomepage": "https://zias.sjtu.edu.cn/",
-            "departmentHomepage": "https://zias.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 1,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "zias.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://zias.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://zias.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
