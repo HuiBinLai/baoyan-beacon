@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T03:59:33.989Z",
+  "generatedAt": "2026-05-30T04:00:54.661Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -287,8 +287,8 @@
       "department": "智能学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://sai.pku.edu.cn/",
-      "total": 19,
-      "recentFiveYears": 19,
+      "total": 20,
+      "recentFiveYears": 20,
       "currentSeason": 0,
       "years": [
         2026,
@@ -1034,8 +1034,8 @@
       "department": "汇丰商学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.phbs.pku.edu.cn/",
-      "total": 12,
-      "recentFiveYears": 12,
+      "total": 13,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
