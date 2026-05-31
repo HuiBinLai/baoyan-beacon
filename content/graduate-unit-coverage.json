@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T04:00:54.661Z",
+  "generatedAt": "2026-05-31T03:16:25.591Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -323,8 +323,8 @@
       "department": "软件工程国家工程研究中心",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://se.pku.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 6,
+      "total": 9,
+      "recentFiveYears": 8,
       "currentSeason": 1,
       "years": [
         2027,
@@ -1254,8 +1254,8 @@
       "department": "计算机学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://cs.pku.edu.cn/info/1022/3813.htm",
-      "total": 23,
-      "recentFiveYears": 22,
+      "total": 25,
+      "recentFiveYears": 24,
       "currentSeason": 1,
       "years": [
         2027,

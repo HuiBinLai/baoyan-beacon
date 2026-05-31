@@ -42705,6 +42705,121 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-6628650d15d7",
+    "school": "北京大学",
+    "department": "软件工程国家工程研究中心",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 软件工程国家工程研究中心",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "夏令营/研学营",
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-06-01",
+        "lastApplicationEnd": "2026-06-15",
+        "notices": [
+          {
+            "id": "college-530e1f13e05d",
+            "title": "北京大学计算机学院关于举办2026年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1051/5810.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-50f9372fea5a",
+            "title": "—— 2026.05.29 ——",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1022/5820.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-969cd98827ab",
+            "title": "北京大学计算机学院2026年“申请-考核制”博士研究生招生复试工作安排",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1051/4290.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://cs.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士"
+    ],
+    "majors": [
+      "计算机科学与技术",
+      "数学"
+    ],
+    "sourceHosts": [
+      "cs.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://cs.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://se.pku.edu.cn/",
+      "https://cs.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-f1f615530286",
     "school": "北京大学",
     "department": "心理与认知科学学院",
@@ -64000,79 +64115,6 @@
     ],
     "departmentHomepages": [
       "https://admission.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-6628650d15d7",
-    "school": "北京大学",
-    "department": "软件工程国家工程研究中心",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 软件工程国家工程研究中心",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-969cd98827ab",
-            "title": "北京大学计算机学院2026年“申请-考核制”博士研究生招生复试工作安排",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://cs.pku.edu.cn/info/1051/4290.htm",
-            "sourceHost": "cs.pku.edu.cn",
-            "sourceHomepage": "https://cs.pku.edu.cn/",
-            "departmentHomepage": "https://cs.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 1,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "博士"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "cs.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://cs.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://cs.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

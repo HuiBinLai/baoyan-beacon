@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-30T04:00:53.532Z",
+  "generatedAt": "2026-05-31T03:16:24.387Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2056,
+    "notices": 2058,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 305,
+      "total": 307,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 61,
@@ -896,7 +896,7 @@
       "id": "auto-6f38e9dc8bb7",
       "school": "北京大学",
       "department": "软件工程国家工程研究中心",
-      "total": 7,
+      "total": 9,
       "years": [
         2027,
         2026,
