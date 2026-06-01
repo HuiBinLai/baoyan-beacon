@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-31T03:16:24.387Z",
+  "generatedAt": "2026-06-01T03:44:23.026Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2058,
+    "notices": 2067,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 307,
+      "total": 309,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 61,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 183,
+      "total": 184,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 47,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 269,
+      "total": 275,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -698,7 +698,7 @@
       "id": "auto-5766654a8aed",
       "school": "北京大学",
       "department": "集成电路学院",
-      "total": 6,
+      "total": 7,
       "years": [
         2026,
         2025
@@ -795,7 +795,7 @@
       "id": "auto-c174a4b6a962",
       "school": "北京大学",
       "department": "力学与工程科学学院",
-      "total": 2,
+      "total": 3,
       "years": [
         2026,
         2025
@@ -1384,7 +1384,7 @@
       "id": "auto-de047849affc",
       "school": "清华大学",
       "department": "管理科学与工程系",
-      "total": 11,
+      "total": 12,
       "years": [
         2026,
         2025
@@ -2109,7 +2109,7 @@
       "id": "auto-85bf429b6613",
       "school": "上海交通大学",
       "department": "海洋学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2026,
         2025
@@ -2358,7 +2358,7 @@
       "id": "auto-0ff9868c9a19",
       "school": "上海交通大学",
       "department": "人工智能学院",
-      "total": 16,
+      "total": 18,
       "years": [
         2026,
         2025,
@@ -2457,7 +2457,7 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 12,
+      "total": 14,
       "years": [
         2041,
         2026,
@@ -2556,7 +2556,7 @@
       "id": "auto-132daa9c093d",
       "school": "上海交通大学",
       "department": "医学院",
-      "total": 3,
+      "total": 4,
       "years": [
         2026
       ],

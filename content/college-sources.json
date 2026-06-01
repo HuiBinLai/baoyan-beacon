@@ -10114,7 +10114,8 @@
     "baseUrl": "https://bio-x.sjtu.edu.cn/",
     "listUrls": [
       "https://bio-x.sjtu.edu.cn/",
-      "https://bio-x.sjtu.edu.cn/Web/Content/3"
+      "https://bio-x.sjtu.edu.cn/Web/Content/3",
+      "https://bio-x.sjtu.edu.cn/Web/Show/2800"
     ],
     "includeKeywords": [
       "推免",
