@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-02T03:59:54.814Z",
+  "generatedAt": "2026-06-03T04:11:28.098Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2068,
+    "notices": 2075,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 319,
-    "missingCollegeSources": 92,
+    "missingCollegeSources": 91,
     "llmStructured": 1560,
     "unstructured": 0
   },
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 310,
+      "total": 313,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 61,
@@ -93,10 +93,10 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 211,
+      "total": 215,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 47,
+      "departments": 48,
       "llmStructured": 94,
       "latestDate": "2027-01-01",
       "status": "stale"
@@ -459,7 +459,7 @@
       "id": "auto-be14dcbc0e21",
       "school": "北京大学",
       "department": "材料科学与工程学院",
-      "total": 15,
+      "total": 16,
       "years": [
         2026,
         2025,
@@ -1080,7 +1080,7 @@
       "id": "auto-e676521d61b7",
       "school": "北京大学",
       "department": "信息工程学院",
-      "total": 11,
+      "total": 13,
       "years": [
         2026,
         2025,
@@ -3251,10 +3251,12 @@
       "id": "auto-7e46ccd4068e",
       "school": "中国科学技术大学",
       "department": "环境科学与光电技术学院科教融合学院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 2,
+      "years": [
+        2027
+      ],
+      "latestDate": "2027-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-7d6b8a6b9ae4",
@@ -3462,26 +3464,28 @@
       "id": "auto-d70adc3312c0",
       "school": "中国科学技术大学",
       "department": "纳米技术与纳米仿生学院",
-      "total": 5,
+      "total": 6,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2021
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
       "id": "auto-34aac3c8b044",
       "school": "中国科学技术大学",
       "department": "纳米技术与纳米仿生学院科教融合学院",
-      "total": 2,
+      "total": 3,
       "years": [
+        2027,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -3652,7 +3656,7 @@
       "id": "auto-f52537a8f02e",
       "school": "中国科学技术大学",
       "department": "数学科学学院",
-      "total": 2,
+      "total": 3,
       "years": [
         2026,
         2019
@@ -4246,7 +4250,6 @@
     "中国科学技术大学国家卓越工程师学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学化学物理系 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学环境科学与工程系 已登记源但暂无候选，需要检查公告页。",
-    "中国科学技术大学环境科学与光电技术学院科教融合学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学基础医学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学集成电路学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学集成电路学院国家示范性微电子学院 已登记源但暂无候选，需要检查公告页。",

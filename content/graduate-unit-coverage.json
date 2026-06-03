@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T03:59:55.461Z",
+  "generatedAt": "2026-06-03T04:11:29.261Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -11,9 +11,9 @@
   "totals": {
     "units": 1132,
     "covered": 762,
-    "stale": 3,
-    "missing": 367,
-    "currentSeasonCovered": 6
+    "stale": 4,
+    "missing": 366,
+    "currentSeasonCovered": 11
   },
   "units": [
     {
@@ -504,8 +504,8 @@
       "department": "材料科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.mse.pku.edu.cn/",
-      "total": 25,
-      "recentFiveYears": 22,
+      "total": 26,
+      "recentFiveYears": 23,
       "currentSeason": 0,
       "years": [
         2026,
@@ -942,8 +942,8 @@
       "department": "信息工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ece.pku.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 13,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -13931,8 +13931,8 @@
       "department": "数学科学学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://math.ustc.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 12,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14864,12 +14864,14 @@
       "department": "环境科学与光电技术学院科教融合学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://env.ustc.edu.cn/",
-      "total": 0,
+      "total": 2,
       "recentFiveYears": 0,
-      "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "currentSeason": 2,
+      "years": [
+        2027
+      ],
+      "latestDate": "2027-01-01",
+      "status": "stale"
     },
     {
       "id": "0d2dd6269d",
@@ -14903,14 +14905,15 @@
       "department": "纳米技术与纳米仿生学院科教融合学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 2,
+      "total": 3,
       "recentFiveYears": 2,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15222,17 +15225,18 @@
       "department": "纳米技术与纳米仿生学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 11,
+      "total": 12,
       "recentFiveYears": 11,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2023,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15316,14 +15320,15 @@
       "department": "中国科学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 3,
+      "total": 6,
       "recentFiveYears": 3,
-      "currentSeason": 0,
+      "currentSeason": 3,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15358,13 +15363,14 @@
       "department": "环境科学与光电技术学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://env.ustc.edu.cn/2025/0826/c9571a697495/page.htm",
-      "total": 1,
+      "total": 4,
       "recentFiveYears": 1,
-      "currentSeason": 0,
+      "currentSeason": 3,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
