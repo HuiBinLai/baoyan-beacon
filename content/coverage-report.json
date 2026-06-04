@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-03T04:11:28.098Z",
+  "generatedAt": "2026-06-04T04:19:13.682Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2075,
+    "notices": 2076,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 184,
+      "total": 185,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 47,
@@ -1887,9 +1887,10 @@
       "id": "auto-67c4cf7e6704",
       "school": "清华大学",
       "department": "信息科学技术学院",
-      "total": 3,
+      "total": 4,
       "years": [
         2026,
+        2025,
         2016
       ],
       "latestDate": "2026-01-01",

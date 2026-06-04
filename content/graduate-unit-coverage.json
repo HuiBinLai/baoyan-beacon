@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T04:11:29.261Z",
+  "generatedAt": "2026-06-04T04:19:14.802Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -6795,11 +6795,12 @@
       "department": "信息科学技术学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.sist.tsinghua.edu.cn/",
-      "total": 3,
-      "recentFiveYears": 2,
+      "total": 4,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026,
+        2025,
         2016
       ],
       "latestDate": "2026-01-01",

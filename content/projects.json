@@ -40823,6 +40823,168 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-81f7b220a56c",
+    "school": "清华大学",
+    "department": "信息科学技术学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 信息科学技术学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-259ea6c26975",
+            "title": "清华大学计算机科学与技术系2026年博士研究生招生综合考核及录取办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1048/6857.htm",
+            "sourceHost": "www.cs.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.cs.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-24001a1cdcee",
+            "title": "清华大学计算机科学与技术系2026年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1048/6855.htm",
+            "sourceHost": "www.cs.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.cs.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-88a5eb29921c",
+            "title": "计算机系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1048/6359.htm",
+            "sourceHost": "www.cs.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.cs.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2016,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2016-01-01",
+        "lastPublishedAt": "2016-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-140f09b7bc49",
+            "title": "计算机系举办2016“大数据”国际夏令营",
+            "stage": "夏令营/研学营",
+            "year": 2016,
+            "publishedAt": "2016-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1044/1387.htm",
+            "sourceHost": "www.cs.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.cs.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 4,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025,
+      2016
+    ],
+    "stages": [
+      "复试/考核",
+      "推免报名",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认"
+    ],
+    "majors": [
+      "计算机科学与技术"
+    ],
+    "sourceHosts": [
+      "www.cs.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.cs.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.cs.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-0c4f34abdc56",
     "school": "山东大学",
     "department": "经济学院",
@@ -47319,133 +47481,6 @@
     "departmentHomepages": [
       "https://yz.tsinghua.edu.cn/",
       "https://www.svm.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-81f7b220a56c",
-    "school": "清华大学",
-    "department": "信息科学技术学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 信息科学技术学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-259ea6c26975",
-            "title": "清华大学计算机科学与技术系2026年博士研究生招生综合考核及录取办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1048/6857.htm",
-            "sourceHost": "www.cs.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.cs.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-24001a1cdcee",
-            "title": "清华大学计算机科学与技术系2026年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1048/6855.htm",
-            "sourceHost": "www.cs.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.cs.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2016,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2016-01-01",
-        "lastPublishedAt": "2016-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-140f09b7bc49",
-            "title": "计算机系举办2016“大数据”国际夏令营",
-            "stage": "夏令营/研学营",
-            "year": 2016,
-            "publishedAt": "2016-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1044/1387.htm",
-            "sourceHost": "www.cs.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.cs.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 3,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2016
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "博士",
-      "待确认"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "www.cs.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.cs.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.cs.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
