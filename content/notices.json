@@ -1,48 +1,5 @@
 [
   {
-    "id": "college-88a5eb29921c",
-    "title": "计算机系2025年硕士推免生考核及录取办法",
-    "school": "清华大学",
-    "department": "信息科学技术学院",
-    "majors": [
-      "计算机科学与技术"
-    ],
-    "type": "推免",
-    "year": 2025,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2025-01-01",
-    "sourceName": "清华大学信息科学技术学院官方站点",
-    "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1048/6359.htm",
-    "sourceHost": "www.cs.tsinghua.edu.cn",
-    "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
-    "departmentHomepage": "https://www.cs.tsinghua.edu.cn/",
-    "summary": "06 九月  如果您无法在线浏览此 PDF 文件，则可以下载免费小巧的 福昕(Foxit) PDF 阅读器,安装后即可在线浏览 或下载免费的 Adobe Reader PDF 阅读器,安装后即可在线浏览 或下载此 PDF 文",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-67c4cf7e6704"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "计算机系2025年硕士推免生考核及录取办法。06 九月  如果您无法在线浏览此 PDF 文件，则可以下载免费小巧的 福昕(Foxit) PDF 阅读器,安装后即可在线浏览 或下载免费的 Adobe Reader PDF 阅读器,安装后即可在线浏览 或下载此 PDF 文。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-06-04",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-06-04"
-  },
-  {
     "id": "college-703ed700aa42",
     "title": "中国人民大学文学院",
     "school": "中国人民大学",
@@ -55166,6 +55123,49 @@
     "sourceHost": "esd.nankai.edu.cn",
     "sourceHomepage": "https://esd.nankai.edu.cn/",
     "departmentHomepage": "https://esd.nankai.edu.cn/"
+  },
+  {
+    "id": "college-88a5eb29921c",
+    "title": "计算机系2025年硕士推免生考核及录取办法",
+    "school": "清华大学",
+    "department": "信息科学技术学院",
+    "majors": [
+      "计算机科学与技术"
+    ],
+    "type": "推免",
+    "year": 2025,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "清华大学信息科学技术学院官方站点",
+    "sourceUrl": "https://www.cs.tsinghua.edu.cn/info/1048/6359.htm",
+    "sourceHost": "www.cs.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.cs.tsinghua.edu.cn/",
+    "departmentHomepage": "https://www.cs.tsinghua.edu.cn/",
+    "summary": "06 九月  如果您无法在线浏览此 PDF 文件，则可以下载免费小巧的 福昕(Foxit) PDF 阅读器,安装后即可在线浏览 或下载免费的 Adobe Reader PDF 阅读器,安装后即可在线浏览 或下载此 PDF 文",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-67c4cf7e6704"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "计算机系2025年硕士推免生考核及录取办法。06 九月  如果您无法在线浏览此 PDF 文件，则可以下载免费小巧的 福昕(Foxit) PDF 阅读器,安装后即可在线浏览 或下载免费的 Adobe Reader PDF 阅读器,安装后即可在线浏览 或下载此 PDF 文。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-06-04",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-04"
   },
   {
     "id": "college-2ced4c800e6d",
