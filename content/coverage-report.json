@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T03:58:00.352Z",
+  "generatedAt": "2026-06-06T04:00:42.916Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2076,
+    "notices": 2082,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 313,
+      "total": 315,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 61,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 275,
+      "total": 279,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -512,7 +512,7 @@
       "id": "auto-a6e907aa138f",
       "school": "北京大学",
       "department": "对外汉语教育学院",
-      "total": 4,
+      "total": 6,
       "years": [
         2026,
         2025
@@ -722,7 +722,7 @@
       "id": "auto-241ae2d891dd",
       "school": "北京大学",
       "department": "教育学院",
-      "total": 10,
+      "total": 12,
       "years": [
         2026,
         2025
@@ -2161,7 +2161,7 @@
       "id": "auto-c449e622ea85",
       "school": "上海交通大学",
       "department": "环境科学与工程学院",
-      "total": 5,
+      "total": 6,
       "years": [
         2026,
         2024
@@ -2261,7 +2261,7 @@
       "id": "auto-b92dddbebf0e",
       "school": "上海交通大学",
       "department": "马克思主义学院",
-      "total": 7,
+      "total": 8,
       "years": [
         2026
       ],
@@ -2458,7 +2458,7 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 14,
+      "total": 15,
       "years": [
         2041,
         2026,
@@ -2606,7 +2606,7 @@
       "id": "auto-181d998d2449",
       "school": "上海交通大学",
       "department": "智慧能源创新学院",
-      "total": 3,
+      "total": 4,
       "years": [
         2026,
         2025

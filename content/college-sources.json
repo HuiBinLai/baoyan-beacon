@@ -8411,7 +8411,8 @@
     "sourceHost": "www.sjtu.edu.cn",
     "baseUrl": "https://www.sjtu.edu.cn/yxsz/",
     "listUrls": [
-      "https://www.sjtu.edu.cn/yxsz/"
+      "https://www.sjtu.edu.cn/yxsz/",
+      "https://airs.sjtu.edu.cn/"
     ],
     "includeKeywords": [
       "推免",
@@ -10355,7 +10356,8 @@
       "http://jsgzb.zju.edu.cn/2026/0430/c11211a3157914/page.htm",
       "http://jsgzb.zju.edu.cn/2026/0430/c11211a3157923/page.htm",
       "http://jsgzb.zju.edu.cn/11210/list.htm",
-      "http://jsgzb.zju.edu.cn/2026/0511/c11211a3161283/page.htm"
+      "http://jsgzb.zju.edu.cn/2026/0511/c11211a3161283/page.htm",
+      "http://jsgzb.zju.edu.cn/2026/0601/c11210a3168639/page.htm"
     ],
     "includeKeywords": [
       "推免",
