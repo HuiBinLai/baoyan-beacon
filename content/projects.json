@@ -7862,6 +7862,501 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-3d997a739f41",
+    "school": "上海交通大学",
+    "department": "人工智能学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 人工智能学院",
+    "tracks": [
+      "计算机/AI",
+      "建筑土木交通",
+      "人文社科"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 13,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名",
+          "预推免",
+          "复试/考核",
+          "推免"
+        ],
+        "degreeTypes": [
+          "博士",
+          "直博",
+          "学术型硕士",
+          "待确认",
+          "专业型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-09-09",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-09",
+        "lastApplicationEnd": "2026-05-25",
+        "notices": [
+          {
+            "id": "college-5029e25ef5ed",
+            "title": "上海交通大学人工智能学院2026级优秀大学生夏令营成功举办 2025-08-01",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/353",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f7010e084f1b",
+            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/403",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-b5949545a713",
+            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名） 2025-11-07",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c5b8592f3099",
+            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2debd99eff29",
+            "title": "人工智能学院2026年博士研究生招生报名通知（全日制） 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/474",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f0abb89c4da0",
+            "title": "人工智能学院2026年非全日制工程类专业学位博士研究生招生报名通知 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/475",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-7a3cab896e4d",
+            "title": "人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/476",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f21e2a544d55",
+            "title": "上海交通大学人工智能学院2026级优秀大学生夏令营成功举办 2025-08-01",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/353",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-240f3ef3ae9f",
+            "title": "上海交通大学人工智能学院2026年接收推荐免试研究生（含直博生）预推免办法 2025-09-09",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-09",
+            "applicationEnd": "2025-09-13",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/380",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-824b99048b84",
+            "title": "上海交通大学人工智能学院2026年硕士研究生招生复试分数线及复试通知 2026-03-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/450",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-818d83f9cf02",
+            "title": "线上+线下！上交大AI学院研究生招生宣讲会等你来！",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/171",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6b712f7104f0",
+            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2025-09-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-9722656125a7",
+            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2025-09-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 3,
+        "stages": [
+          "夏令营/研学营",
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "学术型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-03-15",
+        "lastApplicationEnd": "2025-07-04",
+        "notices": [
+          {
+            "id": "college-a93a3f0aef30",
+            "title": "26 2025.06 上海交通大学人工智能学院2026年优秀大学生夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-13",
+            "applicationEnd": "2025-07-04",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3218",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4186516fd4f8",
+            "title": "人工智能学院2025级全日制博士研究生招生办法（第二批次报名）",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-03-15",
+            "applicationEnd": "2025-04-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/255",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c6c6d35334df",
+            "title": "上海交通大学人工智能学院2025年硕士研究生招生复试分数线及复试通知",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/256",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-dabef517bfd1",
+            "title": "人工智能学院首届全国优秀大学生夏令营成功举行 2024-07-11",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/154",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a46ddfdd9c6d",
+            "title": "人工智能学院首届全国优秀大学生夏令营成功举行 2024-07-11",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/154",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2023-05-22",
+        "lastApplicationEnd": "2023-05-22",
+        "notices": [
+          {
+            "id": "college-a46b8b026a0b",
+            "title": "人工智能学院接收2023级强基计划本科生转段直博报名通知 2026-05-20",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-05-22",
+            "applicationEnd": "2023-05-22",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/477",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "直博"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2025-04-30",
+        "lastApplicationEnd": "2025-05-09",
+        "notices": [
+          {
+            "id": "college-bcda0cf52115",
+            "title": "人工智能学院接收2022级强基计划本科生转段直博报名通知",
+            "stage": "直博",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2025-04-30",
+            "applicationEnd": "2025-05-09",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/283",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 20,
+    "llmStructuredCount": 9,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名",
+      "预推免",
+      "复试/考核",
+      "推免",
+      "直博"
+    ],
+    "degreeTypes": [
+      "博士",
+      "直博",
+      "学术型硕士",
+      "待确认",
+      "专业型硕士",
+      "硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "计算机科学与技术",
+      "智能科学与技术",
+      "电子信息",
+      "数学",
+      "信息与通信工程",
+      "081000 信息与通信工程",
+      "081200 计算机科学与技术",
+      "085400 电子信息",
+      "081000信息与通信工程",
+      "081200计算机科学与技术",
+      "085400电子信息"
+    ],
+    "sourceHosts": [
+      "soai.sjtu.edu.cn",
+      "sai.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://soai.sjtu.edu.cn/",
+      "https://sai.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://sai.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-8249b1a190b3",
     "school": "清华大学",
     "department": "雕塑系",
@@ -8351,469 +8846,6 @@
     ],
     "departmentHomepages": [
       "https://www.ad.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-3d997a739f41",
-    "school": "上海交通大学",
-    "department": "人工智能学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 人工智能学院",
-    "tracks": [
-      "计算机/AI",
-      "建筑土木交通",
-      "人文社科"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 12,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营",
-          "预推免",
-          "复试/考核",
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士",
-          "直博",
-          "学术型硕士",
-          "待确认",
-          "专业型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-09-09",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-09",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-f7010e084f1b",
-            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/403",
-            "sourceHost": "soai.sjtu.edu.cn",
-            "sourceHomepage": "https://soai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-b5949545a713",
-            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名） 2025-11-07",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2025-12-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c5b8592f3099",
-            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2025-12-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2debd99eff29",
-            "title": "人工智能学院2026年博士研究生招生报名通知（全日制） 2026-05-14",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/474",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f0abb89c4da0",
-            "title": "人工智能学院2026年非全日制工程类专业学位博士研究生招生报名通知 2026-05-14",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/475",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-7a3cab896e4d",
-            "title": "人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知 2026-05-14",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/476",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f21e2a544d55",
-            "title": "上海交通大学人工智能学院2026级优秀大学生夏令营成功举办 2025-08-01",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/353",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-240f3ef3ae9f",
-            "title": "上海交通大学人工智能学院2026年接收推荐免试研究生（含直博生）预推免办法 2025-09-09",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-09",
-            "applicationEnd": "2025-09-13",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/380",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-824b99048b84",
-            "title": "上海交通大学人工智能学院2026年硕士研究生招生复试分数线及复试通知 2026-03-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/450",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-818d83f9cf02",
-            "title": "线上+线下！上交大AI学院研究生招生宣讲会等你来！",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/171",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6b712f7104f0",
-            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2025-09-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
-            "sourceHost": "soai.sjtu.edu.cn",
-            "sourceHomepage": "https://soai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-9722656125a7",
-            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2025-09-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "夏令营/研学营",
-          "推免",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-03-15",
-        "lastApplicationEnd": "2025-07-04",
-        "notices": [
-          {
-            "id": "college-a93a3f0aef30",
-            "title": "26 2025.06 上海交通大学人工智能学院2026年优秀大学生夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-13",
-            "applicationEnd": "2025-07-04",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3218",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-4186516fd4f8",
-            "title": "人工智能学院2025级全日制博士研究生招生办法（第二批次报名）",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-03-15",
-            "applicationEnd": "2025-04-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/255",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c6c6d35334df",
-            "title": "上海交通大学人工智能学院2025年硕士研究生招生复试分数线及复试通知",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/256",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-a46ddfdd9c6d",
-            "title": "人工智能学院首届全国优秀大学生夏令营成功举行 2024-07-11",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/154",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2023-05-22",
-        "lastApplicationEnd": "2023-05-22",
-        "notices": [
-          {
-            "id": "college-a46b8b026a0b",
-            "title": "人工智能学院接收2023级强基计划本科生转段直博报名通知 2026-05-20",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-05-22",
-            "applicationEnd": "2023-05-22",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/477",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "直博"
-        ],
-        "degreeTypes": [
-          "直博"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2025-04-30",
-        "lastApplicationEnd": "2025-05-09",
-        "notices": [
-          {
-            "id": "college-bcda0cf52115",
-            "title": "人工智能学院接收2022级强基计划本科生转段直博报名通知",
-            "stage": "直博",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2025-04-30",
-            "applicationEnd": "2025-05-09",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/283",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 18,
-    "llmStructuredCount": 9,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023,
-      2022
-    ],
-    "stages": [
-      "推免报名",
-      "夏令营/研学营",
-      "预推免",
-      "复试/考核",
-      "推免",
-      "直博"
-    ],
-    "degreeTypes": [
-      "博士",
-      "直博",
-      "学术型硕士",
-      "待确认",
-      "专业型硕士",
-      "硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "计算机科学与技术",
-      "智能科学与技术",
-      "电子信息",
-      "数学",
-      "信息与通信工程",
-      "081000 信息与通信工程",
-      "081200 计算机科学与技术",
-      "085400 电子信息",
-      "081000信息与通信工程",
-      "081200计算机科学与技术",
-      "085400电子信息"
-    ],
-    "sourceHosts": [
-      "soai.sjtu.edu.cn",
-      "sai.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://soai.sjtu.edu.cn/",
-      "https://sai.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://sai.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

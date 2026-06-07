@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T04:00:42.916Z",
+  "generatedAt": "2026-06-07T03:46:33.840Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2082,
+    "notices": 2084,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 279,
+      "total": 281,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -2359,7 +2359,7 @@
       "id": "auto-0ff9868c9a19",
       "school": "上海交通大学",
       "department": "人工智能学院",
-      "total": 18,
+      "total": 20,
       "years": [
         2026,
         2025,
