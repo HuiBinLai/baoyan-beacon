@@ -10906,6 +10906,404 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-ee733d3a3f75",
+    "school": "清华大学",
+    "department": "国际关系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 国际关系",
+    "tracks": [
+      "经管金融",
+      "法学",
+      "人文社科"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 5,
+        "stages": [
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "学术型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-07",
+        "lastApplicationEnd": "2025-09-30",
+        "notices": [
+          {
+            "id": "college-3b2981354f57",
+            "title": "通知公告-清华大学国际关系学系",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/tzgg.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-850fb1f26a48",
+            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-07",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2313.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-0d6f283c8a6b",
+            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-07",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-f08190c9aec8",
+            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-07",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1111/2312.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-f386327894a9",
+            "title": "通知公告/ 2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-07",
+            "applicationEnd": "2025-09-30",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 3,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2024-08-31",
+        "notices": [
+          {
+            "id": "college-7abe8a255bda",
+            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e35c928f4797",
+            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2181.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-4c41625b4331",
+            "title": "通知公告/ 2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 3,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2023-08-31",
+        "notices": [
+          {
+            "id": "college-6e262cf3ff09",
+            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-5b44044bdb79",
+            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2171.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-ed9d07694e2f",
+            "title": "通知公告/ 2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2022-08-31",
+        "notices": [
+          {
+            "id": "college-7b194604a40c",
+            "title": "通知公告/ 2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2022-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-02d5ce6ab8f3",
+            "title": "2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2022-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2021-08-31",
+        "lastApplicationEnd": "2021-09-30",
+        "notices": [
+          {
+            "id": "college-60d4586aad37",
+            "title": "2022年清华-约翰∙霍普金斯全球政治与经济双硕士项目研究生招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2021-08-31",
+            "applicationEnd": "2021-09-30",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1846.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2020-09-01",
+        "notices": [
+          {
+            "id": "college-449394498c8c",
+            "title": "2021年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2020-09-01",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1597.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 15,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "学术型硕士",
+      "硕士"
+    ],
+    "majors": [
+      "金融",
+      "法律",
+      "翻译",
+      "全球政治与经济",
+      "法学"
+    ],
+    "sourceHosts": [
+      "www.dir.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.dir.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.dir.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-9c325c52ce3a",
     "school": "上海交通大学",
     "department": "文化创意产业学院",
@@ -13153,383 +13551,6 @@
     ],
     "departmentHomepages": [
       "https://www.svm.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-ee733d3a3f75",
-    "school": "清华大学",
-    "department": "国际关系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 国际关系",
-    "tracks": [
-      "经管金融",
-      "法学",
-      "人文社科"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-07",
-        "lastApplicationEnd": "2025-09-30",
-        "notices": [
-          {
-            "id": "college-850fb1f26a48",
-            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-07",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2313.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-0d6f283c8a6b",
-            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-07",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-f08190c9aec8",
-            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-07",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1111/2312.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-f386327894a9",
-            "title": "通知公告/ 2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-07",
-            "applicationEnd": "2025-09-30",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2024-08-31",
-        "notices": [
-          {
-            "id": "college-7abe8a255bda",
-            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e35c928f4797",
-            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2181.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-4c41625b4331",
-            "title": "通知公告/ 2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 3,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2023-08-31",
-        "notices": [
-          {
-            "id": "college-6e262cf3ff09",
-            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-5b44044bdb79",
-            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2171.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-ed9d07694e2f",
-            "title": "通知公告/ 2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2022-08-31",
-        "notices": [
-          {
-            "id": "college-7b194604a40c",
-            "title": "通知公告/ 2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2022-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-02d5ce6ab8f3",
-            "title": "2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2022-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2021-08-31",
-        "lastApplicationEnd": "2021-09-30",
-        "notices": [
-          {
-            "id": "college-60d4586aad37",
-            "title": "2022年清华-约翰∙霍普金斯全球政治与经济双硕士项目研究生招生简章",
-            "stage": "招生简章",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2021-08-31",
-            "applicationEnd": "2021-09-30",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1846.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2020-09-01",
-        "notices": [
-          {
-            "id": "college-449394498c8c",
-            "title": "2021年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2020-09-01",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1597.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 14,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023,
-      2022,
-      2021
-    ],
-    "stages": [
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "学术型硕士",
-      "硕士"
-    ],
-    "majors": [
-      "法律",
-      "翻译",
-      "全球政治与经济",
-      "法学"
-    ],
-    "sourceHosts": [
-      "www.dir.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.dir.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.dir.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -35896,6 +35917,187 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-16c5088a7107",
+    "school": "上海交通大学",
+    "department": "智慧能源创新学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 智慧能源创新学院",
+    "tracks": [
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "招生简章",
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-06-20",
+        "notices": [
+          {
+            "id": "college-49d00eba353d",
+            "title": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-20",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3966.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-3d150db9980c",
+            "title": "智慧能源创新学院2026年春季批次&ldquo;申请-考核&rdquo;制博士研究生招生综合考核办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3962.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2b89659b813b",
+            "title": "智慧能源创新学院2026年春季批次全日制博士研究生招生通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3948.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f7e91207aca1",
+            "title": "智慧能源创新学院2026年非全日制工程类专业学位博士研究生招生通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3937.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-06-03",
+        "lastApplicationEnd": "2025-07-03",
+        "notices": [
+          {
+            "id": "college-8ffed426c7fa",
+            "title": "27 2025.06 上海交通大学国家电投智慧能源创新学院2026级研究生优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-03",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3224",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 5,
+    "llmStructuredCount": 1,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "招生简章",
+      "复试/考核",
+      "推免报名",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "学术型硕士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "化学",
+      "教育学",
+      "能源动力",
+      "电气工程",
+      "电气",
+      "动力工程",
+      "核工程",
+      "材料",
+      "化工",
+      "信息"
+    ],
+    "sourceHosts": [
+      "www.senergy.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.senergy.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.senergy.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-f2acf0d37881",
     "school": "四川大学",
     "department": "数学学院",
@@ -41575,167 +41777,6 @@
     ],
     "departmentHomepages": [
       "https://www.gs.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-16c5088a7107",
-    "school": "上海交通大学",
-    "department": "智慧能源创新学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 智慧能源创新学院",
-    "tracks": [
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-3d150db9980c",
-            "title": "智慧能源创新学院2026年春季批次&ldquo;申请-考核&rdquo;制博士研究生招生综合考核办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3962.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2b89659b813b",
-            "title": "智慧能源创新学院2026年春季批次全日制博士研究生招生通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3948.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f7e91207aca1",
-            "title": "智慧能源创新学院2026年非全日制工程类专业学位博士研究生招生通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3937.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-06-03",
-        "lastApplicationEnd": "2025-07-03",
-        "notices": [
-          {
-            "id": "college-8ffed426c7fa",
-            "title": "27 2025.06 上海交通大学国家电投智慧能源创新学院2026级研究生优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-03",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3224",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 4,
-    "llmStructuredCount": 1,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "博士",
-      "学术型硕士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "教育学",
-      "人工智能",
-      "化学",
-      "能源动力",
-      "电气工程",
-      "电气",
-      "动力工程",
-      "核工程",
-      "材料",
-      "化工",
-      "信息"
-    ],
-    "sourceHosts": [
-      "www.senergy.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.senergy.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.senergy.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

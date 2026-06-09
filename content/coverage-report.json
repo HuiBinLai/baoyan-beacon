@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T03:41:15.662Z",
+  "generatedAt": "2026-06-09T03:57:41.879Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2084,
+    "notices": 2086,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 185,
+      "total": 186,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 47,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 281,
+      "total": 282,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -1396,7 +1396,7 @@
       "id": "auto-d1ee5025d2ef",
       "school": "清华大学",
       "department": "国际关系",
-      "total": 14,
+      "total": 15,
       "years": [
         2026,
         2025,
@@ -1412,7 +1412,7 @@
       "id": "auto-ba6f8c27086a",
       "school": "清华大学",
       "department": "国际关系学系",
-      "total": 14,
+      "total": 15,
       "years": [
         2026,
         2025,
@@ -2606,7 +2606,7 @@
       "id": "auto-181d998d2449",
       "school": "上海交通大学",
       "department": "智慧能源创新学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2026,
         2025
