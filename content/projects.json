@@ -5621,6 +5621,554 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-f4731b04f784",
+    "school": "上海交通大学",
+    "department": "凯原法学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 凯原法学院",
+    "tracks": [
+      "法学",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "复试/考核",
+          "推免",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "学术型硕士",
+          "直博",
+          "硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-09-22",
+        "lastPublishedAt": "2026-06-10",
+        "firstApplicationStart": "2025-09-22",
+        "lastApplicationEnd": "2026-05-25",
+        "notices": [
+          {
+            "id": "college-5e67cd8f1c24",
+            "title": "凯原法学院2026年第二批“申请-考核”博士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-06-10",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260610/11122.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-de4a0730b451",
+            "title": "凯原法学院 2026年博士研究生招生报名通知（非全日制法律博士）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-05-11",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260511/11032.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-82d1555fa1d9",
+            "title": "凯原法学院 2026年博士研究生招生报名通知（非全日制法学博士）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-05-11",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260511/11031.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-517a540ad234",
+            "title": "凯原法学院2026年博士研究生招生报名通知（全日制）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-05-11",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260511/11030.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8cba907fb640",
+            "title": "上海交通大学凯原法学院2026年硕士研究生招生院系复试通知_通知公告_凯原法学院",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-03-20",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260320/10930.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-98ee2b10aa98",
+            "title": "上海交通大学凯原法学院2026年硕士研究生招生院系复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-03-20",
+            "applicationStart": "",
+            "applicationEnd": "2026-03-25",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260320/10930.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d7f9d060a8e8",
+            "title": "凯原法学院2026年全日制法学博士研究生招生（第一批）复试工作办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2025-12-23",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20251223/10759.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e78993b8809f",
+            "title": "上海交通大学凯原法学院2026年全日制法学博士研究生招生办法（第一批）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2025-11-03",
+            "applicationStart": "2025-11-03",
+            "applicationEnd": "2025-12-03",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20251103/10524.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-3359c7f8af93",
+            "title": "上海交通大学凯原法学院2026年招收优秀应届本科毕业生免试攻读研究生实施办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2025-09-22",
+            "applicationStart": "2025-09-22",
+            "applicationEnd": "2025-09-22",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250922/8926.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 8,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营",
+          "复试/考核",
+          "推免",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "博士",
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2024-07-11",
+        "lastPublishedAt": "2025-09-30",
+        "firstApplicationStart": "2024-10-30",
+        "lastApplicationEnd": "2026-08-10",
+        "notices": [
+          {
+            "id": "college-90e48f8fa0ea",
+            "title": "2025年校内专项计划推免复试工作安排",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-09-30",
+            "applicationStart": "",
+            "applicationEnd": "2025-10-08",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250930/8954.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-39ca11431234",
+            "title": "2025年上海交通大学凯原法学院直博生夏令营活动办法",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-07-31",
+            "applicationStart": "2026-08-01",
+            "applicationEnd": "2026-08-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250731/8879.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c5316764e36a",
+            "title": "凯原法学院2025年非全日制博士研究生招生复试办法_通知公告_凯原法学院",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-05-14",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250514/8674.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-b8968bd2afad",
+            "title": "上海交通大学2025年法律博士研究生招生办法_通知公告_凯原法学院",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-03-21",
+            "applicationStart": "2025-03-21",
+            "applicationEnd": "2025-04-15",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250321/8558.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6124f56fac9c",
+            "title": "26 2025.06 上海交通大学凯原法学院第十五届“卓越法律人夏令营”招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-07-03",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3213",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-82b080af238b",
+            "title": "凯原法学院2025年博士研究生招生办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-10-29",
+            "applicationStart": "2024-10-30",
+            "applicationEnd": "2024-11-30",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20241029/8348.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1b08b396cf1f",
+            "title": "凯原法学院2025年博士研究生招生指标分配",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-10-29",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20241029/8346.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-9262d8704760",
+            "title": "上海交通大学凯原法学院2025年直博生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2024-07-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240711/8223.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 8,
+        "stages": [
+          "推免报名",
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "直博",
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2023-07-06",
+        "lastPublishedAt": "2024-09-17",
+        "firstApplicationStart": "2023-10-16",
+        "lastApplicationEnd": "2024-09-02",
+        "notices": [
+          {
+            "id": "college-279a455690a9",
+            "title": "2024年9月招收专项计划推免公告",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-09-17",
+            "applicationStart": "",
+            "applicationEnd": "2024-09-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240917/8269.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5c62a6e89aeb",
+            "title": "凯原法学院2024年博士研究生招生办法（第二批）（更新）",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-03-13",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240313/7961.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-7f8f53d9ba39",
+            "title": "凯原法学院2024年博士研究生招生办法（第二批）（更新）_研究生招生_凯原法学院",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-03-13",
+            "applicationStart": "2024-03-15",
+            "applicationEnd": "2024-04-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240313/7961.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-9a2f6f93cae8",
+            "title": "凯原法学院2024年博士研究生招生办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2023-10-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7706.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-17269e2dfc09",
+            "title": "凯原法学院2024年博士研究生招生指标分配",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2023-10-11",
+            "applicationStart": "",
+            "applicationEnd": "2023-10-11",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7705.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4c850355d569",
+            "title": "凯原法学院2024年博士研究生招生办法_研究生招生_凯原法学院",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2023-10-11",
+            "applicationStart": "2023-10-16",
+            "applicationEnd": "2023-11-30",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7706.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-33db12412652",
+            "title": "凯原法学院2024年博士研究生招生指标分配_研究生招生_凯原法学院",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2023-10-11",
+            "applicationStart": "",
+            "applicationEnd": "2023-10-11",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7705.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-639044fd9c3d",
+            "title": "凯原法学院2024年直博生复试方案",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2023-07-06",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20230706/7532.html",
+            "sourceHost": "law.sjtu.edu.cn",
+            "sourceHomepage": "https://law.sjtu.edu.cn/",
+            "departmentHomepage": "https://law.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 25,
+    "llmStructuredCount": 11,
+    "years": [
+      2026,
+      2025,
+      2024
+    ],
+    "stages": [
+      "复试/考核",
+      "推免",
+      "推免报名",
+      "夏令营/研学营",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "学术型硕士",
+      "直博",
+      "硕士",
+      "专业型硕士",
+      "待确认"
+    ],
+    "majors": [
+      "法学",
+      "法律",
+      "教育学",
+      "法律（非法学）",
+      "法律（法学）",
+      "数字与科技法治",
+      "市场监管法治",
+      "涉外法治",
+      "社会治理法治",
+      "法学硕士",
+      "法科特班即全日制法律硕士(法学)",
+      "全日制法律硕士(非法学)"
+    ],
+    "sourceHosts": [
+      "law.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://law.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://law.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-a7084e1fcef7",
     "school": "中国科学技术大学",
     "department": "（苏州）（科教融合学院",
@@ -7325,538 +7873,6 @@
       "https://yzb.sjtu.edu.cn/"
     ],
     "departmentHomepages": [
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-f4731b04f784",
-    "school": "上海交通大学",
-    "department": "凯原法学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 凯原法学院",
-    "tracks": [
-      "法学",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 8,
-        "stages": [
-          "推免",
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "学术型硕士",
-          "直博",
-          "硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-09-22",
-        "lastPublishedAt": "2026-05-11",
-        "firstApplicationStart": "2025-09-22",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-de4a0730b451",
-            "title": "凯原法学院 2026年博士研究生招生报名通知（非全日制法律博士）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-05-11",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260511/11032.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-82d1555fa1d9",
-            "title": "凯原法学院 2026年博士研究生招生报名通知（非全日制法学博士）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-05-11",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260511/11031.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-517a540ad234",
-            "title": "凯原法学院2026年博士研究生招生报名通知（全日制）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-05-11",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260511/11030.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-8cba907fb640",
-            "title": "上海交通大学凯原法学院2026年硕士研究生招生院系复试通知_通知公告_凯原法学院",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-03-20",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260320/10930.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-98ee2b10aa98",
-            "title": "上海交通大学凯原法学院2026年硕士研究生招生院系复试通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-03-20",
-            "applicationStart": "",
-            "applicationEnd": "2026-03-25",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260320/10930.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d7f9d060a8e8",
-            "title": "凯原法学院2026年全日制法学博士研究生招生（第一批）复试工作办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2025-12-23",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20251223/10759.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-e78993b8809f",
-            "title": "上海交通大学凯原法学院2026年全日制法学博士研究生招生办法（第一批）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2025-11-03",
-            "applicationStart": "2025-11-03",
-            "applicationEnd": "2025-12-03",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20251103/10524.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-3359c7f8af93",
-            "title": "上海交通大学凯原法学院2026年招收优秀应届本科毕业生免试攻读研究生实施办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2025-09-22",
-            "applicationStart": "2025-09-22",
-            "applicationEnd": "2025-09-22",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250922/8926.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 8,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营",
-          "复试/考核",
-          "推免",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "博士",
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2024-07-11",
-        "lastPublishedAt": "2025-09-30",
-        "firstApplicationStart": "2024-10-30",
-        "lastApplicationEnd": "2026-08-10",
-        "notices": [
-          {
-            "id": "college-90e48f8fa0ea",
-            "title": "2025年校内专项计划推免复试工作安排",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-09-30",
-            "applicationStart": "",
-            "applicationEnd": "2025-10-08",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250930/8954.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-39ca11431234",
-            "title": "2025年上海交通大学凯原法学院直博生夏令营活动办法",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-07-31",
-            "applicationStart": "2026-08-01",
-            "applicationEnd": "2026-08-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250731/8879.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c5316764e36a",
-            "title": "凯原法学院2025年非全日制博士研究生招生复试办法_通知公告_凯原法学院",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-05-14",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250514/8674.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-b8968bd2afad",
-            "title": "上海交通大学2025年法律博士研究生招生办法_通知公告_凯原法学院",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-03-21",
-            "applicationStart": "2025-03-21",
-            "applicationEnd": "2025-04-15",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20250321/8558.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6124f56fac9c",
-            "title": "26 2025.06 上海交通大学凯原法学院第十五届“卓越法律人夏令营”招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-07-03",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3213",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-82b080af238b",
-            "title": "凯原法学院2025年博士研究生招生办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-10-29",
-            "applicationStart": "2024-10-30",
-            "applicationEnd": "2024-11-30",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20241029/8348.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-1b08b396cf1f",
-            "title": "凯原法学院2025年博士研究生招生指标分配",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-10-29",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20241029/8346.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-9262d8704760",
-            "title": "上海交通大学凯原法学院2025年直博生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2024-07-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240711/8223.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 8,
-        "stages": [
-          "推免报名",
-          "推免",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "直博",
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2023-07-06",
-        "lastPublishedAt": "2024-09-17",
-        "firstApplicationStart": "2023-10-16",
-        "lastApplicationEnd": "2024-09-02",
-        "notices": [
-          {
-            "id": "college-279a455690a9",
-            "title": "2024年9月招收专项计划推免公告",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-09-17",
-            "applicationStart": "",
-            "applicationEnd": "2024-09-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240917/8269.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5c62a6e89aeb",
-            "title": "凯原法学院2024年博士研究生招生办法（第二批）（更新）",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-03-13",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240313/7961.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-7f8f53d9ba39",
-            "title": "凯原法学院2024年博士研究生招生办法（第二批）（更新）_研究生招生_凯原法学院",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-03-13",
-            "applicationStart": "2024-03-15",
-            "applicationEnd": "2024-04-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20240313/7961.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-9a2f6f93cae8",
-            "title": "凯原法学院2024年博士研究生招生办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2023-10-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7706.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-17269e2dfc09",
-            "title": "凯原法学院2024年博士研究生招生指标分配",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2023-10-11",
-            "applicationStart": "",
-            "applicationEnd": "2023-10-11",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7705.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-4c850355d569",
-            "title": "凯原法学院2024年博士研究生招生办法_研究生招生_凯原法学院",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2023-10-11",
-            "applicationStart": "2023-10-16",
-            "applicationEnd": "2023-11-30",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7706.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-33db12412652",
-            "title": "凯原法学院2024年博士研究生招生指标分配_研究生招生_凯原法学院",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2023-10-11",
-            "applicationStart": "",
-            "applicationEnd": "2023-10-11",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20231011/7705.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-639044fd9c3d",
-            "title": "凯原法学院2024年直博生复试方案",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2023-07-06",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://law.sjtu.edu.cn/yjszs/20230706/7532.html",
-            "sourceHost": "law.sjtu.edu.cn",
-            "sourceHomepage": "https://law.sjtu.edu.cn/",
-            "departmentHomepage": "https://law.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 24,
-    "llmStructuredCount": 11,
-    "years": [
-      2026,
-      2025,
-      2024
-    ],
-    "stages": [
-      "推免",
-      "复试/考核",
-      "推免报名",
-      "夏令营/研学营",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "博士",
-      "学术型硕士",
-      "直博",
-      "硕士",
-      "专业型硕士",
-      "待确认"
-    ],
-    "majors": [
-      "法学",
-      "法律",
-      "教育学",
-      "法律（非法学）",
-      "法律（法学）",
-      "数字与科技法治",
-      "市场监管法治",
-      "涉外法治",
-      "社会治理法治",
-      "法学硕士",
-      "法科特班即全日制法律硕士(法学)",
-      "全日制法律硕士(非法学)"
-    ],
-    "sourceHosts": [
-      "law.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://law.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://law.sjtu.edu.cn/",
       "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
@@ -26230,6 +26246,242 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-8cd14148eb19",
+    "school": "清华大学",
+    "department": "历史系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 历史系",
+    "tracks": [
+      "经管金融",
+      "人文社科"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-087ef880d9f3",
+            "title": "09 2025.10 清华大学2026年硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/3085.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 6,
+        "stages": [
+          "招生简章",
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士",
+          "直博",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2024-08-23",
+        "lastApplicationEnd": "2024-09-02",
+        "notices": [
+          {
+            "id": "college-30ebf11a5234",
+            "title": "15 2024.10 清华大学2025年高级管理人员工商管理硕士（EMBA）招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/2862.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-ff929d1ffdc5",
+            "title": "08 2024.10 清华大学2025年硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/2848.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-955f53030ce1",
+            "title": "05 2024.07 清华大学2025年接收优秀应届本科毕业生免试攻读研究生报名通知",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-08-23",
+            "applicationEnd": "2024-09-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1024/2798.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-f8f202ea0936",
+            "title": "16 2024.08 清华大学2025年各院系博士生招生简章（不断更新）",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1024/2809.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-360e48e100b0",
+            "title": "23 2024.08 清华大学2025年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-08-23",
+            "applicationEnd": "2024-09-02",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c7228280-c4a6-4602-b950-64da15505415",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-82d81c7c1e3f",
+            "title": "23 2024.08 清华大学2025年博士研究生招生专业目录",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0303/list",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-8ad03e04ed35",
+            "title": "16 2023.09 清华大学2024年硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/2612.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2025,
+    "noticeCount": 8,
+    "llmStructuredCount": 3,
+    "years": [
+      2025,
+      2024,
+      2023
+    ],
+    "stages": [
+      "招生简章",
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "待确认",
+      "直博",
+      "博士"
+    ],
+    "majors": [
+      "工商管理"
+    ],
+    "sourceHosts": [
+      "yz.tsinghua.edu.cn",
+      "yzbm.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://yz.tsinghua.edu.cn/",
+      "https://yz.tsinghua.edu.cn/",
+      "https://yzbm.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yz.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-aa37f093619c",
     "school": "清华大学",
     "department": "清华大学校级/待分院",
@@ -31269,6 +31521,196 @@
     "departmentHomepages": [
       "https://xxgk.seu.edu.cn/",
       "https://yzb.seu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-8ae7e5a1d774",
+    "school": "清华大学",
+    "department": "工程力学系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 工程力学系",
+    "tracks": [
+      "医学药学",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-581d633edd49",
+            "title": "清华大学研究生招生宣传周——2027年度研究生招生宣讲活动",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.tsinghua.edu.cn/info/1002/126671.htm",
+            "sourceHost": "www.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.tsinghua.edu.cn/",
+            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 5,
+        "stages": [
+          "推免报名",
+          "复试/考核",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-8bfec07a09e9",
+            "title": "研究生招生宣讲活动",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.tsinghua.edu.cn/info/1002/126671.htm",
+            "sourceHost": "www.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.tsinghua.edu.cn/",
+            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-155bb1288516",
+            "title": "13 2026.03 清华大学2026年硕士研究生招生复试基本分数线",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1024/3195.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-74f482e4eea6",
+            "title": "16 2026.04 关于清华大学2026年博士研究生招生（冬季报名）综合考核成绩查询通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1024/3228.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-1d1b199c0b70",
+            "title": "国际研究生招生简章及招生目录",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.hy.tsinghua.edu.cn/info/1232/2159.htm",
+            "sourceHost": "www.hy.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.hy.tsinghua.edu.cn/",
+            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-0a3c95ff4f47",
+            "title": "招生简章及招生目录",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.hy.tsinghua.edu.cn/zhaosheng/zsxx/yjszs/zsjzjzsml.htm",
+            "sourceHost": "www.hy.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.hy.tsinghua.edu.cn/",
+            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
+    "latestPastYear": 2026,
+    "noticeCount": 6,
+    "llmStructuredCount": 2,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士",
+      "博士"
+    ],
+    "majors": [
+      "金融",
+      "教育学",
+      "外国语言文学",
+      "机械工程",
+      "生物医学工程",
+      "临床医学"
+    ],
+    "sourceHosts": [
+      "www.tsinghua.edu.cn",
+      "yz.tsinghua.edu.cn",
+      "www.hy.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.tsinghua.edu.cn/",
+      "http://yz.tsinghua.edu.cn/",
+      "https://www.hy.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://yz.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -40874,269 +41316,6 @@
     ],
     "departmentHomepages": [
       "http://sjic.hust.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-8ae7e5a1d774",
-    "school": "清华大学",
-    "department": "工程力学系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 工程力学系",
-    "tracks": [
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "复试/考核",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-155bb1288516",
-            "title": "13 2026.03 清华大学2026年硕士研究生招生复试基本分数线",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1024/3195.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-74f482e4eea6",
-            "title": "16 2026.04 关于清华大学2026年博士研究生招生（冬季报名）综合考核成绩查询通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://yz.tsinghua.edu.cn/info/1024/3228.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-1d1b199c0b70",
-            "title": "国际研究生招生简章及招生目录",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.hy.tsinghua.edu.cn/info/1232/2159.htm",
-            "sourceHost": "www.hy.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.hy.tsinghua.edu.cn/",
-            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-0a3c95ff4f47",
-            "title": "招生简章及招生目录",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.hy.tsinghua.edu.cn/zhaosheng/zsxx/yjszs/zsjzjzsml.htm",
-            "sourceHost": "www.hy.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.hy.tsinghua.edu.cn/",
-            "departmentHomepage": "http://yz.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 4,
-    "llmStructuredCount": 2,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "复试/考核",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "博士",
-      "待确认"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "yz.tsinghua.edu.cn",
-      "www.hy.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://yz.tsinghua.edu.cn/",
-      "https://www.hy.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://yz.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-8cd14148eb19",
-    "school": "清华大学",
-    "department": "历史系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 历史系",
-    "tracks": [
-      "人文社科"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2024,
-        "count": 4,
-        "stages": [
-          "推免报名",
-          "招生简章",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2024-08-23",
-        "lastApplicationEnd": "2024-09-02",
-        "notices": [
-          {
-            "id": "college-955f53030ce1",
-            "title": "05 2024.07 清华大学2025年接收优秀应届本科毕业生免试攻读研究生报名通知",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-08-23",
-            "applicationEnd": "2024-09-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1024/2798.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-f8f202ea0936",
-            "title": "16 2024.08 清华大学2025年各院系博士生招生简章（不断更新）",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1024/2809.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-360e48e100b0",
-            "title": "23 2024.08 清华大学2025年博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-08-23",
-            "applicationEnd": "2024-09-02",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c7228280-c4a6-4602-b950-64da15505415",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-82d81c7c1e3f",
-            "title": "23 2024.08 清华大学2025年博士研究生招生专业目录",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0303/list",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2024,
-    "noticeCount": 4,
-    "llmStructuredCount": 3,
-    "years": [
-      2024
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章",
-      "推免"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "直博",
-      "硕士",
-      "博士"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "yz.tsinghua.edu.cn",
-      "yzbm.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yz.tsinghua.edu.cn/",
-      "https://yzbm.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yz.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -53482,6 +53661,100 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-3ed9c2816fa5",
+    "school": "北京大学",
+    "department": "先进制造与机器人学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 先进制造与机器人学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-06-25",
+        "notices": [
+          {
+            "id": "college-676aef6c5367",
+            "title": "09 2026-06 【暑期学科体验营】2026年北京大学先进制造与机器人学院全国优秀大学生暑期学科体验营报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-25",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://amr.pku.edu.cn/tzgg/a5d4c6ef29bd4a57b25649e7830a42fc.htm",
+            "sourceHost": "amr.pku.edu.cn",
+            "sourceHomepage": "https://amr.pku.edu.cn/",
+            "departmentHomepage": "https://amr.pku.edu.cn/"
+          },
+          {
+            "id": "college-c961adc7aa82",
+            "title": "北京大学先进制造与机器人学院2026年“申请-考核制”博士研究生招生说明 2025-10-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
+            "sourceHost": "amr.pku.edu.cn",
+            "sourceHomepage": "https://amr.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 2,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "amr.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://amr.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://amr.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-7c49b0b08198",
     "school": "北京大学",
     "department": "新材料学院",
@@ -64927,79 +65200,6 @@
     ],
     "sourceHomepages": [
       "https://xnewera.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://admission.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-3ed9c2816fa5",
-    "school": "北京大学",
-    "department": "先进制造与机器人学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 先进制造与机器人学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2025-12-19",
-        "notices": [
-          {
-            "id": "college-c961adc7aa82",
-            "title": "北京大学先进制造与机器人学院2026年“申请-考核制”博士研究生招生说明 2025-10-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-12-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
-            "sourceHost": "amr.pku.edu.cn",
-            "sourceHomepage": "https://amr.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 1,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "博士"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "amr.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://amr.pku.edu.cn/"
     ],
     "departmentHomepages": [
       "https://admission.pku.edu.cn/"

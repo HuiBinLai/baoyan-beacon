@@ -1,37 +1,162 @@
 [
   {
-    "id": "college-3b2981354f57",
-    "title": "通知公告-清华大学国际关系学系",
+    "id": "college-581d633edd49",
+    "title": "清华大学研究生招生宣传周——2027年度研究生招生宣讲活动",
     "school": "清华大学",
-    "department": "国际关系",
+    "department": "工程力学系",
     "majors": [
-      "金融"
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学工程力学系官方站点",
+    "sourceUrl": "https://www.tsinghua.edu.cn/info/1002/126671.htm",
+    "sourceHost": "www.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.tsinghua.edu.cn/",
+    "departmentHomepage": "http://yz.tsinghua.edu.cn/",
+    "summary": "工程力学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-bb7614a9cb75"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学研究生招生宣传周——2027年度研究生招生宣讲活动。工程力学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "工程力学系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-06-10",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-10"
+  },
+  {
+    "id": "college-676aef6c5367",
+    "title": "09 2026-06 【暑期学科体验营】2026年北京大学先进制造与机器人学院全国优秀大学生暑期学科体验营报名通知",
+    "school": "北京大学",
+    "department": "先进制造与机器人学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "2026-06-25",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学先进制造与机器人学院官方站点",
+    "sourceUrl": "https://amr.pku.edu.cn/tzgg/a5d4c6ef29bd4a57b25649e7830a42fc.htm",
+    "sourceHost": "amr.pku.edu.cn",
+    "sourceHomepage": "https://amr.pku.edu.cn/",
+    "departmentHomepage": "https://amr.pku.edu.cn/",
+    "summary": "先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a4607f78b5d8"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "09 2026-06 【暑期学科体验营】2026年北京大学先进制造与机器人学院全国优秀大学生暑期学科体验营报名通知。先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。【暑期学科体验营】2026年北京大学先进制造与机器人学院全国优秀大学生暑期学科体验营报名通知_北京大学先进制造与机器人学院 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工程系 控制科学与系统工程系 北京大学机器人研究中心 教职员工 杰出人才 师资队伍 教育教学 本科生教育 研究生教育 专业学位教育 境外学习 留学生 科学研究 重要项目 科研动态 学术活动 学生天地 新闻动态 通知发布 公示信息 学工队伍 办事指南 下载专区 办公服务 学院办公室 办事流程 在线办公 诚聘英才 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机",
+    "applicationStart": "",
+    "applicationEnd": "2026-06-25",
+    "registrationTime": "三、报名信息 1、报名时间：即日起至2026年6月25日12:00止",
+    "requirements": [
+      "先进制造与机器人学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "二",
+      "报名要求 1",
+      "拥护中国共产党的领导",
+      "思想品德良好",
+      "诚实守信",
+      "遵纪守法",
+      "2",
+      "全国高校理工科各专业2027年应届本科毕业生",
+      "3",
+      "学习成绩优秀",
+      "综合素质高",
+      "对先进制造与机器人相关科学研究有浓厚的兴趣",
+      "愿意从事科学研究工作",
+      "4",
+      "英语水平良好",
+      "具备利用英语进行科研",
+      "写作以及交流的能力"
+    ],
+    "materials": [
+      "2、线上报名：报名问卷链接：（ https://v.wjx.cn/vm/ez3hztH.aspx# ）或扫描下方二维码，填写报名信息： 3、报名材料 清单（仅接收电子材料）： （1）报名申请表（可点击文末查阅附件，点击下载后填写打印，本人手写签名后提交）",
+      "（2）本科各学期成绩单扫描件",
+      "（4）发表的学术文章及获奖证书扫描件",
+      "（5）其他证明材料（ 如体现自身学术水平的出版物",
+      "原创性工作成果等）扫描件",
+      "4",
+      "材料提交要求 ： （1）材料合并要求：请按照“报名材料清单”顺序",
+      "将所有材料合并到一个PDF文件（文件大小不超过20M）提交至报名问卷中材料上传处"
+    ],
+    "applicationMethod": "2、线上报名：报名问卷链接：（ https://v.wjx.cn/vm/ez3hztH.aspx# ）或扫描下方二维码，填写报名信息： 3、报名材料 清单（仅接收电子材料）： （1）报名申请表（可点击文末查阅附件，点击下载后填写打印，本人手写签名后提交）",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-10",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-10"
+  },
+  {
+    "id": "college-8bfec07a09e9",
+    "title": "研究生招生宣讲活动",
+    "school": "清华大学",
+    "department": "工程力学系",
+    "majors": [
+      "金融",
+      "教育学",
+      "外国语言文学",
+      "机械工程",
+      "生物医学工程",
+      "临床医学"
     ],
     "type": "推免",
     "year": 2026,
     "region": "北京",
     "deadline": "",
     "publishedAt": "2026-01-01",
-    "sourceName": "清华大学国际关系官方站点",
-    "sourceUrl": "https://www.dir.tsinghua.edu.cn/tzgg.htm",
-    "sourceHost": "www.dir.tsinghua.edu.cn",
-    "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-    "departmentHomepage": "https://www.dir.tsinghua.edu.cn/",
-    "summary": "国际关系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "清华大学工程力学系官方站点",
+    "sourceUrl": "https://www.tsinghua.edu.cn/info/1002/126671.htm",
+    "sourceHost": "www.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.tsinghua.edu.cn/",
+    "departmentHomepage": "http://yz.tsinghua.edu.cn/",
+    "summary": "工程力学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-d1ee5025d2ef"
+      "auto-bb7614a9cb75"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "通知公告-清华大学国际关系学系。国际关系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。通知公告-清华大学国际关系学系 清华主页 清华新闻网 ·English· 首页 系所介绍 历史沿革 动态新闻 通知公告 时讯动态 师资力量 人才培养 学术发表 联系我们 动态新闻 更多… 04 17 新闻头条/ 清华大学国关系举办“中菲关系发展与双边磋商机制”圆桌... 04 08 新闻头条/ 清华大学与俄罗斯联邦政府金融大学举行伊朗危机系列圆桌会议 12 24 新闻头条/ “新局势下的欧洲与中国”研讨会成功举办 10 16 新闻头条/ 了解中国和拉丁美洲：说普通话的未来 04 26 新闻头条/ 清华大学国际关系系委会换届仪式暨2025研究生论坛成功举... 通知公告 2026-04-17 清华大学国关系举办“中菲关系发展与双边磋商机制”圆桌交流活动 2026-04-08 清华大学与俄罗斯联邦政府金融大学举行伊朗危机系列圆桌会议 2025-12-24 “新局势下的欧洲与中国”研讨会成功举办 2025-10-16 了解中国和拉丁美洲：说普通话的未来 2025-08-14 20",
+    "sourceExcerpt": "研究生招生宣讲活动。工程力学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学研究生招生宣传周——2027年度研究生招生宣讲活动-清华大学 访客 校友 捐赠 人才招聘 内网 邮箱 图书馆  English  清华新闻 学校概况 校庆献辞 学校沿革 历任领导 现任领导 组织机构 统计资料 信息公开 院系设置 教育教学 师资队伍 本科生教育 研究生教育 在线教育 终身教育 科学研究 科研项目 科研机构 科研合作 科研成果 技术转移 学术交流 招生就业 合作交流 国内合作 国际合作 走进清华 校园生活 实用信息 校园风光 清华文创 清华新闻 学校概况 校庆献辞 学校沿革 历任领导 现任领导 组织机构 统计资料 信息公开 院系设置 教育教学 师资队伍 国际重要奖励获得者 两院院士 本科生教育 本科专业 教学名师 优质课程 实践教学 教学成果 特色项目 研究生教育 学术学位教育 专业学位教育 课程与教学 国际化培养 授权学科 学位授予 奖助体系 在线教育 发展概况 平台介绍 共享优质资源 国际合作 在线教育研究 AI赋能教育教学 终身教育 课程项目 精品项目",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "国际关系学院官网补漏发现的推免相关官方信息",
+      "工程力学系学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -42,72 +167,273 @@
       "待确认"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-06-09",
+    "structuredAt": "2026-06-10",
     "noticeStage": "推免报名",
-    "classifiedAt": "2026-06-09"
+    "classifiedAt": "2026-06-10"
   },
   {
-    "id": "college-49d00eba353d",
-    "title": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章",
+    "id": "college-5e67cd8f1c24",
+    "title": "凯原法学院2026年第二批“申请-考核”博士研究生招生复试办法",
     "school": "上海交通大学",
-    "department": "智慧能源创新学院",
+    "department": "凯原法学院",
     "majors": [
-      "人工智能",
-      "化学"
+      "法学",
+      "法律"
     ],
     "type": "推免",
     "year": 2026,
     "region": "上海",
-    "deadline": "2026-06-20",
-    "publishedAt": "2026-01-01",
-    "sourceName": "上海交通大学智慧能源创新学院官方站点",
-    "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3966.html",
-    "sourceHost": "www.senergy.sjtu.edu.cn",
-    "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-    "departmentHomepage": "https://www.senergy.sjtu.edu.cn/",
-    "summary": "智慧能源创新学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "deadline": "",
+    "publishedAt": "2026-06-10",
+    "sourceName": "上海交通大学凯原法学院官方站点",
+    "sourceUrl": "https://law.sjtu.edu.cn/xw-tzgg/20260610/11122.html",
+    "sourceHost": "law.sjtu.edu.cn",
+    "sourceHomepage": "https://law.sjtu.edu.cn/",
+    "departmentHomepage": "https://law.sjtu.edu.cn/",
+    "summary": "2026-06-10",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-181d998d2449"
+      "auto-58ddd8f8b4bf"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章。智慧能源创新学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章-智慧能源创新学院 书记院长信箱 登录 | English 首页 新闻公告 通知公告 学院要闻 学院概况 学院介绍 学院领导 组织机构 人才培养 本科生管理 研究生管理 非全日制硕博 学生工作 校友工作 师资队伍 全职师资 双聘教师 博士后 人才招聘 学术科研 科研机构 科研基地 论坛活动 探索发现 高端培训 业务概况 精品项目 网络学院 合作交流 合作概况 合作伙伴 交流动态 品牌活动 党群工作 支部架构 党章党规 党建动态 清能驿站 党员发展与管理 工会之家 办事指南 常用制度文件 常用表单下载 常用问题解答 采购问答 外事指南 通知公告 2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章 发布时间:2026-06-08 浏览次数:239 一、学院简介 上海交通大学国家电投智慧能源创新学院是上海交通大学与国家电力投资集团有限公司强强联合，共商共建",
+    "sourceExcerpt": "凯原法学院2026年第二批“申请-考核”博士研究生招生复试办法。2026-06-10。凯原法学院2026年第二批“申请-考核”博士研究生招生复试办法_通知公告_凯原法学院 通知公告 当前位置： 首页 新闻中心 通知公告 凯原法学院2026年第二批“申请-考核”博士研究生招生复试办法 发布时间: 2026年06月10日 根据《上海交通大学关于研究生招生复试工作的指导意见》及相关文件精神，结合我院实际情况，现开展 2026 年 第二批 博士研究生 招生 复试工作。 一 、复试安排 请入围复试 （ 名单查询网址： https://ga.sjtu.edu.cn/zsgl/fsgl/fsmdgs_bs.aspx ） 的 考生 于 2026 年 6 月 11 日前回复邮件至 lawjwb @sjtu.edu.cn 确认是否参加复试，只需在邮件主题写明 “ 姓名 + 确认参加博士复试 ” 即可。 复试时间为 2026 年 6 月 14 日全天，地点为上海交通大学徐汇校区 哲生馆。 资格审查： 6 月 14 日 8:30-9:00 ， 地点：哲生馆 20 6 专业笔试（含心理测试） ： 6 月 14 ",
     "applicationStart": "",
-    "applicationEnd": "2026-06-20",
-    "registrationTime": "六、报名方式 请点击链接报名： https://v.wjx.cn/vm/w20gfJF.aspx 或扫描二维码报名： 报名截止日期：6月20日 如有任何相关问题，可联系杨老师：021-64355111-6238或发送邮件至 yoyo199207@sjtu.edu.cn 附：首届&ldquo",
+    "applicationEnd": "",
+    "registrationTime": "凯原法学院2026年第二批“申请-考核”博士研究生招生复试办法_通知公告_凯原法学院 通知公告 当前位置： 首页 新闻中心 通知公告 凯原法学院2026年第二批“申请-考核”博士研究生招生复试办法 发布时间: 2026年06月10日 根据《上海交通大学关于研究生招生复试工作的指导意见》及相关文件精神，结合我院实际情况，现开展 2026 年 第二批 博士研究生 招生 复试工作",
     "requirements": [
-      "智慧能源创新学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求",
-      "申请材料： 1）个人简历 2）本科或研究生课程成绩单 3）英语能力证明（托福",
-      "或雅思",
-      "或四六级证书",
-      "或其他英文能力证明） 考核主要将从英语能力（30%）",
-      "学业成绩（40%）",
-      "实践活动（30%） 三个方面开展"
+      "资格审查： 6 月 14 日 8:30-9:00 ， 地点：哲生馆 20 6 专业笔试（含心理测试） ： 6 月 14 日 9:00-11:30 ， 地点：哲生馆 206 综合面试 ： 6 月 14 日 13:00 ， 地点： 哲生馆 20 4 /20 7 面试具体时间以当天分组安排通知为准",
+      "二",
+      "资格审查 在复试前由学院对考生进行资格审查",
+      "考生需要提供 以下材料原件 ： 1． 第二代居民身份证（ 供查验",
+      "原件不需要上交",
+      "提交复印件 ）",
+      "3． 毕业院校的正式成绩单（（ 复印件加盖研究生管理部门成绩公章或考生档案所在管理部门公章",
+      "提交原件",
+      "如已邮寄",
+      "无需重复提交）",
+      "4． 外语水平证明材料（全国大学英语六级证书",
+      "新 TOEFL 成绩单",
+      "IELTS 成绩单或全英文授课学位项目学位证书等）",
+      "材料不齐或资格审查不合格者",
+      "不能参加复试"
     ],
     "materials": [
-      "申请材料： 1）个人简历 2）本科或研究生课程成绩单 3）英语能力证明（托福",
-      "或雅思",
-      "或四六级证书",
-      "或其他英文能力证明） 考核主要将从英语能力（30%）",
-      "学业成绩（40%）",
-      "实践活动（30%） 三个方面开展",
-      "学院将在收齐申请材料后两周内安排面试",
-      "由学院教授组成的评审组依据申请者综合情况确定录取人选及奖学金名单"
+      "二",
+      "资格审查 在复试前由学院对考生进行资格审查",
+      "考生需要提供 以下材料原件 ： 1． 第二代居民身份证（ 供查验",
+      "原件不需要上交",
+      "提交复印件 ）",
+      "应届生提交学生证和《教育部学籍在线验证报告》（ 供查验",
+      "原件不需要上交 ）",
+      "3． 毕业院校的正式成绩单（（ 复印件加盖研究生管理部门成绩公章或考生档案所在管理部门公章",
+      "提交原件",
+      "如已邮寄",
+      "无需重复提交）",
+      "4． 外语水平证明材料（全国大学英语六级证书",
+      "新 TOEFL 成绩单",
+      "IELTS 成绩单或全英文授课学位项目学位证书等）",
+      "5． 《拟攻读博士学位科学研究计划书》 和个人简历（一页 A4 纸）各 6 份"
     ],
-    "applicationMethod": "六、报名方式 请点击链接报名： https://v.wjx.cn/vm/w20gfJF.aspx 或扫描二维码报名： 报名截止日期：6月20日 如有任何相关问题，可联系杨老师：021-64355111-6238或发送邮件至 yoyo199207@sjtu.edu.cn 附：首届&ldquo",
+    "applicationMethod": "二 、资格审查 在复试前由学院对考生进行资格审查，考生需要提供 以下材料原件 ： 1． 第二代居民身份证（ 供查验，原件不需要上交，提交复印件 ）",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-10",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-06-10"
+  },
+  {
+    "id": "college-087ef880d9f3",
+    "title": "09 2025.10 清华大学2026年硕士研究生招生简章",
+    "school": "清华大学",
+    "department": "历史系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2025,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "清华大学历史系官方站点",
+    "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/3085.htm",
+    "sourceHost": "yz.tsinghua.edu.cn",
+    "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
+    "summary": "历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-028fe9eefa89"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "09 2025.10 清华大学2026年硕士研究生招生简章。历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学2026年硕士研究生招生简章-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 简章目录 → 正文 09 2025.10 分享 &#xe61a; &#xe600; 清华大学2026年硕士研究生招生简章 清华大学2026年硕士研究生招生简章.pdf 附件【 清华大学2026年硕士研究生招生简章.pdf 】 浏览次数： 小研推介 Recommend 宣传资料 清华概览 清华大学英文宣传册 培养项目 联合",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "历史系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 简章目录 → 正文 09 2025.10 分享 &#xe61a",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-10",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-06-10"
+  },
+  {
+    "id": "college-30ebf11a5234",
+    "title": "15 2024.10 清华大学2025年高级管理人员工商管理硕士（EMBA）招生简章",
+    "school": "清华大学",
+    "department": "历史系",
+    "majors": [
+      "工商管理"
+    ],
+    "type": "推免",
+    "year": 2024,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2024-01-01",
+    "sourceName": "清华大学历史系官方站点",
+    "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/2862.htm",
+    "sourceHost": "yz.tsinghua.edu.cn",
+    "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
+    "summary": "历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-028fe9eefa89"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "15 2024.10 清华大学2025年高级管理人员工商管理硕士（EMBA）招生简章。历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "历史系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
     "targetStudents": "",
     "degreeTypes": [
       "待确认"
     ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-06-09",
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-06-10",
     "noticeStage": "招生简章",
-    "classifiedAt": "2026-06-09"
+    "classifiedAt": "2026-06-10"
+  },
+  {
+    "id": "college-ff929d1ffdc5",
+    "title": "08 2024.10 清华大学2025年硕士研究生招生简章",
+    "school": "清华大学",
+    "department": "历史系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2024,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2024-01-01",
+    "sourceName": "清华大学历史系官方站点",
+    "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/2848.htm",
+    "sourceHost": "yz.tsinghua.edu.cn",
+    "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
+    "summary": "历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-028fe9eefa89"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "08 2024.10 清华大学2025年硕士研究生招生简章。历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学2025年硕士研究生招生简章-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 简章目录 → 正文 08 2024.10 分享 &#xe61a; &#xe600; 清华大学2025年硕士研究生招生简章 清华大学2025年硕士研究生招生简章.pdf 附件【 清华大学2025年硕士研究生招生简章.pdf 】 浏览次数： 小研推介 Recommend 宣传资料 清华概览 清华大学英文宣传册 培养项目 联合",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "历史系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 简章目录 → 正文 08 2024.10 分享 &#xe61a",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-10",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-06-10"
+  },
+  {
+    "id": "college-8ad03e04ed35",
+    "title": "16 2023.09 清华大学2024年硕士研究生招生简章",
+    "school": "清华大学",
+    "department": "历史系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2023,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2023-01-01",
+    "sourceName": "清华大学历史系官方站点",
+    "sourceUrl": "http://yz.tsinghua.edu.cn/info/1007/2612.htm",
+    "sourceHost": "yz.tsinghua.edu.cn",
+    "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
+    "summary": "历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-028fe9eefa89"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "16 2023.09 清华大学2024年硕士研究生招生简章。历史系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学2024年硕士研究生招生简章-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 简章目录 → 正文 16 2023.09 分享 &#xe61a; &#xe600; 清华大学2024年硕士研究生招生简章 清华大学2024年硕士研究生招生简章（20230916）.pdf 附件【 清华大学2024年硕士研究生招生简章（20230916）.pdf 】 浏览次数： 小研推介 Recommend 宣传资料 清华",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "历史系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 简章目录 → 正文 16 2023.09 分享 &#xe61a",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-10",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-06-10"
   },
   {
     "id": "college-703ed700aa42",
@@ -24958,6 +25284,53 @@
     "departmentHomepage": "https://pharmacy.nankai.edu.cn/"
   },
   {
+    "id": "college-3b2981354f57",
+    "title": "通知公告-清华大学国际关系学系",
+    "school": "清华大学",
+    "department": "国际关系",
+    "majors": [
+      "金融"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学国际关系官方站点",
+    "sourceUrl": "https://www.dir.tsinghua.edu.cn/tzgg.htm",
+    "sourceHost": "www.dir.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+    "departmentHomepage": "https://www.dir.tsinghua.edu.cn/",
+    "summary": "国际关系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d1ee5025d2ef"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "通知公告-清华大学国际关系学系。国际关系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。通知公告-清华大学国际关系学系 清华主页 清华新闻网 ·English· 首页 系所介绍 历史沿革 动态新闻 通知公告 时讯动态 师资力量 人才培养 学术发表 联系我们 动态新闻 更多… 04 17 新闻头条/ 清华大学国关系举办“中菲关系发展与双边磋商机制”圆桌... 04 08 新闻头条/ 清华大学与俄罗斯联邦政府金融大学举行伊朗危机系列圆桌会议 12 24 新闻头条/ “新局势下的欧洲与中国”研讨会成功举办 10 16 新闻头条/ 了解中国和拉丁美洲：说普通话的未来 04 26 新闻头条/ 清华大学国际关系系委会换届仪式暨2025研究生论坛成功举... 通知公告 2026-04-17 清华大学国关系举办“中菲关系发展与双边磋商机制”圆桌交流活动 2026-04-08 清华大学与俄罗斯联邦政府金融大学举行伊朗危机系列圆桌会议 2025-12-24 “新局势下的欧洲与中国”研讨会成功举办 2025-10-16 了解中国和拉丁美洲：说普通话的未来 2025-08-14 20",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "国际关系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-09",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-09"
+  },
+  {
     "id": "college-3a47f26b98b7",
     "title": "首页-清华大学经济管理学院硕士",
     "school": "清华大学",
@@ -28872,6 +29245,69 @@
     "sourceHost": "www.yz.sdu.edu.cn",
     "sourceHomepage": "https://www.yz.sdu.edu.cn/",
     "departmentHomepage": "https://www.yz.sdu.edu.cn/"
+  },
+  {
+    "id": "college-49d00eba353d",
+    "title": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章",
+    "school": "上海交通大学",
+    "department": "智慧能源创新学院",
+    "majors": [
+      "人工智能",
+      "化学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "2026-06-20",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学智慧能源创新学院官方站点",
+    "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3966.html",
+    "sourceHost": "www.senergy.sjtu.edu.cn",
+    "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+    "departmentHomepage": "https://www.senergy.sjtu.edu.cn/",
+    "summary": "智慧能源创新学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-181d998d2449"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章。智慧能源创新学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章-智慧能源创新学院 书记院长信箱 登录 | English 首页 新闻公告 通知公告 学院要闻 学院概况 学院介绍 学院领导 组织机构 人才培养 本科生管理 研究生管理 非全日制硕博 学生工作 校友工作 师资队伍 全职师资 双聘教师 博士后 人才招聘 学术科研 科研机构 科研基地 论坛活动 探索发现 高端培训 业务概况 精品项目 网络学院 合作交流 合作概况 合作伙伴 交流动态 品牌活动 党群工作 支部架构 党章党规 党建动态 清能驿站 党员发展与管理 工会之家 办事指南 常用制度文件 常用表单下载 常用问题解答 采购问答 外事指南 通知公告 2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章 发布时间:2026-06-08 浏览次数:239 一、学院简介 上海交通大学国家电投智慧能源创新学院是上海交通大学与国家电力投资集团有限公司强强联合，共商共建",
+    "applicationStart": "",
+    "applicationEnd": "2026-06-20",
+    "registrationTime": "六、报名方式 请点击链接报名： https://v.wjx.cn/vm/w20gfJF.aspx 或扫描二维码报名： 报名截止日期：6月20日 如有任何相关问题，可联系杨老师：021-64355111-6238或发送邮件至 yoyo199207@sjtu.edu.cn 附：首届&ldquo",
+    "requirements": [
+      "智慧能源创新学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "申请材料： 1）个人简历 2）本科或研究生课程成绩单 3）英语能力证明（托福",
+      "或雅思",
+      "或四六级证书",
+      "或其他英文能力证明） 考核主要将从英语能力（30%）",
+      "学业成绩（40%）",
+      "实践活动（30%） 三个方面开展"
+    ],
+    "materials": [
+      "申请材料： 1）个人简历 2）本科或研究生课程成绩单 3）英语能力证明（托福",
+      "或雅思",
+      "或四六级证书",
+      "或其他英文能力证明） 考核主要将从英语能力（30%）",
+      "学业成绩（40%）",
+      "实践活动（30%） 三个方面开展",
+      "学院将在收齐申请材料后两周内安排面试",
+      "由学院教授组成的评审组依据申请者综合情况确定录取人选及奖学金名单"
+    ],
+    "applicationMethod": "六、报名方式 请点击链接报名： https://v.wjx.cn/vm/w20gfJF.aspx 或扫描二维码报名： 报名截止日期：6月20日 如有任何相关问题，可联系杨老师：021-64355111-6238或发送邮件至 yoyo199207@sjtu.edu.cn 附：首届&ldquo",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-09",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-06-09"
   },
   {
     "id": "college-5029e25ef5ed",

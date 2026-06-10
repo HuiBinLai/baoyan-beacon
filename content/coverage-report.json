@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T03:57:41.879Z",
+  "generatedAt": "2026-06-10T03:59:14.666Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2086,
+    "notices": 2094,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 315,
+      "total": 316,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 61,
@@ -38,12 +38,12 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 186,
+      "total": 192,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 47,
       "llmStructured": 113,
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "stale"
     },
     {
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 282,
+      "total": 283,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -1022,7 +1022,7 @@
       "id": "auto-a4607f78b5d8",
       "school": "北京大学",
       "department": "先进制造与机器人学院",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
@@ -1335,11 +1335,15 @@
       "id": "auto-bb7614a9cb75",
       "school": "清华大学",
       "department": "工程力学系",
-      "total": 6,
+      "total": 12,
       "years": [
-        2026
+        2027,
+        2026,
+        2025,
+        2024,
+        2023
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -1682,7 +1686,7 @@
       "id": "auto-028fe9eefa89",
       "school": "清华大学",
       "department": "历史系",
-      "total": 32,
+      "total": 36,
       "years": [
         2026,
         2025,
@@ -1946,9 +1950,12 @@
       "id": "auto-227e1862dcde",
       "school": "清华大学",
       "department": "艺术史论系",
-      "total": 4,
+      "total": 8,
       "years": [
-        2026
+        2026,
+        2025,
+        2024,
+        2023
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -2219,13 +2226,13 @@
       "id": "auto-58ddd8f8b4bf",
       "school": "上海交通大学",
       "department": "凯原法学院",
-      "total": 24,
+      "total": 25,
       "years": [
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-05-11",
+      "latestDate": "2026-06-10",
       "status": "covered"
     },
     {

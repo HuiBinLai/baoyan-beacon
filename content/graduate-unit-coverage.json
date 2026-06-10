@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T03:57:43.002Z",
+  "generatedAt": "2026-06-10T03:59:15.836Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 4,
     "missing": 366,
-    "currentSeasonCovered": 11
+    "currentSeasonCovered": 12
   },
   "units": [
     {
@@ -488,8 +488,8 @@
       "department": "先进制造与机器人学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://amr.pku.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 11,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
@@ -6456,13 +6456,14 @@
       "department": "奖助体系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
+        2026,
         2022
       ],
-      "latestDate": "2022-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -6757,17 +6758,18 @@
       "department": "工程力学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 9,
-      "recentFiveYears": 5,
-      "currentSeason": 0,
+      "total": 11,
+      "recentFiveYears": 6,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2022,
         2021,
         2020,
         2019
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -7477,13 +7479,15 @@
       "department": "历史系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.lsx.tsinghua.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
-        2024
+        2025,
+        2024,
+        2023
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2025-01-01",
       "status": "covered"
     },
     {
@@ -8894,15 +8898,15 @@
       "department": "凯原法学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://law.sjtu.edu.cn/",
-      "total": 26,
-      "recentFiveYears": 26,
+      "total": 27,
+      "recentFiveYears": 27,
       "currentSeason": 0,
       "years": [
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-05-11",
+      "latestDate": "2026-06-10",
       "status": "covered"
     },
     {
