@@ -1,5 +1,726 @@
 [
   {
+    "id": "college-d4d4668477bb",
+    "title": "北京大学信息管理系关于举办“2026年全国优秀大学生夏令营”活动的通知",
+    "school": "北京大学",
+    "department": "信息管理系",
+    "majors": [
+      "人工智能",
+      "计算机科学与技术"
+    ],
+    "type": "夏令营",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学信息管理系官方站点",
+    "sourceUrl": "http://www.im.pku.edu.cn/zsxm/ssxm/f892661acd7e4f5bb15577bf3da54211.htm",
+    "sourceHost": "www.im.pku.edu.cn",
+    "sourceHomepage": "http://www.im.pku.edu.cn/",
+    "departmentHomepage": "http://www.im.pku.edu.cn/",
+    "summary": "信息管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-86b9e3341f07"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学信息管理系关于举办“2026年全国优秀大学生夏令营”活动的通知。信息管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "信息管理系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-46681e69c488",
+    "title": "上海交通大学人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法 2026-06-10",
+    "school": "上海交通大学",
+    "department": "人工智能学院",
+    "majors": [
+      "人工智能",
+      "教育学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学人工智能学院官方站点",
+    "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/494",
+    "sourceHost": "sai.sjtu.edu.cn",
+    "sourceHomepage": "https://sai.sjtu.edu.cn/",
+    "departmentHomepage": "https://sai.sjtu.edu.cn/",
+    "summary": "人工智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0ff9868c9a19"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "上海交通大学人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法 2026-06-10。人工智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。上海交通大学人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法 - 上海交通大学人工智能学院 首页 学院概况 学院简介 学院领导 大事记 学院导览 师资队伍 专职教师 双聘/客座 博士后 科学研究 科研概况 科研动态 人才培养 本科生培养 研究生培养 学生工作 学工动态 党建德育 团学工作 学生事务 生涯导航 学创空间 党建工作 党务工作 党建动态 工会动态 合作交流 合作概况 联系方式 诚聘英才 招聘启示 人才计划 下载专区 首页 / 通知公告 / 招生 通知公告 招生 培养 学生 招聘 上海交通大学人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法 发布时间：2026-06-10 浏览量：143 一、复试时间及安排 复试安排 时间 地点 资格审查 综合素质测评 202 6 年 6 月 12 日 0 8:30- 0 9:00 ",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "三、资格审查 请考生于 6 月 12 日上午资格审查环节携带以下材料原件以供查验： （ 1 ）上海交通大学博士学位研究生报考登记表 1 份（从网上报名系统下载并用 A4 纸打印）",
+    "requirements": [
+      "人工智能学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "逾期未填写问卷者",
+      "视为自动放弃复试资格",
+      "三",
+      "资格审查 请考生于 6 月 12 日上午资格审查环节携带以下材料原件以供查验： （ 1 ）上海交通大学博士学位研究生报考登记表 1 份（从网上报名系统下载并用 A4 纸打印）",
+      "（ 3 ）硕士生课程成绩单原件（复印件加盖研究生管理部门成绩公章或考生档案 所在管理部门公章）",
+      "（ 6 ）在学或工作期间的科研成果",
+      "学术性论文或专著等复印件（已公开发表的 学术性论文需提交期刊封面 + 目录 + 正文 + 封背的复印件",
+      "专著提交著作的封 面",
+      "前言（或序言）及后记的复印件）"
+    ],
+    "materials": [
+      "三",
+      "资格审查 请考生于 6 月 12 日上午资格审查环节携带以下材料原件以供查验： （ 1 ）上海交通大学博士学位研究生报考登记表 1 份（从网上报名系统下载并用 A4 纸打印）",
+      "（ 3 ）硕士生课程成绩单原件（复印件加盖研究生管理部门成绩公章或考生档案 所在管理部门公章）",
+      "（ 4 ）第二代居民身份证复印件",
+      "须将身份证正反面复印在一页 A4 纸上",
+      "（ 5 ）获奖证书复印件",
+      "（ 7 ）外语水平成绩证明复印件 1 份"
+    ],
+    "applicationMethod": "三、资格审查 请考生于 6 月 12 日上午资格审查环节携带以下材料原件以供查验： （ 1 ）上海交通大学博士学位研究生报考登记表 1 份（从网上报名系统下载并用 A4 纸打印）",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-0434baa625a3",
+    "title": "上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） 2026-06-10",
+    "school": "上海交通大学",
+    "department": "人工智能学院",
+    "majors": [
+      "人工智能"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学人工智能学院官方站点",
+    "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/493",
+    "sourceHost": "sai.sjtu.edu.cn",
+    "sourceHomepage": "https://sai.sjtu.edu.cn/",
+    "departmentHomepage": "https://sai.sjtu.edu.cn/",
+    "summary": "人工智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0ff9868c9a19"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） 2026-06-10。人工智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） - 上海交通大学人工智能学院 首页 学院概况 学院简介 学院领导 大事记 学院导览 师资队伍 专职教师 双聘/客座 博士后 科学研究 科研概况 科研动态 人才培养 本科生培养 研究生培养 学生工作 学工动态 党建德育 团学工作 学生事务 生涯导航 学创空间 党建工作 党务工作 党建动态 工会动态 合作交流 合作概况 联系方式 诚聘英才 招聘启示 人才计划 下载专区 首页 / 通知公告 / 招生 通知公告 招生 培养 学生 招聘 上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） 发布时间：2026-06-10 浏览量：232 一、复试时间及安排 复试安排 时间 地点 资格审查 综合素质测评 202 6 年 ",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） 2026-06-10",
+    "requirements": [
+      "人工智能学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "逾期未填写问卷者",
+      "视为自动放弃复试资格",
+      "三",
+      "资格审查 请考生于 6 月 12 日上午资格审查环节携带以下材料原件以供查验： 1. 第二代居民身份证原件（供查验",
+      "原件无需上交）",
+      "5. 硕士就读或毕业高校出具的正式成绩单（携带原件上交）",
+      "7. 外语水平证明材料（全国大学英语六级证书",
+      "TOEFL iBT 成绩单",
+      "IELTS 学术 类成绩单",
+      "英语为母语的国家全英文授课学位项目学位证书等）（供查验"
+    ],
+    "materials": [
+      "三",
+      "资格审查 请考生于 6 月 12 日上午资格审查环节携带以下材料原件以供查验： 1. 第二代居民身份证原件（供查验",
+      "原件无需上交）",
+      "2. 往届生提供硕士毕业证书和学位证书原件",
+      "应届生提供学生证原件（供查验",
+      "4. 持境外学历",
+      "学位证书者还需提供教育部留学服务中心出具的《国外学历学 位认证书》",
+      "境外在读尚未获得硕士学位者提供就读学校出具的学籍证明",
+      "学籍证明中写明预计获硕士学位时间（携带原件上交）",
+      "5. 硕士就读或毕业高校出具的正式成绩单（携带原件上交）",
+      "7. 外语水平证明材料（全国大学英语六级证书",
+      "TOEFL iBT 成绩单",
+      "IELTS 学术 类成绩单",
+      "英语为母语的国家全英文授课学位项目学位证书等）（供查验"
+    ],
+    "applicationMethod": "七、联系方式 电话：021-33687205，邮箱：aischool@sjtu.edu.cn",
+    "targetStudents": "",
+    "degreeTypes": [
+      "直博"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-f4f6713da900",
+    "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2024,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2024-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2025年硕士推免生考核及录取办法-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 Engli",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-83d0e89e4888",
+    "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2024,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2024-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2461.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。招收2025年推荐免试研究生和公开招考博士生的报名工作-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 Eng",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "地址：北京市海淀区清华园1号 100084 电话：010-62783140 邮箱：math-hr@tsinghua.edu.cn 相关链接 清华大学 丘成桐数学科学中心 数学科学系 微信公众号 Copyright © 2026 清华大学数学科学系 All Rights Reserved",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-3be7ccbd5076",
+    "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2024,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2024-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
+    "sourceHost": "www.math.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2025年硕士推免生考核及录取办法-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 Engli",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-eea016c11a55",
+    "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2024,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2024-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
+    "sourceHost": "www.math.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-f614bee4368e",
+    "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2023,
+    "region": "北京",
+    "deadline": "2023-09-14",
+    "publishedAt": "2023-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2291.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。数学科学系接收推荐免试应用统计专业硕士调剂通知-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 English 清华大",
+    "applicationStart": "2023-08-21",
+    "applicationEnd": "2023-09-14",
+    "registrationTime": "请8月21日前在清华研招网完成报名且截止目前未接受其他院系预录取的考生，登陆研究生申请服务系统完成调剂志愿报名，报名截止时间为2023年9月14日10:00，逾期不再受理",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "地址：北京市海淀区清华园1号 100084 电话：010-62783140 邮箱：math-hr@tsinghua.edu.cn 相关链接 清华大学 丘成桐数学科学中心 数学科学系 微信公众号 Copyright © 2026 清华大学数学科学系 All Rights Reserved",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-e153bbdc31a5",
+    "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2023,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2023-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2285.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2024年硕士推免生考核及录取办法-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 Engli",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-ff6dc86a6496",
+    "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2023,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2023-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2282.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。招收2024年推荐免试研究生和公开招考博士生的报名工作-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 Eng",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "地址：北京市海淀区清华园1号 100084 电话：010-62783140 邮箱：math-hr@tsinghua.edu.cn 相关链接 清华大学 丘成桐数学科学中心 数学科学系 微信公众号 Copyright © 2026 清华大学数学科学系 All Rights Reserved",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-d0d1dc253ef8",
+    "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2023,
+    "region": "北京",
+    "deadline": "2023-09-14",
+    "publishedAt": "2023-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
+    "sourceHost": "www.math.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。数学科学系接收推荐免试应用统计专业硕士调剂通知-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 English 清华大",
+    "applicationStart": "2023-08-21",
+    "applicationEnd": "2023-09-14",
+    "registrationTime": "请8月21日前在清华研招网完成报名且截止目前未接受其他院系预录取的考生，登陆研究生申请服务系统完成调剂志愿报名，报名截止时间为2023年9月14日10:00，逾期不再受理",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "地址：北京市海淀区清华园1号 100084 电话：010-62783140 邮箱：math-hr@tsinghua.edu.cn 相关链接 清华大学 丘成桐数学科学中心 数学科学系 微信公众号 Copyright © 2026 清华大学数学科学系 All Rights Reserved",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-2c4eedc49a2a",
+    "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2023,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2023-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
+    "sourceHost": "www.math.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2024年硕士推免生考核及录取办法-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 Engli",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-c8f4b410b8b8",
+    "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2023,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2023-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2282.htm",
+    "sourceHost": "www.math.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。招收2024年推荐免试研究生和公开招考博士生的报名工作-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 Eng",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "地址：北京市海淀区清华园1号 100084 电话：010-62783140 邮箱：math-hr@tsinghua.edu.cn 相关链接 清华大学 丘成桐数学科学中心 数学科学系 微信公众号 Copyright © 2026 清华大学数学科学系 All Rights Reserved",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-06-13"
+  },
+  {
+    "id": "college-4477a30f50dd",
+    "title": "人工智能学院接收2023级强基计划本科生转段直博复试通知 2026-06-10",
+    "school": "上海交通大学",
+    "department": "人工智能学院",
+    "majors": [
+      "人工智能",
+      "数学",
+      "物理学"
+    ],
+    "type": "直博",
+    "year": 2023,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2023-01-01",
+    "sourceName": "上海交通大学人工智能学院官方站点",
+    "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/495",
+    "sourceHost": "sai.sjtu.edu.cn",
+    "sourceHomepage": "https://sai.sjtu.edu.cn/",
+    "departmentHomepage": "https://sai.sjtu.edu.cn/",
+    "summary": "人工智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0ff9868c9a19"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "人工智能学院接收2023级强基计划本科生转段直博复试通知 2026-06-10。人工智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。人工智能学院接收2023级强基计划本科生转段直博复试通知 - 上海交通大学人工智能学院 首页 学院概况 学院简介 学院领导 大事记 学院导览 师资队伍 专职教师 双聘/客座 博士后 科学研究 科研概况 科研动态 人才培养 本科生培养 研究生培养 学生工作 学工动态 党建德育 团学工作 学生事务 生涯导航 学创空间 党建工作 党务工作 党建动态 工会动态 合作交流 合作概况 联系方式 诚聘英才 招聘启示 人才计划 下载专区 首页 / 通知公告 / 招生 通知公告 招生 培养 学生 招聘 人工智能学院接收2023级强基计划本科生转段直博复试通知 发布时间：2026-06-10 浏览量：201 一、 复试名单 学号 姓名 本科学院 本科专业 523071910016 宋若华 数学科学学院 数学与应用数学 523071910021 孙浩民 数学科学学院 数学与应用数学 523071910032 雷行健 数学科学学院 数学与应用数学",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "人工智能学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "逾期未填写问卷者",
+      "视为自动放弃复试资格",
+      "四",
+      "资格审查 请考生资格审查环节携带以下材料原件以供查验（不返还",
+      "面试材料请另行准备）： 1. 第二代居民身份证原件（供查验",
+      "原件无需上交）",
+      "5. 本科成绩单（需加盖学校教务处或学院教务部门公章）",
+      "6. 本科前三年（五年制学生要求前四年）学习成绩专业排名证明（需加盖所在学院教务部门公章）"
+    ],
+    "materials": [
+      "四",
+      "资格审查 请考生资格审查环节携带以下材料原件以供查验（不返还",
+      "面试材料请另行准备）： 1. 第二代居民身份证原件（供查验",
+      "原件无需上交）",
+      "2. 学生证（供查验",
+      "3. 身份证（正反面）和学生证复印件",
+      "4. 人工智能学院强基计划推免直升博士研究生申请表",
+      "5. 本科成绩单（需加盖学校教务处或学院教务部门公章）"
+    ],
+    "applicationMethod": "八、联系方式 电话： 021-54151015 ，邮箱： aischool@sjtu.edu.cn",
+    "targetStudents": "",
+    "degreeTypes": [
+      "直博"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-06-13",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-06-13"
+  },
+  {
     "id": "college-703ed700aa42",
     "title": "中国人民大学文学院",
     "school": "中国人民大学",
