@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T04:05:32.848Z",
+  "generatedAt": "2026-06-18T04:13:52.624Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -253,8 +253,8 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 12,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -305,8 +305,8 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 9,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14434,8 +14434,8 @@
       "department": "地球和空间科学学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://ess.ustc.edu.cn/",
-      "total": 26,
-      "recentFiveYears": 21,
+      "total": 28,
+      "recentFiveYears": 23,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14471,8 +14471,8 @@
       "department": "地球化学与行星科学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://ess.ustc.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 9,
+      "recentFiveYears": 9,
       "currentSeason": 0,
       "years": [
         2026,
