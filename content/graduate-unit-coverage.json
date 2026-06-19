@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T04:13:52.624Z",
+  "generatedAt": "2026-06-19T04:13:53.982Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -253,8 +253,8 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 13,
+      "total": 16,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
@@ -305,8 +305,8 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 13,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -857,8 +857,8 @@
       "department": "人工智能研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ai.pku.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 12,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -6758,8 +6758,8 @@
       "department": "工程力学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 11,
-      "recentFiveYears": 6,
+      "total": 12,
+      "recentFiveYears": 7,
       "currentSeason": 1,
       "years": [
         2027,
@@ -7015,8 +7015,8 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 24,
-      "recentFiveYears": 24,
+      "total": 25,
+      "recentFiveYears": 25,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7296,8 +7296,8 @@
       "department": "国际与地区研究院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://iias.tsinghua.edu.cn/",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7384,8 +7384,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 12,
-      "recentFiveYears": 12,
+      "total": 13,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7765,8 +7765,8 @@
       "department": "雕塑系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 19,
-      "recentFiveYears": 12,
+      "total": 20,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7992,8 +7992,8 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 17,
-      "recentFiveYears": 17,
+      "total": 18,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
