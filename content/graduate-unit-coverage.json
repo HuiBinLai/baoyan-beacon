@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T04:06:31.152Z",
+  "generatedAt": "2026-06-23T04:00:59.303Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 4,
     "missing": 366,
-    "currentSeasonCovered": 12
+    "currentSeasonCovered": 13
   },
   "units": [
     {
@@ -15604,8 +15604,8 @@
       "department": "高瓴人工智能学院",
       "sourceName": "中国人民大学高瓴人工智能学院官方站点",
       "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/index1.htm",
-      "total": 14,
-      "recentFiveYears": 10,
+      "total": 15,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15707,17 +15707,18 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 8,
+      "total": 11,
       "recentFiveYears": 8,
-      "currentSeason": 0,
+      "currentSeason": 3,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2023,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {

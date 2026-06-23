@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T04:06:29.954Z",
+  "generatedAt": "2026-06-23T04:00:58.152Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2119,
+    "notices": 2123,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,12 +16,12 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 142,
+      "total": 146,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
       "llmStructured": 125,
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "stale"
     },
     {
@@ -3916,7 +3916,7 @@
       "id": "ruc-gaoling-ai",
       "school": "中国人民大学",
       "department": "高瓴人工智能学院",
-      "total": 14,
+      "total": 15,
       "years": [
         2026,
         2025,
@@ -4004,15 +4004,16 @@
       "id": "ruc-labor-human-resources",
       "school": "中国人民大学",
       "department": "劳动人事学院",
-      "total": 8,
+      "total": 11,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2023,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
