@@ -526,6 +526,40 @@
     "qualityFlags": [],
     "timeline": [
       {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-06-23",
+        "lastPublishedAt": "2026-06-23",
+        "firstApplicationStart": "2026-07-01",
+        "lastApplicationEnd": "2026-07-14",
+        "notices": [
+          {
+            "id": "college-a4d20976df90",
+            "title": "中国人民大学高瓴人工智能学院2027年推免生接收工作报名通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2026-06-23",
+            "applicationStart": "2026-07-01",
+            "applicationEnd": "2026-07-14",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/20260623106.html",
+            "sourceHost": "ai.ruc.edu.cn",
+            "sourceHomepage": "https://ai.ruc.edu.cn/",
+            "departmentHomepage": "https://ai.ruc.edu.cn/"
+          }
+        ]
+      },
+      {
         "year": 2026,
         "count": 6,
         "stages": [
@@ -883,12 +917,13 @@
         ]
       }
     ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
     "latestPastYear": 2026,
-    "noticeCount": 15,
+    "noticeCount": 16,
     "llmStructuredCount": 7,
     "years": [
+      2027,
       2026,
       2025,
       2024,
@@ -902,17 +937,18 @@
       "补充通知"
     ],
     "degreeTypes": [
-      "待确认",
       "直博",
       "学术型硕士",
+      "待确认",
       "专业型硕士",
       "硕士"
     ],
     "majors": [
       "人工智能",
-      "电子信息（人工智能）",
-      "电子信息",
       "计算机科学与技术",
+      "智能科学与技术",
+      "电子信息",
+      "电子信息（人工智能）",
       "智慧治理",
       "人工智能专业",
       "人工智能（大数据科学与技术）"
@@ -65650,6 +65686,79 @@
     ],
     "departmentHomepages": [
       "https://bio.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-875d22f8f6cb",
+    "school": "北京大学",
+    "department": "未来技术学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 未来技术学院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 1,
+        "stages": [
+          "结果公示"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-a7f76852e8be",
+            "title": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知",
+            "stage": "结果公示",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://future.pku.edu.cn/zsypy/tzggzspy/f149db5d6a734d699205da4013ecc3b8.htm",
+            "sourceHost": "future.pku.edu.cn",
+            "sourceHomepage": "https://future.pku.edu.cn/",
+            "departmentHomepage": "https://future.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 1,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "结果公示"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "future.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://future.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://future.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

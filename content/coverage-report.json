@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-23T04:00:58.152Z",
+  "generatedAt": "2026-06-24T03:45:35.722Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2123,
+    "notices": 2125,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 319,
-    "missingCollegeSources": 91,
+    "missingCollegeSources": 90,
     "llmStructured": 1560,
     "unstructured": 0
   },
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 146,
+      "total": 147,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -27,10 +27,10 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 321,
+      "total": 322,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 61,
+      "departments": 62,
       "llmStructured": 117,
       "latestDate": "2027-01-01",
       "status": "stale"
@@ -1013,10 +1013,12 @@
       "id": "auto-338b22a1f65b",
       "school": "北京大学",
       "department": "未来技术学院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-a4607f78b5d8",
@@ -3916,8 +3918,9 @@
       "id": "ruc-gaoling-ai",
       "school": "中国人民大学",
       "department": "高瓴人工智能学院",
-      "total": 15,
+      "total": 16,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -3925,7 +3928,7 @@
         2020,
         2019
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-06-23",
       "status": "covered"
     },
     {
@@ -4189,7 +4192,6 @@
     "北京大学人文社会科学学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学数学科学学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学体育教研部 已登记源但暂无候选，需要检查公告页。",
-    "北京大学未来技术学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学信息科学与技术学部 已登记源但暂无候选，需要检查公告页。",
     "北京大学医学部 已登记源但暂无候选，需要检查公告页。",
     "北京大学医学人文学院 已登记源但暂无候选，需要检查公告页。",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:00:59.303Z",
+  "generatedAt": "2026-06-24T03:45:36.873Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 4,
     "missing": 366,
-    "currentSeasonCovered": 13
+    "currentSeasonCovered": 15
   },
   "units": [
     {
@@ -523,8 +523,8 @@
       "department": "未来技术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://future.pku.edu.cn/",
-      "total": 6,
-      "recentFiveYears": 6,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15604,10 +15604,11 @@
       "department": "高瓴人工智能学院",
       "sourceName": "中国人民大学高瓴人工智能学院官方站点",
       "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/index1.htm",
-      "total": 15,
+      "total": 16,
       "recentFiveYears": 11,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -15615,7 +15616,7 @@
         2020,
         2019
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-06-23",
       "status": "covered"
     },
     {
@@ -15841,10 +15842,11 @@
       "department": "新闻学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 14,
+      "total": 15,
       "recentFiveYears": 11,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -15853,7 +15855,7 @@
         2020,
         2019
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-06-23",
       "status": "covered"
     },
     {
