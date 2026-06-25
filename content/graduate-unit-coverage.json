@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T03:45:36.873Z",
+  "generatedAt": "2026-06-25T03:52:06.582Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 4,
     "missing": 366,
-    "currentSeasonCovered": 15
+    "currentSeasonCovered": 16
   },
   "units": [
     {
@@ -287,8 +287,8 @@
       "department": "智能学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://sai.pku.edu.cn/",
-      "total": 20,
-      "recentFiveYears": 20,
+      "total": 21,
+      "recentFiveYears": 21,
       "currentSeason": 0,
       "years": [
         2026,
@@ -323,8 +323,8 @@
       "department": "软件工程国家工程研究中心",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://se.pku.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 8,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 1,
       "years": [
         2027,
@@ -356,8 +356,8 @@
       "department": "考古文博学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://archaeology.pku.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 15,
+      "total": 16,
+      "recentFiveYears": 16,
       "currentSeason": 0,
       "years": [
         2026,
@@ -1254,8 +1254,8 @@
       "department": "计算机学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://cs.pku.edu.cn/info/1022/3813.htm",
-      "total": 25,
-      "recentFiveYears": 24,
+      "total": 27,
+      "recentFiveYears": 26,
       "currentSeason": 1,
       "years": [
         2027,
@@ -7803,14 +7803,15 @@
       "department": "全球创新学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://gix.tsinghua.edu.cn/",
-      "total": 3,
+      "total": 4,
       "recentFiveYears": 3,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2023
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -8862,8 +8863,8 @@
       "department": "药学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://pharm.sjtu.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 11,
+      "total": 17,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9153,8 +9154,8 @@
       "department": "系统生物医学研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://scsb.sjtu.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 11,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9639,8 +9640,8 @@
       "department": "统生物医学研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 11,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
