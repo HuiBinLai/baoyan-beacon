@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T03:52:05.438Z",
+  "generatedAt": "2026-06-26T03:59:42.259Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2132,
+    "notices": 2136,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 147,
+      "total": 149,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -27,12 +27,12 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 326,
+      "total": 328,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
       "llmStructured": 117,
-      "latestDate": "2027-01-01",
+      "latestDate": "2080-91-79",
       "status": "stale"
     },
     {
@@ -698,12 +698,12 @@
       "id": "auto-5766654a8aed",
       "school": "北京大学",
       "department": "集成电路学院",
-      "total": 7,
+      "total": 8,
       "years": [
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2080-91-79",
       "status": "covered"
     },
     {
@@ -821,7 +821,7 @@
       "id": "auto-809c9df6fb79",
       "school": "北京大学",
       "department": "前沿交叉学科研究院",
-      "total": 7,
+      "total": 8,
       "years": [
         2026,
         2025
@@ -4021,7 +4021,7 @@
       "id": "ruc-labor-human-resources",
       "school": "中国人民大学",
       "department": "劳动人事学院",
-      "total": 11,
+      "total": 13,
       "years": [
         2027,
         2026,

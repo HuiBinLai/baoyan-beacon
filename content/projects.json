@@ -969,6 +969,393 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-dfe7330eb35d",
+    "school": "中国人民大学",
+    "department": "劳动人事学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "中国人民大学 · 劳动人事学院",
+    "tracks": [
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 5,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2027-07-01",
+        "lastApplicationEnd": "2027-07-05",
+        "notices": [
+          {
+            "id": "college-2da630f61372",
+            "title": "1.中国人民大学劳动人事学院2027年推免生接收申请表",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/docs/2026-06/f36416c02b36414a92746ced961279ef.doc",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/"
+          },
+          {
+            "id": "college-e1352c2e6cfc",
+            "title": "上一篇： 中国人民大学劳动人事学院2027年推免生接收工作报名通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/zs/zsxx/ecd82d3e26e64e9ea59aaa107d32fc80.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/"
+          },
+          {
+            "id": "college-a4bb854e2966",
+            "title": "中国人民大学劳动人事学院2027年推免生接收工作报名通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-07-01",
+            "applicationEnd": "2027-07-05",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/1b121567af9d4335aae82d55a64a709e.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/"
+          },
+          {
+            "id": "college-c46563951d1d",
+            "title": "中国人民大学劳动人事学院2027年推免生接收工作报名通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-07-01",
+            "applicationEnd": "2027-07-05",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/zs/zsxx/ecd82d3e26e64e9ea59aaa107d32fc80.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/"
+          },
+          {
+            "id": "college-1929539a9ba5",
+            "title": "1.中国人民大学劳动人事学院2027年推免生接收申请表",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/docs/2026-06/577e994f6bc74904bf9585f015a4fda9.doc",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-07-01",
+        "lastApplicationEnd": "2025-07-10",
+        "notices": [
+          {
+            "id": "college-dcc3706f0210",
+            "title": "中国人民大学劳动人事学院2026年人力资源开发与管理专业学位硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/zs/zsxx/77602fed6f0147dbb9cb31ec2250eb5c.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          },
+          {
+            "id": "college-2aaaf988912a",
+            "title": "中国人民大学劳动人事学院2026年推免生接收工作报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-07-01",
+            "applicationEnd": "2025-07-10",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/44e198164a9e4081ba89ac18b535121a.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "专业型硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-10-15",
+        "lastApplicationEnd": "2024-10-28",
+        "notices": [
+          {
+            "id": "college-c4bc6f9aa83e",
+            "title": "中国人民大学劳动人事学院2025年接收优秀应届本科毕业生免试攻读硕士研究生工作办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/3b54af0be66a47d19dfba2b9b96a6f2d.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          },
+          {
+            "id": "college-bd87708fca91",
+            "title": "中国人民大学劳动人事学院2025年人力资源开发与管理硕士专业学位研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-10-15",
+            "applicationEnd": "2024-10-28",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/8ba479951eea4037b90a52fe339e7729.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2024-06-06",
+        "lastApplicationEnd": "2024-06-28",
+        "notices": [
+          {
+            "id": "college-79c10a7fddf5",
+            "title": "劳动人事学院“2024年全国优秀大学生暑期研学营”考核办法",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-06-28",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/29e5466c34ec40e28758bea0377b4686.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          },
+          {
+            "id": "college-ca913a36ce62",
+            "title": "中国人民大学劳动人事学院关于举办“2024年全国优秀大学生暑期研学营”活动的通知",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-06-06",
+            "applicationEnd": "2024-06-18",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/cc374bec96d94b6a871bff509841edbb.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "https://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2023-06-12",
+        "lastApplicationEnd": "2023-06-24",
+        "notices": [
+          {
+            "id": "search-2014b69a8688",
+            "title": "中国人民大学 劳动人事学院关于举办“ 2023 年全国 优秀大学生夏令营 ...",
+            "stage": "夏令营/研学营",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-06-12",
+            "applicationEnd": "2023-06-24",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "http://slhr.ruc.edu.cn/rcpy/ss/zsxx/cd4f2300761a4528b722742a10f6673b.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "http://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2022-06-14",
+        "lastApplicationEnd": "2022-06-24",
+        "notices": [
+          {
+            "id": "search-72fdf86380f1",
+            "title": "中国人民大学 劳动人事学院关于举办“ 2022 年全国 优秀大学生夏令营 ...",
+            "stage": "夏令营/研学营",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-06-14",
+            "applicationEnd": "2022-06-24",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "http://slhr.ruc.edu.cn/rcpy/ss/zsxx/9a25c353bb89440781d06d314d8aa523.htm",
+            "sourceHost": "slhr.ruc.edu.cn",
+            "sourceHomepage": "http://slhr.ruc.edu.cn/",
+            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 5,
+    "latestPastYear": 2026,
+    "noticeCount": 13,
+    "llmStructuredCount": 8,
+    "years": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "学术型硕士",
+      "专业型硕士",
+      "博士"
+    ],
+    "majors": [
+      "人力资源开发与管理",
+      "劳动经济学",
+      "人力资源管理",
+      "社会保障",
+      "劳动关系学",
+      "劳动经济",
+      "劳动关系",
+      "职业开发与管理"
+    ],
+    "sourceHosts": [
+      "slhr.ruc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://slhr.ruc.edu.cn/",
+      "http://slhr.ruc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://slhr.ruc.edu.cn/",
+      "https://slhr.ruc.edu.cn/rcpy/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-6d6910c6c842",
     "school": "中国人民大学",
     "department": "校级/待分院",
@@ -1679,361 +2066,6 @@
     "departmentHomepages": [
       "http://law.ruc.edu.cn/",
       "http://www.law.ruc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-dfe7330eb35d",
-    "school": "中国人民大学",
-    "department": "劳动人事学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "中国人民大学 · 劳动人事学院",
-    "tracks": [
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 3,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2027-07-01",
-        "lastApplicationEnd": "2027-07-05",
-        "notices": [
-          {
-            "id": "college-a4bb854e2966",
-            "title": "中国人民大学劳动人事学院2027年推免生接收工作报名通知",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-07-01",
-            "applicationEnd": "2027-07-05",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/1b121567af9d4335aae82d55a64a709e.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/"
-          },
-          {
-            "id": "college-c46563951d1d",
-            "title": "中国人民大学劳动人事学院2027年推免生接收工作报名通知",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-07-01",
-            "applicationEnd": "2027-07-05",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/zs/zsxx/ecd82d3e26e64e9ea59aaa107d32fc80.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/"
-          },
-          {
-            "id": "college-1929539a9ba5",
-            "title": "1.中国人民大学劳动人事学院2027年推免生接收申请表",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/docs/2026-06/577e994f6bc74904bf9585f015a4fda9.doc",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "招生简章",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-07-01",
-        "lastApplicationEnd": "2025-07-10",
-        "notices": [
-          {
-            "id": "college-dcc3706f0210",
-            "title": "中国人民大学劳动人事学院2026年人力资源开发与管理专业学位硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/zs/zsxx/77602fed6f0147dbb9cb31ec2250eb5c.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          },
-          {
-            "id": "college-2aaaf988912a",
-            "title": "中国人民大学劳动人事学院2026年推免生接收工作报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-07-01",
-            "applicationEnd": "2025-07-10",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/44e198164a9e4081ba89ac18b535121a.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-10-15",
-        "lastApplicationEnd": "2024-10-28",
-        "notices": [
-          {
-            "id": "college-c4bc6f9aa83e",
-            "title": "中国人民大学劳动人事学院2025年接收优秀应届本科毕业生免试攻读硕士研究生工作办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/3b54af0be66a47d19dfba2b9b96a6f2d.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          },
-          {
-            "id": "college-bd87708fca91",
-            "title": "中国人民大学劳动人事学院2025年人力资源开发与管理硕士专业学位研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-10-15",
-            "applicationEnd": "2024-10-28",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/8ba479951eea4037b90a52fe339e7729.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2024-06-06",
-        "lastApplicationEnd": "2024-06-28",
-        "notices": [
-          {
-            "id": "college-79c10a7fddf5",
-            "title": "劳动人事学院“2024年全国优秀大学生暑期研学营”考核办法",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-06-28",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/29e5466c34ec40e28758bea0377b4686.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          },
-          {
-            "id": "college-ca913a36ce62",
-            "title": "中国人民大学劳动人事学院关于举办“2024年全国优秀大学生暑期研学营”活动的通知",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-06-06",
-            "applicationEnd": "2024-06-18",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://slhr.ruc.edu.cn/rcpy/ss/zsxx/cc374bec96d94b6a871bff509841edbb.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "https://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2023-06-12",
-        "lastApplicationEnd": "2023-06-24",
-        "notices": [
-          {
-            "id": "search-2014b69a8688",
-            "title": "中国人民大学 劳动人事学院关于举办“ 2023 年全国 优秀大学生夏令营 ...",
-            "stage": "夏令营/研学营",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-06-12",
-            "applicationEnd": "2023-06-24",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "http://slhr.ruc.edu.cn/rcpy/ss/zsxx/cd4f2300761a4528b722742a10f6673b.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "http://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2022-06-14",
-        "lastApplicationEnd": "2022-06-24",
-        "notices": [
-          {
-            "id": "search-72fdf86380f1",
-            "title": "中国人民大学 劳动人事学院关于举办“ 2022 年全国 优秀大学生夏令营 ...",
-            "stage": "夏令营/研学营",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-06-14",
-            "applicationEnd": "2022-06-24",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "http://slhr.ruc.edu.cn/rcpy/ss/zsxx/9a25c353bb89440781d06d314d8aa523.htm",
-            "sourceHost": "slhr.ruc.edu.cn",
-            "sourceHomepage": "http://slhr.ruc.edu.cn/",
-            "departmentHomepage": "https://slhr.ruc.edu.cn/rcpy/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 3,
-    "latestPastYear": 2026,
-    "noticeCount": 11,
-    "llmStructuredCount": 8,
-    "years": [
-      2027,
-      2026,
-      2025,
-      2024,
-      2023,
-      2022
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "学术型硕士",
-      "专业型硕士",
-      "待确认",
-      "博士"
-    ],
-    "majors": [
-      "人力资源开发与管理",
-      "劳动经济学",
-      "人力资源管理",
-      "社会保障",
-      "劳动关系学",
-      "劳动经济",
-      "劳动关系",
-      "职业开发与管理"
-    ],
-    "sourceHosts": [
-      "slhr.ruc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://slhr.ruc.edu.cn/",
-      "http://slhr.ruc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://slhr.ruc.edu.cn/",
-      "https://slhr.ruc.edu.cn/rcpy/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -25928,6 +25960,231 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-fed69278bb9f",
+    "school": "北京大学",
+    "department": "集成电路学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 集成电路学院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 6,
+        "stages": [
+          "夏令营/研学营",
+          "复试/考核",
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2080-91-79",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2026-07-01",
+        "notices": [
+          {
+            "id": "college-26d22681ed9e",
+            "title": "集成电路学院2026年优秀大学生夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2080-91-79",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-01",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/6be4089d4fa741208091790277832d04.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-43e46cc785ca",
+            "title": "集成电路学院关于举办2026年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-13f1a6c96a36",
+            "title": "北京大学集成电路学院2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-11-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e7bd2fee1e54495785d4aadd6ad41e37.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-20a284835dc1",
+            "title": "集成电路学院2026年接收推荐免试研究生复试安排",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/b8631836401145cf9071cb2260084b81.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-ae9fb0563d38",
+            "title": "集成电路学院2026年接收推荐免试研究生细则",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e0c9458a668c4fa6963542ecaec0b2ae.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-f9e95a7cb7cb",
+            "title": "集成电路学院2026年统考硕士研究生招生说明",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/7c41c53a5831473d896007a3a0f08860.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2025-06-18",
+        "notices": [
+          {
+            "id": "college-2830f265f0ef",
+            "title": "2025-06-06 集成电路学院关于举办2025年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-06-18",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/fwdh/tzgg/a34e058fb0bf4d708eda89326746f04a.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-d04344cf84ec",
+            "title": "集成电路学院关于举办2025年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-06-18",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 8,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "复试/考核",
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "直博",
+      "硕士"
+    ],
+    "majors": [
+      "计算机科学与技术",
+      "数学",
+      "化学",
+      "电子科学与技术",
+      "集成微纳电子",
+      "集成电路设计",
+      "集成微纳系统",
+      "电子设计自动化与计算系统",
+      "集成电路科学与工程"
+    ],
+    "sourceHosts": [
+      "ic.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://ic.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ic.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-67d8352d55b5",
     "school": "北京大学",
     "department": "马克思主义学院",
@@ -26176,6 +26433,231 @@
     ],
     "departmentHomepages": [
       "https://marxism.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-1067dd497d57",
+    "school": "北京大学",
+    "department": "前沿交叉学科研究院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 前沿交叉学科研究院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础",
+      "医学药学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 7,
+        "stages": [
+          "夏令营/研学营",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-06-01",
+        "lastApplicationEnd": "2026-07-01",
+        "notices": [
+          {
+            "id": "college-78e74c2001d4",
+            "title": "北京大学人工智能研究院关于举办2026年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-19",
+            "applicationEnd": "2026-07-01",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/19841.htm",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "http://www.aais.pku.edu.cn/"
+          },
+          {
+            "id": "college-67684f80765f",
+            "title": "北京大学区域与国别研究院2026年“申请-考核制”博士研究生招生复试面试名单",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/info/1350/18881.htm",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "http://www.aais.pku.edu.cn/"
+          },
+          {
+            "id": "college-23b68d52c2f5",
+            "title": "北京大学前沿交叉学科研究院（含定量生物学中心、PTN项目、CLS项目）与北京大学生命科学学院（含BIOPIC项目）关于联合举办2026年“大生命科学交叉”夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-14",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/19661.htm",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "http://www.aais.pku.edu.cn/"
+          },
+          {
+            "id": "college-567df90aafa5",
+            "title": "北京大学前沿交叉学科研究院关于举办2026年交叉学科优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-14",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/19671.htm",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "http://www.aais.pku.edu.cn/"
+          },
+          {
+            "id": "college-50c7f8becb72",
+            "title": "附件二：夏令营个人陈述.doc",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=7MlrVRolW2MlVVM24GsU4nVL7Q7MRLdbLRC8LRTkLRM2L770gihFp2hmCIa0UYyYokysUShfMRGDUzCZLm6fMmL4U4UYLmMkUNU8Uzv8LR6Foz62UNn7M7nFnRGaLkbNpDLeo878LRQfMm9YM87DL4MRMR-YL8WknRnfM4UaMiybM8Qkn7U8nVh7LRGagtn0C4Oev5T/CsAKgDTJQty0LzGioky4M4GsgtA8pU-cc&oid=2135844624&tid=1058&nid=3707&e=.doc",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "http://www.aais.pku.edu.cn/"
+          },
+          {
+            "id": "college-de1c418f2b82",
+            "title": "附件三：夏令营专家推荐信.doc",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=7MRlV8ozQVLm9bn2z7YMRNaUNCaoR-dbnzrRLmNPnl-8oR70gihFp2hmCIa0oky8LSy8oSysL4NiU8C4UmTknN7DL4CYo7UZUmMkLl-4LR6FL4MRozV2M8WFLzffLRGJQ2hmo4OsL4NiU8C4UmTknN7DL4CYo7UZUmMkLl-4LR6FL4MRozV2M8WFLzffLRGJQ2hmo4xP_IXm_2O0qIbtpYyPLRlZg4LsLRvJqd-nx&oid=2135844624&tid=1058&nid=3707&e=.doc",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "http://www.aais.pku.edu.cn/"
+          },
+          {
+            "id": "college-5faf081acb09",
+            "title": "附件一：夏令营申请表.doc",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=7oRNVDM8V2Lmn7M2mGPnlUYnmTRL77dPUzvsUNVfnmLbLzl0gihFp2hmCIa0okyZn1yiU1h2nmlDLRN4Mm6VLN-8UmlDMRvbLmMfnRQVM7WFLm9iMm7bM4nFLzGZLRGJQ2hmo4x2nmlDLRN4Mm6VLN-8UmlDMRvbLmMfnRQVM7WFLm9iMm7bM4nFLzGZLRGJQ2hmo4xP_IXm_2O0qIbtpYyPLRlZg4LsLRvJqd-nx&oid=2135844624&tid=1058&nid=3707&e=.doc",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "http://www.aais.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-04-09",
+        "lastApplicationEnd": "2025-06-12",
+        "notices": [
+          {
+            "id": "college-1ff5c8b2870b",
+            "title": "北京大学前沿交叉学科研究院2025年全国交叉学科优秀大学生夏令营",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-04-09",
+            "applicationEnd": "2025-06-12",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/3707.htm",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 8,
+    "llmStructuredCount": 1,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士"
+    ],
+    "majors": [
+      "人工智能",
+      "计算机科学与技术",
+      "数学",
+      "化学",
+      "生物学",
+      "心理学",
+      "物理学",
+      "定量生物学",
+      "生命科学",
+      "纳米科学与技术",
+      "生物医学",
+      "大数据科学",
+      "国际机器学习",
+      "脑科学与类脑研究",
+      "PTN项目"
+    ],
+    "sourceHosts": [
+      "www.aais.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://www.aais.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.aais.pku.edu.cn/",
+      "https://carbon.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -29570,423 +30052,6 @@
       "https://www.sis.pku.edu.cn/",
       "https://news.pku.edu.cn/",
       "https://bbs.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-fed69278bb9f",
-    "school": "北京大学",
-    "department": "集成电路学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 集成电路学院",
-    "tracks": [
-      "计算机/AI",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "夏令营/研学营",
-          "复试/考核",
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2025-11-19",
-        "notices": [
-          {
-            "id": "college-43e46cc785ca",
-            "title": "集成电路学院关于举办2026年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-13f1a6c96a36",
-            "title": "北京大学集成电路学院2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-11-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e7bd2fee1e54495785d4aadd6ad41e37.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-20a284835dc1",
-            "title": "集成电路学院2026年接收推荐免试研究生复试安排",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/b8631836401145cf9071cb2260084b81.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-ae9fb0563d38",
-            "title": "集成电路学院2026年接收推荐免试研究生细则",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e0c9458a668c4fa6963542ecaec0b2ae.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-f9e95a7cb7cb",
-            "title": "集成电路学院2026年统考硕士研究生招生说明",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/7c41c53a5831473d896007a3a0f08860.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2025-06-18",
-        "notices": [
-          {
-            "id": "college-2830f265f0ef",
-            "title": "2025-06-06 集成电路学院关于举办2025年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-06-18",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/fwdh/tzgg/a34e058fb0bf4d708eda89326746f04a.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-d04344cf84ec",
-            "title": "集成电路学院关于举办2025年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-06-18",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 7,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "复试/考核",
-      "推免报名",
-      "推免"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "直博",
-      "硕士"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "数学",
-      "化学",
-      "电子科学与技术",
-      "集成微纳电子",
-      "集成电路设计",
-      "集成微纳系统",
-      "电子设计自动化与计算系统",
-      "集成电路科学与工程"
-    ],
-    "sourceHosts": [
-      "ic.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ic.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ic.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-1067dd497d57",
-    "school": "北京大学",
-    "department": "前沿交叉学科研究院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 前沿交叉学科研究院",
-    "tracks": [
-      "理工基础",
-      "计算机/AI",
-      "医学药学"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "复试/考核",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-06-01",
-        "lastApplicationEnd": "2026-06-14",
-        "notices": [
-          {
-            "id": "college-67684f80765f",
-            "title": "北京大学区域与国别研究院2026年“申请-考核制”博士研究生招生复试面试名单",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/info/1350/18881.htm",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "http://www.aais.pku.edu.cn/"
-          },
-          {
-            "id": "college-23b68d52c2f5",
-            "title": "北京大学前沿交叉学科研究院（含定量生物学中心、PTN项目、CLS项目）与北京大学生命科学学院（含BIOPIC项目）关于联合举办2026年“大生命科学交叉”夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-14",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/19661.htm",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "http://www.aais.pku.edu.cn/"
-          },
-          {
-            "id": "college-567df90aafa5",
-            "title": "北京大学前沿交叉学科研究院关于举办2026年交叉学科优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-14",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/19671.htm",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "http://www.aais.pku.edu.cn/"
-          },
-          {
-            "id": "college-50c7f8becb72",
-            "title": "附件二：夏令营个人陈述.doc",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=7MlrVRolW2MlVVM24GsU4nVL7Q7MRLdbLRC8LRTkLRM2L770gihFp2hmCIa0UYyYokysUShfMRGDUzCZLm6fMmL4U4UYLmMkUNU8Uzv8LR6Foz62UNn7M7nFnRGaLkbNpDLeo878LRQfMm9YM87DL4MRMR-YL8WknRnfM4UaMiybM8Qkn7U8nVh7LRGagtn0C4Oev5T/CsAKgDTJQty0LzGioky4M4GsgtA8pU-cc&oid=2135844624&tid=1058&nid=3707&e=.doc",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "http://www.aais.pku.edu.cn/"
-          },
-          {
-            "id": "college-de1c418f2b82",
-            "title": "附件三：夏令营专家推荐信.doc",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=7MRlV8ozQVLm9bn2z7YMRNaUNCaoR-dbnzrRLmNPnl-8oR70gihFp2hmCIa0oky8LSy8oSysL4NiU8C4UmTknN7DL4CYo7UZUmMkLl-4LR6FL4MRozV2M8WFLzffLRGJQ2hmo4OsL4NiU8C4UmTknN7DL4CYo7UZUmMkLl-4LR6FL4MRozV2M8WFLzffLRGJQ2hmo4xP_IXm_2O0qIbtpYyPLRlZg4LsLRvJqd-nx&oid=2135844624&tid=1058&nid=3707&e=.doc",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "http://www.aais.pku.edu.cn/"
-          },
-          {
-            "id": "college-5faf081acb09",
-            "title": "附件一：夏令营申请表.doc",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=7oRNVDM8V2Lmn7M2mGPnlUYnmTRL77dPUzvsUNVfnmLbLzl0gihFp2hmCIa0okyZn1yiU1h2nmlDLRN4Mm6VLN-8UmlDMRvbLmMfnRQVM7WFLm9iMm7bM4nFLzGZLRGJQ2hmo4x2nmlDLRN4Mm6VLN-8UmlDMRvbLmMfnRQVM7WFLm9iMm7bM4nFLzGZLRGJQ2hmo4xP_IXm_2O0qIbtpYyPLRlZg4LsLRvJqd-nx&oid=2135844624&tid=1058&nid=3707&e=.doc",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "http://www.aais.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-04-09",
-        "lastApplicationEnd": "2025-06-12",
-        "notices": [
-          {
-            "id": "college-1ff5c8b2870b",
-            "title": "北京大学前沿交叉学科研究院2025年全国交叉学科优秀大学生夏令营",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-04-09",
-            "applicationEnd": "2025-06-12",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/3707.htm",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "https://carbon.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 7,
-    "llmStructuredCount": 1,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "复试/考核",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "博士",
-      "待确认"
-    ],
-    "majors": [
-      "生物学",
-      "人工智能",
-      "心理学",
-      "数学",
-      "物理学",
-      "化学",
-      "定量生物学",
-      "生命科学",
-      "纳米科学与技术",
-      "生物医学",
-      "大数据科学",
-      "国际机器学习",
-      "脑科学与类脑研究",
-      "PTN项目"
-    ],
-    "sourceHosts": [
-      "www.aais.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://www.aais.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://www.aais.pku.edu.cn/",
-      "https://carbon.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
