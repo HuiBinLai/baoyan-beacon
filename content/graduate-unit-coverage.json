@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T03:59:43.330Z",
+  "generatedAt": "2026-06-27T03:56:29.643Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -271,8 +271,8 @@
       "department": "集成电路学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ic.pku.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 16,
+      "total": 17,
+      "recentFiveYears": 17,
       "currentSeason": 0,
       "years": [
         2026,
@@ -592,8 +592,8 @@
       "department": "信息管理系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.im.pku.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 6,
+      "recentFiveYears": 6,
       "currentSeason": 0,
       "years": [
         2026
@@ -7591,8 +7591,8 @@
       "department": "国际关系学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.dir.tsinghua.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 12,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7940,8 +7940,8 @@
       "department": "国际关系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.dir.tsinghua.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 14,
+      "total": 16,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,

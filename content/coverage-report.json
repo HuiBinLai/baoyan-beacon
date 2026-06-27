@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T03:59:42.259Z",
+  "generatedAt": "2026-06-27T03:56:28.482Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2136,
+    "notices": 2140,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 328,
+      "total": 331,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 208,
+      "total": 209,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 47,
@@ -698,7 +698,7 @@
       "id": "auto-5766654a8aed",
       "school": "北京大学",
       "department": "集成电路学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2026,
         2025
@@ -1096,7 +1096,7 @@
       "id": "auto-86b9e3341f07",
       "school": "北京大学",
       "department": "信息管理系",
-      "total": 3,
+      "total": 5,
       "years": [
         2026
       ],
@@ -1405,7 +1405,7 @@
       "id": "auto-d1ee5025d2ef",
       "school": "清华大学",
       "department": "国际关系",
-      "total": 15,
+      "total": 16,
       "years": [
         2026,
         2025,
@@ -1421,7 +1421,7 @@
       "id": "auto-ba6f8c27086a",
       "school": "清华大学",
       "department": "国际关系学系",
-      "total": 15,
+      "total": 16,
       "years": [
         2026,
         2025,

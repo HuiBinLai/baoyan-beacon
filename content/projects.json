@@ -10447,6 +10447,421 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-ee733d3a3f75",
+    "school": "清华大学",
+    "department": "国际关系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 国际关系",
+    "tracks": [
+      "经管金融",
+      "新闻传播外语",
+      "法学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "待确认",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-07",
+        "lastApplicationEnd": "2025-09-30",
+        "notices": [
+          {
+            "id": "college-af285da733ee",
+            "title": "动态新闻-清华大学国际关系学系",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/dtxw.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-3b2981354f57",
+            "title": "通知公告-清华大学国际关系学系",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/tzgg.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-850fb1f26a48",
+            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-07",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2313.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-0d6f283c8a6b",
+            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-07",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-f08190c9aec8",
+            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-07",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1111/2312.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-f386327894a9",
+            "title": "通知公告/ 2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-07",
+            "applicationEnd": "2025-09-30",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 3,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2024-08-31",
+        "notices": [
+          {
+            "id": "college-7abe8a255bda",
+            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e35c928f4797",
+            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2181.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-4c41625b4331",
+            "title": "通知公告/ 2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 3,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2023-08-31",
+        "notices": [
+          {
+            "id": "college-6e262cf3ff09",
+            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-5b44044bdb79",
+            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2171.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-ed9d07694e2f",
+            "title": "通知公告/ 2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2022-08-31",
+        "notices": [
+          {
+            "id": "college-7b194604a40c",
+            "title": "通知公告/ 2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2022-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-02d5ce6ab8f3",
+            "title": "2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2022-08-31",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2021-08-31",
+        "lastApplicationEnd": "2021-09-30",
+        "notices": [
+          {
+            "id": "college-60d4586aad37",
+            "title": "2022年清华-约翰∙霍普金斯全球政治与经济双硕士项目研究生招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2021-08-31",
+            "applicationEnd": "2021-09-30",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1846.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2020-09-01",
+        "notices": [
+          {
+            "id": "college-449394498c8c",
+            "title": "2021年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2020-09-01",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1597.htm",
+            "sourceHost": "www.dir.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 16,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "待确认",
+      "学术型硕士"
+    ],
+    "majors": [
+      "金融",
+      "政治学",
+      "法律",
+      "翻译",
+      "全球政治与经济",
+      "法学"
+    ],
+    "sourceHosts": [
+      "www.dir.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.dir.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.dir.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-80a30337b4e2",
     "school": "清华大学",
     "department": "领导力与组织管理系",
@@ -11640,404 +12055,6 @@
     ],
     "departmentHomepages": [
       "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-ee733d3a3f75",
-    "school": "清华大学",
-    "department": "国际关系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 国际关系",
-    "tracks": [
-      "经管金融",
-      "法学",
-      "人文社科"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-07",
-        "lastApplicationEnd": "2025-09-30",
-        "notices": [
-          {
-            "id": "college-3b2981354f57",
-            "title": "通知公告-清华大学国际关系学系",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/tzgg.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-850fb1f26a48",
-            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-07",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2313.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-0d6f283c8a6b",
-            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-07",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-f08190c9aec8",
-            "title": "2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-07",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1111/2312.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-f386327894a9",
-            "title": "通知公告/ 2026年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-07",
-            "applicationEnd": "2025-09-30",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2311.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2024-08-31",
-        "notices": [
-          {
-            "id": "college-7abe8a255bda",
-            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e35c928f4797",
-            "title": "2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2181.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-4c41625b4331",
-            "title": "通知公告/ 2025年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2173.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 3,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2023-08-31",
-        "notices": [
-          {
-            "id": "college-6e262cf3ff09",
-            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-5b44044bdb79",
-            "title": "2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1113/2171.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-ed9d07694e2f",
-            "title": "通知公告/ 2024年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/2071.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2022-08-31",
-        "notices": [
-          {
-            "id": "college-7b194604a40c",
-            "title": "通知公告/ 2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2022-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-02d5ce6ab8f3",
-            "title": "2023年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2022-08-31",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1959.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2021-08-31",
-        "lastApplicationEnd": "2021-09-30",
-        "notices": [
-          {
-            "id": "college-60d4586aad37",
-            "title": "2022年清华-约翰∙霍普金斯全球政治与经济双硕士项目研究生招生简章",
-            "stage": "招生简章",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2021-08-31",
-            "applicationEnd": "2021-09-30",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1846.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2020-09-01",
-        "notices": [
-          {
-            "id": "college-449394498c8c",
-            "title": "2021年清华-约翰∙霍普金斯SAIS全球政治与经济双硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2020-09-01",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.dir.tsinghua.edu.cn/info/1110/1597.htm",
-            "sourceHost": "www.dir.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.dir.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.dir.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 15,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023,
-      2022,
-      2021
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "学术型硕士",
-      "硕士"
-    ],
-    "majors": [
-      "金融",
-      "法律",
-      "翻译",
-      "全球政治与经济",
-      "法学"
-    ],
-    "sourceHosts": [
-      "www.dir.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.dir.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.dir.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -24075,6 +24092,247 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-fed69278bb9f",
+    "school": "北京大学",
+    "department": "集成电路学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 集成电路学院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 7,
+        "stages": [
+          "夏令营/研学营",
+          "复试/考核",
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2080-91-79",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2026-07-01",
+        "notices": [
+          {
+            "id": "college-26d22681ed9e",
+            "title": "集成电路学院2026年优秀大学生夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2080-91-79",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-01",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/6be4089d4fa741208091790277832d04.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-49ace5b59b33",
+            "title": "集成电路学院2026年优秀大学生夏令营参营通知（第二批）",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/8d9b9c99df8443349cb23588e41b4052.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-43e46cc785ca",
+            "title": "集成电路学院关于举办2026年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-13f1a6c96a36",
+            "title": "北京大学集成电路学院2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-11-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e7bd2fee1e54495785d4aadd6ad41e37.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-20a284835dc1",
+            "title": "集成电路学院2026年接收推荐免试研究生复试安排",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/b8631836401145cf9071cb2260084b81.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-ae9fb0563d38",
+            "title": "集成电路学院2026年接收推荐免试研究生细则",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e0c9458a668c4fa6963542ecaec0b2ae.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-f9e95a7cb7cb",
+            "title": "集成电路学院2026年统考硕士研究生招生说明",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/7c41c53a5831473d896007a3a0f08860.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2025-06-18",
+        "notices": [
+          {
+            "id": "college-2830f265f0ef",
+            "title": "2025-06-06 集成电路学院关于举办2025年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-06-18",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/fwdh/tzgg/a34e058fb0bf4d708eda89326746f04a.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-d04344cf84ec",
+            "title": "集成电路学院关于举办2025年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-06-18",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 9,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "复试/考核",
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "直博",
+      "硕士"
+    ],
+    "majors": [
+      "计算机科学与技术",
+      "数学",
+      "化学",
+      "电子科学与技术",
+      "集成微纳电子",
+      "集成电路设计",
+      "集成微纳系统",
+      "电子设计自动化与计算系统",
+      "集成电路科学与工程"
+    ],
+    "sourceHosts": [
+      "ic.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://ic.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ic.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-78a72a5057cf",
     "school": "兰州大学",
     "department": "兰州大学校级/待分院",
@@ -25956,231 +26214,6 @@
     ],
     "departmentHomepages": [
       "https://ess.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-fed69278bb9f",
-    "school": "北京大学",
-    "department": "集成电路学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 集成电路学院",
-    "tracks": [
-      "计算机/AI",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "夏令营/研学营",
-          "复试/考核",
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2080-91-79",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2026-07-01",
-        "notices": [
-          {
-            "id": "college-26d22681ed9e",
-            "title": "集成电路学院2026年优秀大学生夏令营参营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2080-91-79",
-            "applicationStart": "",
-            "applicationEnd": "2026-07-01",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/6be4089d4fa741208091790277832d04.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-43e46cc785ca",
-            "title": "集成电路学院关于举办2026年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-13f1a6c96a36",
-            "title": "北京大学集成电路学院2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-11-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e7bd2fee1e54495785d4aadd6ad41e37.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-20a284835dc1",
-            "title": "集成电路学院2026年接收推荐免试研究生复试安排",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/b8631836401145cf9071cb2260084b81.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-ae9fb0563d38",
-            "title": "集成电路学院2026年接收推荐免试研究生细则",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e0c9458a668c4fa6963542ecaec0b2ae.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-f9e95a7cb7cb",
-            "title": "集成电路学院2026年统考硕士研究生招生说明",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/7c41c53a5831473d896007a3a0f08860.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2025-06-18",
-        "notices": [
-          {
-            "id": "college-2830f265f0ef",
-            "title": "2025-06-06 集成电路学院关于举办2025年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-06-18",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/fwdh/tzgg/a34e058fb0bf4d708eda89326746f04a.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-d04344cf84ec",
-            "title": "集成电路学院关于举办2025年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-06-18",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 8,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "复试/考核",
-      "推免报名",
-      "推免"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "直博",
-      "硕士"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "数学",
-      "化学",
-      "电子科学与技术",
-      "集成微纳电子",
-      "集成电路设计",
-      "集成微纳系统",
-      "电子设计自动化与计算系统",
-      "集成电路科学与工程"
-    ],
-    "sourceHosts": [
-      "ic.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ic.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ic.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -35085,6 +35118,160 @@
     ],
     "departmentHomepages": [
       "https://carbon.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-246a14481e91",
+    "school": "北京大学",
+    "department": "信息管理系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 信息管理系",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 5,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2021-12-06",
+        "notices": [
+          {
+            "id": "college-b327bcdbcc97",
+            "title": "北京大学信息管理系",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.im.pku.edu.cn/",
+            "sourceHost": "www.im.pku.edu.cn",
+            "sourceHomepage": "http://www.im.pku.edu.cn/",
+            "departmentHomepage": "http://www.im.pku.edu.cn/"
+          },
+          {
+            "id": "college-9f2e34a9d1c1",
+            "title": "北京大学信息管理系“2026年全国优秀大学生夏令营”参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.im.pku.edu.cn/zsxm/ssxm/5f4e7af528214e7ea95c4e8211dabf05.htm",
+            "sourceHost": "www.im.pku.edu.cn",
+            "sourceHomepage": "http://www.im.pku.edu.cn/",
+            "departmentHomepage": "http://www.im.pku.edu.cn/"
+          },
+          {
+            "id": "college-d4d4668477bb",
+            "title": "北京大学信息管理系关于举办“2026年全国优秀大学生夏令营”活动的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.im.pku.edu.cn/zsxm/ssxm/f892661acd7e4f5bb15577bf3da54211.htm",
+            "sourceHost": "www.im.pku.edu.cn",
+            "sourceHomepage": "http://www.im.pku.edu.cn/",
+            "departmentHomepage": "http://www.im.pku.edu.cn/"
+          },
+          {
+            "id": "college-8323773b10dd",
+            "title": "北京大学信息管理系",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2021-12-06",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://im.pku.edu.cn/zsxm/bsxm/50122im357056.htm",
+            "sourceHost": "im.pku.edu.cn",
+            "sourceHomepage": "https://im.pku.edu.cn/",
+            "departmentHomepage": "http://www.im.pku.edu.cn/"
+          },
+          {
+            "id": "college-825a8097b1f4",
+            "title": "北京大学研究生招生网（网址：https://admission.pku.edu.cn/applications/）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bssqkh/index.htm",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.im.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 5,
+    "llmStructuredCount": 2,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "夏令营/研学营",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士"
+    ],
+    "majors": [
+      "金融",
+      "人工智能",
+      "计算机科学与技术"
+    ],
+    "sourceHosts": [
+      "www.im.pku.edu.cn",
+      "im.pku.edu.cn",
+      "admission.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://www.im.pku.edu.cn/",
+      "https://im.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.im.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -44875,125 +45062,6 @@
     ],
     "departmentHomepages": [
       "http://www.psy.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-246a14481e91",
-    "school": "北京大学",
-    "department": "信息管理系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 信息管理系",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "夏令营/研学营",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2021-12-06",
-        "notices": [
-          {
-            "id": "college-d4d4668477bb",
-            "title": "北京大学信息管理系关于举办“2026年全国优秀大学生夏令营”活动的通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.im.pku.edu.cn/zsxm/ssxm/f892661acd7e4f5bb15577bf3da54211.htm",
-            "sourceHost": "www.im.pku.edu.cn",
-            "sourceHomepage": "http://www.im.pku.edu.cn/",
-            "departmentHomepage": "http://www.im.pku.edu.cn/"
-          },
-          {
-            "id": "college-8323773b10dd",
-            "title": "北京大学信息管理系",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2021-12-06",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://im.pku.edu.cn/zsxm/bsxm/50122im357056.htm",
-            "sourceHost": "im.pku.edu.cn",
-            "sourceHomepage": "https://im.pku.edu.cn/",
-            "departmentHomepage": "http://www.im.pku.edu.cn/"
-          },
-          {
-            "id": "college-825a8097b1f4",
-            "title": "北京大学研究生招生网（网址：https://admission.pku.edu.cn/applications/）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bssqkh/index.htm",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.im.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 3,
-    "llmStructuredCount": 2,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "计算机科学与技术"
-    ],
-    "sourceHosts": [
-      "www.im.pku.edu.cn",
-      "im.pku.edu.cn",
-      "admission.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://www.im.pku.edu.cn/",
-      "https://im.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://www.im.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
