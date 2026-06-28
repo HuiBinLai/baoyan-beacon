@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T03:56:29.643Z",
+  "generatedAt": "2026-06-28T03:44:14.858Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 4,
     "missing": 366,
-    "currentSeasonCovered": 16
+    "currentSeasonCovered": 17
   },
   "units": [
     {
@@ -8814,8 +8814,8 @@
       "department": "海洋学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://soo.sjtu.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 9,
+      "total": 10,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8830,8 +8830,8 @@
       "department": "生命科学技术学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://life.sjtu.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8899,15 +8899,15 @@
       "department": "凯原法学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://law.sjtu.edu.cn/",
-      "total": 27,
-      "recentFiveYears": 27,
+      "total": 28,
+      "recentFiveYears": 28,
       "currentSeason": 0,
       "years": [
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-06-10",
+      "latestDate": "2026-06-26",
       "status": "covered"
     },
     {
@@ -8931,13 +8931,14 @@
       "department": "马克思主义学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://ma.sjtu.edu.cn/",
-      "total": 12,
+      "total": 14,
       "recentFiveYears": 12,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -9119,8 +9120,8 @@
       "department": "人工智能学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://soai.sjtu.edu.cn/",
-      "total": 23,
-      "recentFiveYears": 23,
+      "total": 24,
+      "recentFiveYears": 24,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9184,8 +9185,8 @@
       "department": "海洋研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://ioo.sjtu.edu.cn/",
-      "total": 37,
-      "recentFiveYears": 37,
+      "total": 38,
+      "recentFiveYears": 38,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15709,9 +15710,9 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 13,
+      "total": 14,
       "recentFiveYears": 8,
-      "currentSeason": 5,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,

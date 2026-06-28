@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T03:56:28.482Z",
+  "generatedAt": "2026-06-28T03:44:13.678Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2140,
+    "notices": 2148,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 149,
+      "total": 150,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 288,
+      "total": 295,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -2133,7 +2133,7 @@
       "id": "auto-85bf429b6613",
       "school": "上海交通大学",
       "department": "海洋学院",
-      "total": 9,
+      "total": 10,
       "years": [
         2026,
         2025
@@ -2145,7 +2145,7 @@
       "id": "auto-a6176ddbcf96",
       "school": "上海交通大学",
       "department": "海洋研究院",
-      "total": 37,
+      "total": 38,
       "years": [
         2026,
         2025,
@@ -2242,13 +2242,13 @@
       "id": "auto-58ddd8f8b4bf",
       "school": "上海交通大学",
       "department": "凯原法学院",
-      "total": 25,
+      "total": 26,
       "years": [
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-06-10",
+      "latestDate": "2026-06-26",
       "status": "covered"
     },
     {
@@ -2284,11 +2284,12 @@
       "id": "auto-b92dddbebf0e",
       "school": "上海交通大学",
       "department": "马克思主义学院",
-      "total": 8,
+      "total": 10,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2382,7 +2383,7 @@
       "id": "auto-0ff9868c9a19",
       "school": "上海交通大学",
       "department": "人工智能学院",
-      "total": 23,
+      "total": 24,
       "years": [
         2026,
         2025,
@@ -2433,7 +2434,7 @@
       "id": "auto-e34844047681",
       "school": "上海交通大学",
       "department": "生命科学技术学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2026,
         2024
@@ -4021,7 +4022,7 @@
       "id": "ruc-labor-human-resources",
       "school": "中国人民大学",
       "department": "劳动人事学院",
-      "total": 13,
+      "total": 14,
       "years": [
         2027,
         2026,
