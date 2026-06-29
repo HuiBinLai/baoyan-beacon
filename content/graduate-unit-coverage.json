@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T03:44:14.858Z",
+  "generatedAt": "2026-06-29T03:52:31.985Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 4,
     "missing": 366,
-    "currentSeasonCovered": 17
+    "currentSeasonCovered": 19
   },
   "units": [
     {
@@ -470,8 +470,8 @@
       "department": "力学与工程科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://mech.pku.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 13,
+      "total": 15,
+      "recentFiveYears": 14,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14968,13 +14968,14 @@
       "department": "稀土学院科教融合学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 1,
+      "total": 2,
       "recentFiveYears": 1,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -14983,15 +14984,17 @@
       "department": "合肥微尺度物质科学国家研究中心",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.hfnl.ustc.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 7,
+      "total": 17,
+      "recentFiveYears": 14,
       "currentSeason": 0,
       "years": [
+        2025,
+        2023,
         2022,
         2021,
         2011
       ],
-      "latestDate": "2022-01-01",
+      "latestDate": "2025-01-01",
       "status": "covered"
     },
     {
@@ -15308,17 +15311,18 @@
       "department": "稀土学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 8,
+      "total": 9,
       "recentFiveYears": 8,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2023,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15327,9 +15331,9 @@
       "department": "中国科学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 3,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -15370,9 +15374,9 @@
       "department": "环境科学与光电技术学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://env.ustc.edu.cn/2025/0826/c9571a697495/page.htm",
-      "total": 4,
+      "total": 5,
       "recentFiveYears": 1,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026

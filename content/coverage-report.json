@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-28T03:44:13.678Z",
+  "generatedAt": "2026-06-29T03:52:30.740Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2148,
+    "notices": 2157,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 331,
+      "total": 332,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 217,
+      "total": 225,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 48,
@@ -795,7 +795,7 @@
       "id": "auto-c174a4b6a962",
       "school": "北京大学",
       "department": "力学与工程科学学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2026,
         2025
@@ -3194,13 +3194,15 @@
       "id": "auto-e8dba074bded",
       "school": "中国科学技术大学",
       "department": "合肥微尺度物质科学国家研究中心",
-      "total": 11,
+      "total": 18,
       "years": [
+        2025,
+        2023,
         2022,
         2021,
         2011
       ],
-      "latestDate": "2022-01-01",
+      "latestDate": "2025-01-01",
       "status": "covered"
     },
     {
@@ -3793,22 +3795,24 @@
       "id": "auto-290f08665c10",
       "school": "中国科学技术大学",
       "department": "稀土学院",
-      "total": 1,
+      "total": 2,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
       "id": "auto-7e4d8c514b42",
       "school": "中国科学技术大学",
       "department": "稀土学院科教融合学院",
-      "total": 1,
+      "total": 2,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
