@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-29T03:52:30.740Z",
+  "generatedAt": "2026-06-30T03:36:53.636Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2157,
+    "notices": 2161,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 150,
+      "total": 151,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 332,
+      "total": 334,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 209,
+      "total": 210,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 47,
@@ -459,7 +459,7 @@
       "id": "auto-be14dcbc0e21",
       "school": "北京大学",
       "department": "材料科学与工程学院",
-      "total": 16,
+      "total": 17,
       "years": [
         2026,
         2025,
@@ -795,7 +795,7 @@
       "id": "auto-c174a4b6a962",
       "school": "北京大学",
       "department": "力学与工程科学学院",
-      "total": 5,
+      "total": 6,
       "years": [
         2026,
         2025
@@ -1321,7 +1321,7 @@
       "id": "auto-b89fb33adbdd",
       "school": "清华大学",
       "department": "雕塑系",
-      "total": 20,
+      "total": 21,
       "years": [
         2026,
         2025,
@@ -4135,12 +4135,13 @@
       "id": "auto-f9c70ac74498",
       "school": "中国人民大学",
       "department": "哲学院",
-      "total": 10,
+      "total": 11,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {

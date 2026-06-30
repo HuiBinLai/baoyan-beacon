@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T03:52:31.985Z",
+  "generatedAt": "2026-06-30T03:36:54.858Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 4,
     "missing": 366,
-    "currentSeasonCovered": 19
+    "currentSeasonCovered": 20
   },
   "units": [
     {
@@ -470,8 +470,8 @@
       "department": "力学与工程科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://mech.pku.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 14,
+      "total": 16,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
@@ -504,8 +504,8 @@
       "department": "材料科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.mse.pku.edu.cn/",
-      "total": 26,
-      "recentFiveYears": 23,
+      "total": 27,
+      "recentFiveYears": 24,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7627,8 +7627,8 @@
       "department": "美术学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.ad.tsinghua.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 8,
+      "total": 15,
+      "recentFiveYears": 9,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7765,8 +7765,8 @@
       "department": "雕塑系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 20,
-      "recentFiveYears": 13,
+      "total": 21,
+      "recentFiveYears": 14,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15631,14 +15631,15 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 10,
+      "total": 11,
       "recentFiveYears": 10,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {

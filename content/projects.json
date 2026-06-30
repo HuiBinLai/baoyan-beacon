@@ -2102,6 +2102,38 @@
     "qualityFlags": [],
     "timeline": [
       {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-07-10",
+        "lastApplicationEnd": "2026-07-20",
+        "notices": [
+          {
+            "id": "college-ca8bbb9483ed",
+            "title": "中国人民大学哲学院2027年推免生接收工作报名通知 more",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-07-10",
+            "applicationEnd": "2026-07-20",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://phi.ruc.edu.cn/zspy/yjs/yjszs/563f0c2af1f34e81a91b3a2b38c74938.htm",
+            "sourceHost": "phi.ruc.edu.cn",
+            "sourceHomepage": "http://phi.ruc.edu.cn/",
+            "departmentHomepage": "http://phi.ruc.edu.cn/"
+          }
+        ]
+      },
+      {
         "year": 2026,
         "count": 7,
         "stages": [
@@ -2304,12 +2336,13 @@
         ]
       }
     ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
     "latestPastYear": 2026,
-    "noticeCount": 10,
+    "noticeCount": 11,
     "llmStructuredCount": 7,
     "years": [
+      2027,
       2026,
       2025
     ],
@@ -9160,12 +9193,13 @@
     "timeline": [
       {
         "year": 2026,
-        "count": 2,
+        "count": 3,
         "stages": [
           "推免报名",
           "结果公示"
         ],
         "degreeTypes": [
+          "硕士",
           "待确认"
         ],
         "firstPublishedAt": "2026-01-01",
@@ -9173,6 +9207,22 @@
         "firstApplicationStart": "2026-07-01",
         "lastApplicationEnd": "2026-07-28",
         "notices": [
+          {
+            "id": "college-31001758ff90",
+            "title": "硕士招生 2026.06.30 清华大学美术学院关于2027年全国硕士研究生招生考试初试相关调整的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1569/32655.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
           {
             "id": "college-c702411456ac",
             "title": "18 2026.06 关于清华大学2027年接收优秀应届本科毕业生免试攻读研究生报名的通知",
@@ -9601,7 +9651,7 @@
     "currentSeasonStatus": "监控中，暂未发现官方通知",
     "currentSeasonCount": 0,
     "latestPastYear": 2026,
-    "noticeCount": 19,
+    "noticeCount": 20,
     "llmStructuredCount": 15,
     "years": [
       2026,
@@ -9621,11 +9671,12 @@
       "复试/考核"
     ],
     "degreeTypes": [
+      "硕士",
       "待确认",
-      "直博",
-      "硕士"
+      "直博"
     ],
     "majors": [
+      "设计学",
       "人工智能",
       "服装与服饰设计",
       "服装与服饰设计（染织艺术设计）",
@@ -9642,15 +9693,448 @@
       "雕塑"
     ],
     "sourceHosts": [
-      "yz.tsinghua.edu.cn",
-      "www.ad.tsinghua.edu.cn"
+      "www.ad.tsinghua.edu.cn",
+      "yz.tsinghua.edu.cn"
     ],
     "sourceHomepages": [
-      "https://yz.tsinghua.edu.cn/",
-      "https://www.ad.tsinghua.edu.cn/"
+      "https://www.ad.tsinghua.edu.cn/",
+      "https://yz.tsinghua.edu.cn/"
     ],
     "departmentHomepages": [
       "https://www.ad.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-46290dc306c9",
+    "school": "北京大学",
+    "department": "材料科学与工程学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 材料科学与工程学院",
+    "tracks": [
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 8,
+        "stages": [
+          "夏令营/研学营",
+          "招生简章",
+          "推免",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "硕士",
+          "直博"
+        ],
+        "firstPublishedAt": "2025-11-06",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-10",
+        "lastApplicationEnd": "2026-01-09",
+        "notices": [
+          {
+            "id": "college-0c30a37da048",
+            "title": "【夏令营】北京大学材料科学与工程学院2026年“全国优秀大学生夏令营”参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/6334.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-1a5fee65d427",
+            "title": "【夏令营】2026年北京大学材料科学与工程学院“全国优秀大学生夏令营”活动启动报名！",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/6054.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-4307e8a6540b",
+            "title": "【夏令营】2026年北京大学材料科学与工程学院“全国优秀大学生夏令营”活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/6054.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-014543ff5a47",
+            "title": "【暑期学校】北京大学2026年“M-Talents”国际暑期学校招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/5424.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-6a4897047641",
+            "title": "北京大学材料科学与工程学院2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生说明",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-10",
+            "applicationEnd": "2026-01-09",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/4454.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-c8a2073c771a",
+            "title": "北京大学材料科学与工程学院2026年外国留学生研究生招生说明（中文授课项目）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-23",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/4234.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-3f4056eb4160",
+            "title": "材料科学与工程学院关于接收2026年推荐免试研究生的说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-10",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/4072.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-254275a9115d",
+            "title": "《北京大学2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章（校本部）》",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-11-06",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251106104113194034.pdf?CSRFT=LIGN-HSHS-4YEN-E09X-NRHZ-D68N-NRXF-JYLG",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-076a39250408",
+            "title": "北京大学2025年外国留学生研究生招生简章（校本部）",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.isd.pku.edu.cn/graduate/zwshushi/detail/9555.html",
+            "sourceHost": "www.isd.pku.edu.cn",
+            "sourceHomepage": "https://www.isd.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 3,
+        "stages": [
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-09-04",
+        "lastApplicationEnd": "2023-09-11",
+        "notices": [
+          {
+            "id": "college-7adb39d5c9de",
+            "title": "北京大学2024年接收推荐免试研究生办法（校本部）",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/beijingdaxue2024nianjieshoutuijianmianshiyanjiushengbanfaxiaobenbu.pdf",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-7f51855c985e",
+            "title": "上一条：【研招】材料科学与工程学院2024年工程博士培养改革专项研究生招生说明",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-09-04",
+            "applicationEnd": "2023-09-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/2776.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-28707975d387",
+            "title": "下一条：【研招】材料科学与工程学院关于接收2024年推荐免试研究生的说明（学术型研究生）",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-09-11",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/2777.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 2,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2021-10-01",
+        "lastApplicationEnd": "2022-09-16",
+        "notices": [
+          {
+            "id": "college-8f8dcbee6486",
+            "title": "【研究生】北京大学材料科学与工程学院2022年“申请-考核制” 博士研究生招生...",
+            "stage": "复试/考核",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2021-10-01",
+            "applicationEnd": "2021-12-06",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1697.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-21043f3355e1",
+            "title": "【研究生】北京大学材料科学与工程学院2022年接收推荐免试研究生通知",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2022-09-16",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1480.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 3,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "2021-06-22",
+        "lastApplicationEnd": "2021-06-22",
+        "notices": [
+          {
+            "id": "college-7c987d1ef7aa",
+            "title": "【研究生】2021年“全国优秀大学生夏令营”参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "2021-06-22",
+            "applicationEnd": "2021-06-22",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1440.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-d2879254c0bb",
+            "title": "【研究生】2021年“全国优秀大学生夏令营”顺利举办",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1446.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
+          {
+            "id": "college-6979c79bf786",
+            "title": "【研究生】北京大学材料科学与工程学院2021年“全国优秀大学生夏令营”通知",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2021-06-11",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1424.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 17,
+    "llmStructuredCount": 8,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2022,
+      2021
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "招生简章",
+      "推免",
+      "推免报名",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士",
+      "直博",
+      "学术型硕士"
+    ],
+    "majors": [
+      "材料科学与工程",
+      "化学",
+      "光电子材料",
+      "生命健康材料",
+      "碳材料",
+      "新能源材料",
+      "新结构材料",
+      "材料与化工",
+      "法律"
+    ],
+    "sourceHosts": [
+      "www.mse.pku.edu.cn",
+      "admission.pku.edu.cn",
+      "www.isd.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.mse.pku.edu.cn/",
+      "https://admission.pku.edu.cn/",
+      "https://www.isd.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.mse.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -10091,423 +10575,6 @@
     ],
     "departmentHomepages": [
       "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-46290dc306c9",
-    "school": "北京大学",
-    "department": "材料科学与工程学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 材料科学与工程学院",
-    "tracks": [
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 7,
-        "stages": [
-          "夏令营/研学营",
-          "招生简章",
-          "推免",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "硕士",
-          "直博"
-        ],
-        "firstPublishedAt": "2025-11-06",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-10",
-        "lastApplicationEnd": "2026-01-09",
-        "notices": [
-          {
-            "id": "college-1a5fee65d427",
-            "title": "【夏令营】2026年北京大学材料科学与工程学院“全国优秀大学生夏令营”活动启动报名！",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/6054.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-4307e8a6540b",
-            "title": "【夏令营】2026年北京大学材料科学与工程学院“全国优秀大学生夏令营”活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/6054.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-014543ff5a47",
-            "title": "【暑期学校】北京大学2026年“M-Talents”国际暑期学校招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/5424.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-6a4897047641",
-            "title": "北京大学材料科学与工程学院2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生说明",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-10",
-            "applicationEnd": "2026-01-09",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/4454.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-c8a2073c771a",
-            "title": "北京大学材料科学与工程学院2026年外国留学生研究生招生说明（中文授课项目）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-23",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/4234.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-3f4056eb4160",
-            "title": "材料科学与工程学院关于接收2026年推荐免试研究生的说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-10",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/4072.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-254275a9115d",
-            "title": "《北京大学2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章（校本部）》",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-11-06",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251106104113194034.pdf?CSRFT=LIGN-HSHS-4YEN-E09X-NRHZ-D68N-NRXF-JYLG",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-076a39250408",
-            "title": "北京大学2025年外国留学生研究生招生简章（校本部）",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.isd.pku.edu.cn/graduate/zwshushi/detail/9555.html",
-            "sourceHost": "www.isd.pku.edu.cn",
-            "sourceHomepage": "https://www.isd.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 3,
-        "stages": [
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-09-04",
-        "lastApplicationEnd": "2023-09-11",
-        "notices": [
-          {
-            "id": "college-7adb39d5c9de",
-            "title": "北京大学2024年接收推荐免试研究生办法（校本部）",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/beijingdaxue2024nianjieshoutuijianmianshiyanjiushengbanfaxiaobenbu.pdf",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-7f51855c985e",
-            "title": "上一条：【研招】材料科学与工程学院2024年工程博士培养改革专项研究生招生说明",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-09-04",
-            "applicationEnd": "2023-09-08",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/2776.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-28707975d387",
-            "title": "下一条：【研招】材料科学与工程学院关于接收2024年推荐免试研究生的说明（学术型研究生）",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-09-11",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/2777.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 2,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2021-10-01",
-        "lastApplicationEnd": "2022-09-16",
-        "notices": [
-          {
-            "id": "college-8f8dcbee6486",
-            "title": "【研究生】北京大学材料科学与工程学院2022年“申请-考核制” 博士研究生招生...",
-            "stage": "复试/考核",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2021-10-01",
-            "applicationEnd": "2021-12-06",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1697.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-21043f3355e1",
-            "title": "【研究生】北京大学材料科学与工程学院2022年接收推荐免试研究生通知",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2022-09-16",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1480.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 3,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "2021-06-22",
-        "lastApplicationEnd": "2021-06-22",
-        "notices": [
-          {
-            "id": "college-7c987d1ef7aa",
-            "title": "【研究生】2021年“全国优秀大学生夏令营”参营通知",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "2021-06-22",
-            "applicationEnd": "2021-06-22",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1440.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-d2879254c0bb",
-            "title": "【研究生】2021年“全国优秀大学生夏令营”顺利举办",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1446.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          },
-          {
-            "id": "college-6979c79bf786",
-            "title": "【研究生】北京大学材料科学与工程学院2021年“全国优秀大学生夏令营”通知",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2021-06-11",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.mse.pku.edu.cn/info/1067/1424.htm",
-            "sourceHost": "www.mse.pku.edu.cn",
-            "sourceHomepage": "https://www.mse.pku.edu.cn/",
-            "departmentHomepage": "https://www.mse.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 16,
-    "llmStructuredCount": 8,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2022,
-      2021
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "招生简章",
-      "推免",
-      "推免报名",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "硕士",
-      "直博",
-      "学术型硕士"
-    ],
-    "majors": [
-      "材料科学与工程",
-      "化学",
-      "光电子材料",
-      "生命健康材料",
-      "碳材料",
-      "新能源材料",
-      "新结构材料",
-      "材料与化工",
-      "法律"
-    ],
-    "sourceHosts": [
-      "www.mse.pku.edu.cn",
-      "admission.pku.edu.cn",
-      "www.isd.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.mse.pku.edu.cn/",
-      "https://admission.pku.edu.cn/",
-      "https://www.isd.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.mse.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -32198,6 +32265,185 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-bedf16b01ccf",
+    "school": "北京大学",
+    "department": "力学与工程科学学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 力学与工程科学学院",
+    "tracks": [
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 5,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-06-01",
+        "lastApplicationEnd": "2026-06-30",
+        "notices": [
+          {
+            "id": "college-8f77ef26c2d4",
+            "title": "【研究生】【夏令营】2026年北京大学力学与工程科学学院全国优秀大学生夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-30",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/e65c4e80558645e69723380cfcf3340b.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-c986e6a6b98c",
+            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/97dd4d0cf391438086eb87ed9a487fe6.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-e1f9429f6bb4",
+            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-22",
+            "applicationEnd": "2026-06-22",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/71d6283f14b54088934c2d7648948a11.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-d1bdbcdbcb48",
+            "title": "【研究生】【夏令营】力学与工程科学学院2026年全国优秀大学生夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-22",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/3d8fc64c92f8495daa931008015aa996.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-6b575b95d3b5",
+            "title": "北京大学2026年接收推荐免试研究生办法（校本部）(点击下载）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bstjms/index.htm?CSRFT=7YWG-TX1N-O1C3-Z0IL-3DQO-JWOY-44TS-RJL1",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2025-09-10",
+        "notices": [
+          {
+            "id": "college-e5d28af7a920",
+            "title": "北京大学2025年接收推荐免试研究生办法（力学与工程科学学院）",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/04b9d9e0436448dfa80c1ed44578b22b.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 6,
+    "llmStructuredCount": 2,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "专业型硕士",
+      "待确认",
+      "直博"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "mech.pku.edu.cn",
+      "admission.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://mech.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://mech.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-7fbd18221bcd",
     "school": "北京航空航天大学",
     "department": "大科学装置研究院",
@@ -35087,169 +35333,6 @@
     ],
     "departmentHomepages": [
       "https://fem.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-bedf16b01ccf",
-    "school": "北京大学",
-    "department": "力学与工程科学学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 力学与工程科学学院",
-    "tracks": [
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-06-01",
-        "lastApplicationEnd": "2026-06-22",
-        "notices": [
-          {
-            "id": "college-c986e6a6b98c",
-            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营参营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/97dd4d0cf391438086eb87ed9a487fe6.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-e1f9429f6bb4",
-            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-22",
-            "applicationEnd": "2026-06-22",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/71d6283f14b54088934c2d7648948a11.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-d1bdbcdbcb48",
-            "title": "【研究生】【夏令营】力学与工程科学学院2026年全国优秀大学生夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-22",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/3d8fc64c92f8495daa931008015aa996.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-6b575b95d3b5",
-            "title": "北京大学2026年接收推荐免试研究生办法（校本部）(点击下载）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bstjms/index.htm?CSRFT=7YWG-TX1N-O1C3-Z0IL-3DQO-JWOY-44TS-RJL1",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2025-09-10",
-        "notices": [
-          {
-            "id": "college-e5d28af7a920",
-            "title": "北京大学2025年接收推荐免试研究生办法（力学与工程科学学院）",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/04b9d9e0436448dfa80c1ed44578b22b.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 5,
-    "llmStructuredCount": 2,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "专业型硕士",
-      "待确认",
-      "直博"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "mech.pku.edu.cn",
-      "admission.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://mech.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://mech.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
