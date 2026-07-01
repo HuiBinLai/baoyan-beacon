@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T03:36:54.858Z",
+  "generatedAt": "2026-07-01T03:57:15.368Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -504,8 +504,8 @@
       "department": "材料科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.mse.pku.edu.cn/",
-      "total": 27,
-      "recentFiveYears": 24,
+      "total": 28,
+      "recentFiveYears": 25,
       "currentSeason": 0,
       "years": [
         2026,
