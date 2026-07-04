@@ -1236,11 +1236,37 @@
     "priority": 14
   },
   {
+    "id": "87c7396982",
+    "school": "清华大学",
+    "department": "海洋工程系",
+    "aliases": [
+      "海洋工程系"
+    ],
+    "sourceName": "清华大学官方院系页面自动发现",
+    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
+    "sourceStatus": "auto_discovered",
+    "schoolPriority": 3,
+    "priority": 15
+  },
+  {
     "id": "40aef9b300",
     "school": "清华大学",
     "department": "环境工程系",
     "aliases": [
       "环境工程系"
+    ],
+    "sourceName": "清华大学官方院系页面自动发现",
+    "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
+    "sourceStatus": "auto_discovered",
+    "schoolPriority": 3,
+    "priority": 16
+  },
+  {
+    "id": "851f2806c3",
+    "school": "清华大学",
+    "department": "交通工程系",
+    "aliases": [
+      "交通工程系"
     ],
     "sourceName": "清华大学官方院系页面自动发现",
     "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
