@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-05T03:32:57.381Z",
+  "generatedAt": "2026-07-06T03:47:28.016Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2197,
+    "notices": 2217,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 234,
+      "total": 235,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 48,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 305,
+      "total": 324,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -1845,7 +1845,7 @@
       "id": "auto-f645b052e302",
       "school": "清华大学",
       "department": "数学科学中心",
-      "total": 24,
+      "total": 25,
       "years": [
         2026,
         2025,
@@ -2424,7 +2424,7 @@
       "id": "auto-0ff9868c9a19",
       "school": "上海交通大学",
       "department": "人工智能学院",
-      "total": 25,
+      "total": 34,
       "years": [
         2026,
         2025,
@@ -2652,7 +2652,7 @@
       "id": "auto-ad03aed45d06",
       "school": "上海交通大学",
       "department": "张江高等研究院",
-      "total": 2,
+      "total": 12,
       "years": [
         2026
       ],

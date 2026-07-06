@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T03:32:58.588Z",
+  "generatedAt": "2026-07-06T03:47:29.271Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -7281,8 +7281,8 @@
       "department": "数学科学中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://ymsc.tsinghua.edu.cn/",
-      "total": 24,
-      "recentFiveYears": 24,
+      "total": 25,
+      "recentFiveYears": 25,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8121,8 +8121,8 @@
       "department": "数学科学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-      "total": 31,
-      "recentFiveYears": 31,
+      "total": 32,
+      "recentFiveYears": 32,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8912,8 +8912,8 @@
       "department": "医学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 11,
-      "recentFiveYears": 11,
+      "total": 12,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8996,8 +8996,8 @@
       "department": "马克思主义学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://ma.sjtu.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 12,
+      "total": 15,
+      "recentFiveYears": 13,
       "currentSeason": 2,
       "years": [
         2027,
@@ -9186,8 +9186,8 @@
       "department": "人工智能学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://soai.sjtu.edu.cn/",
-      "total": 25,
-      "recentFiveYears": 25,
+      "total": 34,
+      "recentFiveYears": 34,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9300,8 +9300,8 @@
       "department": "张江高等研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://zias.sjtu.edu.cn/",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 12,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026
@@ -9845,8 +9845,8 @@
       "department": "数学科学学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://www.math.sjtu.edu.cn/Public/Upload/test/A4296092-D3BA-47C9-A9F8-1A9DE248D32C/c3833c27-ed59-7eec-7d2c-e957aecd3887.pdf",
-      "total": 6,
-      "recentFiveYears": 6,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
         2026,

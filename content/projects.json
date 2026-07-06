@@ -5827,6 +5827,728 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-3d997a739f41",
+    "school": "上海交通大学",
+    "department": "人工智能学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 人工智能学院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 24,
+        "stages": [
+          "推免报名",
+          "复试/考核",
+          "夏令营/研学营",
+          "预推免",
+          "推免"
+        ],
+        "degreeTypes": [
+          "博士",
+          "直博",
+          "学术型硕士",
+          "待确认",
+          "专业型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-09-09",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-09",
+        "lastApplicationEnd": "2026-07-06",
+        "notices": [
+          {
+            "id": "college-ef07a3804b22",
+            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第二批） 2026-06-30",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-06",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/502",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-dc27ed1a2357",
+            "title": "上海交通大学人工智能学院2026年非全日制工程类专业学位博士研究生招生综合考核办法 2026-06-25",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/500",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-172a1d3ec848",
+            "title": "上海交通大学人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法 2026-06-10",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/494",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-85fcd41fa961",
+            "title": "上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） 2026-06-10",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/493",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-73dfd381d9b8",
+            "title": "人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/476",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5080484583c0",
+            "title": "人工智能学院2026年非全日制工程类专业学位博士研究生招生报名通知 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/475",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-724135e92d82",
+            "title": "人工智能学院2026年博士研究生招生报名通知（全日制） 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/474",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8ba8b40a6e06",
+            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第二批） 2026-06-30",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/502",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-200e8b730fe2",
+            "title": "上海交通大学人工智能学院2026年非全日制工程类专业学位博士研究生招生综合考核办法 2026-06-25",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/500",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-46681e69c488",
+            "title": "上海交通大学人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法 2026-06-10",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/494",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-0434baa625a3",
+            "title": "上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） 2026-06-10",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/493",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5029e25ef5ed",
+            "title": "上海交通大学人工智能学院2026级优秀大学生夏令营成功举办 2025-08-01",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/353",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f7010e084f1b",
+            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/403",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-b5949545a713",
+            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名） 2025-11-07",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c5b8592f3099",
+            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2debd99eff29",
+            "title": "人工智能学院2026年博士研究生招生报名通知（全日制） 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/474",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f0abb89c4da0",
+            "title": "人工智能学院2026年非全日制工程类专业学位博士研究生招生报名通知 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/475",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-7a3cab896e4d",
+            "title": "人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知 2026-05-14",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/476",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f21e2a544d55",
+            "title": "上海交通大学人工智能学院2026级优秀大学生夏令营成功举办 2025-08-01",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/353",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-240f3ef3ae9f",
+            "title": "上海交通大学人工智能学院2026年接收推荐免试研究生（含直博生）预推免办法 2025-09-09",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-09",
+            "applicationEnd": "2025-09-13",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/380",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-824b99048b84",
+            "title": "上海交通大学人工智能学院2026年硕士研究生招生复试分数线及复试通知 2026-03-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/450",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-818d83f9cf02",
+            "title": "线上+线下！上交大AI学院研究生招生宣讲会等你来！",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/171",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6b712f7104f0",
+            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2025-09-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-9722656125a7",
+            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2025-09-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 3,
+        "stages": [
+          "夏令营/研学营",
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "学术型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-03-15",
+        "lastApplicationEnd": "2025-07-04",
+        "notices": [
+          {
+            "id": "college-a93a3f0aef30",
+            "title": "26 2025.06 上海交通大学人工智能学院2026年优秀大学生夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-13",
+            "applicationEnd": "2025-07-04",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3218",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4186516fd4f8",
+            "title": "人工智能学院2025级全日制博士研究生招生办法（第二批次报名）",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-03-15",
+            "applicationEnd": "2025-04-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/255",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c6c6d35334df",
+            "title": "上海交通大学人工智能学院2025年硕士研究生招生复试分数线及复试通知",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/256",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-dabef517bfd1",
+            "title": "人工智能学院首届全国优秀大学生夏令营成功举行 2024-07-11",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/154",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a46ddfdd9c6d",
+            "title": "人工智能学院首届全国优秀大学生夏令营成功举行 2024-07-11",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/154",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 4,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2023-05-22",
+        "lastApplicationEnd": "2023-05-22",
+        "notices": [
+          {
+            "id": "college-4b163ea824f1",
+            "title": "人工智能学院接收2023级强基计划本科生转段直博复试通知 2026-06-10",
+            "stage": "复试/考核",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/495",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-55893baf3011",
+            "title": "人工智能学院接收2023级强基计划本科生转段直博报名通知 2026-05-20",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-05-22",
+            "applicationEnd": "2023-05-22",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/477",
+            "sourceHost": "soai.sjtu.edu.cn",
+            "sourceHomepage": "https://soai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4477a30f50dd",
+            "title": "人工智能学院接收2023级强基计划本科生转段直博复试通知 2026-06-10",
+            "stage": "复试/考核",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/495",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a46b8b026a0b",
+            "title": "人工智能学院接收2023级强基计划本科生转段直博报名通知 2026-05-20",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-05-22",
+            "applicationEnd": "2023-05-22",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/477",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "直博"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2025-04-30",
+        "lastApplicationEnd": "2025-05-09",
+        "notices": [
+          {
+            "id": "college-bcda0cf52115",
+            "title": "人工智能学院接收2022级强基计划本科生转段直博报名通知",
+            "stage": "直博",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2025-04-30",
+            "applicationEnd": "2025-05-09",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/283",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 34,
+    "llmStructuredCount": 9,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "夏令营/研学营",
+      "预推免",
+      "推免",
+      "直博"
+    ],
+    "degreeTypes": [
+      "博士",
+      "直博",
+      "学术型硕士",
+      "待确认",
+      "专业型硕士",
+      "硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "电子信息",
+      "计算机科学与技术",
+      "智能科学与技术",
+      "数学",
+      "信息与通信工程",
+      "081000 信息与通信工程",
+      "081200 计算机科学与技术",
+      "085400 电子信息",
+      "物理学",
+      "081000信息与通信工程",
+      "081200计算机科学与技术",
+      "085400电子信息"
+    ],
+    "sourceHosts": [
+      "soai.sjtu.edu.cn",
+      "sai.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://soai.sjtu.edu.cn/",
+      "https://sai.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://sai.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-f4731b04f784",
     "school": "上海交通大学",
     "department": "凯原法学院",
@@ -6393,6 +7115,525 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-b0d375321fd8",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 数学科学中心",
+    "tracks": [
+      "经管金融",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2023-08-21",
+        "lastApplicationEnd": "2023-09-14",
+        "notices": [
+          {
+            "id": "college-72b448971136",
+            "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1119/3563.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-387be24bca67",
+            "title": "数学科学系接收推荐免试应用统计专业硕士调剂通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2023-08-21",
+            "applicationEnd": "2023-09-14",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e04b87f7f6b4",
+            "title": "数学科学系接收推荐免试应用统计专业硕士调剂通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2023-08-21",
+            "applicationEnd": "2023-09-14",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2291.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 4,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-d25e6048fa4b",
+            "title": "清华大学数学科学系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-9d73681ccde8",
+            "title": "招收2025年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-567479664dad",
+            "title": "清华大学数学科学系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-235fd83d64e3",
+            "title": "招收2025年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2461.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 8,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-f4f6713da900",
+            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-83d0e89e4888",
+            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2461.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-3be7ccbd5076",
+            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-eea016c11a55",
+            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-7b82e0fcf07a",
+            "title": "清华大学数学科学系2024年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-80acba00cfa8",
+            "title": "招收2024年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2282.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-a6d8de0ae109",
+            "title": "清华大学数学科学系2024年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2285.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-787ebdf28028",
+            "title": "招收2024年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2282.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 10,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2023-08-21",
+        "lastApplicationEnd": "2023-09-14",
+        "notices": [
+          {
+            "id": "college-f614bee4368e",
+            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-08-21",
+            "applicationEnd": "2023-09-14",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2291.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e153bbdc31a5",
+            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2285.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-ff6dc86a6496",
+            "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2282.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-d0d1dc253ef8",
+            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-08-21",
+            "applicationEnd": "2023-09-14",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-2c4eedc49a2a",
+            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-c8f4b410b8b8",
+            "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2282.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-4e383df6b7f0",
+            "title": "清华大学数学科学系2023年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2154.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-5effcd6af1d0",
+            "title": "招收2023年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2143.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-eeeb7a03de1b",
+            "title": "清华大学数学科学系2023年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2154.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-670d8a357a87",
+            "title": "招收2023年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2143.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 25,
+    "llmStructuredCount": 0,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ],
+    "stages": [
+      "招生简章",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "博士",
+      "专业型硕士",
+      "待确认"
+    ],
+    "majors": [
+      "数学"
+    ],
+    "sourceHosts": [
+      "www.math.tsinghua.edu.cn",
+      "math.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.math.tsinghua.edu.cn/",
+      "https://math.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ymsc.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-292af38c0e1d",
     "school": "上海交通大学",
     "department": "海洋研究院",
@@ -6920,583 +8161,6 @@
       "https://yzb.sjtu.edu.cn/"
     ],
     "departmentHomepages": [
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-3d997a739f41",
-    "school": "上海交通大学",
-    "department": "人工智能学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 人工智能学院",
-    "tracks": [
-      "计算机/AI",
-      "理工基础",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 17,
-        "stages": [
-          "推免报名",
-          "复试/考核",
-          "夏令营/研学营",
-          "预推免",
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士",
-          "直博",
-          "学术型硕士",
-          "待确认",
-          "专业型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-09-09",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-09",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-8ba8b40a6e06",
-            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第二批） 2026-06-30",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/502",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-200e8b730fe2",
-            "title": "上海交通大学人工智能学院2026年非全日制工程类专业学位博士研究生招生综合考核办法 2026-06-25",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/500",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-46681e69c488",
-            "title": "上海交通大学人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法 2026-06-10",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/494",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-0434baa625a3",
-            "title": "上海交通大学人工智能学院2026级全日制博士研究生招生综合考核办法 （第二批“ 申请-考核 ”制、硕博连读） 2026-06-10",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/493",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5029e25ef5ed",
-            "title": "上海交通大学人工智能学院2026级优秀大学生夏令营成功举办 2025-08-01",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/353",
-            "sourceHost": "soai.sjtu.edu.cn",
-            "sourceHomepage": "https://soai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f7010e084f1b",
-            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/403",
-            "sourceHost": "soai.sjtu.edu.cn",
-            "sourceHomepage": "https://soai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-b5949545a713",
-            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名） 2025-11-07",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2025-12-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c5b8592f3099",
-            "title": "人工智能学院2026级全日制博士研究生招生办法（第一批次报名）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2025-12-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/403",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2debd99eff29",
-            "title": "人工智能学院2026年博士研究生招生报名通知（全日制） 2026-05-14",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/474",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f0abb89c4da0",
-            "title": "人工智能学院2026年非全日制工程类专业学位博士研究生招生报名通知 2026-05-14",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/475",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-7a3cab896e4d",
-            "title": "人工智能学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知 2026-05-14",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/476",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f21e2a544d55",
-            "title": "上海交通大学人工智能学院2026级优秀大学生夏令营成功举办 2025-08-01",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/353",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-240f3ef3ae9f",
-            "title": "上海交通大学人工智能学院2026年接收推荐免试研究生（含直博生）预推免办法 2025-09-09",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-09",
-            "applicationEnd": "2025-09-13",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/380",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-824b99048b84",
-            "title": "上海交通大学人工智能学院2026年硕士研究生招生复试分数线及复试通知 2026-03-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/450",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-818d83f9cf02",
-            "title": "线上+线下！上交大AI学院研究生招生宣讲会等你来！",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/171",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6b712f7104f0",
-            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2025-09-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
-            "sourceHost": "soai.sjtu.edu.cn",
-            "sourceHomepage": "https://soai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-9722656125a7",
-            "title": "上海交通大学人工智能学院 2026 级推荐免试直升研究生选拔活动申请表",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2025-09-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/Kindeditor/Upload/file/20250909/202509091128549823038.docx",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "夏令营/研学营",
-          "推免",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "学术型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-03-15",
-        "lastApplicationEnd": "2025-07-04",
-        "notices": [
-          {
-            "id": "college-a93a3f0aef30",
-            "title": "26 2025.06 上海交通大学人工智能学院2026年优秀大学生夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-13",
-            "applicationEnd": "2025-07-04",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3218",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-4186516fd4f8",
-            "title": "人工智能学院2025级全日制博士研究生招生办法（第二批次报名）",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-03-15",
-            "applicationEnd": "2025-04-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/255",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c6c6d35334df",
-            "title": "上海交通大学人工智能学院2025年硕士研究生招生复试分数线及复试通知",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/256",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-dabef517bfd1",
-            "title": "人工智能学院首届全国优秀大学生夏令营成功举行 2024-07-11",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soai.sjtu.edu.cn/cn/show/154",
-            "sourceHost": "soai.sjtu.edu.cn",
-            "sourceHomepage": "https://soai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a46ddfdd9c6d",
-            "title": "人工智能学院首届全国优秀大学生夏令营成功举行 2024-07-11",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/154",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2023-05-22",
-        "lastApplicationEnd": "2023-05-22",
-        "notices": [
-          {
-            "id": "college-4477a30f50dd",
-            "title": "人工智能学院接收2023级强基计划本科生转段直博复试通知 2026-06-10",
-            "stage": "复试/考核",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/495",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a46b8b026a0b",
-            "title": "人工智能学院接收2023级强基计划本科生转段直博报名通知 2026-05-20",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-05-22",
-            "applicationEnd": "2023-05-22",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/477",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "直博"
-        ],
-        "degreeTypes": [
-          "直博"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2025-04-30",
-        "lastApplicationEnd": "2025-05-09",
-        "notices": [
-          {
-            "id": "college-bcda0cf52115",
-            "title": "人工智能学院接收2022级强基计划本科生转段直博报名通知",
-            "stage": "直博",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2025-04-30",
-            "applicationEnd": "2025-05-09",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/283",
-            "sourceHost": "sai.sjtu.edu.cn",
-            "sourceHomepage": "https://sai.sjtu.edu.cn/",
-            "departmentHomepage": "https://sai.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 25,
-    "llmStructuredCount": 9,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023,
-      2022
-    ],
-    "stages": [
-      "推免报名",
-      "复试/考核",
-      "夏令营/研学营",
-      "预推免",
-      "推免",
-      "直博"
-    ],
-    "degreeTypes": [
-      "博士",
-      "直博",
-      "学术型硕士",
-      "待确认",
-      "专业型硕士",
-      "硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "电子信息",
-      "计算机科学与技术",
-      "智能科学与技术",
-      "数学",
-      "信息与通信工程",
-      "081000 信息与通信工程",
-      "081200 计算机科学与技术",
-      "085400 电子信息",
-      "物理学",
-      "081000信息与通信工程",
-      "081200计算机科学与技术",
-      "085400电子信息"
-    ],
-    "sourceHosts": [
-      "sai.sjtu.edu.cn",
-      "soai.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://sai.sjtu.edu.cn/",
-      "https://soai.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://sai.sjtu.edu.cn/",
       "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
@@ -8691,505 +9355,6 @@
       "https://cse.sysu.edu.cn/",
       "https://science.sysu.edu.cn/",
       "https://yxysz.sysu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-b0d375321fd8",
-    "school": "清华大学",
-    "department": "数学科学中心",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 数学科学中心",
-    "tracks": [
-      "经管金融",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2023-08-21",
-        "lastApplicationEnd": "2023-09-14",
-        "notices": [
-          {
-            "id": "college-387be24bca67",
-            "title": "数学科学系接收推荐免试应用统计专业硕士调剂通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2023-08-21",
-            "applicationEnd": "2023-09-14",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e04b87f7f6b4",
-            "title": "数学科学系接收推荐免试应用统计专业硕士调剂通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2023-08-21",
-            "applicationEnd": "2023-09-14",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2291.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 4,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-d25e6048fa4b",
-            "title": "清华大学数学科学系2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-9d73681ccde8",
-            "title": "招收2025年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-567479664dad",
-            "title": "清华大学数学科学系2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-235fd83d64e3",
-            "title": "招收2025年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2461.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 8,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-f4f6713da900",
-            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-83d0e89e4888",
-            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2461.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-3be7ccbd5076",
-            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-eea016c11a55",
-            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-7b82e0fcf07a",
-            "title": "清华大学数学科学系2024年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-80acba00cfa8",
-            "title": "招收2024年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2282.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-a6d8de0ae109",
-            "title": "清华大学数学科学系2024年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2285.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-787ebdf28028",
-            "title": "招收2024年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2282.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 10,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2023-08-21",
-        "lastApplicationEnd": "2023-09-14",
-        "notices": [
-          {
-            "id": "college-f614bee4368e",
-            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-08-21",
-            "applicationEnd": "2023-09-14",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2291.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e153bbdc31a5",
-            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2285.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-ff6dc86a6496",
-            "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2282.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-d0d1dc253ef8",
-            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-08-21",
-            "applicationEnd": "2023-09-14",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-2c4eedc49a2a",
-            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-c8f4b410b8b8",
-            "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2282.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-4e383df6b7f0",
-            "title": "清华大学数学科学系2023年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2154.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-5effcd6af1d0",
-            "title": "招收2023年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2143.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-eeeb7a03de1b",
-            "title": "清华大学数学科学系2023年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2154.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-670d8a357a87",
-            "title": "招收2023年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2143.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 24,
-    "llmStructuredCount": 0,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023
-    ],
-    "stages": [
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "专业型硕士",
-      "待确认"
-    ],
-    "majors": [
-      "数学"
-    ],
-    "sourceHosts": [
-      "www.math.tsinghua.edu.cn",
-      "math.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.math.tsinghua.edu.cn/",
-      "https://math.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ymsc.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -19873,6 +20038,284 @@
     "departmentHomepages": [
       "https://psychology.sjtu.edu.cn/",
       "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-8042887bcee9",
+    "school": "上海交通大学",
+    "department": "张江高等研究院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 张江高等研究院",
+    "tracks": [
+      "人文社科",
+      "计算机/AI",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 12,
+        "stages": [
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-11-01",
+        "lastApplicationEnd": "2025-04-20",
+        "notices": [
+          {
+            "id": "college-25a296b8b534",
+            "title": "医学院博士生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/zsjz/bsszs?c=209",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-afba26c7a7bf",
+            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第二批） 06.26/2026",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3713",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-b6817a0089bb",
+            "title": "马克思主义学院2026年在职攻读“马克思主义理论”博士学位研究生招生简章 05.11/2026",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3673",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6893512a2d95",
+            "title": "上海交通大学2026年“思政课博士培养计划”招生简章 05.11/2026",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3672",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-48b9fad7ebe7",
+            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位招生简章 05.11/2026",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3671",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-9216ba93e80e",
+            "title": "上海交通大学2026年非全日制工程类专业学位博士研究生招生简章 05.09/2026",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3618",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a56cc02ae804",
+            "title": "上海交通大学与苏州国家实验室2026年联合培养博士生专项计划招生简章 11.07/2025",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-12-15",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3361",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-eb0ba05260f1",
+            "title": "上海交通大学与宁波东方理工大学 2026年联合培养博士生招生简章 10.30/2025",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3354",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-591939caa05b",
+            "title": "上海交通大学2026年博士研究生招生专业目录 10.29/2025",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ga.sjtu.edu.cn/zsgl/zsmlgl/zsml_bs.aspx",
+            "sourceHost": "ga.sjtu.edu.cn",
+            "sourceHomepage": "https://ga.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-28a4b12bb86f",
+            "title": "上海交通大学2026年博士研究生招生简章（校本部） 10.22/2025",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3340",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6800a66ede83",
+            "title": "医学院博士生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/xygk/jdjj#",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-40251b853c93",
+            "title": "招生简章-上海交通大学 | 张江高等研究院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://zias.sjtu.edu.cn/rcpy1/zsxx/zsjz.htm",
+            "sourceHost": "zias.sjtu.edu.cn",
+            "sourceHomepage": "https://zias.sjtu.edu.cn/",
+            "departmentHomepage": "https://zias.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 12,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "招生简章",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "直博",
+      "学术型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "电子信息",
+      "马克思主义理论",
+      "哲学",
+      "政治学",
+      "社会学",
+      "心理学",
+      "能源动力",
+      "电气工程",
+      "材料与化工",
+      "生物与医药",
+      "化学"
+    ],
+    "sourceHosts": [
+      "yzb.sjtu.edu.cn",
+      "ga.sjtu.edu.cn",
+      "zias.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzb.sjtu.edu.cn/",
+      "https://ga.sjtu.edu.cn/",
+      "https://zias.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://zias.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -62907,98 +63350,6 @@
     ],
     "departmentHomepages": [
       "https://www.physics.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-8042887bcee9",
-    "school": "上海交通大学",
-    "department": "张江高等研究院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 张江高等研究院",
-    "tracks": [
-      "医学药学",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-6800a66ede83",
-            "title": "医学院博士生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/xygk/jdjj#",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://zias.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-40251b853c93",
-            "title": "招生简章-上海交通大学 | 张江高等研究院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://zias.sjtu.edu.cn/rcpy1/zsxx/zsjz.htm",
-            "sourceHost": "zias.sjtu.edu.cn",
-            "sourceHomepage": "https://zias.sjtu.edu.cn/",
-            "departmentHomepage": "https://zias.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "yzb.sjtu.edu.cn",
-      "zias.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yzb.sjtu.edu.cn/",
-      "https://zias.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://zias.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
