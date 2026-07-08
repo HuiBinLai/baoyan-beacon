@@ -6549,6 +6549,554 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-292af38c0e1d",
+    "school": "上海交通大学",
+    "department": "海洋研究院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 海洋研究院",
+    "tracks": [
+      "材料能源化工",
+      "建筑土木交通",
+      "人文社科"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 8,
+        "stages": [
+          "推免报名",
+          "招生简章",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-07-09",
+        "notices": [
+          {
+            "id": "college-43a497c371db",
+            "title": "06 2026.07 上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第三批）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-09",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3732",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-b5053f4ac650",
+            "title": "26 2026.06 上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第二批）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-06",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3713",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-0016a4c4402b",
+            "title": "09 2026.05 上海交通大学2026年非全日制工程类专业学位博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3618",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e4d780b12985",
+            "title": "11 2026.05 马克思主义学院2026年在职攻读“马克思主义理论”博士学位研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3673",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e742b66a8f37",
+            "title": "11 2026.05 上海交通大学2026年“思政课博士培养计划”招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3672",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6d20c32a50d6",
+            "title": "11 2026.05 上海交通大学2026年高校思想政治工作骨干在职攻读博士学位招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3671",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-21948aa21052",
+            "title": "16 2026.03 上海交通大学2026年硕士研究生招生考试复试基本分数线",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3503",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-eb5e0db45d16",
+            "title": "19 2026.05 相约19城！2027年上海交通大学研究生招生宣讲咨询会邀您参加！",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3680",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 17,
+        "stages": [
+          "推免报名",
+          "招生简章",
+          "推免"
+        ],
+        "degreeTypes": [
+          "直博",
+          "博士",
+          "待确认",
+          "硕士",
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-09-22",
+        "lastApplicationEnd": "2025-12-15, 2026-04-20",
+        "notices": [
+          {
+            "id": "college-435d5e73538a",
+            "title": "06 2025.09 上海交通大学2026年招收优秀应届本科毕业生免试攻读研究生（含直博）办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-22",
+            "applicationEnd": "2025-09-25",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3297",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f1eccf938e47",
+            "title": "06 2025.11 上海交通大学医学院2026年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3359",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-b6fd31fa7e4c",
+            "title": "07 2025.11 上海交通大学与苏州国家实验室2026年联合培养博士生专项计划招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-12-15, 2026-04-20",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3361",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a2e25c82ef51",
+            "title": "08 2025.12 2026年面向香港、澳门、台湾地区研究生招生考试《综合能力（一）考试指南》 《综合能力（二）考试指南》正式公布",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3428",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-39303c75fc60",
+            "title": "09 2025.12 沪2026年全国硕士研究生招生考试（初试）将于12月20日-21日进行，考前提醒请查收！",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3436",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-525ae971dff1",
+            "title": "09 2025.12 上海交通大学2026年研究生招生考试举报电话和邮箱",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3435",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-164faacd85a4",
+            "title": "11 2025.10 【考点代码3105】2026年全国硕士研究生招生考试上海交通大学考点网报公告",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-10",
+            "applicationEnd": "2025-10-27",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3328",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5190a73c6466",
+            "title": "11 2025.10 上海交通大学2026年全国硕士研究生招生考试网报公告",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-16",
+            "applicationEnd": "2025-10-27",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3329",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f0b0cf37130e",
+            "title": "11 2025.10 研考｜上海市2026年全国硕士研究生招生考试报名确认安排及注意事项",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-10",
+            "applicationEnd": "2025-10-27",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3331",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6e9e305c8126",
+            "title": "13 2025.12 上海交通大学2026年硕士研究生招生考试(初试)自命题科目答题纸条形码粘贴说明",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3449",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-7ffcbc1b43e6",
+            "title": "15 2025.12 2026年全国硕士研究生招生考试上海交通大学考点公告",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3450",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1e016e1d7a2b",
+            "title": "22 2025.10 上海交通大学2026年博士研究生招生简章（校本部）",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15, 2026-03-15, 2026-04-20",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3340",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6a992f19c2c2",
+            "title": "28 2025.10 2026年全国硕士研究生招生考试上海交通大学报考点 网上确认公告（报考点代码：3105）",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-31",
+            "applicationEnd": "2025-11-05",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3350",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5f7b0d58245d",
+            "title": "29 2025.10 上海交通大学2026年博士研究生招生专业目录",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3353",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-edc4037ad470",
+            "title": "30 2025.09 上海交通大学2026年硕士研究生招生章程",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-16",
+            "applicationEnd": "2025-10-27",
+            "degreeTypes": [
+              "专业型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3315",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-735bb214ce83",
+            "title": "30 2025.09 上海交通大学2026年硕士研究生招生专业目录",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3309",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8aa198b2c646",
+            "title": "30 2025.10 上海交通大学与宁波东方理工大学 2026年联合培养博士生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3354",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-439204e8b6ff",
+            "title": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/#",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 26,
+    "llmStructuredCount": 19,
+    "years": [
+      2026,
+      2025,
+      2022
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章",
+      "复试/考核",
+      "推免"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认",
+      "学术型硕士",
+      "直博",
+      "硕士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "电子信息",
+      "法学",
+      "马克思主义理论",
+      "教育学",
+      "能源动力",
+      "电气工程",
+      "材料与化工",
+      "生物与医药",
+      "心理学",
+      "公共管理",
+      "科学技术哲学",
+      "应用经济学",
+      "金融",
+      "应用统计",
+      "法律（非法学）"
+    ],
+    "sourceHosts": [
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-f4731b04f784",
     "school": "上海交通大学",
     "department": "凯原法学院",
@@ -7630,538 +8178,6 @@
     ],
     "departmentHomepages": [
       "https://ymsc.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-292af38c0e1d",
-    "school": "上海交通大学",
-    "department": "海洋研究院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 海洋研究院",
-    "tracks": [
-      "材料能源化工",
-      "建筑土木交通",
-      "人文社科"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 7,
-        "stages": [
-          "推免报名",
-          "招生简章",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-07-06",
-        "notices": [
-          {
-            "id": "college-b5053f4ac650",
-            "title": "26 2026.06 上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第二批）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-07-06",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3713",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-0016a4c4402b",
-            "title": "09 2026.05 上海交通大学2026年非全日制工程类专业学位博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3618",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-e4d780b12985",
-            "title": "11 2026.05 马克思主义学院2026年在职攻读“马克思主义理论”博士学位研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3673",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-e742b66a8f37",
-            "title": "11 2026.05 上海交通大学2026年“思政课博士培养计划”招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3672",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6d20c32a50d6",
-            "title": "11 2026.05 上海交通大学2026年高校思想政治工作骨干在职攻读博士学位招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3671",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-21948aa21052",
-            "title": "16 2026.03 上海交通大学2026年硕士研究生招生考试复试基本分数线",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3503",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-eb5e0db45d16",
-            "title": "19 2026.05 相约19城！2027年上海交通大学研究生招生宣讲咨询会邀您参加！",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3680",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 17,
-        "stages": [
-          "推免报名",
-          "招生简章",
-          "推免"
-        ],
-        "degreeTypes": [
-          "直博",
-          "博士",
-          "待确认",
-          "硕士",
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-09-22",
-        "lastApplicationEnd": "2025-12-15, 2026-04-20",
-        "notices": [
-          {
-            "id": "college-435d5e73538a",
-            "title": "06 2025.09 上海交通大学2026年招收优秀应届本科毕业生免试攻读研究生（含直博）办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-22",
-            "applicationEnd": "2025-09-25",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3297",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f1eccf938e47",
-            "title": "06 2025.11 上海交通大学医学院2026年博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3359",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-b6fd31fa7e4c",
-            "title": "07 2025.11 上海交通大学与苏州国家实验室2026年联合培养博士生专项计划招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-12-15, 2026-04-20",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3361",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a2e25c82ef51",
-            "title": "08 2025.12 2026年面向香港、澳门、台湾地区研究生招生考试《综合能力（一）考试指南》 《综合能力（二）考试指南》正式公布",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3428",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-39303c75fc60",
-            "title": "09 2025.12 沪2026年全国硕士研究生招生考试（初试）将于12月20日-21日进行，考前提醒请查收！",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3436",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-525ae971dff1",
-            "title": "09 2025.12 上海交通大学2026年研究生招生考试举报电话和邮箱",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3435",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-164faacd85a4",
-            "title": "11 2025.10 【考点代码3105】2026年全国硕士研究生招生考试上海交通大学考点网报公告",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-10",
-            "applicationEnd": "2025-10-27",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3328",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5190a73c6466",
-            "title": "11 2025.10 上海交通大学2026年全国硕士研究生招生考试网报公告",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-16",
-            "applicationEnd": "2025-10-27",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3329",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f0b0cf37130e",
-            "title": "11 2025.10 研考｜上海市2026年全国硕士研究生招生考试报名确认安排及注意事项",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-10",
-            "applicationEnd": "2025-10-27",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3331",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6e9e305c8126",
-            "title": "13 2025.12 上海交通大学2026年硕士研究生招生考试(初试)自命题科目答题纸条形码粘贴说明",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3449",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-7ffcbc1b43e6",
-            "title": "15 2025.12 2026年全国硕士研究生招生考试上海交通大学考点公告",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3450",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-1e016e1d7a2b",
-            "title": "22 2025.10 上海交通大学2026年博士研究生招生简章（校本部）",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2025-12-15, 2026-03-15, 2026-04-20",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3340",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6a992f19c2c2",
-            "title": "28 2025.10 2026年全国硕士研究生招生考试上海交通大学报考点 网上确认公告（报考点代码：3105）",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-31",
-            "applicationEnd": "2025-11-05",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3350",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5f7b0d58245d",
-            "title": "29 2025.10 上海交通大学2026年博士研究生招生专业目录",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3353",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-edc4037ad470",
-            "title": "30 2025.09 上海交通大学2026年硕士研究生招生章程",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-16",
-            "applicationEnd": "2025-10-27",
-            "degreeTypes": [
-              "专业型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3315",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-735bb214ce83",
-            "title": "30 2025.09 上海交通大学2026年硕士研究生招生专业目录",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3309",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-8aa198b2c646",
-            "title": "30 2025.10 上海交通大学与宁波东方理工大学 2026年联合培养博士生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2025-12-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3354",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-439204e8b6ff",
-            "title": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/#",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 25,
-    "llmStructuredCount": 19,
-    "years": [
-      2026,
-      2025,
-      2022
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章",
-      "复试/考核",
-      "推免"
-    ],
-    "degreeTypes": [
-      "博士",
-      "待确认",
-      "学术型硕士",
-      "直博",
-      "硕士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "电子信息",
-      "教育学",
-      "能源动力",
-      "电气工程",
-      "材料与化工",
-      "生物与医药",
-      "法学",
-      "马克思主义理论",
-      "心理学",
-      "公共管理",
-      "科学技术哲学",
-      "应用经济学",
-      "金融",
-      "应用统计",
-      "法律（非法学）"
-    ],
-    "sourceHosts": [
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -14866,6 +14882,376 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-dfb9ce782003",
+    "school": "北京大学",
+    "department": "信息工程学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 信息工程学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 7,
+        "stages": [
+          "推免",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2026-06-25",
+        "notices": [
+          {
+            "id": "college-acefcaad13b2",
+            "title": "( 2026-07-07 )",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3182.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-26d67a8704c2",
+            "title": "关于举办“汇智凝芯---北京大学信息工程学院 2026年全国优秀大学生学术探索营”的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-03",
+            "applicationEnd": "2026-06-25",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3175.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-3d5091f29bf5",
+            "title": "( 2026-06-02 )",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-03",
+            "applicationEnd": "2026-06-25",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3175.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-d9b4913690da",
+            "title": "北京大学信息工程学院2026年国际暑期探索营招生简章-北京大学信息工程学院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3161.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-94f530dd913b",
+            "title": "北京大学信息工程学院2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章-北京大学信息工程学院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-10",
+            "applicationEnd": "2026-01-09",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3057.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-f6de9ea6fdb6",
+            "title": "北京大学信息工程学院2026年外国来华留学生研究生招生说明 （中文授课项目）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-23",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3052.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-a60280e07711",
+            "title": "招生简章-北京大学信息工程学院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/zsjy/zs/zsjz.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 5,
+        "stages": [
+          "复试/考核",
+          "推免报名",
+          "招生简章",
+          "推免"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-09-10",
+        "lastApplicationEnd": "2025-01-10",
+        "notices": [
+          {
+            "id": "college-da05a0957c50",
+            "title": "北京大学信息工程学院2025年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-01-07",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2844.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-62067de4efcc",
+            "title": "北京大学信息工程学院2025年接收推荐免试研究生说明",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-09-10",
+            "applicationEnd": "2024-09-14",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2831.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-d151bec0198d",
+            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-11-15",
+            "applicationEnd": "2025-01-08",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2868.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-af19ea6682d5",
+            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生招生复试安排-北京大学信息工程学院",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2914.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-c6dbb95836b7",
+            "title": "北京大学信息工程学院2025年外国来华留学生研究生招生说明 （中文授课项目）-北京大学信息工程学院",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-10-14",
+            "applicationEnd": "2025-01-10",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1008/2861.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-09-04",
+        "lastApplicationEnd": "2023-09-08",
+        "notices": [
+          {
+            "id": "college-904f5ab2f5ed",
+            "title": "北京大学信息工程学院2024年接收推荐免试研究生说明",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-09-04",
+            "applicationEnd": "2023-09-08",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2653.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2013-01-01",
+        "lastPublishedAt": "2013-01-01",
+        "firstApplicationStart": "2012-09-18",
+        "lastApplicationEnd": "2012-09-18",
+        "notices": [
+          {
+            "id": "college-5c98f6758144",
+            "title": "2013年北京大学信息工程学院(深圳)关于申请和接受推荐免试研究生的说明",
+            "stage": "推免报名",
+            "year": 2013,
+            "publishedAt": "2013-01-01",
+            "applicationStart": "2012-09-18",
+            "applicationEnd": "2012-09-18",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/1753.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 14,
+    "llmStructuredCount": 10,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2013
+    ],
+    "stages": [
+      "推免",
+      "推免报名",
+      "招生简章",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士",
+      "博士",
+      "直博",
+      "学术型硕士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "计算机科学与技术",
+      "软件工程",
+      "信息安全",
+      "信息与通信工程",
+      "人工智能",
+      "集成电路科学与工程",
+      "通信与信息系统",
+      "集成电路科学与工程专业",
+      "计算机应用技术",
+      "微电子学与固体电子学",
+      "集成电路与系统"
+    ],
+    "sourceHosts": [
+      "www.ece.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://www.ece.pku.edu.cn/",
+      "https://www.ece.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.ece.pku.edu.cn/",
+      "https://www.ece.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-f4142278ac29",
     "school": "华中科技大学",
     "department": "华中科技大学校级/待分院",
@@ -16712,360 +17098,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-dfb9ce782003",
-    "school": "北京大学",
-    "department": "信息工程学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 信息工程学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "推免",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2026-06-25",
-        "notices": [
-          {
-            "id": "college-26d67a8704c2",
-            "title": "关于举办“汇智凝芯---北京大学信息工程学院 2026年全国优秀大学生学术探索营”的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-03",
-            "applicationEnd": "2026-06-25",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3175.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-3d5091f29bf5",
-            "title": "( 2026-06-02 )",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-03",
-            "applicationEnd": "2026-06-25",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3175.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-d9b4913690da",
-            "title": "北京大学信息工程学院2026年国际暑期探索营招生简章-北京大学信息工程学院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3161.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-94f530dd913b",
-            "title": "北京大学信息工程学院2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章-北京大学信息工程学院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-10",
-            "applicationEnd": "2026-01-09",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3057.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-f6de9ea6fdb6",
-            "title": "北京大学信息工程学院2026年外国来华留学生研究生招生说明 （中文授课项目）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-23",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3052.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-a60280e07711",
-            "title": "招生简章-北京大学信息工程学院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/zsjy/zs/zsjz.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 5,
-        "stages": [
-          "复试/考核",
-          "推免报名",
-          "招生简章",
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-09-10",
-        "lastApplicationEnd": "2025-01-10",
-        "notices": [
-          {
-            "id": "college-da05a0957c50",
-            "title": "北京大学信息工程学院2025年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-01-07",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2844.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-62067de4efcc",
-            "title": "北京大学信息工程学院2025年接收推荐免试研究生说明",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-09-10",
-            "applicationEnd": "2024-09-14",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2831.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-d151bec0198d",
-            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-11-15",
-            "applicationEnd": "2025-01-08",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2868.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-af19ea6682d5",
-            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生招生复试安排-北京大学信息工程学院",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2914.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-c6dbb95836b7",
-            "title": "北京大学信息工程学院2025年外国来华留学生研究生招生说明 （中文授课项目）-北京大学信息工程学院",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-10-14",
-            "applicationEnd": "2025-01-10",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1008/2861.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-09-04",
-        "lastApplicationEnd": "2023-09-08",
-        "notices": [
-          {
-            "id": "college-904f5ab2f5ed",
-            "title": "北京大学信息工程学院2024年接收推荐免试研究生说明",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-09-04",
-            "applicationEnd": "2023-09-08",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2653.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2013,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2013-01-01",
-        "lastPublishedAt": "2013-01-01",
-        "firstApplicationStart": "2012-09-18",
-        "lastApplicationEnd": "2012-09-18",
-        "notices": [
-          {
-            "id": "college-5c98f6758144",
-            "title": "2013年北京大学信息工程学院(深圳)关于申请和接受推荐免试研究生的说明",
-            "stage": "推免报名",
-            "year": 2013,
-            "publishedAt": "2013-01-01",
-            "applicationStart": "2012-09-18",
-            "applicationEnd": "2012-09-18",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/1753.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 13,
-    "llmStructuredCount": 10,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2013
-    ],
-    "stages": [
-      "推免报名",
-      "推免",
-      "招生简章",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "硕士",
-      "博士",
-      "直博",
-      "学术型硕士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "软件工程",
-      "信息安全",
-      "信息与通信工程",
-      "人工智能",
-      "集成电路科学与工程",
-      "通信与信息系统",
-      "集成电路科学与工程专业",
-      "计算机应用技术",
-      "微电子学与固体电子学",
-      "集成电路与系统"
-    ],
-    "sourceHosts": [
-      "www.ece.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://www.ece.pku.edu.cn/",
-      "https://www.ece.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://www.ece.pku.edu.cn/",
-      "https://www.ece.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-ff44f0e30bf1",
     "school": "清华大学",
     "department": "管理科学与工程系",
@@ -17717,6 +17749,319 @@
     ],
     "departmentHomepages": [
       "https://hsss.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-e4448295d25d",
+    "school": "北京大学",
+    "department": "电子学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 电子学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士",
+          "博士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2026-06-24",
+        "notices": [
+          {
+            "id": "college-06fd32a19311",
+            "title": "06 2026.07 软件与微电子学院2026年优秀大学生夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://ss.pku.edu.cn/zsxx/zstz/6f5b4fb2751a4b92aa6fae135aed89ec.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "http://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-90690b1dd48b",
+            "title": "06 2026.07 软件与微电子学院2026年优秀大学生夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/6f5b4fb2751a4b92aa6fae135aed89ec.htm",
+            "sourceHost": "www.ss.pku.edu.cn",
+            "sourceHomepage": "https://www.ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-3a1f4f10b8d9",
+            "title": "软件与微电子学院2026年推荐免试硕士研究生复试细则",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/a969db79099d4c62b9c3341818a4f8eb.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "https://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-385ac2a77151",
+            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-18",
+            "applicationEnd": "2026-06-24",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://ss.pku.edu.cn/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "http://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-85abfd0b470c",
+            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
+            "sourceHost": "www.ss.pku.edu.cn",
+            "sourceHomepage": "https://www.ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-db2ca09732c8",
+            "title": "北京大学软件与微电子学院 2026年接收推荐免试博士研究生招生说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/428f16efe0eb40c1ba7e6ee50af2920c.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "https://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-36447b52157a",
+            "title": "北京大学2026年接收推荐免试研究生办法（校本部）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/531.htm",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-495b7ea6281b",
+            "title": "北京大学软件与微电子学院2026年接收推荐免试硕士研究生招生说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-11",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/ca9217eb94cb4c0891d3de70de02f659.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "https://ss.pku.edu.cn/",
+            "departmentHomepage": "https://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-b0245e327e8f",
+            "title": "学工 04 2026-05 校友子女夏令营 | 活动报名：E启未来！2026年北大信科校友子女夏令营报名启动",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-01",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/info/1047/10863.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://eecs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-0e3e78bdbae6",
+            "title": "校友子女夏令营 | E启未来，扬帆远航：北京大学信息科学技术学院成功举办2025年校友子女夏令营活动",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/info/1061/7159.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://eecs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2022-09-03",
+        "lastApplicationEnd": "2022-09-13",
+        "notices": [
+          {
+            "id": "college-899facb77159",
+            "title": "【转发教务部通知】关于2022届本科毕业生推免资格申请的通知...",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-09-03",
+            "applicationEnd": "2022-09-13",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-b72c031ab8e1",
+            "title": "【转发教务部通知】关于2022届本科毕业生推免...",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-09-03",
+            "applicationEnd": "2022-09-13",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 12,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025,
+      2022
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士",
+      "博士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "电子信息",
+      "化学",
+      "软件工程",
+      "人工智能",
+      "网络空间安全",
+      "信息安全",
+      "网络与信息安全",
+      "新兴交叉学科",
+      "金融科技",
+      "关键软件",
+      "高端芯片"
+    ],
+    "sourceHosts": [
+      "ss.pku.edu.cn",
+      "www.ss.pku.edu.cn",
+      "admission.pku.edu.cn",
+      "eecs.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://ss.pku.edu.cn/",
+      "https://www.ss.pku.edu.cn/",
+      "https://ss.pku.edu.cn/",
+      "https://admission.pku.edu.cn/",
+      "https://eecs.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://ss.pku.edu.cn/",
+      "https://ss.pku.edu.cn/",
+      "https://eecs.pku.edu.cn/",
+      "https://www.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -21923,6 +22268,281 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-486a780d6ca6",
+    "school": "上海交通大学",
+    "department": "马克思主义学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 马克思主义学院",
+    "tracks": [
+      "人文社科",
+      "计算机/AI",
+      "法学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-07-10",
+        "notices": [
+          {
+            "id": "college-3f498e6cdd1a",
+            "title": "上海交通大学马克思主义学院2027级研究生优才夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17816.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5b8d2521bb72",
+            "title": "上海交通大学马克思主义学院2027级研究生招生夏令营申请表.docx",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1633255384&wbfileid=607F0C218664888981C8B65D9E18B20F",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "推免报名",
+          "复试/考核",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "学术型硕士",
+          "待确认",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-11-01",
+        "lastApplicationEnd": "2026-07-09",
+        "notices": [
+          {
+            "id": "college-50d88fd78e7a",
+            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位研究生招生报名通知（第三批）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-09",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17876.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1f47f4719162",
+            "title": "马克思主义学院2026年第二批博士研究生招生综合考核办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17706.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-084782f88736",
+            "title": "马克思主义学院2026年“申请-考核”博士研究生招生办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2025-12-15",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/15806.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a83eae5e4094",
+            "title": "马克思主义学院2026年第二批“申请-考核制”博士研究生招生办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17236.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d6fcba587b05",
+            "title": "马克思主义学院2026年在职攻读“马克思主义理论”博士学位研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17296.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-750031c7749f",
+            "title": "上海交通大学2026年“思政课博士培养计划”招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17306.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-3d89fa3b0ee7",
+            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17316.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e261eff732f2",
+            "title": "上海交通大学马克思主义学院2026年“申请-考核制”、“硕博连读”博士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/16516.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2880f1da3410",
+            "title": "上海交通大学马克思主义学院2026年硕士研究生招生复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/16806.htm",
+            "sourceHost": "ma.sjtu.edu.cn",
+            "sourceHomepage": "https://ma.sjtu.edu.cn/",
+            "departmentHomepage": "https://ma.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
+    "latestPastYear": 2026,
+    "noticeCount": 11,
+    "llmStructuredCount": 3,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名",
+      "复试/考核",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "学术型硕士",
+      "直博",
+      "硕士"
+    ],
+    "majors": [
+      "哲学",
+      "马克思主义理论",
+      "科学技术史",
+      "政治学",
+      "社会学",
+      "心理学",
+      "科学技术哲学"
+    ],
+    "sourceHosts": [
+      "ma.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://ma.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ma.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-577a47297b7b",
     "school": "中国科学技术大学",
     "department": "化学与材料科学学院",
@@ -23205,286 +23825,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-e4448295d25d",
-    "school": "北京大学",
-    "department": "电子学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 电子学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 7,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "待确认",
-          "博士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2026-06-24",
-        "notices": [
-          {
-            "id": "college-3a1f4f10b8d9",
-            "title": "软件与微电子学院2026年推荐免试硕士研究生复试细则",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/a969db79099d4c62b9c3341818a4f8eb.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "https://ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-385ac2a77151",
-            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-18",
-            "applicationEnd": "2026-06-24",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://ss.pku.edu.cn/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "http://ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-85abfd0b470c",
-            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
-            "sourceHost": "www.ss.pku.edu.cn",
-            "sourceHomepage": "https://www.ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-db2ca09732c8",
-            "title": "北京大学软件与微电子学院 2026年接收推荐免试博士研究生招生说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/428f16efe0eb40c1ba7e6ee50af2920c.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "https://ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-36447b52157a",
-            "title": "北京大学2026年接收推荐免试研究生办法（校本部）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/531.htm",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-495b7ea6281b",
-            "title": "北京大学软件与微电子学院2026年接收推荐免试硕士研究生招生说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-11",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/ca9217eb94cb4c0891d3de70de02f659.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "https://ss.pku.edu.cn/",
-            "departmentHomepage": "https://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-b0245e327e8f",
-            "title": "学工 04 2026-05 校友子女夏令营 | 活动报名：E启未来！2026年北大信科校友子女夏令营报名启动",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-01",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/info/1047/10863.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://eecs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-0e3e78bdbae6",
-            "title": "校友子女夏令营 | E启未来，扬帆远航：北京大学信息科学技术学院成功举办2025年校友子女夏令营活动",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/info/1061/7159.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://eecs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2022-09-03",
-        "lastApplicationEnd": "2022-09-13",
-        "notices": [
-          {
-            "id": "college-899facb77159",
-            "title": "【转发教务部通知】关于2022届本科毕业生推免资格申请的通知...",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-09-03",
-            "applicationEnd": "2022-09-13",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-b72c031ab8e1",
-            "title": "【转发教务部通知】关于2022届本科毕业生推免...",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-09-03",
-            "applicationEnd": "2022-09-13",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 10,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2025,
-      2022
-    ],
-    "stages": [
-      "推免报名",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "待确认",
-      "博士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "电子信息",
-      "软件工程",
-      "人工智能",
-      "网络空间安全",
-      "信息安全",
-      "网络与信息安全",
-      "新兴交叉学科",
-      "金融科技",
-      "关键软件",
-      "高端芯片"
-    ],
-    "sourceHosts": [
-      "ss.pku.edu.cn",
-      "www.ss.pku.edu.cn",
-      "admission.pku.edu.cn",
-      "eecs.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ss.pku.edu.cn/",
-      "http://ss.pku.edu.cn/",
-      "https://www.ss.pku.edu.cn/",
-      "https://admission.pku.edu.cn/",
-      "https://eecs.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://ss.pku.edu.cn/",
-      "https://ss.pku.edu.cn/",
-      "https://eecs.pku.edu.cn/",
-      "https://www.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-908424e2f1ca",
     "school": "北京大学",
     "department": "计算机学院",
@@ -24654,263 +24994,6 @@
     ],
     "departmentHomepages": [
       "https://soo.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-486a780d6ca6",
-    "school": "上海交通大学",
-    "department": "马克思主义学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 马克思主义学院",
-    "tracks": [
-      "人文社科",
-      "计算机/AI",
-      "法学"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-07-10",
-        "notices": [
-          {
-            "id": "college-3f498e6cdd1a",
-            "title": "上海交通大学马克思主义学院2027级研究生优才夏令营活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-07-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17816.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5b8d2521bb72",
-            "title": "上海交通大学马克思主义学院2027级研究生招生夏令营申请表.docx",
-            "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1633255384&wbfileid=607F0C218664888981C8B65D9E18B20F",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 8,
-        "stages": [
-          "复试/考核",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士",
-          "学术型硕士",
-          "待确认",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-11-01",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-1f47f4719162",
-            "title": "马克思主义学院2026年第二批博士研究生招生综合考核办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17706.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-084782f88736",
-            "title": "马克思主义学院2026年“申请-考核”博士研究生招生办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2025-12-15",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/15806.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a83eae5e4094",
-            "title": "马克思主义学院2026年第二批“申请-考核制”博士研究生招生办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17236.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d6fcba587b05",
-            "title": "马克思主义学院2026年在职攻读“马克思主义理论”博士学位研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17296.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-750031c7749f",
-            "title": "上海交通大学2026年“思政课博士培养计划”招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17306.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-3d89fa3b0ee7",
-            "title": "上海交通大学2026年高校思想政治工作骨干在职攻读博士学位招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17316.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-e261eff732f2",
-            "title": "上海交通大学马克思主义学院2026年“申请-考核制”、“硕博连读”博士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/16516.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2880f1da3410",
-            "title": "上海交通大学马克思主义学院2026年硕士研究生招生复试通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/16806.htm",
-            "sourceHost": "ma.sjtu.edu.cn",
-            "sourceHomepage": "https://ma.sjtu.edu.cn/",
-            "departmentHomepage": "https://ma.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 2,
-    "latestPastYear": 2026,
-    "noticeCount": 10,
-    "llmStructuredCount": 3,
-    "years": [
-      2027,
-      2026
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "复试/考核",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "学术型硕士",
-      "直博",
-      "硕士"
-    ],
-    "majors": [
-      "哲学",
-      "马克思主义理论",
-      "科学技术史",
-      "政治学",
-      "社会学",
-      "心理学",
-      "科学技术哲学"
-    ],
-    "sourceHosts": [
-      "ma.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ma.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ma.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -26922,6 +27005,276 @@
     ],
     "departmentHomepages": [
       "https://ic.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-56f15e79dda1",
+    "school": "北京大学",
+    "department": "现代农学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 现代农学院",
+    "tracks": [
+      "农林环境",
+      "理工基础",
+      "经管金融"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "夏令营/研学营",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2026-06-15",
+        "notices": [
+          {
+            "id": "college-daed984d5271",
+            "title": "下一篇 ： 北京大学现代农学院2026年全国优秀大学生夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.saas.pku.edu.cn/xwzx/tzgg/0e4ca13b09cd43179ffbdb849569ec59.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "http://www.saas.pku.edu.cn/",
+            "departmentHomepage": "http://www.saas.pku.edu.cn/"
+          },
+          {
+            "id": "college-cbc0ef529ce0",
+            "title": "19 2026.05 北京大学现代农学院2026年全国优秀大学生夏令营活动通知 北京大学现代农学院2026年全国优秀大学生夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.saas.pku.edu.cn/xwzx/tzgg/0e4ca13b09cd43179ffbdb849569ec59.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "http://www.saas.pku.edu.cn/",
+            "departmentHomepage": "http://www.saas.pku.edu.cn/"
+          },
+          {
+            "id": "college-b72c9d147b83",
+            "title": "北京大学现代农学院2026年“申请-考核制”博士研究生招生说明 2025-10-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.saas.pku.edu.cn/xwzx/tzgg/eba8a3b0ab63442bb11dc91d03964fd8.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "https://www.saas.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-f4acf26d10c3",
+            "title": "29 2025.04 北京大学现代农学院2025年全国优秀大学生夏令营活动通知 北京大学现代农学院2025年全国优秀大学生夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/5bed7bc97cbf4985b96fae5dd4b0ef05.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "http://www.saas.pku.edu.cn/",
+            "departmentHomepage": "http://www.saas.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2020-06-15",
+        "notices": [
+          {
+            "id": "college-c3b98987f34a",
+            "title": "22 2024.10 北京大学现代农学院2020年全国优秀大学生夏令营活动通知 为促进现代农业科学领域优秀大学生之间的交流，帮助青年学生了解学科发展的前沿热点问题和学院的科研教学情况，北京大学现代农学院拟举办“2020年全国优秀大学生夏令营”活动。 北京大学...",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2020-06-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/51595ec236af4abaafbba6318bbaf392.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "http://www.saas.pku.edu.cn/",
+            "departmentHomepage": "http://www.saas.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 4,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-06-23",
+        "firstApplicationStart": "2021-05-25",
+        "lastApplicationEnd": "2021-06-15",
+        "notices": [
+          {
+            "id": "college-115f1eebf0bd",
+            "title": "附件1：20210623夏令营日程安排",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-06-23",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.saas.pku.edu.cn/docs/2021-06/20210623172059706776.pdf",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "https://www.saas.pku.edu.cn/",
+            "departmentHomepage": "https://www.saas.pku.edu.cn/"
+          },
+          {
+            "id": "college-f73a7a8a97e1",
+            "title": "06 2021.05 北京大学现代农学院2021年全国优秀大学生夏令营活动通知 为促进农业经济管理和生物技术方向优秀大学生之间的交流，帮助青年学生了解当前学科发展前沿与热点，北京大学现代农学院决定于2021年6月25日-6月27日举办“2021年全国优秀大学生暑期夏...",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2021-06-06",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/0736865626904c88996c51854aa80a08.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "http://www.saas.pku.edu.cn/",
+            "departmentHomepage": "http://www.saas.pku.edu.cn/"
+          },
+          {
+            "id": "college-b417713d1892",
+            "title": "24 2021.05 北京大学现代农学院2022年“申请-考核制”博士研究生招生通知 北京大学现代农学院 2022年“申请-考核制”博士研究生招生工作将于2021年6月25日-6月27日与现代农学院“2021年全国优秀大学生暑期夏令营”活动同时进行。“申请-考核制”博士研...",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "2021-05-25",
+            "applicationEnd": "2021-06-15",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/b935422da1cf4e5480e0aa584c819435.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "http://www.saas.pku.edu.cn/",
+            "departmentHomepage": "http://www.saas.pku.edu.cn/"
+          },
+          {
+            "id": "college-e052c15ee26a",
+            "title": "上一篇 ： 北京大学现代农学院2021年全国优秀大学生夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "2021-06-06",
+            "applicationEnd": "2021-06-06",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.saas.pku.edu.cn/xspy/zsgz/0736865626904c88996c51854aa80a08.htm",
+            "sourceHost": "www.saas.pku.edu.cn",
+            "sourceHomepage": "https://www.saas.pku.edu.cn/",
+            "departmentHomepage": "https://www.saas.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 9,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2021
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士"
+    ],
+    "majors": [
+      "化学",
+      "生物学",
+      "生物技术专业",
+      "农业经济管理专业",
+      "法律",
+      "农林经济管理",
+      "生物技术"
+    ],
+    "sourceHosts": [
+      "www.saas.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://www.saas.pku.edu.cn/",
+      "https://www.saas.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.saas.pku.edu.cn/",
+      "https://admission.pku.edu.cn/",
+      "https://www.saas.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -29300,260 +29653,6 @@
     ],
     "departmentHomepages": [
       "https://fss.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-56f15e79dda1",
-    "school": "北京大学",
-    "department": "现代农学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 现代农学院",
-    "tracks": [
-      "农林环境",
-      "理工基础",
-      "经管金融"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2026-06-15",
-        "notices": [
-          {
-            "id": "college-cbc0ef529ce0",
-            "title": "19 2026.05 北京大学现代农学院2026年全国优秀大学生夏令营活动通知 北京大学现代农学院2026年全国优秀大学生夏令营活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-15",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.saas.pku.edu.cn/xwzx/tzgg/0e4ca13b09cd43179ffbdb849569ec59.htm",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "http://www.saas.pku.edu.cn/",
-            "departmentHomepage": "http://www.saas.pku.edu.cn/"
-          },
-          {
-            "id": "college-b72c9d147b83",
-            "title": "北京大学现代农学院2026年“申请-考核制”博士研究生招生说明 2025-10-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.saas.pku.edu.cn/xwzx/tzgg/eba8a3b0ab63442bb11dc91d03964fd8.htm",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "https://www.saas.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-f4acf26d10c3",
-            "title": "29 2025.04 北京大学现代农学院2025年全国优秀大学生夏令营活动通知 北京大学现代农学院2025年全国优秀大学生夏令营活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/5bed7bc97cbf4985b96fae5dd4b0ef05.htm",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "http://www.saas.pku.edu.cn/",
-            "departmentHomepage": "http://www.saas.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2020-06-15",
-        "notices": [
-          {
-            "id": "college-c3b98987f34a",
-            "title": "22 2024.10 北京大学现代农学院2020年全国优秀大学生夏令营活动通知 为促进现代农业科学领域优秀大学生之间的交流，帮助青年学生了解学科发展的前沿热点问题和学院的科研教学情况，北京大学现代农学院拟举办“2020年全国优秀大学生夏令营”活动。 北京大学...",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2020-06-15",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/51595ec236af4abaafbba6318bbaf392.htm",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "http://www.saas.pku.edu.cn/",
-            "departmentHomepage": "http://www.saas.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 4,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-06-23",
-        "firstApplicationStart": "2021-05-25",
-        "lastApplicationEnd": "2021-06-15",
-        "notices": [
-          {
-            "id": "college-115f1eebf0bd",
-            "title": "附件1：20210623夏令营日程安排",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-06-23",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.saas.pku.edu.cn/docs/2021-06/20210623172059706776.pdf",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "https://www.saas.pku.edu.cn/",
-            "departmentHomepage": "https://www.saas.pku.edu.cn/"
-          },
-          {
-            "id": "college-f73a7a8a97e1",
-            "title": "06 2021.05 北京大学现代农学院2021年全国优秀大学生夏令营活动通知 为促进农业经济管理和生物技术方向优秀大学生之间的交流，帮助青年学生了解当前学科发展前沿与热点，北京大学现代农学院决定于2021年6月25日-6月27日举办“2021年全国优秀大学生暑期夏...",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2021-06-06",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/0736865626904c88996c51854aa80a08.htm",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "http://www.saas.pku.edu.cn/",
-            "departmentHomepage": "http://www.saas.pku.edu.cn/"
-          },
-          {
-            "id": "college-b417713d1892",
-            "title": "24 2021.05 北京大学现代农学院2022年“申请-考核制”博士研究生招生通知 北京大学现代农学院 2022年“申请-考核制”博士研究生招生工作将于2021年6月25日-6月27日与现代农学院“2021年全国优秀大学生暑期夏令营”活动同时进行。“申请-考核制”博士研...",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "2021-05-25",
-            "applicationEnd": "2021-06-15",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://www.saas.pku.edu.cn/xspy/zsgz/b935422da1cf4e5480e0aa584c819435.htm",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "http://www.saas.pku.edu.cn/",
-            "departmentHomepage": "http://www.saas.pku.edu.cn/"
-          },
-          {
-            "id": "college-e052c15ee26a",
-            "title": "上一篇 ： 北京大学现代农学院2021年全国优秀大学生夏令营活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "2021-06-06",
-            "applicationEnd": "2021-06-06",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.saas.pku.edu.cn/xspy/zsgz/0736865626904c88996c51854aa80a08.htm",
-            "sourceHost": "www.saas.pku.edu.cn",
-            "sourceHomepage": "https://www.saas.pku.edu.cn/",
-            "departmentHomepage": "https://www.saas.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 8,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2021
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士"
-    ],
-    "majors": [
-      "化学",
-      "生物学",
-      "生物技术专业",
-      "农业经济管理专业",
-      "法律",
-      "农林经济管理",
-      "生物技术"
-    ],
-    "sourceHosts": [
-      "www.saas.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://www.saas.pku.edu.cn/",
-      "https://www.saas.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://www.saas.pku.edu.cn/",
-      "https://admission.pku.edu.cn/",
-      "https://www.saas.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -38022,6 +38121,229 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-1d6d07b121ab",
+    "school": "复旦大学",
+    "department": "复旦大学校级/待分院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "复旦大学 · 复旦大学校级/待分院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [
+      "学院待复核"
+    ],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-07-07",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2025-09-08",
+        "notices": [
+          {
+            "id": "auto-10ccd2c0aa33",
+            "title": "复旦大学招收2027级推荐免试研究生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-07-07",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://gsao.fudan.edu.cn/fb/0b/c15014a785163/page.htm",
+            "sourceHost": "gsao.fudan.edu.cn",
+            "sourceHomepage": "https://gsao.fudan.edu.cn/",
+            "departmentHomepage": "https://gsao.fudan.edu.cn/"
+          },
+          {
+            "id": "search-a60eff2bcb50",
+            "title": "复旦大学2026 年工程硕博士培养改革专项 推免 研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-08",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://gsao.fudan.edu.cn/5f/32/c15014a745266/page.htm",
+            "sourceHost": "gsao.fudan.edu.cn",
+            "sourceHomepage": "https://gsao.fudan.edu.cn/",
+            "departmentHomepage": "https://gsao.fudan.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "search-f62746999a3f",
+            "title": "复旦大学 “国家优秀中小学教师培养计划” 2025 级 推荐免试 硕士 研究 ...",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://gsao.fudan.edu.cn/8c/bd/c15014a691389/page.htm",
+            "sourceHost": "gsao.fudan.edu.cn",
+            "sourceHomepage": "https://gsao.fudan.edu.cn/",
+            "departmentHomepage": "https://gsao.fudan.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "专业型硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-09-26",
+        "lastApplicationEnd": "2023-09-29",
+        "notices": [
+          {
+            "id": "search-fcd940150693",
+            "title": "复旦 发布 2024 年应届本科毕业生免试攻读研究生章程",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-09-26",
+            "applicationEnd": "2023-09-29",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://xxgk.fudan.edu.cn/30/09/c5200a536585/page.htm",
+            "sourceHost": "xxgk.fudan.edu.cn",
+            "sourceHomepage": "https://xxgk.fudan.edu.cn/",
+            "departmentHomepage": "https://xxgk.fudan.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "search-dcc76925669d",
+            "title": "1.《 复旦大学夏令营 /推荐免试研究生申请表》(申请人登陆研究生...",
+            "stage": "夏令营/研学营",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ices.fudan.edu.cn/_upload/article/files/1a/5d/af3de35b40a4b3af9fb46e3a20c5/16f60dad-273c-4e2b-b021-5948eeb48225.pdf",
+            "sourceHost": "ices.fudan.edu.cn",
+            "sourceHomepage": "https://ices.fudan.edu.cn/",
+            "departmentHomepage": "https://ices.fudan.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 5,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ],
+    "stages": [
+      "推免报名",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "专业型硕士",
+      "硕士",
+      "学术型硕士",
+      "博士"
+    ],
+    "majors": [
+      "哲学",
+      "金融",
+      "法学",
+      "中国语言文学",
+      "外国语言文学",
+      "历史学",
+      "电子信息",
+      "药学",
+      "生物与医药",
+      "材料与化工",
+      "除工商管理",
+      "公共管理",
+      "工程管理",
+      "旅游管理",
+      "会计等专业学位和备注中有说明的学科专业外",
+      "我校各全日制学术学位"
+    ],
+    "sourceHosts": [
+      "gsao.fudan.edu.cn",
+      "xxgk.fudan.edu.cn",
+      "ices.fudan.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://gsao.fudan.edu.cn/",
+      "https://xxgk.fudan.edu.cn/",
+      "https://ices.fudan.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://gsao.fudan.edu.cn/",
+      "https://xxgk.fudan.edu.cn/",
+      "https://ices.fudan.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-357718708aba",
     "school": "吉林大学",
     "department": "行政学院",
@@ -42634,208 +42956,6 @@
     "departmentHomepages": [
       "https://chemeng.dlut.edu.cn/",
       "http://chemeng.dlut.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-1d6d07b121ab",
-    "school": "复旦大学",
-    "department": "复旦大学校级/待分院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "复旦大学 · 复旦大学校级/待分院",
-    "tracks": [
-      "综合/待确认"
-    ],
-    "qualityFlags": [
-      "学院待复核"
-    ],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2025-09-08",
-        "notices": [
-          {
-            "id": "search-a60eff2bcb50",
-            "title": "复旦大学2026 年工程硕博士培养改革专项 推免 研究生招生报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-08",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://gsao.fudan.edu.cn/5f/32/c15014a745266/page.htm",
-            "sourceHost": "gsao.fudan.edu.cn",
-            "sourceHomepage": "https://gsao.fudan.edu.cn/",
-            "departmentHomepage": "https://gsao.fudan.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "search-f62746999a3f",
-            "title": "复旦大学 “国家优秀中小学教师培养计划” 2025 级 推荐免试 硕士 研究 ...",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://gsao.fudan.edu.cn/8c/bd/c15014a691389/page.htm",
-            "sourceHost": "gsao.fudan.edu.cn",
-            "sourceHomepage": "https://gsao.fudan.edu.cn/",
-            "departmentHomepage": "https://gsao.fudan.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-09-26",
-        "lastApplicationEnd": "2023-09-29",
-        "notices": [
-          {
-            "id": "search-fcd940150693",
-            "title": "复旦 发布 2024 年应届本科毕业生免试攻读研究生章程",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-09-26",
-            "applicationEnd": "2023-09-29",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://xxgk.fudan.edu.cn/30/09/c5200a536585/page.htm",
-            "sourceHost": "xxgk.fudan.edu.cn",
-            "sourceHomepage": "https://xxgk.fudan.edu.cn/",
-            "departmentHomepage": "https://xxgk.fudan.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "search-dcc76925669d",
-            "title": "1.《 复旦大学夏令营 /推荐免试研究生申请表》(申请人登陆研究生...",
-            "stage": "夏令营/研学营",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ices.fudan.edu.cn/_upload/article/files/1a/5d/af3de35b40a4b3af9fb46e3a20c5/16f60dad-273c-4e2b-b021-5948eeb48225.pdf",
-            "sourceHost": "ices.fudan.edu.cn",
-            "sourceHomepage": "https://ices.fudan.edu.cn/",
-            "departmentHomepage": "https://ices.fudan.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 4,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023
-    ],
-    "stages": [
-      "推免报名",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "专业型硕士",
-      "硕士",
-      "学术型硕士",
-      "博士",
-      "待确认"
-    ],
-    "majors": [
-      "电子信息",
-      "药学",
-      "生物与医药",
-      "材料与化工",
-      "除工商管理",
-      "公共管理",
-      "工程管理",
-      "旅游管理",
-      "会计等专业学位和备注中有说明的学科专业外",
-      "我校各全日制学术学位",
-      "专业学位研究生专业",
-      "待结构化"
-    ],
-    "sourceHosts": [
-      "gsao.fudan.edu.cn",
-      "xxgk.fudan.edu.cn",
-      "ices.fudan.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://gsao.fudan.edu.cn/",
-      "https://xxgk.fudan.edu.cn/",
-      "https://ices.fudan.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://gsao.fudan.edu.cn/",
-      "https://xxgk.fudan.edu.cn/",
-      "https://ices.fudan.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

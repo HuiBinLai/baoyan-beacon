@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T03:50:07.766Z",
+  "generatedAt": "2026-07-08T03:32:07.421Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2218,
+    "notices": 2225,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 337,
+      "total": 341,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -49,18 +49,18 @@
     {
       "school": "复旦大学",
       "region": "上海",
-      "total": 30,
+      "total": 31,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 16,
       "llmStructured": 30,
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-07-07",
       "status": "stale"
     },
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 324,
+      "total": 326,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -499,7 +499,7 @@
       "id": "auto-1cccc4c719c3",
       "school": "北京大学",
       "department": "电子学院",
-      "total": 10,
+      "total": 12,
       "years": [
         2026,
         2025,
@@ -909,7 +909,7 @@
       "id": "auto-115bcecfd7cf",
       "school": "北京大学",
       "department": "软件与微电子学院",
-      "total": 6,
+      "total": 8,
       "years": [
         2026
       ],
@@ -1035,7 +1035,7 @@
       "id": "auto-9fdab8efa59c",
       "school": "北京大学",
       "department": "现代农学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2026,
         2025,
@@ -1082,7 +1082,7 @@
       "id": "auto-e676521d61b7",
       "school": "北京大学",
       "department": "信息工程学院",
-      "total": 13,
+      "total": 14,
       "years": [
         2026,
         2025,
@@ -2186,7 +2186,7 @@
       "id": "auto-a6176ddbcf96",
       "school": "上海交通大学",
       "department": "海洋研究院",
-      "total": 38,
+      "total": 39,
       "years": [
         2026,
         2025,
@@ -2325,7 +2325,7 @@
       "id": "auto-b92dddbebf0e",
       "school": "上海交通大学",
       "department": "马克思主义学院",
-      "total": 10,
+      "total": 11,
       "years": [
         2027,
         2026

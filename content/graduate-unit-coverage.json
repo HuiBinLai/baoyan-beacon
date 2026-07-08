@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T03:50:09.031Z",
+  "generatedAt": "2026-07-08T03:32:08.639Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -253,8 +253,8 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 16,
+      "total": 19,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -305,8 +305,8 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 13,
+      "total": 16,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
@@ -924,8 +924,8 @@
       "department": "现代农学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.saas.pku.edu.cn/",
-      "total": 8,
-      "recentFiveYears": 4,
+      "total": 9,
+      "recentFiveYears": 5,
       "currentSeason": 0,
       "years": [
         2026,
@@ -942,8 +942,8 @@
       "department": "信息工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ece.pku.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 12,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -4332,15 +4332,16 @@
       "department": "数学科学学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://scms.fudan.edu.cn/info/1047/6671.htm",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024,
         2023
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-07-07",
       "status": "covered"
     },
     {
@@ -8996,8 +8997,8 @@
       "department": "马克思主义学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://ma.sjtu.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 13,
+      "total": 16,
+      "recentFiveYears": 14,
       "currentSeason": 2,
       "years": [
         2027,
@@ -9252,8 +9253,8 @@
       "department": "海洋研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://ioo.sjtu.edu.cn/",
-      "total": 38,
-      "recentFiveYears": 38,
+      "total": 39,
+      "recentFiveYears": 39,
       "currentSeason": 0,
       "years": [
         2026,
