@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T03:32:08.639Z",
+  "generatedAt": "2026-07-09T04:01:15.615Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 5,
     "missing": 367,
-    "currentSeasonCovered": 30
+    "currentSeasonCovered": 31
   },
   "units": [
     {
@@ -470,8 +470,8 @@
       "department": "力学与工程科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://mech.pku.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 15,
+      "total": 18,
+      "recentFiveYears": 17,
       "currentSeason": 0,
       "years": [
         2026,
@@ -523,8 +523,8 @@
       "department": "未来技术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://future.pku.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
         2026,
@@ -656,14 +656,15 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 15,
+      "total": 17,
       "recentFiveYears": 15,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -7282,8 +7283,8 @@
       "department": "数学科学中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://ymsc.tsinghua.edu.cn/",
-      "total": 25,
-      "recentFiveYears": 25,
+      "total": 26,
+      "recentFiveYears": 26,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8122,8 +8123,8 @@
       "department": "数学科学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-      "total": 32,
-      "recentFiveYears": 32,
+      "total": 33,
+      "recentFiveYears": 33,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9253,8 +9254,8 @@
       "department": "海洋研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://ioo.sjtu.edu.cn/",
-      "total": 39,
-      "recentFiveYears": 39,
+      "total": 40,
+      "recentFiveYears": 40,
       "currentSeason": 0,
       "years": [
         2026,

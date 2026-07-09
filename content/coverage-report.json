@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T03:32:07.421Z",
+  "generatedAt": "2026-07-09T04:01:14.476Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2225,
+    "notices": 2232,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 341,
+      "total": 346,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 235,
+      "total": 236,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 48,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 326,
+      "total": 327,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -722,12 +722,13 @@
       "id": "auto-241ae2d891dd",
       "school": "北京大学",
       "department": "教育学院",
-      "total": 12,
+      "total": 14,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -795,7 +796,7 @@
       "id": "auto-c174a4b6a962",
       "school": "北京大学",
       "department": "力学与工程科学学院",
-      "total": 6,
+      "total": 8,
       "years": [
         2026,
         2025
@@ -1013,7 +1014,7 @@
       "id": "auto-338b22a1f65b",
       "school": "北京大学",
       "department": "未来技术学院",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
@@ -1845,7 +1846,7 @@
       "id": "auto-f645b052e302",
       "school": "清华大学",
       "department": "数学科学中心",
-      "total": 25,
+      "total": 26,
       "years": [
         2026,
         2025,
@@ -2186,7 +2187,7 @@
       "id": "auto-a6176ddbcf96",
       "school": "上海交通大学",
       "department": "海洋研究院",
-      "total": 39,
+      "total": 40,
       "years": [
         2026,
         2025,
