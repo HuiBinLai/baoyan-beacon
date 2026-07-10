@@ -1,39 +1,42 @@
 [
   {
-    "id": "college-21e65e20d066",
-    "title": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告",
+    "id": "college-8368f890f768",
+    "title": "关于调整北京大学环境科学与工程学院2027年全国硕士研究生招生考试全日制硕士初试...",
     "school": "北京大学",
-    "department": "教育学院",
+    "department": "环境科学与工程学院",
     "majors": [
-      "教育学"
+      "数学",
+      "环境科学与工程",
+      "资源与环境"
     ],
     "type": "推免",
     "year": 2027,
     "region": "北京",
     "deadline": "",
     "publishedAt": "2027-01-01",
-    "sourceName": "北京大学教育学院官方站点",
-    "sourceUrl": "http://www.gse.pku.edu.cn/zsxx/ssyjszs/5a27dedd057049a686b52f77f1150e72.htm",
-    "sourceHost": "www.gse.pku.edu.cn",
-    "sourceHomepage": "http://www.gse.pku.edu.cn/",
-    "departmentHomepage": "http://www.gse.pku.edu.cn/",
-    "summary": "教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "北京大学环境科学与工程学院官方站点",
+    "sourceUrl": "https://cese.pku.edu.cn/tzgg/c3f08d18953c48059445c3af703212dd.htm",
+    "sourceHost": "cese.pku.edu.cn",
+    "sourceHomepage": "https://cese.pku.edu.cn/",
+    "departmentHomepage": "https://cese.pku.edu.cn/",
+    "summary": "Jul 09",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-241ae2d891dd"
+      "auto-cebf12ced5cb"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告。教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "关于调整北京大学环境科学与工程学院2027年全国硕士研究生招生考试全日制硕士初试...。Jul 09。关于调整北京大学环境科学与工程学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告_通知公告(Announcements)_北京大学环境科学与工程学院 首页 --> --> 首页 学院概况 学院简介 组织机构 历届领导 规章制度 联系我们 师资队伍 学术荣誉 在职教师 博士后 行政人员 退休教师 研究助理 招生教学 本科生 研究生 国际合作 基地与平台 国家级平台 教育部平台 生态环境部平台 国家市场监管总局平台 北京市平台 其它部级平台 校级平台 学术科研 学科布局 学术论文 科研项目 专利数据 国际交流 国内合作 学术报告(Seminars) 引智对话 青春学工 先锋党团建设 魅力学术交流 多彩生活定格 生涯发展资讯 志愿实践开展 人才招聘 教学科研 行政/科研助理 专职科研人员/博士后 基金与奖励 唐孝炎创新奖学金 其他基金 院友会 院友动态 院友通讯 院友名录 环境校友联合会 办公服务 办事指南 常用下载 办公电话 学院OA English 学院概况 学院简介 ",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "教育学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
+      "该专业前三个单元的初试科目均采用全国统考科目",
+      "分别为思想政治理论",
+      "英语（一）",
+      "数学（二）"
     ],
     "materials": [],
     "applicationMethod": "",
@@ -41,296 +44,287 @@
     "degreeTypes": [
       "硕士"
     ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-07-09",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-07-09"
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-10",
+    "noticeStage": "推免",
+    "classifiedAt": "2026-07-10"
   },
   {
-    "id": "college-bf68455f6160",
-    "title": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告",
+    "id": "college-e41075c167d8",
+    "title": "【夏令营】北京大学材料科学与工程...",
     "school": "北京大学",
-    "department": "教育学院",
+    "department": "材料科学与工程学院",
     "majors": [
-      "教育学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学教育学院官方站点",
-    "sourceUrl": "http://www.gse.pku.edu.cn/syxw/tzgg/5a27dedd057049a686b52f77f1150e72.htm",
-    "sourceHost": "www.gse.pku.edu.cn",
-    "sourceHomepage": "http://www.gse.pku.edu.cn/",
-    "departmentHomepage": "http://www.gse.pku.edu.cn/",
-    "summary": "教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-241ae2d891dd"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告。教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "教育学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "硕士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-07-09",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-07-09"
-  },
-  {
-    "id": "college-a8dbce1cc65e",
-    "title": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营 2026.07.08",
-    "school": "北京大学",
-    "department": "力学与工程科学学院",
-    "majors": [
-      "待确认"
+      "材料科学与工程"
     ],
     "type": "夏令营",
     "year": 2026,
     "region": "北京",
     "deadline": "",
     "publishedAt": "2026-01-01",
-    "sourceName": "北京大学力学与工程科学学院官方站点",
-    "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/2994358414a245afb6561bef3b0f04a5.htm",
-    "sourceHost": "mech.pku.edu.cn",
-    "sourceHomepage": "https://mech.pku.edu.cn/",
-    "departmentHomepage": "https://mech.pku.edu.cn/",
-    "summary": "力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "北京大学材料科学与工程学院官方站点",
+    "sourceUrl": "https://www.mse.pku.edu.cn/info/1012/6504.htm",
+    "sourceHost": "www.mse.pku.edu.cn",
+    "sourceHomepage": "https://www.mse.pku.edu.cn/",
+    "departmentHomepage": "https://www.mse.pku.edu.cn/",
+    "summary": "材料科学与工程学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-c174a4b6a962"
+      "auto-be14dcbc0e21"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营 2026.07.08。力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "【夏令营】北京大学材料科学与工程...。材料科学与工程学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。【夏令营】北京大学材料科学与工程学院2026年全国优秀大学生夏令营成功举办-北京大学材料科学与工程学院 北京大学 | 设为首页 | 加入收藏 | English | 书记、院长信箱 首页 学院概况 学院简介 学院领导 组织机构 学院标识 系所中心 先进碳材料研究所 新能源材料研究所 光电子材料研究所 生命健康材料研究所 新结构材料研究所 师资队伍 杰出人才 在职教师 博士后 行政教辅 退休教师 教师风采 办公服务 行政办公 规章制度及办理流程 人才培养 通知公告 本科生培养 研究生培养 工程博士 高端教育 特色课程 留学交换 访问学者 博士后 科学研究 科研动态 通知公告 重点实验室 平台基地 成果奖励 学生园地 学工动态 通知公告 职业发展 院友之家 院友组织 院友活动 院友风采 联系我们 招聘信息 教学科研人员 教辅行政 博士后 深圳分部 新闻聚焦 新闻聚焦 首页 > 正文 【夏令营】北京大学材料科学与工程学院2026年全国优秀大学生夏令营成功举办 发",
     "applicationStart": "",
     "applicationEnd": "",
-    "registrationTime": "",
+    "registrationTime": "2026年7月5日至7日，北京大学材料科学与工程学院成功举办2026年全国优秀大学生夏令营，来自全国高校的180余名优秀本科生齐聚燕园，在盛夏的蓬勃气息中共赴一场学术与理想交融的青春之约",
     "requirements": [
-      "力学与工程科学学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-07-09",
-    "noticeStage": "夏令营/研学营",
-    "classifiedAt": "2026-07-09"
-  },
-  {
-    "id": "college-4f5a01d03336",
-    "title": "2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营正式开营",
-    "school": "北京大学",
-    "department": "力学与工程科学学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "夏令营",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "北京大学力学与工程科学学院官方站点",
-    "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/810f3adc26804d65ae3d12cbedb7d38c.htm",
-    "sourceHost": "mech.pku.edu.cn",
-    "sourceHomepage": "https://mech.pku.edu.cn/",
-    "departmentHomepage": "https://mech.pku.edu.cn/",
-    "summary": "力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-c174a4b6a962"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营正式开营。力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "力学与工程科学学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-07-09",
-    "noticeStage": "夏令营/研学营",
-    "classifiedAt": "2026-07-09"
-  },
-  {
-    "id": "college-3282ad6364e7",
-    "title": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知",
-    "school": "北京大学",
-    "department": "未来技术学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "北京大学未来技术学院官方站点",
-    "sourceUrl": "https://future.pku.edu.cn/zsypy/yjspyzspy/xly/629d7647b68f4497b804794e800d22e4.htm",
-    "sourceHost": "future.pku.edu.cn",
-    "sourceHomepage": "https://future.pku.edu.cn/",
-    "departmentHomepage": "https://future.pku.edu.cn/",
-    "summary": "未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-338b22a1f65b"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知。未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。关于发布2026年全国优秀大学生科学实践体验营入营结果的通知-夏令营/体验营-北京大学未来技术学院 本站不再支持您的浏览器，请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 您的浏览器版本过低，请升级到ie10以上或更换Chrome浏览器获得流畅的浏览效果！ 首页 学院概况 学院介绍 系所中心 党政工团 委员会 师资力量 教研系列 研究技术系列 工程/实验技术系列 教育管理/德育系列 光荣退休 科学研究 科研动态 讲座信息 科研基地 科研支撑平台 招生与培养 通知公告 本科生 研究生(学术学位) 研究生(专业学位) 继续教育 学生园地 产学研活动 就业指导 学生成长 党团建设 党组织概况 党团动态 常用下载 院友之家 院友活动 院友风采 联系我们 招聘信息 教学科研人员 教辅行政 博士后 办公服务导航 通知公告 行政办公 学院机构 业务办理 会议室预约 搜索 --> 首页 学院概况 学院介绍 系所中心 党政工团 委员会 师资力量 教",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "未来技术学院学院官网补漏发现的推免相关官方信息",
+      "材料科学与工程学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求",
-      "未收到入营通知邮件的同学",
-      "即表示未获得本次体验营入营资格",
-      "学院将不再另行通知",
-      "请知悉"
+      "下一条：北京大学张艳锋课题组与合作者实现了二维铁基硫化物材料的可控生长",
+      "揭示了其独特的磁阻交叉效应和超高电导率 地址：中国·北京大学综合科研楼",
+      "100871 版权所有：北京大学材料科学与工程学院 微 信 微 博 移动版"
     ],
-    "materials": [],
-    "applicationMethod": "学院于2026年6月23日通过 gfuturezsb@pku.edu.cn 邮箱 向入营学生发送入营通知邮件",
+    "materials": [
+      "【夏令营】北京大学材料科学与工程...",
+      "材料科学与工程学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "2026年7月5日至7日",
+      "北京大学材料科学与工程学院成功举办2026年全国优秀大学生夏令营",
+      "来自全国高校的180余名优秀本科生齐聚燕园",
+      "在盛夏的蓬勃气息中共赴一场学术与理想交融的青春之约",
+      "她指出",
+      "2026年是国家“十五五”规划的开局之年",
+      "也是全面推进中国式现代化的关键时期",
+      "材料科学作为高新技术产业的基础与先导",
+      "战略地位日益凸显",
+      "北大材料学院始终是学校新工科建设的“排头兵”",
+      "坚持“为党育人",
+      "为国育才”",
+      "致力于培养能够引领未来",
+      "担当民族复兴大任的“材料新青年”"
+    ],
+    "applicationMethod": "",
     "targetStudents": "",
     "degreeTypes": [
       "待确认"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-07-09",
-    "noticeStage": "结果公示",
-    "classifiedAt": "2026-07-09"
+    "structuredAt": "2026-07-10",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-07-10"
   },
   {
-    "id": "college-9f7a21a57578",
-    "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
-    "school": "清华大学",
-    "department": "数学科学中心",
+    "id": "college-0874422156b2",
+    "title": "【夏令营】北京大学材料科学与工程学院2026年全国优秀大学生夏令...",
+    "school": "北京大学",
+    "department": "材料科学与工程学院",
     "majors": [
-      "数学"
+      "材料科学与工程"
     ],
-    "type": "推免",
+    "type": "夏令营",
     "year": 2026,
     "region": "北京",
     "deadline": "",
     "publishedAt": "2026-01-01",
-    "sourceName": "清华大学数学科学中心官方站点",
-    "sourceUrl": "https://math.tsinghua.edu.cn/info/1119/3563.htm",
-    "sourceHost": "math.tsinghua.edu.cn",
-    "sourceHomepage": "https://math.tsinghua.edu.cn/",
-    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
-    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "北京大学材料科学与工程学院官方站点",
+    "sourceUrl": "https://www.mse.pku.edu.cn/info/1012/6504.htm",
+    "sourceHost": "www.mse.pku.edu.cn",
+    "sourceHomepage": "https://www.mse.pku.edu.cn/",
+    "departmentHomepage": "https://www.mse.pku.edu.cn/",
+    "summary": "材料科学与工程学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-f645b052e302"
+      "auto-be14dcbc0e21"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2027年博士研究生招生简章-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 系友之家 系友名录 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 系友之家 系",
+    "sourceExcerpt": "【夏令营】北京大学材料科学与工程学院2026年全国优秀大学生夏令...。材料科学与工程学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。【夏令营】北京大学材料科学与工程学院2026年全国优秀大学生夏令营成功举办-北京大学材料科学与工程学院 北京大学 | 设为首页 | 加入收藏 | English | 书记、院长信箱 首页 学院概况 学院简介 学院领导 组织机构 学院标识 系所中心 先进碳材料研究所 新能源材料研究所 光电子材料研究所 生命健康材料研究所 新结构材料研究所 师资队伍 杰出人才 在职教师 博士后 行政教辅 退休教师 教师风采 办公服务 行政办公 规章制度及办理流程 人才培养 通知公告 本科生培养 研究生培养 工程博士 高端教育 特色课程 留学交换 访问学者 博士后 科学研究 科研动态 通知公告 重点实验室 平台基地 成果奖励 学生园地 学工动态 通知公告 职业发展 院友之家 院友组织 院友活动 院友风采 联系我们 招聘信息 教学科研人员 教辅行政 博士后 深圳分部 新闻聚焦 新闻聚焦 首页 > 正文 【夏令营】北京大学材料科学与工程学院2026年",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "2026年7月5日至7日，北京大学材料科学与工程学院成功举办2026年全国优秀大学生夏令营，来自全国高校的180余名优秀本科生齐聚燕园，在盛夏的蓬勃气息中共赴一场学术与理想交融的青春之约",
+    "requirements": [
+      "材料科学与工程学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "下一条：北京大学张艳锋课题组与合作者实现了二维铁基硫化物材料的可控生长",
+      "揭示了其独特的磁阻交叉效应和超高电导率 地址：中国·北京大学综合科研楼",
+      "100871 版权所有：北京大学材料科学与工程学院 微 信 微 博 移动版"
+    ],
+    "materials": [
+      "【夏令营】北京大学材料科学与工程学院2026年全国优秀大学生夏令...",
+      "材料科学与工程学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "2026年7月5日至7日",
+      "北京大学材料科学与工程学院成功举办2026年全国优秀大学生夏令营",
+      "来自全国高校的180余名优秀本科生齐聚燕园",
+      "在盛夏的蓬勃气息中共赴一场学术与理想交融的青春之约",
+      "她指出",
+      "2026年是国家“十五五”规划的开局之年",
+      "也是全面推进中国式现代化的关键时期",
+      "材料科学作为高新技术产业的基础与先导",
+      "战略地位日益凸显",
+      "北大材料学院始终是学校新工科建设的“排头兵”",
+      "坚持“为党育人",
+      "为国育才”",
+      "致力于培养能够引领未来",
+      "担当民族复兴大任的“材料新青年”"
+    ],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-10",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-07-10"
+  },
+  {
+    "id": "college-7937ab2a1267",
+    "title": "北京大学集成电路学院2026年优秀大学生夏令营成功举办 2026-07-09",
+    "school": "北京大学",
+    "department": "集成电路学院",
+    "majors": [
+      "化学"
+    ],
+    "type": "夏令营",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学集成电路学院官方站点",
+    "sourceUrl": "https://ic.pku.edu.cn/xwdt/a680a77f05a34fb2bcbe5f9867843297.htm",
+    "sourceHost": "ic.pku.edu.cn",
+    "sourceHomepage": "https://ic.pku.edu.cn/",
+    "departmentHomepage": "https://ic.pku.edu.cn/",
+    "summary": "集成电路学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-5766654a8aed"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学集成电路学院2026年优秀大学生夏令营成功举办 2026-07-09。集成电路学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北大集成电路学院 本站不再支持您的浏览器，请使用360浏览器9及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 会议室预约 English 北大主页 首 页 学院概况 院长寄语 学院简介 组织体系 委员会 联系我们 系所中心 集成微纳电子系 集成电路设计系 设计自动化与计算系统系 集成微纳系统系 集成电路先进制造技术研究中心 师资队伍 院士风采 专职教师 客座教授 博士后 光荣退休 科学研究 科研动态 科研获奖 科研项目 科研成果 党建思政 党组织概况 党建动态 工会风采 人才培养 本科生招生 研究生招生 研究生培养 院内公告 平台基地 工艺实验室 EDA实验室 测试实验室 教学实验室 引智基地 学生工作 新闻公告 党团建设 实习就业 院内通知 招贤纳士 教师招聘 博士后招聘 其他招",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "集成电路学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
-      "项目类型和申请要求"
+      "项目类型和申请要求",
+      "刘晓彦教授致开营辞 开营仪式后，刘晓彦副院长全面介绍了学院发展概况、学科布局、科研平台与人才培养特色，展示了学院在集成电路基础研究、技术攻关等方面的成果与优势，结合国家战略与产业需求，阐释了学院的育人使命与发展愿景，让营员们对学院综合实力有了清晰认知",
+      "梁云老师讲解电子设计自动化与计算系统方向",
+      "梳理学科研究重点与应用前景",
+      "青年学者讲座 现场学术氛围浓厚",
+      "营员们认真聆听",
+      "积极思考",
+      "在高水平的学术分享中拓宽了科研视野",
+      "真切感受集成电路领域的创新活力与发展潜力",
+      "夏令营虽已落幕",
+      "但学子们的科研逐梦之路崭新开启"
     ],
-    "materials": [],
+    "materials": [
+      "营员们在微纳电子大厦103报告厅有序完成登记",
+      "领取营服等材料",
+      "脸上洋溢着期待与兴奋",
+      "郭冠男",
+      "贾天宇",
+      "衡文正",
+      "王嘉铭四位老师",
+      "分别围绕“CPU-GPU异构加速静态时序分析”",
+      "“AI芯片架构设计与设计方法”",
+      "“在线化学与生物分析微电子系统”",
+      "“宽禁带半导体材料与器件前沿课题展开分享”",
+      "讲座覆盖芯片设计",
+      "异构计算",
+      "微纳传感",
+      "半导体材料等多个核心领域",
+      "聚焦行业前沿热点与技术难点",
+      "内容前沿",
+      "视野开阔"
+    ],
     "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-10",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-07-10"
+  },
+  {
+    "id": "college-44b1664f59f6",
+    "title": "马克思主义学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法（第三批）",
+    "school": "上海交通大学",
+    "department": "马克思主义学院",
+    "majors": [
+      "马克思主义理论"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "2026-07-11",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学马克思主义学院官方站点",
+    "sourceUrl": "https://ma.sjtu.edu.cn/info/1293/17896.htm",
+    "sourceHost": "ma.sjtu.edu.cn",
+    "sourceHomepage": "https://ma.sjtu.edu.cn/",
+    "departmentHomepage": "https://ma.sjtu.edu.cn/",
+    "summary": "马克思主义学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-b92dddbebf0e"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "马克思主义学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法（第三批）。马克思主义学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。马克思主义学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法（第三批）-马克思主义学院网站 教师登录 首页 学院概况 学院简介 领导班子 教学机构 学术机构 行政机构 师资队伍 教师名录 博士后 人才招聘 学科科研 学术动态 教学工作 本科生思政课 研究生思政课 通识通选课 专业课 人才培养 招生信息 培养信息 学生工作 党建工作 党建概况 党建动态 学习园地 工会风采 校友专栏 校友捐赠 校友活动 常用文档 重要资料 规章制度 视觉标识 人才培养 招生信息 培养信息 学生工作 招生信息 — 首页 / 人才培养 / 招生信息 / 正文 马克思主义学院2026年高校思想政治工作骨干在职攻读博士学位研究生招生综合考核办法（第三批） 发布日期：2026年07月09日 根据教育部及学校关于招生考核的要求，本着择优录取、保证质量、宁缺毋滥的精神和公开、公正、公平的原则，我院2026年博士研究生综",
+    "applicationStart": "2026-07-11",
+    "applicationEnd": "2026-07-11",
+    "registrationTime": "时间：2026年7月11日上午8:00-8:30 地点：上海交通大学陈瑞球楼105室 考生须于 综合考核当天（7月11日）8:00前 至闵行校区陈瑞球楼105办理报到，所有资格审查材料均需携带原件验证（无需准备复印件）",
+    "requirements": [
+      "马克思主义学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "2.资格审查 所有考生须接受资格审查",
+      "未经资格审查或未通过资格审查的考生",
+      "取消综合考核资格",
+      "资格审查后考生现场抽签确定面试顺序",
+      "时间：2026年7月11日上午8:00-8:30 地点：上海交通大学陈瑞球楼105室 考生须于 综合考核当天（7月11日）8:00前 至闵行校区陈瑞球楼105办理报到",
+      "所有资格审查材料均需携带原件验证（无需准备复印件）"
+    ],
+    "materials": [
+      "时间：2026年7月11日上午8:00-8:30 地点：上海交通大学陈瑞球楼105室 考生须于 综合考核当天（7月11日）8:00前 至闵行校区陈瑞球楼105办理报到",
+      "所有资格审查材料均需携带原件验证（无需准备复印件）",
+      "审查材料包括： （1）本人二代居民身份证件（原件）",
+      "应届硕士毕业生学生证（原件）",
+      "学籍认证报告（打印件）",
+      "（4）大学英语六级证书或TOEFL",
+      "IELTS成绩单（原件）",
+      "（5）《考生诚信承诺书》纸质版",
+      "本人签字（电子版以电子邮件形式发送）"
+    ],
+    "applicationMethod": "（5）《考生诚信承诺书》纸质版，本人签字（电子版以电子邮件形式发送）",
     "targetStudents": "",
     "degreeTypes": [
       "博士"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-07-09",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-07-09"
-  },
-  {
-    "id": "college-5816c2b33f1b",
-    "title": "09 2026.07 上海交通大学2027级“明志荣誉博士生”招生简章",
-    "school": "上海交通大学",
-    "department": "海洋研究院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "上海",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "上海交通大学海洋研究院官方站点",
-    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3744",
-    "sourceHost": "yzb.sjtu.edu.cn",
-    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
-    "summary": "海洋研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-a6176ddbcf96"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "09 2026.07 上海交通大学2027级“明志荣誉博士生”招生简章。海洋研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "海洋研究院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-07-09",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-07-09"
+    "structuredAt": "2026-07-10",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-07-10"
   },
   {
     "id": "college-ca8bbb9483ed",
@@ -10670,6 +10664,100 @@
     "classifiedAt": "2026-05-26"
   },
   {
+    "id": "college-21e65e20d066",
+    "title": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告",
+    "school": "北京大学",
+    "department": "教育学院",
+    "majors": [
+      "教育学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学教育学院官方站点",
+    "sourceUrl": "http://www.gse.pku.edu.cn/zsxx/ssyjszs/5a27dedd057049a686b52f77f1150e72.htm",
+    "sourceHost": "www.gse.pku.edu.cn",
+    "sourceHomepage": "http://www.gse.pku.edu.cn/",
+    "departmentHomepage": "http://www.gse.pku.edu.cn/",
+    "summary": "教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-241ae2d891dd"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告。教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "教育学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-09",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-07-09"
+  },
+  {
+    "id": "college-bf68455f6160",
+    "title": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告",
+    "school": "北京大学",
+    "department": "教育学院",
+    "majors": [
+      "教育学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学教育学院官方站点",
+    "sourceUrl": "http://www.gse.pku.edu.cn/syxw/tzgg/5a27dedd057049a686b52f77f1150e72.htm",
+    "sourceHost": "www.gse.pku.edu.cn",
+    "sourceHomepage": "http://www.gse.pku.edu.cn/",
+    "departmentHomepage": "http://www.gse.pku.edu.cn/",
+    "summary": "教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-241ae2d891dd"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "关于调整北京大学教育学院2027年全国硕士研究生招生考试全日制硕士初试科目考试内容的公告。教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "教育学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-09",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-07-09"
+  },
+  {
     "id": "college-0ff7b9671c13",
     "title": "北京大学计算机学院2027年研究生招生指南",
     "school": "北京大学",
@@ -12125,6 +12213,151 @@
     "structuredAt": "2026-05-09",
     "noticeStage": "推免",
     "classifiedAt": "2026-05-09"
+  },
+  {
+    "id": "college-a8dbce1cc65e",
+    "title": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营 2026.07.08",
+    "school": "北京大学",
+    "department": "力学与工程科学学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "夏令营",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学力学与工程科学学院官方站点",
+    "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/2994358414a245afb6561bef3b0f04a5.htm",
+    "sourceHost": "mech.pku.edu.cn",
+    "sourceHomepage": "https://mech.pku.edu.cn/",
+    "departmentHomepage": "https://mech.pku.edu.cn/",
+    "summary": "力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-c174a4b6a962"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营 2026.07.08。力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "力学与工程科学学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-09",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-07-09"
+  },
+  {
+    "id": "college-4f5a01d03336",
+    "title": "2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营正式开营",
+    "school": "北京大学",
+    "department": "力学与工程科学学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "夏令营",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学力学与工程科学学院官方站点",
+    "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/810f3adc26804d65ae3d12cbedb7d38c.htm",
+    "sourceHost": "mech.pku.edu.cn",
+    "sourceHomepage": "https://mech.pku.edu.cn/",
+    "departmentHomepage": "https://mech.pku.edu.cn/",
+    "summary": "力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-c174a4b6a962"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营正式开营。力学与工程科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "力学与工程科学学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-09",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-07-09"
+  },
+  {
+    "id": "college-3282ad6364e7",
+    "title": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知",
+    "school": "北京大学",
+    "department": "未来技术学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学未来技术学院官方站点",
+    "sourceUrl": "https://future.pku.edu.cn/zsypy/yjspyzspy/xly/629d7647b68f4497b804794e800d22e4.htm",
+    "sourceHost": "future.pku.edu.cn",
+    "sourceHomepage": "https://future.pku.edu.cn/",
+    "departmentHomepage": "https://future.pku.edu.cn/",
+    "summary": "未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-338b22a1f65b"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知。未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。关于发布2026年全国优秀大学生科学实践体验营入营结果的通知-夏令营/体验营-北京大学未来技术学院 本站不再支持您的浏览器，请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 您的浏览器版本过低，请升级到ie10以上或更换Chrome浏览器获得流畅的浏览效果！ 首页 学院概况 学院介绍 系所中心 党政工团 委员会 师资力量 教研系列 研究技术系列 工程/实验技术系列 教育管理/德育系列 光荣退休 科学研究 科研动态 讲座信息 科研基地 科研支撑平台 招生与培养 通知公告 本科生 研究生(学术学位) 研究生(专业学位) 继续教育 学生园地 产学研活动 就业指导 学生成长 党团建设 党组织概况 党团动态 常用下载 院友之家 院友活动 院友风采 联系我们 招聘信息 教学科研人员 教辅行政 博士后 办公服务导航 通知公告 行政办公 学院机构 业务办理 会议室预约 搜索 --> 首页 学院概况 学院介绍 系所中心 党政工团 委员会 师资力量 教",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "未来技术学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "未收到入营通知邮件的同学",
+      "即表示未获得本次体验营入营资格",
+      "学院将不再另行通知",
+      "请知悉"
+    ],
+    "materials": [],
+    "applicationMethod": "学院于2026年6月23日通过 gfuturezsb@pku.edu.cn 邮箱 向入营学生发送入营通知邮件",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-09",
+    "noticeStage": "结果公示",
+    "classifiedAt": "2026-07-09"
   },
   {
     "id": "college-06fd32a19311",
@@ -28392,6 +28625,53 @@
     "departmentHomepage": "https://pharmacy.nankai.edu.cn/"
   },
   {
+    "id": "college-9f7a21a57578",
+    "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1119/3563.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2027年博士研究生招生简章-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 系友之家 系友名录 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 系友之家 系",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-09",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-09"
+  },
+  {
     "id": "college-72b448971136",
     "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
     "school": "清华大学",
@@ -33510,6 +33790,53 @@
     "sourceHost": "www.yz.sdu.edu.cn",
     "sourceHomepage": "https://www.yz.sdu.edu.cn/",
     "departmentHomepage": "https://www.yz.sdu.edu.cn/"
+  },
+  {
+    "id": "college-5816c2b33f1b",
+    "title": "09 2026.07 上海交通大学2027级“明志荣誉博士生”招生简章",
+    "school": "上海交通大学",
+    "department": "海洋研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学海洋研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3744",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
+    "summary": "海洋研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a6176ddbcf96"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "09 2026.07 上海交通大学2027级“明志荣誉博士生”招生简章。海洋研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "海洋研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-09",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-09"
   },
   {
     "id": "college-43a497c371db",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T04:01:14.476Z",
+  "generatedAt": "2026-07-10T04:04:48.754Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2232,
+    "notices": 2237,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 346,
+      "total": 350,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 327,
+      "total": 328,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -459,7 +459,7 @@
       "id": "auto-be14dcbc0e21",
       "school": "北京大学",
       "department": "材料科学与工程学院",
-      "total": 18,
+      "total": 20,
       "years": [
         2026,
         2025,
@@ -649,8 +649,9 @@
       "id": "auto-cebf12ced5cb",
       "school": "北京大学",
       "department": "环境科学与工程学院",
-      "total": 14,
+      "total": 15,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -659,7 +660,7 @@
         2021,
         2016
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -698,7 +699,7 @@
       "id": "auto-5766654a8aed",
       "school": "北京大学",
       "department": "集成电路学院",
-      "total": 9,
+      "total": 10,
       "years": [
         2026,
         2025
@@ -2326,7 +2327,7 @@
       "id": "auto-b92dddbebf0e",
       "school": "上海交通大学",
       "department": "马克思主义学院",
-      "total": 11,
+      "total": 12,
       "years": [
         2027,
         2026

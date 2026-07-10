@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T04:01:15.615Z",
+  "generatedAt": "2026-07-10T04:04:50.038Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 762,
     "stale": 5,
     "missing": 367,
-    "currentSeasonCovered": 31
+    "currentSeasonCovered": 32
   },
   "units": [
     {
@@ -271,8 +271,8 @@
       "department": "集成电路学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ic.pku.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 17,
+      "total": 18,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -504,8 +504,8 @@
       "department": "材料科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.mse.pku.edu.cn/",
-      "total": 28,
-      "recentFiveYears": 25,
+      "total": 30,
+      "recentFiveYears": 27,
       "currentSeason": 0,
       "years": [
         2026,
@@ -539,10 +539,11 @@
       "department": "环境科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://cese.pku.edu.cn/",
-      "total": 25,
+      "total": 26,
       "recentFiveYears": 20,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -551,7 +552,7 @@
         2021,
         2016
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -8998,8 +8999,8 @@
       "department": "马克思主义学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://ma.sjtu.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 14,
+      "total": 17,
+      "recentFiveYears": 15,
       "currentSeason": 2,
       "years": [
         2027,
