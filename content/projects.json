@@ -46796,6 +46796,111 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-875d22f8f6cb",
+    "school": "北京大学",
+    "department": "未来技术学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 未来技术学院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "结果公示"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-4b8f95948a12",
+            "title": "关于发布2026年全国优秀大学生科学实践体验营优营结果的通知",
+            "stage": "结果公示",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://future.pku.edu.cn/zsypy/yjspyzspy/xly/8d8ffa054b9b40c29002b6ae6de4bdea.htm",
+            "sourceHost": "future.pku.edu.cn",
+            "sourceHomepage": "https://future.pku.edu.cn/",
+            "departmentHomepage": "https://future.pku.edu.cn/"
+          },
+          {
+            "id": "college-3282ad6364e7",
+            "title": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知",
+            "stage": "结果公示",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://future.pku.edu.cn/zsypy/yjspyzspy/xly/629d7647b68f4497b804794e800d22e4.htm",
+            "sourceHost": "future.pku.edu.cn",
+            "sourceHomepage": "https://future.pku.edu.cn/",
+            "departmentHomepage": "https://future.pku.edu.cn/"
+          },
+          {
+            "id": "college-a7f76852e8be",
+            "title": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知",
+            "stage": "结果公示",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://future.pku.edu.cn/zsypy/tzggzspy/f149db5d6a734d699205da4013ecc3b8.htm",
+            "sourceHost": "future.pku.edu.cn",
+            "sourceHomepage": "https://future.pku.edu.cn/",
+            "departmentHomepage": "https://future.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "结果公示"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "future.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://future.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://future.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-f1f615530286",
     "school": "北京大学",
     "department": "心理与认知科学学院",
@@ -56540,95 +56645,6 @@
     ],
     "departmentHomepages": [
       "https://www.chem.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-875d22f8f6cb",
-    "school": "北京大学",
-    "department": "未来技术学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 未来技术学院",
-    "tracks": [
-      "综合/待确认"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "结果公示"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-3282ad6364e7",
-            "title": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知",
-            "stage": "结果公示",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://future.pku.edu.cn/zsypy/yjspyzspy/xly/629d7647b68f4497b804794e800d22e4.htm",
-            "sourceHost": "future.pku.edu.cn",
-            "sourceHomepage": "https://future.pku.edu.cn/",
-            "departmentHomepage": "https://future.pku.edu.cn/"
-          },
-          {
-            "id": "college-a7f76852e8be",
-            "title": "关于发布2026年全国优秀大学生科学实践体验营入营结果的通知",
-            "stage": "结果公示",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://future.pku.edu.cn/zsypy/tzggzspy/f149db5d6a734d699205da4013ecc3b8.htm",
-            "sourceHost": "future.pku.edu.cn",
-            "sourceHomepage": "https://future.pku.edu.cn/",
-            "departmentHomepage": "https://future.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 0,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "结果公示"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "future.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://future.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://future.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
