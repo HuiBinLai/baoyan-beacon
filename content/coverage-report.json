@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T03:37:54.307Z",
+  "generatedAt": "2026-07-12T03:40:46.212Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2238,
+    "notices": 2253,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 236,
+      "total": 239,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 48,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 328,
+      "total": 340,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -1396,7 +1396,7 @@
       "id": "auto-de047849affc",
       "school": "清华大学",
       "department": "管理科学与工程系",
-      "total": 13,
+      "total": 15,
       "years": [
         2026,
         2025
@@ -1452,11 +1452,12 @@
       "id": "auto-d4a6e8967a24",
       "school": "清华大学",
       "department": "国家卓越工程师学院",
-      "total": 3,
+      "total": 4,
       "years": [
+        2025,
         2024
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2025-01-01",
       "status": "covered"
     },
     {
@@ -2414,7 +2415,7 @@
       "id": "auto-d2c59d947067",
       "school": "上海交通大学",
       "department": "燃气轮机研究院",
-      "total": 10,
+      "total": 21,
       "years": [
         2026,
         2025
@@ -2654,11 +2655,12 @@
       "id": "auto-ad03aed45d06",
       "school": "上海交通大学",
       "department": "张江高等研究院",
-      "total": 12,
+      "total": 13,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {

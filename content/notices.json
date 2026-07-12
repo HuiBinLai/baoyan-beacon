@@ -1,9 +1,81 @@
 [
   {
-    "id": "college-4b8f95948a12",
-    "title": "关于发布2026年全国优秀大学生科学实践体验营优营结果的通知",
-    "school": "北京大学",
-    "department": "未来技术学院",
+    "id": "college-ee80ff6b9c4f",
+    "title": "上海交通大学2027级“明志荣誉博士生”招生简章 07.09/2026",
+    "school": "上海交通大学",
+    "department": "张江高等研究院",
+    "majors": [
+      "生物学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "上海",
+    "deadline": "2026-07-17",
+    "publishedAt": "2027-01-01",
+    "sourceName": "上海交通大学张江高等研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3744",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://zias.sjtu.edu.cn/",
+    "summary": "张江高等研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-ad03aed45d06"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "上海交通大学2027级“明志荣誉博士生”招生简章 07.09/2026。张江高等研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。上海交通大学2027级“明志荣誉博士生”招生简章 - 上海交通大学研究生招生网 --> 联系我们 选择身份 博士 硕士 港澳台 夏令营 预推免 管理人员 信息系统登录 考生登录 管理人员登录 首页 招考信息 博士招生 硕士招生 港澳台招生 考点信息 院系动态 招生简章 博士生招生 硕士生招生 港澳台招生 网上报名 硕士报名 博士报名 港澳台报名 监考报名与培训 夏令营报名 预推免报名 信息公示 招生办法 复试信息 录取信息 历史数据 夏令营公示 预推免公示 招考政策 院校政策 国家政策 热门搜索 --> 招生办公室 首页 招考信息 博士招生 硕士招生 港澳台招生 考点信息 院系动态 招生简章 博士生招生 硕士生招生 港澳台招生 网上报名 硕士报名 博士报名 港澳台报名 监考报名与培训 夏令营报名 预推免报名 信息公示 招生办法 复试信息 录取信息 历史数据 夏令营公示 预推免公示 招考政策 院校政策 国家政策 选择身份 博士 硕",
+    "applicationStart": "",
+    "applicationEnd": "2026-07-17",
+    "registrationTime": "请每位报考学生在 2026年7月17日下午17点前，将科研计划书、导师推荐信（必须为附件1名单中的导师，推荐信需有导师签名） 和个人简历等材料提交至中心电子邮箱 biocenter@sjtu.edu.cn ，逾期或材料不全者将视为无效申请",
+    "requirements": [
+      "张江高等研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "模式",
+      "以前沿科研项目为基石",
+      "由国内外顶尖专家组成学术委员会",
+      "从全校十余个生物学相关院系及交叉创新平台严选顶尖导师",
+      "确保人才培养的高起点",
+      "高标准",
+      "现面向全球 2027年应届本科毕业生",
+      "招收20名&ldquo",
+      "精英指导团队",
+      "深度融合国际化课程体系与前沿科研训练",
+      "配备&ldquo",
+      "二",
+      "招生对象 满足上海交通大学本科直博的基本条件",
+      "获得推荐免试资格的优秀应届本科毕业生"
+    ],
+    "materials": [
+      "3. 本科阶段有科研经历并发表学术论文者",
+      "或在大学生创新竞赛中获奖者优先考虑",
+      "请每位报考学生在 2026年7月17日下午17点前",
+      "将科研计划书",
+      "导师推荐信（必须为附件1名单中的导师",
+      "推荐信需有导师签名） 和个人简历等材料提交至中心电子邮箱 biocenter@sjtu.edu.cn",
+      "逾期或材料不全者将视为无效申请",
+      "通过材料初审的学生",
+      "后续将统一安排集中面试选拔",
+      "申请表 上海交通大学生物学国家高层次人才培养中心 微信扫描二维码，分享给好友 快速链接 上海交通大学 研究生院 财务处 档案馆 联系我们 地址：上海市东川路800号陈瑞球楼339室 博士招生：021-34206123 硕士招生：021-62821069 邮编:200240 上交大研招（Go_SJTU） 版权所有 &copy"
+    ],
+    "applicationMethod": "请每位报考学生在 2026年7月17日下午17点前，将科研计划书、导师推荐信（必须为附件1名单中的导师，推荐信需有导师签名） 和个人简历等材料提交至中心电子邮箱 biocenter@sjtu.edu.cn ，逾期或材料不全者将视为无效申请",
+    "targetStudents": "二、招生对象 满足上海交通大学本科直博的基本条件、获得推荐免试资格的优秀应届本科毕业生",
+    "degreeTypes": [
+      "直博"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-2ef0491e96ca",
+    "title": "通知公告-清华大学经济管理学院硕士",
+    "school": "清华大学",
+    "department": "管理科学与工程系",
     "majors": [
       "待确认"
     ],
@@ -12,26 +84,26 @@
     "region": "北京",
     "deadline": "",
     "publishedAt": "2026-01-01",
-    "sourceName": "北京大学未来技术学院官方站点",
-    "sourceUrl": "https://future.pku.edu.cn/zsypy/yjspyzspy/xly/8d8ffa054b9b40c29002b6ae6de4bdea.htm",
-    "sourceHost": "future.pku.edu.cn",
-    "sourceHomepage": "https://future.pku.edu.cn/",
-    "departmentHomepage": "https://future.pku.edu.cn/",
-    "summary": "未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "清华大学管理科学与工程系官方站点",
+    "sourceUrl": "https://masters.sem.tsinghua.edu.cn/xwdt/tzgg.htm",
+    "sourceHost": "masters.sem.tsinghua.edu.cn",
+    "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-338b22a1f65b"
+      "auto-de047849affc"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "关于发布2026年全国优秀大学生科学实践体验营优营结果的通知。未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "通知公告-清华大学经济管理学院硕士。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "未来技术学院学院官网补漏发现的推免相关官方信息",
+      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -42,9 +114,618 @@
       "待确认"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-07-11",
-    "noticeStage": "结果公示",
-    "classifiedAt": "2026-07-11"
+    "structuredAt": "2026-07-12",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-7f183ad611c2",
+    "title": "18 / 2026.06",
+    "school": "清华大学",
+    "department": "管理科学与工程系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学管理科学与工程系官方站点",
+    "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1291/3612.htm",
+    "sourceHost": "masters.sem.tsinghua.edu.cn",
+    "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "summary": "清华大学经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生报名的通知 （金融硕士/管理硕士/清华大学-哥伦比亚大学商务分析双硕士学位项目）",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-de047849affc"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "18 / 2026.06。清华大学经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生报名的通知 （金融硕士/管理硕士/清华大学-哥伦比亚大学商务分析双硕士学位项目）。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "清华大学经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生报名的通知 （金融硕士/管理硕士/清华大学-哥伦比亚大学商务分析双硕士学位项目）"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "清华大学经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生报名的通知 （金融硕士/管理硕士/清华大学-哥伦比亚大学商务分析双硕士学位项目）",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-02ebe599a23e",
+    "title": "研究生招生咨询及申诉渠道",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://gk.sjtu.edu.cn/Data/List/yjszszxjssjd",
+    "sourceHost": "gk.sjtu.edu.cn",
+    "sourceHomepage": "https://gk.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "研究生招生咨询及申诉渠道。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。研究生招生咨询及申诉渠道 - 上海交通大学信息公开网 学校主页 联系我们 旧版网站 网站地图 首 页 公开指南 公开目录 公开栏目 公开制度 在线服务 公开申请 公开栏目 当前位置： 首页 / 公开栏目 / 招生考试 / 研究生招生咨询及申诉渠道 公开栏目 基本信息 重大改革与决策、发展规划、年度工作计划、重点工作安排 财务资产及收费 人事师资 教学质量 招生考试 招生章程及特殊类型招生办法，分批次、分科类招生计划 保送、自主选拔录取、高水平运动员和艺术特长生招生等特殊类型招生入选考生资格及测试结果 考生个人录取信息查询渠道和办法，分批次、分科类录取人数和录取最低分 招生咨询及考生申诉渠道，新生复查期间有关举报、调查及处理结果 重点高校农村和贫困地区学生招收工作公示 研究生招生简章、招生专业目录、复试录取办法，各院（系、所）或学科、专业招收研究生人数 研究生复试、拟录取名单 研究生招生咨询及申诉渠道 学生事务管理 学位学科管理 学风建设 基建管理 对外交流与合作 科研管理 ",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-830783436516",
+    "title": "【招生简章】上海交通大学2026年在浙江省综合评价录取改革试点暨...",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004258&name=%E9%87%8D%E8%A6%81%E8%B5%84%E8%AE%AF&xid=3810000004256&sid=3810000004263&pName=%E9%A6%96%E9%A1%B5",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2026年在浙江省综合评价录取改革试点暨...。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-d0aac156ce4f",
+    "title": "【招生简章】上海交通大学2026年在上海市综合评价录取改革试点招...",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004256&name=%E9%87%8D%E8%A6%81%E8%B5%84%E8%AE%AF&xid=3810000004249&sid=3810000004258&pName=%E9%A6%96%E9%A1%B5",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2026年在上海市综合评价录取改革试点招...。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。交大招生办 搜索： 当前位置： >> 分享到： 上一篇： 下一篇： 关闭 上海交通大学官方微信 招生办 通信地址：上海市东川路800号新行政楼B楼333室 （200240） 热线电话：（021）34200000 传真：（021）34207255 新版主页： http://admissions.sjtu.edu.cn 旧版主页： http://zsb.sjtu.edu.cn 医学院招办 通信地址：上海市重庆南路227号（200025） 热线电话：（021）63846590-776118 传真：（021）63853238 主页： http://www.shsmu.edu.cn 本科招生官方微信 医学院招生官方微信 本科招生微博 版权所有: 上海交通大学 通信地址：上海市东川路800号 邮编：200240 沪交ICP备2010779",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-372c67b71598",
+    "title": "【招生简章】上海交通大学2026年插班生招生简章",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004249&name=%E9%87%8D%E8%A6%81%E8%B5%84%E8%AE%AF&xid=3810000004234&sid=3810000004256&pName=%E9%A6%96%E9%A1%B5",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2026年插班生招生简章。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。交大招生办 搜索： 当前位置： >> 分享到： 上一篇： 下一篇： 关闭 上海交通大学官方微信 招生办 通信地址：上海市东川路800号新行政楼B楼333室 （200240） 热线电话：（021）34200000 传真：（021）34207255 新版主页： http://admissions.sjtu.edu.cn 旧版主页： http://zsb.sjtu.edu.cn 医学院招办 通信地址：上海市重庆南路227号（200025） 热线电话：（021）63846590-776118 传真：（021）63853238 主页： http://www.shsmu.edu.cn 本科招生官方微信 医学院招生官方微信 本科招生微博 版权所有: 上海交通大学 通信地址：上海市东川路800号 邮编：200240 沪交ICP备2010779",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-922d1b949a83",
+    "title": "【招生简章】上海交通大学2026年运动训练专业招生简章",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004176&name=%E9%87%8D%E8%A6%81%E8%B5%84%E8%AE%AF&xid=3810000004174&sid=3810000004178&pName=%E9%A6%96%E9%A1%B5",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2026年运动训练专业招生简章。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-db930b044796",
+    "title": "【招生简章】上海交通大学2026年台湾地区本科生招生简章",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004161&name=%E9%87%8D%E8%A6%81%E8%B5%84%E8%AE%AF&xid=3810000004168&sid=3810000004171&pName=%E9%A6%96%E9%A1%B5",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2026年台湾地区本科生招生简章。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。交大招生办 搜索： 当前位置： >> 分享到： 上一篇： 下一篇： 关闭 上海交通大学官方微信 招生办 通信地址：上海市东川路800号新行政楼B楼333室 （200240） 热线电话：（021）34200000 传真：（021）34207255 新版主页： http://admissions.sjtu.edu.cn 旧版主页： http://zsb.sjtu.edu.cn 医学院招办 通信地址：上海市重庆南路227号（200025） 热线电话：（021）63846590-776118 传真：（021）63853238 主页： http://www.shsmu.edu.cn 本科招生官方微信 医学院招生官方微信 本科招生微博 版权所有: 上海交通大学 通信地址：上海市东川路800号 邮编：200240 沪交ICP备2010779",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-795ab199d6da",
+    "title": "【招生简章】上海交通大学2026年外语类保送生招生简章",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004162&name=%E9%87%8D%E8%A6%81%E8%B5%84%E8%AE%AF&xid=3810000004157&pName=%E9%A6%96%E9%A1%B5",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2026年外语类保送生招生简章。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。交大招生办 搜索： 当前位置： >> 分享到： 上一篇： 下一篇： 关闭 上海交通大学官方微信 招生办 通信地址：上海市东川路800号新行政楼B楼333室 （200240） 热线电话：（021）34200000 传真：（021）34207255 新版主页： http://admissions.sjtu.edu.cn 旧版主页： http://zsb.sjtu.edu.cn 医学院招办 通信地址：上海市重庆南路227号（200025） 热线电话：（021）63846590-776118 传真：（021）63853238 主页： http://www.shsmu.edu.cn 本科招生官方微信 医学院招生官方微信 本科招生微博 版权所有: 上海交通大学 通信地址：上海市东川路800号 邮编：200240 沪交ICP备2010779",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-95f3e2ee275c",
+    "title": "下一篇： 清华大学2025年创新领军工程博士招生简章",
+    "school": "清华大学",
+    "department": "国家卓越工程师学院",
+    "majors": [
+      "电子信息"
+    ],
+    "type": "推免",
+    "year": 2025,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "清华大学国家卓越工程师学院官方站点",
+    "sourceUrl": "https://www.ngce.tsinghua.edu.cn/info/1191/1975.htm",
+    "sourceHost": "www.ngce.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.ngce.tsinghua.edu.cn/",
+    "departmentHomepage": "https://www.ngce.tsinghua.edu.cn/",
+    "summary": "国家卓越工程师学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d4a6e8967a24"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "下一篇： 清华大学2025年创新领军工程博士招生简章。国家卓越工程师学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "国家卓越工程师学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-163f450b5bf6",
+    "title": "【招生简章】上海交通大学2025年艺术本科专业（美术类）招生简章...",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2025,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004080&name=%E9%87%8D%E8%A6%81%E8%B5%84%E8%AE%AF&xid=3810000004077&sid=3810000004079&pName=%E9%A6%96%E9%A1%B5",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2025年艺术本科专业（美术类）招生简章...。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。交大招生办 搜索： 当前位置： >> 分享到： 上一篇： 下一篇： 关闭 上海交通大学官方微信 招生办 通信地址：上海市东川路800号新行政楼B楼333室 （200240） 热线电话：（021）34200000 传真：（021）34207255 新版主页： http://admissions.sjtu.edu.cn 旧版主页： http://zsb.sjtu.edu.cn 医学院招办 通信地址：上海市重庆南路227号（200025） 热线电话：（021）63846590-776118 传真：（021）63853238 主页： http://www.shsmu.edu.cn 本科招生官方微信 医学院招生官方微信 本科招生微博 版权所有: 上海交通大学 通信地址：上海市东川路800号 邮编：200240 沪交ICP备2010779",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-fc93bf8b560e",
+    "title": "【招生简章】上海交通大学2025年在浙江省综合评价录取改革试点暨...",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2025,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004064",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2025年在浙江省综合评价录取改革试点暨...。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-8fead1106dd1",
+    "title": "【招生简章】上海交通大学2025年在上海市综合评价录取改革试点招...",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2025,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004063",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2025年在上海市综合评价录取改革试点招...。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
+  },
+  {
+    "id": "college-3197b343eb15",
+    "title": "【招生简章】上海交通大学2025年插班生招生简章（含招生计划）",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2025,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004061",
+    "sourceHost": "admissions.sjtu.edu.cn",
+    "sourceHomepage": "https://admissions.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "【招生简章】上海交通大学2025年插班生招生简章（含招生计划）。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。交大招生办 搜索： 当前位置： >> 分享到： 上一篇： 下一篇： 关闭 上海交通大学官方微信 招生办 通信地址：上海市东川路800号新行政楼B楼333室 （200240） 热线电话：（021）34200000 传真：（021）34207255 新版主页： http://admissions.sjtu.edu.cn 旧版主页： http://zsb.sjtu.edu.cn 医学院招办 通信地址：上海市重庆南路227号（200025） 热线电话：（021）63846590-776118 传真：（021）63853238 主页： http://www.shsmu.edu.cn 本科招生官方微信 医学院招生官方微信 本科招生微博 版权所有: 上海交通大学 通信地址：上海市东川路800号 邮编：200240 沪交ICP备2010779",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-07-12",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-07-12"
   },
   {
     "id": "college-ca8bbb9483ed",
@@ -11983,6 +12664,53 @@
     "structuredAt": "2026-05-09",
     "noticeStage": "推免",
     "classifiedAt": "2026-05-09"
+  },
+  {
+    "id": "college-4b8f95948a12",
+    "title": "关于发布2026年全国优秀大学生科学实践体验营优营结果的通知",
+    "school": "北京大学",
+    "department": "未来技术学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学未来技术学院官方站点",
+    "sourceUrl": "https://future.pku.edu.cn/zsypy/yjspyzspy/xly/8d8ffa054b9b40c29002b6ae6de4bdea.htm",
+    "sourceHost": "future.pku.edu.cn",
+    "sourceHomepage": "https://future.pku.edu.cn/",
+    "departmentHomepage": "https://future.pku.edu.cn/",
+    "summary": "未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-338b22a1f65b"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "关于发布2026年全国优秀大学生科学实践体验营优营结果的通知。未来技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "未来技术学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-11",
+    "noticeStage": "结果公示",
+    "classifiedAt": "2026-07-11"
   },
   {
     "id": "college-e41075c167d8",
