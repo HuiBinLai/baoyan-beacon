@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T03:28:50.072Z",
+  "generatedAt": "2026-07-14T03:34:04.207Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2253,
+    "notices": 2256,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 351,
+      "total": 352,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 340,
+      "total": 341,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 225,
+      "total": 226,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 48,
@@ -699,7 +699,7 @@
       "id": "auto-5766654a8aed",
       "school": "北京大学",
       "department": "集成电路学院",
-      "total": 10,
+      "total": 11,
       "years": [
         2026,
         2025
@@ -2121,7 +2121,7 @@
       "id": "auto-a33482cdb1bf",
       "school": "上海交通大学",
       "department": "电气工程学院",
-      "total": 14,
+      "total": 15,
       "years": [
         2026,
         2025,
@@ -3468,7 +3468,7 @@
       "id": "auto-275c5cd73fd9",
       "school": "中国科学技术大学",
       "department": "科技哲学系",
-      "total": 14,
+      "total": 15,
       "years": [
         2026,
         2025,

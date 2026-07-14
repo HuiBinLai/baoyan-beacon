@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T03:28:51.324Z",
+  "generatedAt": "2026-07-14T03:34:05.446Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -271,8 +271,8 @@
       "department": "集成电路学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ic.pku.edu.cn/",
-      "total": 18,
-      "recentFiveYears": 18,
+      "total": 19,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8757,8 +8757,8 @@
       "department": "电气工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://see.sjtu.edu.cn/",
-      "total": 19,
-      "recentFiveYears": 19,
+      "total": 20,
+      "recentFiveYears": 20,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14801,8 +14801,8 @@
       "department": "科技哲学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://sts.ustc.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 11,
+      "total": 14,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,

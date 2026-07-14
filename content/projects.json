@@ -17241,6 +17241,380 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-138df521681c",
+    "school": "中国科学技术大学",
+    "department": "科技哲学系",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 科技哲学系",
+    "tracks": [
+      "计算机/AI",
+      "人文社科",
+      "新闻传播外语"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-fdd511f156ad",
+            "title": "为增进国内高校优秀大学生对中国科学技术大学人文学院的了解，促进高校间学术交流与思想碰撞，7月5日至8日，人文学院成功举办...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2026/0713/c20040a747444/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-e717fb1b97fa",
+            "title": "2026年科技哲学专业博士研究生招生综合考核实施细则",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2026/0429/c20043a736549/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-f49180f6b892",
+            "title": "2026年科学技术史学科博士研究生招生综合考核实施细则 （适...",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2026/0416/c20043a727005/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 4,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-6fb4a13c5f66",
+            "title": "2024年科技哲学系硕士研究生招生复试方案及名单",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/_t1762/2024/0320/c20043a633304/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-bb6204641327",
+            "title": "2024年科技哲学系硕士研究生招生复试方案及名单",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2024/0320/c20052a646952/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-db9bca254401",
+            "title": "2024年科技传播系硕士研究生招生复试方案及名单",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2024/0320/c20052a646955/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-6f2c04b28202",
+            "title": "2024年科学技术史学科博士研究生招生综合考核实施细则（适用于“...",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2024/0426/c20052a646951/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-65b5dad26a8f",
+            "title": "2023年科技哲学系博士研究生招生综合考核实施细则",
+            "stage": "复试/考核",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2023/1110/c20052a617262/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-14202a7f80a9",
+            "title": "2023年科学技术史学科博士研究生招生综合考核实施细则 （适用于...",
+            "stage": "复试/考核",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2023/1110/c20052a617261/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 3,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "直博"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2021-12-01",
+        "lastApplicationEnd": "2022-03-20",
+        "notices": [
+          {
+            "id": "college-9d16245ee5d4",
+            "title": "2022年科技哲学系博士研究生招生综合考核实施细则",
+            "stage": "复试/考核",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2022/0425/c20052a552701/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-f0ee8ab3aa0a",
+            "title": "2022年科学技术史学科博士研究生招生综合考核实施细则（适用于“...",
+            "stage": "复试/考核",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2022/0425/c20052a552692/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-7ac9f8bfca46",
+            "title": "中国科大2022年博士学位研究生招生网上报名公告",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2021-12-01",
+            "applicationEnd": "2022-03-20",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "http://sts.ustc.edu.cn/2021/1116/c27907a533211/page.htm",
+            "sourceHost": "sts.ustc.edu.cn",
+            "sourceHomepage": "http://sts.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 2,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-5d3eedc83343",
+            "title": "2021年科学技术史学科博士研究生招生综合考核实施细则 （适用于...",
+            "stage": "复试/考核",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2021/0420/c20052a481297/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          },
+          {
+            "id": "college-2be78a4304f1",
+            "title": "科技哲学系2021年博士研究生招生综合考核安排通知",
+            "stage": "复试/考核",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hsss.ustc.edu.cn/2021/0416/c20052a480911/page.htm",
+            "sourceHost": "hsss.ustc.edu.cn",
+            "sourceHomepage": "https://hsss.ustc.edu.cn/",
+            "departmentHomepage": "https://hsss.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 14,
+    "llmStructuredCount": 9,
+    "years": [
+      2026,
+      2024,
+      2023,
+      2022,
+      2021
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士",
+      "直博"
+    ],
+    "majors": [
+      "人工智能",
+      "哲学",
+      "心理学",
+      "科技哲学",
+      "科学技术史",
+      "新闻与传播",
+      "计算机科学与技术",
+      "网络空间安全",
+      "电子信息",
+      "数学",
+      "物理学"
+    ],
+    "sourceHosts": [
+      "hsss.ustc.edu.cn",
+      "sts.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://hsss.ustc.edu.cn/",
+      "http://sts.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://hsss.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-e63086ab4ae7",
     "school": "北京大学",
     "department": "汇丰商学院",
@@ -18254,359 +18628,6 @@
     ],
     "departmentHomepages": [
       "https://zias.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-138df521681c",
-    "school": "中国科学技术大学",
-    "department": "科技哲学系",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 科技哲学系",
-    "tracks": [
-      "计算机/AI",
-      "新闻传播外语",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-e717fb1b97fa",
-            "title": "2026年科技哲学专业博士研究生招生综合考核实施细则",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2026/0429/c20043a736549/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-f49180f6b892",
-            "title": "2026年科学技术史学科博士研究生招生综合考核实施细则 （适...",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2026/0416/c20043a727005/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 4,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-6fb4a13c5f66",
-            "title": "2024年科技哲学系硕士研究生招生复试方案及名单",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/_t1762/2024/0320/c20043a633304/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-bb6204641327",
-            "title": "2024年科技哲学系硕士研究生招生复试方案及名单",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2024/0320/c20052a646952/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-db9bca254401",
-            "title": "2024年科技传播系硕士研究生招生复试方案及名单",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2024/0320/c20052a646955/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-6f2c04b28202",
-            "title": "2024年科学技术史学科博士研究生招生综合考核实施细则（适用于“...",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2024/0426/c20052a646951/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-65b5dad26a8f",
-            "title": "2023年科技哲学系博士研究生招生综合考核实施细则",
-            "stage": "复试/考核",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2023/1110/c20052a617262/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-14202a7f80a9",
-            "title": "2023年科学技术史学科博士研究生招生综合考核实施细则 （适用于...",
-            "stage": "复试/考核",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2023/1110/c20052a617261/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 3,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "直博"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2021-12-01",
-        "lastApplicationEnd": "2022-03-20",
-        "notices": [
-          {
-            "id": "college-9d16245ee5d4",
-            "title": "2022年科技哲学系博士研究生招生综合考核实施细则",
-            "stage": "复试/考核",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2022/0425/c20052a552701/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-f0ee8ab3aa0a",
-            "title": "2022年科学技术史学科博士研究生招生综合考核实施细则（适用于“...",
-            "stage": "复试/考核",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2022/0425/c20052a552692/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-7ac9f8bfca46",
-            "title": "中国科大2022年博士学位研究生招生网上报名公告",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2021-12-01",
-            "applicationEnd": "2022-03-20",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "http://sts.ustc.edu.cn/2021/1116/c27907a533211/page.htm",
-            "sourceHost": "sts.ustc.edu.cn",
-            "sourceHomepage": "http://sts.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 2,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-5d3eedc83343",
-            "title": "2021年科学技术史学科博士研究生招生综合考核实施细则 （适用于...",
-            "stage": "复试/考核",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2021/0420/c20052a481297/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          },
-          {
-            "id": "college-2be78a4304f1",
-            "title": "科技哲学系2021年博士研究生招生综合考核安排通知",
-            "stage": "复试/考核",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://hsss.ustc.edu.cn/2021/0416/c20052a480911/page.htm",
-            "sourceHost": "hsss.ustc.edu.cn",
-            "sourceHomepage": "https://hsss.ustc.edu.cn/",
-            "departmentHomepage": "https://hsss.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 13,
-    "llmStructuredCount": 9,
-    "years": [
-      2026,
-      2024,
-      2023,
-      2022,
-      2021
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "博士",
-      "硕士",
-      "直博"
-    ],
-    "majors": [
-      "科技哲学",
-      "科学技术史",
-      "哲学",
-      "新闻与传播",
-      "计算机科学与技术",
-      "网络空间安全",
-      "电子信息",
-      "数学",
-      "物理学"
-    ],
-    "sourceHosts": [
-      "hsss.ustc.edu.cn",
-      "sts.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://hsss.ustc.edu.cn/",
-      "http://sts.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://hsss.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -21883,6 +21904,279 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-fed69278bb9f",
+    "school": "北京大学",
+    "department": "集成电路学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 集成电路学院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "夏令营/研学营",
+          "复试/考核",
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2080-91-79",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2026-07-01",
+        "notices": [
+          {
+            "id": "college-26d22681ed9e",
+            "title": "集成电路学院2026年优秀大学生夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2080-91-79",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-01",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/6be4089d4fa741208091790277832d04.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-db4eff26cc68",
+            "title": "09 七月 北京大学集成电路学院2026年优秀大学生夏令营成功举办",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/xwdt/a680a77f05a34fb2bcbe5f9867843297.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-7937ab2a1267",
+            "title": "北京大学集成电路学院2026年优秀大学生夏令营成功举办 2026-07-09",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/xwdt/a680a77f05a34fb2bcbe5f9867843297.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-49ace5b59b33",
+            "title": "集成电路学院2026年优秀大学生夏令营参营通知（第二批）",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/8d9b9c99df8443349cb23588e41b4052.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-43e46cc785ca",
+            "title": "集成电路学院关于举办2026年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-13f1a6c96a36",
+            "title": "北京大学集成电路学院2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-11-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e7bd2fee1e54495785d4aadd6ad41e37.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-20a284835dc1",
+            "title": "集成电路学院2026年接收推荐免试研究生复试安排",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/b8631836401145cf9071cb2260084b81.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-ae9fb0563d38",
+            "title": "集成电路学院2026年接收推荐免试研究生细则",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e0c9458a668c4fa6963542ecaec0b2ae.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-f9e95a7cb7cb",
+            "title": "集成电路学院2026年统考硕士研究生招生说明",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/7c41c53a5831473d896007a3a0f08860.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2025-06-18",
+        "notices": [
+          {
+            "id": "college-2830f265f0ef",
+            "title": "2025-06-06 集成电路学院关于举办2025年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-06-18",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/fwdh/tzgg/a34e058fb0bf4d708eda89326746f04a.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          },
+          {
+            "id": "college-d04344cf84ec",
+            "title": "集成电路学院关于举办2025年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-06-18",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm",
+            "sourceHost": "ic.pku.edu.cn",
+            "sourceHomepage": "https://ic.pku.edu.cn/",
+            "departmentHomepage": "https://ic.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 11,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "复试/考核",
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "直博",
+      "硕士"
+    ],
+    "majors": [
+      "化学",
+      "计算机科学与技术",
+      "数学",
+      "电子科学与技术",
+      "集成微纳电子",
+      "集成电路设计",
+      "集成微纳系统",
+      "电子设计自动化与计算系统",
+      "集成电路科学与工程"
+    ],
+    "sourceHosts": [
+      "ic.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://ic.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ic.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-80651a7e0fb3",
     "school": "北京师范大学",
     "department": "北京师范大学校级/待分院",
@@ -24417,263 +24711,6 @@
     "departmentHomepages": [
       "https://www.pku.edu.cn/",
       "https://admission.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-fed69278bb9f",
-    "school": "北京大学",
-    "department": "集成电路学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 集成电路学院",
-    "tracks": [
-      "计算机/AI",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 8,
-        "stages": [
-          "夏令营/研学营",
-          "复试/考核",
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2080-91-79",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2026-07-01",
-        "notices": [
-          {
-            "id": "college-26d22681ed9e",
-            "title": "集成电路学院2026年优秀大学生夏令营参营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2080-91-79",
-            "applicationStart": "",
-            "applicationEnd": "2026-07-01",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/6be4089d4fa741208091790277832d04.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-7937ab2a1267",
-            "title": "北京大学集成电路学院2026年优秀大学生夏令营成功举办 2026-07-09",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/xwdt/a680a77f05a34fb2bcbe5f9867843297.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-49ace5b59b33",
-            "title": "集成电路学院2026年优秀大学生夏令营参营通知（第二批）",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/8d9b9c99df8443349cb23588e41b4052.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-43e46cc785ca",
-            "title": "集成电路学院关于举办2026年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-13f1a6c96a36",
-            "title": "北京大学集成电路学院2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-11-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e7bd2fee1e54495785d4aadd6ad41e37.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-20a284835dc1",
-            "title": "集成电路学院2026年接收推荐免试研究生复试安排",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/b8631836401145cf9071cb2260084b81.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-ae9fb0563d38",
-            "title": "集成电路学院2026年接收推荐免试研究生细则",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/e0c9458a668c4fa6963542ecaec0b2ae.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-f9e95a7cb7cb",
-            "title": "集成电路学院2026年统考硕士研究生招生说明",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/7c41c53a5831473d896007a3a0f08860.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2025-06-18",
-        "notices": [
-          {
-            "id": "college-2830f265f0ef",
-            "title": "2025-06-06 集成电路学院关于举办2025年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-06-18",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/fwdh/tzgg/a34e058fb0bf4d708eda89326746f04a.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          },
-          {
-            "id": "college-d04344cf84ec",
-            "title": "集成电路学院关于举办2025年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-06-18",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm",
-            "sourceHost": "ic.pku.edu.cn",
-            "sourceHomepage": "https://ic.pku.edu.cn/",
-            "departmentHomepage": "https://ic.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 10,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "复试/考核",
-      "推免报名",
-      "推免"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "直博",
-      "硕士"
-    ],
-    "majors": [
-      "化学",
-      "计算机科学与技术",
-      "数学",
-      "电子科学与技术",
-      "集成微纳电子",
-      "集成电路设计",
-      "集成微纳系统",
-      "电子设计自动化与计算系统",
-      "集成电路科学与工程"
-    ],
-    "sourceHosts": [
-      "ic.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ic.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ic.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -28706,6 +28743,264 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-5e9a0d9637ce",
+    "school": "上海交通大学",
+    "department": "电气工程学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 电气工程学院",
+    "tracks": [
+      "计算机/AI",
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 5,
+        "stages": [
+          "复试/考核",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "直博",
+          "硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-16",
+        "lastApplicationEnd": "2026-05-25",
+        "notices": [
+          {
+            "id": "college-5a5c732d7aac",
+            "title": "12 2026-06 电气工程学院接收2023级强基计划本科生转段直博复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2479.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-645361f45d8e",
+            "title": "20 2026-03 【硕士】电气工程学院2026年统考硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2297.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fbfd6a063041",
+            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36755.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d6cfd3397e39",
+            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-16",
+            "applicationEnd": "2025-10-13",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36745.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a6e9867d4af2",
+            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-05-11",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36865.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2024-09-11",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-06-05",
+        "lastApplicationEnd": "2026-09-16",
+        "notices": [
+          {
+            "id": "college-a9cf5c52887b",
+            "title": "【9推16日报名截止】上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知-上海交通大学电子信息与电气工程学院（学部）",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-16",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10659.html",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6f11a8b3d70e",
+            "title": "26 2025.06 上海交通大学电气工程学院 2026级研究生优才夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-05",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3223",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-632b99ea8ffc",
+            "title": "2025级推荐免试直升研究生选拔申请表_直博.docx",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-09-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/34814795/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E5%8D%9A.docx",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c6b1c5682490",
+            "title": "2025级推荐免试直升研究生选拔申请表_直硕.docx",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-09-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/20137580/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E7%A1%95.docx",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 9,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "复试/考核",
+      "推免报名",
+      "招生简章",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "直博",
+      "硕士",
+      "博士",
+      "待确认",
+      "专业型硕士"
+    ],
+    "majors": [
+      "电气工程",
+      "电子信息",
+      "计算机科学与技术",
+      "软件工程",
+      "网络空间安全",
+      "电子科学与技术",
+      "电力系统及其自动化",
+      "电力电子与电力传动",
+      "高电压与绝缘技术",
+      "电机与电器",
+      "电工理论及其新技术",
+      "可控聚变",
+      "工程硕博士培养改革专项",
+      "集成电路专项",
+      "联培基地"
+    ],
+    "sourceHosts": [
+      "see.sjtu.edu.cn",
+      "mem.seiee.sjtu.edu.cn",
+      "www.seiee.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://see.sjtu.edu.cn/",
+      "https://mem.seiee.sjtu.edu.cn/",
+      "https://www.seiee.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.seiee.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-25fcc32a9046",
     "school": "中国科学技术大学",
     "department": "地球化学与行星科学系",
@@ -31556,247 +31851,6 @@
       "https://yz.sdu.edu.cn/",
       "https://www.art.sdu.edu.cn/",
       "https://www.bkjx.sdu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-5e9a0d9637ce",
-    "school": "上海交通大学",
-    "department": "电气工程学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 电气工程学院",
-    "tracks": [
-      "计算机/AI",
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "复试/考核",
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-16",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-645361f45d8e",
-            "title": "20 2026-03 【硕士】电气工程学院2026年统考硕士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2297.html",
-            "sourceHost": "see.sjtu.edu.cn",
-            "sourceHomepage": "https://see.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-fbfd6a063041",
-            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36755.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d6cfd3397e39",
-            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-16",
-            "applicationEnd": "2025-10-13",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36745.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a6e9867d4af2",
-            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-05-11",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36865.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 4,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2024-09-11",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-06-05",
-        "lastApplicationEnd": "2026-09-16",
-        "notices": [
-          {
-            "id": "college-a9cf5c52887b",
-            "title": "【9推16日报名截止】上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知-上海交通大学电子信息与电气工程学院（学部）",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-09-16",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10659.html",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6f11a8b3d70e",
-            "title": "26 2025.06 上海交通大学电气工程学院 2026级研究生优才夏令营活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-05",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3223",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-632b99ea8ffc",
-            "title": "2025级推荐免试直升研究生选拔申请表_直博.docx",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-09-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/34814795/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E5%8D%9A.docx",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c6b1c5682490",
-            "title": "2025级推荐免试直升研究生选拔申请表_直硕.docx",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-09-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/20137580/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E7%A1%95.docx",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 8,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "招生简章",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "博士",
-      "待确认",
-      "直博",
-      "专业型硕士"
-    ],
-    "majors": [
-      "电气工程",
-      "电子信息",
-      "计算机科学与技术",
-      "软件工程",
-      "网络空间安全",
-      "电子科学与技术",
-      "电力系统及其自动化",
-      "电力电子与电力传动",
-      "高电压与绝缘技术",
-      "电机与电器",
-      "电工理论及其新技术",
-      "可控聚变",
-      "工程硕博士培养改革专项",
-      "集成电路专项",
-      "联培基地"
-    ],
-    "sourceHosts": [
-      "see.sjtu.edu.cn",
-      "mem.seiee.sjtu.edu.cn",
-      "www.seiee.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://see.sjtu.edu.cn/",
-      "https://mem.seiee.sjtu.edu.cn/",
-      "https://www.seiee.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.seiee.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
