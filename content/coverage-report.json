@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-14T03:34:04.207Z",
+  "generatedAt": "2026-07-15T03:29:28.934Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2256,
+    "notices": 2257,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 321,
-    "missingCollegeSources": 89,
+    "missingCollegeSources": 87,
     "llmStructured": 1560,
     "unstructured": 0
   },
@@ -93,10 +93,10 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 226,
+      "total": 227,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 48,
+      "departments": 49,
       "llmStructured": 94,
       "latestDate": "2027-01-01",
       "status": "stale"
@@ -3345,19 +3345,23 @@
       "id": "auto-0bc19c05002b",
       "school": "中国科学技术大学",
       "department": "集成电路学院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-f5c5c5eaafce",
       "school": "中国科学技术大学",
       "department": "集成电路学院国家示范性微电子学院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-7fad5c03cf6c",
@@ -4328,8 +4332,6 @@
     "中国科学技术大学化学物理系 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学环境科学与工程系 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学基础医学院 已登记源但暂无候选，需要检查公告页。",
-    "中国科学技术大学集成电路学院 已登记源但暂无候选，需要检查公告页。",
-    "中国科学技术大学集成电路学院国家示范性微电子学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学科技传播系 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学能源科学与技术学院科教融合学院 已登记源但暂无候选，需要检查公告页。",
     "中国科学技术大学生物医学工程学院苏州科教融合学院 已登记源但暂无候选，需要检查公告页。",

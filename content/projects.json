@@ -89793,6 +89793,79 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-8d153a39c4c7",
+    "school": "中国科学技术大学",
+    "department": "集成电路学院国家示范性微电子学院",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 集成电路学院国家示范性微电子学院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-3ce044e9c0b3",
+            "title": "“芯”火相传，智汇临港—集成电路学院中微集成电路科技英才班夏令营圆满落幕",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://sme.ustc.edu.cn/2026/0714/c31026a747598/page.htm",
+            "sourceHost": "sme.ustc.edu.cn",
+            "sourceHomepage": "http://sme.ustc.edu.cn/",
+            "departmentHomepage": "http://sme.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 1,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "sme.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://sme.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://sme.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-0cafc4ab2736",
     "school": "中国科学技术大学",
     "department": "计算机学院",
