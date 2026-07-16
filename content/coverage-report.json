@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T03:29:28.934Z",
+  "generatedAt": "2026-07-16T03:30:25.039Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2257,
+    "notices": 2259,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 227,
+      "total": 229,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -3011,7 +3011,7 @@
       "id": "auto-451c22be0d9d",
       "school": "中国科学技术大学",
       "department": "大尺度火灾国际联合研究中心",
-      "total": 5,
+      "total": 7,
       "years": [
         2026,
         2023,

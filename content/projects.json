@@ -54463,6 +54463,124 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-794771716a8e",
+    "school": "中国科学技术大学",
+    "department": "大尺度火灾国际联合研究中心",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 大尺度火灾国际联合研究中心",
+    "tracks": [
+      "理工基础",
+      "教育心理",
+      "新闻传播外语"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-8e98b2427591",
+            "title": "集成电路学院开展中微集成电路科技英才班夏令营",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://news.ustc.edu.cn/info/1047/95750.htm",
+            "sourceHost": "news.ustc.edu.cn",
+            "sourceHomepage": "http://news.ustc.edu.cn/",
+            "departmentHomepage": "http://news.ustc.edu.cn/"
+          },
+          {
+            "id": "college-93860ff57269",
+            "title": "人才培养-中国科大新闻网",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://news.ustc.edu.cn/rcpy.htm",
+            "sourceHost": "news.ustc.edu.cn",
+            "sourceHomepage": "http://news.ustc.edu.cn/",
+            "departmentHomepage": "http://news.ustc.edu.cn/"
+          },
+          {
+            "id": "college-141b15854c6e",
+            "title": "中国科学技术大学学位与研究生教育",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://gradschool.ustc.edu.cn/",
+            "sourceHost": "gradschool.ustc.edu.cn",
+            "sourceHomepage": "https://gradschool.ustc.edu.cn/",
+            "departmentHomepage": "http://news.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [
+      "人工智能",
+      "金融",
+      "物理学",
+      "化学"
+    ],
+    "sourceHosts": [
+      "news.ustc.edu.cn",
+      "gradschool.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://news.ustc.edu.cn/",
+      "https://gradschool.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://news.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-493be7837873",
     "school": "中国科学技术大学",
     "department": "科技史与科技考古系",
@@ -89481,79 +89599,6 @@
     ],
     "departmentHomepages": [
       "https://it.ouc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-794771716a8e",
-    "school": "中国科学技术大学",
-    "department": "大尺度火灾国际联合研究中心",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 大尺度火灾国际联合研究中心",
-    "tracks": [
-      "教育心理"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-141b15854c6e",
-            "title": "中国科学技术大学学位与研究生教育",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://gradschool.ustc.edu.cn/",
-            "sourceHost": "gradschool.ustc.edu.cn",
-            "sourceHomepage": "https://gradschool.ustc.edu.cn/",
-            "departmentHomepage": "http://news.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 1,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "推免"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "gradschool.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://gradschool.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://news.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T03:29:30.010Z",
+  "generatedAt": "2026-07-16T03:30:26.308Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -14461,8 +14461,8 @@
       "department": "人工智能与数据科学学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://saids.ustc.edu.cn/",
-      "total": 3,
-      "recentFiveYears": 3,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15106,8 +15106,8 @@
       "department": "大尺度火灾国际联合研究中心",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026
@@ -15207,8 +15207,8 @@
       "department": "集成电路学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://sme.ustc.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026
