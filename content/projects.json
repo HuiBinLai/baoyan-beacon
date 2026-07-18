@@ -15416,6 +15416,352 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-e4448295d25d",
+    "school": "北京大学",
+    "department": "电子学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 电子学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 11,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士",
+          "博士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2026-06-24",
+        "notices": [
+          {
+            "id": "college-f88555afb8de",
+            "title": "北京大学信息科学技术学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-f6b1080328b0",
+            "title": "传承北大精神，探索信息科技——北京大学信息科学技术学院2026年校友子女夏令营成功举办",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/info/1061/12393.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-06fd32a19311",
+            "title": "06 2026.07 软件与微电子学院2026年优秀大学生夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://ss.pku.edu.cn/zsxx/zstz/6f5b4fb2751a4b92aa6fae135aed89ec.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "http://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-90690b1dd48b",
+            "title": "06 2026.07 软件与微电子学院2026年优秀大学生夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/6f5b4fb2751a4b92aa6fae135aed89ec.htm",
+            "sourceHost": "www.ss.pku.edu.cn",
+            "sourceHomepage": "https://www.ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-3a1f4f10b8d9",
+            "title": "软件与微电子学院2026年推荐免试硕士研究生复试细则",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/a969db79099d4c62b9c3341818a4f8eb.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "https://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-385ac2a77151",
+            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-18",
+            "applicationEnd": "2026-06-24",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://ss.pku.edu.cn/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "http://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-85abfd0b470c",
+            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
+            "sourceHost": "www.ss.pku.edu.cn",
+            "sourceHomepage": "https://www.ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-db2ca09732c8",
+            "title": "北京大学软件与微电子学院 2026年接收推荐免试博士研究生招生说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/428f16efe0eb40c1ba7e6ee50af2920c.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "https://ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-36447b52157a",
+            "title": "北京大学2026年接收推荐免试研究生办法（校本部）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/531.htm",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-495b7ea6281b",
+            "title": "北京大学软件与微电子学院2026年接收推荐免试硕士研究生招生说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-11",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/ca9217eb94cb4c0891d3de70de02f659.htm",
+            "sourceHost": "ss.pku.edu.cn",
+            "sourceHomepage": "https://ss.pku.edu.cn/",
+            "departmentHomepage": "https://ss.pku.edu.cn/"
+          },
+          {
+            "id": "college-b0245e327e8f",
+            "title": "学工 04 2026-05 校友子女夏令营 | 活动报名：E启未来！2026年北大信科校友子女夏令营报名启动",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-01",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/info/1047/10863.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://eecs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-0e3e78bdbae6",
+            "title": "校友子女夏令营 | E启未来，扬帆远航：北京大学信息科学技术学院成功举办2025年校友子女夏令营活动",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/info/1061/7159.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://eecs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2022-09-03",
+        "lastApplicationEnd": "2022-09-13",
+        "notices": [
+          {
+            "id": "college-899facb77159",
+            "title": "【转发教务部通知】关于2022届本科毕业生推免资格申请的通知...",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-09-03",
+            "applicationEnd": "2022-09-13",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-b72c031ab8e1",
+            "title": "【转发教务部通知】关于2022届本科毕业生推免...",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-09-03",
+            "applicationEnd": "2022-09-13",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
+            "sourceHost": "eecs.pku.edu.cn",
+            "sourceHomepage": "https://eecs.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 14,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025,
+      2022
+    ],
+    "stages": [
+      "推免报名",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士",
+      "博士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "电子信息",
+      "哲学",
+      "化学",
+      "软件工程",
+      "网络空间安全",
+      "信息安全",
+      "网络与信息安全",
+      "新兴交叉学科",
+      "金融科技",
+      "关键软件",
+      "高端芯片"
+    ],
+    "sourceHosts": [
+      "eecs.pku.edu.cn",
+      "ss.pku.edu.cn",
+      "www.ss.pku.edu.cn",
+      "admission.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://eecs.pku.edu.cn/",
+      "http://ss.pku.edu.cn/",
+      "https://www.ss.pku.edu.cn/",
+      "https://ss.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.pku.edu.cn/",
+      "http://ss.pku.edu.cn/",
+      "https://ss.pku.edu.cn/",
+      "https://eecs.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-d3261839f82c",
     "school": "北京大学",
     "department": "光华管理学院",
@@ -18628,319 +18974,6 @@
     ],
     "departmentHomepages": [
       "https://zias.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-e4448295d25d",
-    "school": "北京大学",
-    "department": "电子学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 电子学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 9,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "硕士",
-          "博士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2026-06-24",
-        "notices": [
-          {
-            "id": "college-06fd32a19311",
-            "title": "06 2026.07 软件与微电子学院2026年优秀大学生夏令营入营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://ss.pku.edu.cn/zsxx/zstz/6f5b4fb2751a4b92aa6fae135aed89ec.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "http://ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-90690b1dd48b",
-            "title": "06 2026.07 软件与微电子学院2026年优秀大学生夏令营入营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/6f5b4fb2751a4b92aa6fae135aed89ec.htm",
-            "sourceHost": "www.ss.pku.edu.cn",
-            "sourceHomepage": "https://www.ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-3a1f4f10b8d9",
-            "title": "软件与微电子学院2026年推荐免试硕士研究生复试细则",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/a969db79099d4c62b9c3341818a4f8eb.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "https://ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-385ac2a77151",
-            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-18",
-            "applicationEnd": "2026-06-24",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://ss.pku.edu.cn/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "http://ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-85abfd0b470c",
-            "title": "18 2026.06 北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/08b3e84f435b4cab85fbf7b8f3aaea0a.htm",
-            "sourceHost": "www.ss.pku.edu.cn",
-            "sourceHomepage": "https://www.ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-db2ca09732c8",
-            "title": "北京大学软件与微电子学院 2026年接收推荐免试博士研究生招生说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/428f16efe0eb40c1ba7e6ee50af2920c.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "https://ss.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-36447b52157a",
-            "title": "北京大学2026年接收推荐免试研究生办法（校本部）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/531.htm",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-495b7ea6281b",
-            "title": "北京大学软件与微电子学院2026年接收推荐免试硕士研究生招生说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-11",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://ss.pku.edu.cn/zsxx/zstz/ca9217eb94cb4c0891d3de70de02f659.htm",
-            "sourceHost": "ss.pku.edu.cn",
-            "sourceHomepage": "https://ss.pku.edu.cn/",
-            "departmentHomepage": "https://ss.pku.edu.cn/"
-          },
-          {
-            "id": "college-b0245e327e8f",
-            "title": "学工 04 2026-05 校友子女夏令营 | 活动报名：E启未来！2026年北大信科校友子女夏令营报名启动",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-01",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/info/1047/10863.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://eecs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-0e3e78bdbae6",
-            "title": "校友子女夏令营 | E启未来，扬帆远航：北京大学信息科学技术学院成功举办2025年校友子女夏令营活动",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/info/1061/7159.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://eecs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2022-09-03",
-        "lastApplicationEnd": "2022-09-13",
-        "notices": [
-          {
-            "id": "college-899facb77159",
-            "title": "【转发教务部通知】关于2022届本科毕业生推免资格申请的通知...",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-09-03",
-            "applicationEnd": "2022-09-13",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-b72c031ab8e1",
-            "title": "【转发教务部通知】关于2022届本科毕业生推免...",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-09-03",
-            "applicationEnd": "2022-09-13",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://eecs.pku.edu.cn/xxkxjsxy/info/1052/11662.htm",
-            "sourceHost": "eecs.pku.edu.cn",
-            "sourceHomepage": "https://eecs.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 12,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2025,
-      2022
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "硕士",
-      "博士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "电子信息",
-      "化学",
-      "软件工程",
-      "人工智能",
-      "网络空间安全",
-      "信息安全",
-      "网络与信息安全",
-      "新兴交叉学科",
-      "金融科技",
-      "关键软件",
-      "高端芯片"
-    ],
-    "sourceHosts": [
-      "ss.pku.edu.cn",
-      "www.ss.pku.edu.cn",
-      "admission.pku.edu.cn",
-      "eecs.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://ss.pku.edu.cn/",
-      "https://www.ss.pku.edu.cn/",
-      "https://ss.pku.edu.cn/",
-      "https://admission.pku.edu.cn/",
-      "https://eecs.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://ss.pku.edu.cn/",
-      "https://ss.pku.edu.cn/",
-      "https://eecs.pku.edu.cn/",
-      "https://www.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
