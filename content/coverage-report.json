@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T03:23:27.141Z",
+  "generatedAt": "2026-07-19T03:32:19.723Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2263,
+    "notices": 2269,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 356,
+      "total": 360,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 239,
+      "total": 240,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 48,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 341,
+      "total": 342,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 49,
@@ -485,7 +485,7 @@
       "id": "auto-c7fc6c80b87d",
       "school": "北京大学",
       "department": "地球与空间科学学院",
-      "total": 9,
+      "total": 10,
       "years": [
         2026,
         2025,
@@ -898,7 +898,7 @@
       "id": "auto-6f38e9dc8bb7",
       "school": "北京大学",
       "department": "软件工程国家工程研究中心",
-      "total": 11,
+      "total": 13,
       "years": [
         2027,
         2026,
@@ -1144,7 +1144,7 @@
       "id": "auto-b8e53ca2fe1e",
       "school": "北京大学",
       "department": "药学院",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
@@ -1155,7 +1155,7 @@
       "id": "auto-9e60cf394693",
       "school": "北京大学",
       "department": "药学院公共卫生学院",
-      "total": 2,
+      "total": 3,
       "years": [
         2026
       ],
@@ -1972,11 +1972,12 @@
       "id": "auto-9da0519b89bc",
       "school": "清华大学",
       "department": "药学院",
-      "total": 2,
+      "total": 3,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2177,7 +2178,7 @@
       "id": "auto-85bf429b6613",
       "school": "上海交通大学",
       "department": "海洋学院",
-      "total": 10,
+      "total": 11,
       "years": [
         2026,
         2025

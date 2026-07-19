@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T03:23:28.398Z",
+  "generatedAt": "2026-07-19T03:32:20.956Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 764,
     "stale": 5,
     "missing": 365,
-    "currentSeasonCovered": 33
+    "currentSeasonCovered": 34
   },
   "units": [
     {
@@ -185,8 +185,8 @@
       "department": "地球与空间科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sess.pku.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 15,
+      "total": 16,
+      "recentFiveYears": 16,
       "currentSeason": 0,
       "years": [
         2026,
@@ -234,8 +234,8 @@
       "department": "信息科学技术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://eecs.pku.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 11,
+      "total": 14,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -323,8 +323,8 @@
       "department": "软件工程国家工程研究中心",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://se.pku.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 13,
+      "recentFiveYears": 12,
       "currentSeason": 1,
       "years": [
         2027,
@@ -751,8 +751,8 @@
       "department": "药学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026
@@ -766,8 +766,8 @@
       "department": "公共卫生学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sph.pku.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
       "years": [
         2026
@@ -1146,8 +1146,8 @@
       "department": "药学院公共卫生学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026
@@ -1256,8 +1256,8 @@
       "department": "计算机学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://cs.pku.edu.cn/info/1022/3813.htm",
-      "total": 29,
-      "recentFiveYears": 28,
+      "total": 31,
+      "recentFiveYears": 30,
       "currentSeason": 1,
       "years": [
         2027,
@@ -7190,13 +7190,14 @@
       "department": "药学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.sps.tsinghua.edu.cn/",
-      "total": 2,
+      "total": 3,
       "recentFiveYears": 2,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -8883,8 +8884,8 @@
       "department": "海洋学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://soo.sjtu.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 11,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,

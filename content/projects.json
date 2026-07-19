@@ -23466,6 +23466,282 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-023a2049096b",
+    "school": "上海交通大学",
+    "department": "海洋学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 海洋学院",
+    "tracks": [
+      "理工基础",
+      "计算机/AI",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 5,
+        "stages": [
+          "夏令营/研学营",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-06-20",
+        "lastApplicationEnd": "2026-07-10",
+        "notices": [
+          {
+            "id": "college-cac722ff9f94",
+            "title": "2026/07/ 17 上海交通大学海洋学院2027夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3676.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ecd07bc53203",
+            "title": "2026/06/ 25 上海交通大学海洋学院2027年研究生优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-25",
+            "applicationEnd": "2026-07-09",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3660.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-aa03abd5348c",
+            "title": "上海交通大学硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3522.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-284c9d286c7a",
+            "title": "2026/03/ 19 上海交通大学海洋学院2026年硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3522.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-bbc83b32c218",
+            "title": "上海交通大学海洋学院2026年研究生优才夏令营一号通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-06-20",
+            "applicationEnd": "2026-07-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3068.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 6,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-04-09",
+        "lastApplicationEnd": "2025-10-06",
+        "notices": [
+          {
+            "id": "college-f8443faf03c6",
+            "title": "2025/05/ 06 上海交通大学海洋学院2026年研究生优才夏令营一号通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-20",
+            "applicationEnd": "2025-07-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3068.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-cc8ef063c146",
+            "title": "2025/06/ 05 上海交通大学海洋学院2026年研究生优才夏令营二号通知（关于恢复笔试的具体安排）",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3116.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-16c3b4294d46",
+            "title": "2025/06/ 20 上海交通大学海洋学院2026年研究生优才夏令营三号通知 （关于夏令营报名截止时间及举办时间调整）",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-20",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3164.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4472bc78c934",
+            "title": "2025/09/ 25 上海交大海洋学院2026年招收优秀应届本科毕业生免试攻读研究生报名通知（第二批推免选拔）",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-26",
+            "applicationEnd": "2025-10-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3252.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1a8d7d6d6ddf",
+            "title": "2025/10/ 02 上海交通大学海洋学院2026年第二批推免选拔报名延长通知",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-10-06",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3262.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-afe6817da4d4",
+            "title": "上海交通大学海洋学院2025年“申请-考核制”/硕博连读（第二批）博士研究生招生办法",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-04-09",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3046.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 11,
+    "llmStructuredCount": 7,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "复试/考核",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "学术型硕士",
+      "直博"
+    ],
+    "majors": [
+      "建筑学",
+      "计算机科学与技术",
+      "电子信息",
+      "数学",
+      "物理学",
+      "化学",
+      "生物学",
+      "人工智能",
+      "金融",
+      "心理学",
+      "海洋科学（物理海洋学）",
+      "海洋科学（海洋化学）",
+      "海洋科学（生物海洋学与海洋生物学）",
+      "海洋科学（海洋地质学）"
+    ],
+    "sourceHosts": [
+      "soo.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://soo.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://soo.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-577a47297b7b",
     "school": "中国科学技术大学",
     "department": "化学与材料科学学院",
@@ -24748,6 +25024,300 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-815229b1e3f4",
+    "school": "北京大学",
+    "department": "地球与空间科学学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 地球与空间科学学院",
+    "tracks": [
+      "理工基础",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 6,
+        "stages": [
+          "招生简章",
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2026-07-23",
+        "notices": [
+          {
+            "id": "college-6af6d657a617",
+            "title": "北京大学暑期野外课程（2026）招生简章 沉积、地层、古生物综合实习",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-23",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1034/32101.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          },
+          {
+            "id": "college-15d6e828e5c1",
+            "title": "【暑期学校】北京大学 2026 年地球科学国际暑期学校招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-07",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1034/31411.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          },
+          {
+            "id": "college-38286221241a",
+            "title": "北京大学地球与空间科学学院2026年“申请-考核制”学术型博士研究生招生说明 2025-10-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1107/29741.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          },
+          {
+            "id": "college-05457b86b8f0",
+            "title": "上一篇： 北京大学地球与空间科学学院2026年研究生推免复试通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1106/5064.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          },
+          {
+            "id": "college-e0084b3c47dd",
+            "title": "下一篇： 北京大学地球与空间科学学院2026年研究生推免复试通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1107/5073.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          },
+          {
+            "id": "college-861488089d61",
+            "title": "研究生招生与培养",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/jyjx1/yjszsypy.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-2c661108e36d",
+            "title": "上一篇： 北京大学地球与空间科学学院2025年研究生推免复试通知",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1106/4548.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-384c8832fdd6",
+            "title": "上一篇： 北京大学地球与空间科学学院2024年研究生推免复试通知",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1106/4125.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          },
+          {
+            "id": "college-4ce6be29e46e",
+            "title": "下一篇： 北京大学地球与空间科学学院2024年研究生推免复试通知",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1107/4126.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-70627e4c6f8d",
+            "title": "下一篇： 北京大学地球与空间科学学院2023年推荐免试硕士研究生复试通知",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://sess.pku.edu.cn/info/1106/3593.htm",
+            "sourceHost": "sess.pku.edu.cn",
+            "sourceHomepage": "https://sess.pku.edu.cn/",
+            "departmentHomepage": "https://sess.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 10,
+    "llmStructuredCount": 7,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ],
+    "stages": [
+      "招生简章",
+      "复试/考核",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士"
+    ],
+    "majors": [
+      "法律",
+      "物理学",
+      "环境科学与工程",
+      "翻译",
+      "地图学与地理信息系统",
+      "固体地球物理学",
+      "空间物理学",
+      "矿物学",
+      "岩石学",
+      "矿床学",
+      "地球化学",
+      "古生物学与地层学",
+      "构造地质学",
+      "地质学（材料及环境矿物学）",
+      "地质学（石油地质学）",
+      "摄影测量与遥感"
+    ],
+    "sourceHosts": [
+      "sess.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://sess.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://sess.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-908424e2f1ca",
     "school": "北京大学",
     "department": "计算机学院",
@@ -25657,266 +26227,6 @@
       "http://yz.neu.edu.cn/",
       "http://www.graduate.neu.edu.cn/",
       "http://neunews.neu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-023a2049096b",
-    "school": "上海交通大学",
-    "department": "海洋学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 海洋学院",
-    "tracks": [
-      "理工基础",
-      "计算机/AI",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "夏令营/研学营",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-06-20",
-        "lastApplicationEnd": "2026-07-10",
-        "notices": [
-          {
-            "id": "college-ecd07bc53203",
-            "title": "2026/06/ 25 上海交通大学海洋学院2027年研究生优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-25",
-            "applicationEnd": "2026-07-09",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3660.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-aa03abd5348c",
-            "title": "上海交通大学硕士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3522.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-284c9d286c7a",
-            "title": "2026/03/ 19 上海交通大学海洋学院2026年硕士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3522.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-bbc83b32c218",
-            "title": "上海交通大学海洋学院2026年研究生优才夏令营一号通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-06-20",
-            "applicationEnd": "2026-07-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3068.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 6,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-04-09",
-        "lastApplicationEnd": "2025-10-06",
-        "notices": [
-          {
-            "id": "college-f8443faf03c6",
-            "title": "2025/05/ 06 上海交通大学海洋学院2026年研究生优才夏令营一号通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-20",
-            "applicationEnd": "2025-07-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3068.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-cc8ef063c146",
-            "title": "2025/06/ 05 上海交通大学海洋学院2026年研究生优才夏令营二号通知（关于恢复笔试的具体安排）",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3116.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-16c3b4294d46",
-            "title": "2025/06/ 20 上海交通大学海洋学院2026年研究生优才夏令营三号通知 （关于夏令营报名截止时间及举办时间调整）",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-20",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3164.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-4472bc78c934",
-            "title": "2025/09/ 25 上海交大海洋学院2026年招收优秀应届本科毕业生免试攻读研究生报名通知（第二批推免选拔）",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-26",
-            "applicationEnd": "2025-10-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3252.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-1a8d7d6d6ddf",
-            "title": "2025/10/ 02 上海交通大学海洋学院2026年第二批推免选拔报名延长通知",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-10-06",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3262.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-afe6817da4d4",
-            "title": "上海交通大学海洋学院2025年“申请-考核制”/硕博连读（第二批）博士研究生招生办法",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-04-09",
-            "applicationEnd": "2025-04-20",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3046.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 10,
-    "llmStructuredCount": 7,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "复试/考核",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "学术型硕士",
-      "直博"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "电子信息",
-      "数学",
-      "物理学",
-      "化学",
-      "生物学",
-      "人工智能",
-      "金融",
-      "心理学",
-      "海洋科学（物理海洋学）",
-      "海洋科学（海洋化学）",
-      "海洋科学（生物海洋学与海洋生物学）",
-      "海洋科学（海洋地质学）",
-      "海洋科学（海洋技术（含海洋遥感））"
-    ],
-    "sourceHosts": [
-      "soo.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://soo.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://soo.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -27409,284 +27719,6 @@
     ],
     "departmentHomepages": [
       "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-815229b1e3f4",
-    "school": "北京大学",
-    "department": "地球与空间科学学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 地球与空间科学学院",
-    "tracks": [
-      "理工基础",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "招生简章",
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2026-06-07",
-        "notices": [
-          {
-            "id": "college-15d6e828e5c1",
-            "title": "【暑期学校】北京大学 2026 年地球科学国际暑期学校招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-06-07",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1034/31411.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          },
-          {
-            "id": "college-38286221241a",
-            "title": "北京大学地球与空间科学学院2026年“申请-考核制”学术型博士研究生招生说明 2025-10-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1107/29741.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          },
-          {
-            "id": "college-05457b86b8f0",
-            "title": "上一篇： 北京大学地球与空间科学学院2026年研究生推免复试通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1106/5064.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          },
-          {
-            "id": "college-e0084b3c47dd",
-            "title": "下一篇： 北京大学地球与空间科学学院2026年研究生推免复试通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1107/5073.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          },
-          {
-            "id": "college-861488089d61",
-            "title": "研究生招生与培养",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/jyjx1/yjszsypy.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-2c661108e36d",
-            "title": "上一篇： 北京大学地球与空间科学学院2025年研究生推免复试通知",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1106/4548.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-384c8832fdd6",
-            "title": "上一篇： 北京大学地球与空间科学学院2024年研究生推免复试通知",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1106/4125.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          },
-          {
-            "id": "college-4ce6be29e46e",
-            "title": "下一篇： 北京大学地球与空间科学学院2024年研究生推免复试通知",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1107/4126.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-70627e4c6f8d",
-            "title": "下一篇： 北京大学地球与空间科学学院2023年推荐免试硕士研究生复试通知",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://sess.pku.edu.cn/info/1106/3593.htm",
-            "sourceHost": "sess.pku.edu.cn",
-            "sourceHomepage": "https://sess.pku.edu.cn/",
-            "departmentHomepage": "https://sess.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 9,
-    "llmStructuredCount": 7,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023
-    ],
-    "stages": [
-      "招生简章",
-      "复试/考核",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "硕士"
-    ],
-    "majors": [
-      "法律",
-      "物理学",
-      "环境科学与工程",
-      "翻译",
-      "地图学与地理信息系统",
-      "固体地球物理学",
-      "空间物理学",
-      "矿物学",
-      "岩石学",
-      "矿床学",
-      "地球化学",
-      "古生物学与地层学",
-      "构造地质学",
-      "地质学（材料及环境矿物学）",
-      "地质学（石油地质学）",
-      "摄影测量与遥感"
-    ],
-    "sourceHosts": [
-      "sess.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://sess.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://sess.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -32732,6 +32764,186 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-6628650d15d7",
+    "school": "北京大学",
+    "department": "软件工程国家工程研究中心",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 软件工程国家工程研究中心",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 7,
+        "stages": [
+          "夏令营/研学营",
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-06-01",
+        "lastApplicationEnd": "2026-06-15",
+        "notices": [
+          {
+            "id": "college-38a86ea4ba8b",
+            "title": "北京大学计算机学院成功举办2026年校友子女夏令营",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1263/6150.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-b2e85b010ce2",
+            "title": "2026.07.18",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1263/6150.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-aeea7e63a8f9",
+            "title": "计算机学院2026年优秀大学生夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1051/5870.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-66dc8d0fe8e0",
+            "title": "—— 2026.06.24 ——",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1022/5880.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-530e1f13e05d",
+            "title": "北京大学计算机学院关于举办2026年优秀大学生夏令营的通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1051/5810.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-50f9372fea5a",
+            "title": "—— 2026.05.29 ——",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1022/5820.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://se.pku.edu.cn/"
+          },
+          {
+            "id": "college-969cd98827ab",
+            "title": "北京大学计算机学院2026年“申请-考核制”博士研究生招生复试工作安排",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://cs.pku.edu.cn/info/1051/4290.htm",
+            "sourceHost": "cs.pku.edu.cn",
+            "sourceHomepage": "https://cs.pku.edu.cn/",
+            "departmentHomepage": "https://cs.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 7,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士"
+    ],
+    "majors": [
+      "人工智能",
+      "计算机科学与技术",
+      "数学"
+    ],
+    "sourceHosts": [
+      "cs.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://cs.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://se.pku.edu.cn/",
+      "https://cs.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-ce5f11f9343d",
     "school": "复旦大学",
     "department": "复旦大学",
@@ -37459,153 +37671,6 @@
     ],
     "departmentHomepages": [
       "https://fem.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-6628650d15d7",
-    "school": "北京大学",
-    "department": "软件工程国家工程研究中心",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 软件工程国家工程研究中心",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "夏令营/研学营",
-          "推免",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-06-01",
-        "lastApplicationEnd": "2026-06-15",
-        "notices": [
-          {
-            "id": "college-aeea7e63a8f9",
-            "title": "计算机学院2026年优秀大学生夏令营入营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://cs.pku.edu.cn/info/1051/5870.htm",
-            "sourceHost": "cs.pku.edu.cn",
-            "sourceHomepage": "https://cs.pku.edu.cn/",
-            "departmentHomepage": "https://se.pku.edu.cn/"
-          },
-          {
-            "id": "college-66dc8d0fe8e0",
-            "title": "—— 2026.06.24 ——",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://cs.pku.edu.cn/info/1022/5880.htm",
-            "sourceHost": "cs.pku.edu.cn",
-            "sourceHomepage": "https://cs.pku.edu.cn/",
-            "departmentHomepage": "https://se.pku.edu.cn/"
-          },
-          {
-            "id": "college-530e1f13e05d",
-            "title": "北京大学计算机学院关于举办2026年优秀大学生夏令营的通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://cs.pku.edu.cn/info/1051/5810.htm",
-            "sourceHost": "cs.pku.edu.cn",
-            "sourceHomepage": "https://cs.pku.edu.cn/",
-            "departmentHomepage": "https://se.pku.edu.cn/"
-          },
-          {
-            "id": "college-50f9372fea5a",
-            "title": "—— 2026.05.29 ——",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-15",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://cs.pku.edu.cn/info/1022/5820.htm",
-            "sourceHost": "cs.pku.edu.cn",
-            "sourceHomepage": "https://cs.pku.edu.cn/",
-            "departmentHomepage": "https://se.pku.edu.cn/"
-          },
-          {
-            "id": "college-969cd98827ab",
-            "title": "北京大学计算机学院2026年“申请-考核制”博士研究生招生复试工作安排",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://cs.pku.edu.cn/info/1051/4290.htm",
-            "sourceHost": "cs.pku.edu.cn",
-            "sourceHomepage": "https://cs.pku.edu.cn/",
-            "departmentHomepage": "https://cs.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 5,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "数学"
-    ],
-    "sourceHosts": [
-      "cs.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://cs.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://se.pku.edu.cn/",
-      "https://cs.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -51610,6 +51675,137 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-06162eb44553",
+    "school": "清华大学",
+    "department": "药学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 药学院",
+    "tracks": [
+      "医学药学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-07-01",
+        "lastApplicationEnd": "2026-07-28",
+        "notices": [
+          {
+            "id": "college-c46405664b34",
+            "title": "药学院2027年博士研究生招生简章目录等招生信息发布",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-07-01",
+            "applicationEnd": "2026-07-28",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sps.tsinghua.edu.cn/info/1075/2421.htm",
+            "sourceHost": "www.sps.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sps.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sps.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "推免",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-07-01",
+        "lastApplicationEnd": "2026-06-09",
+        "notices": [
+          {
+            "id": "college-75d171dd612e",
+            "title": "清华大学药学院 2026年优秀大学生学术交流会通知",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-09",
+            "applicationEnd": "2026-06-09",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.sps.tsinghua.edu.cn/info/1075/2674.htm",
+            "sourceHost": "www.sps.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sps.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sps.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-c772ca79a811",
+            "title": "药学院2026年博士研究生招生简章目录等招生信息发布",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-07-01",
+            "applicationEnd": "2025-07-28",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sps.tsinghua.edu.cn/info/1075/2421.htm",
+            "sourceHost": "www.sps.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sps.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sps.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 2,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "招生简章",
+      "推免"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认"
+    ],
+    "majors": [
+      "药学",
+      "生命科学",
+      "化学",
+      "医学"
+    ],
+    "sourceHosts": [
+      "www.sps.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.sps.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.sps.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-93d78c502b0e",
     "school": "厦门大学",
     "department": "电子科学与技术学院国家示范性微电子学院",
@@ -57501,6 +57697,103 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-e709cf158407",
+    "school": "北京大学",
+    "department": "药学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 药学院",
+    "tracks": [
+      "医学药学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-8356cec3c85a",
+            "title": "信息科学技术学院2026年校友子女夏令营举行",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://news.pku.edu.cn/xwzh/9d16ce46d96244a78e2694c41745981f.htm",
+            "sourceHost": "news.pku.edu.cn",
+            "sourceHomepage": "https://news.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-308c0fdaa38c",
+            "title": "通知公告 - 北京大学教务部",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://dean.pku.edu.cn/web/notice.php",
+            "sourceHost": "dean.pku.edu.cn",
+            "sourceHomepage": "https://dean.pku.edu.cn/",
+            "departmentHomepage": "https://www.ghd.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 2,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [
+      "人工智能",
+      "哲学"
+    ],
+    "sourceHosts": [
+      "news.pku.edu.cn",
+      "dean.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://news.pku.edu.cn/",
+      "https://dean.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.pku.edu.cn/",
+      "https://www.ghd.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-3a42cfaf9dce",
     "school": "北京航空航天大学",
     "department": "科学与工程学院",
@@ -63008,104 +63301,6 @@
     ],
     "departmentHomepages": [
       "https://www.svm.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-06162eb44553",
-    "school": "清华大学",
-    "department": "药学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 药学院",
-    "tracks": [
-      "医学药学"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "推免",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-07-01",
-        "lastApplicationEnd": "2026-06-09",
-        "notices": [
-          {
-            "id": "college-75d171dd612e",
-            "title": "清华大学药学院 2026年优秀大学生学术交流会通知",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-09",
-            "applicationEnd": "2026-06-09",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.sps.tsinghua.edu.cn/info/1075/2674.htm",
-            "sourceHost": "www.sps.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.sps.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.sps.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-c772ca79a811",
-            "title": "药学院2026年博士研究生招生简章目录等招生信息发布",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-07-01",
-            "applicationEnd": "2025-07-28",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.sps.tsinghua.edu.cn/info/1075/2421.htm",
-            "sourceHost": "www.sps.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.sps.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.sps.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 2,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "推免",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士"
-    ],
-    "majors": [
-      "药学",
-      "生命科学",
-      "化学",
-      "医学"
-    ],
-    "sourceHosts": [
-      "www.sps.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.sps.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.sps.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -68999,79 +69194,6 @@
     ],
     "departmentHomepages": [
       "https://sjc.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-e709cf158407",
-    "school": "北京大学",
-    "department": "药学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 药学院",
-    "tracks": [
-      "医学药学"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-308c0fdaa38c",
-            "title": "通知公告 - 北京大学教务部",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://dean.pku.edu.cn/web/notice.php",
-            "sourceHost": "dean.pku.edu.cn",
-            "sourceHomepage": "https://dean.pku.edu.cn/",
-            "departmentHomepage": "https://www.ghd.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 1,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "dean.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://dean.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.ghd.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
