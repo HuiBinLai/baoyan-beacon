@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T03:28:26.843Z",
+  "generatedAt": "2026-07-23T03:30:52.477Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2269,
+    "notices": 2273,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 360,
+      "total": 361,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 62,
@@ -60,10 +60,10 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 342,
+      "total": 345,
       "currentYear": 1,
       "recentFiveYears": 1,
-      "departments": 49,
+      "departments": 50,
       "llmStructured": 169,
       "latestDate": "2041-01-01",
       "status": "covered"
@@ -459,7 +459,7 @@
       "id": "auto-be14dcbc0e21",
       "school": "北京大学",
       "department": "材料科学与工程学院",
-      "total": 20,
+      "total": 21,
       "years": [
         2026,
         2025,
@@ -2190,7 +2190,7 @@
       "id": "auto-a6176ddbcf96",
       "school": "上海交通大学",
       "department": "海洋研究院",
-      "total": 40,
+      "total": 41,
       "years": [
         2026,
         2025,
@@ -2396,11 +2396,11 @@
       "id": "auto-ede19129610f",
       "school": "上海交通大学",
       "department": "汽车工程研究院",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
-      "latestDate": "2026-05-11",
+      "latestDate": "2026-07-20",
       "status": "covered"
     },
     {
@@ -2527,7 +2527,7 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 16,
+      "total": 17,
       "years": [
         2041,
         2026,
