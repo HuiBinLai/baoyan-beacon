@@ -62711,6 +62711,103 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-b68df2951aa8",
+    "school": "清华大学",
+    "department": "金融系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 金融系",
+    "tracks": [
+      "经管金融",
+      "人文社科",
+      "新闻传播外语"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-61279c242cd7",
+            "title": "清华五道口第十届“金融未来之星”国际夏令营成功举办",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.pbcsf.tsinghua.edu.cn/info/1154/10525.htm",
+            "sourceHost": "www.pbcsf.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.pbcsf.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sigs.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-baa103d0b7a2",
+            "title": "2026年7月10日，清华大学五道口金融学院第十届“金融未来之星”国际夏令营结业典礼举行，为期12天的学习...",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.pbcsf.tsinghua.edu.cn/info/1154/10525.htm",
+            "sourceHost": "www.pbcsf.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.pbcsf.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sigs.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 2,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "金融",
+      "政治学",
+      "社会学",
+      "新闻与传播"
+    ],
+    "sourceHosts": [
+      "www.pbcsf.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.pbcsf.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.sigs.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-1c5ae6a06d6e",
     "school": "清华大学",
     "department": "理学院",

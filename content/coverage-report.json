@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T03:30:52.477Z",
+  "generatedAt": "2026-07-24T03:32:56.622Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2273,
+    "notices": 2275,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,10 +38,10 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 240,
+      "total": 242,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 48,
+      "departments": 49,
       "llmStructured": 113,
       "latestDate": "2027-01-01",
       "status": "stale"
@@ -1668,11 +1668,12 @@
       "id": "auto-d51286965205",
       "school": "清华大学",
       "department": "金融系",
-      "total": 1,
+      "total": 3,
       "years": [
+        2026,
         2022
       ],
-      "latestDate": "2022-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {

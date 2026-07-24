@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T03:30:53.737Z",
+  "generatedAt": "2026-07-24T03:32:57.639Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,9 +10,9 @@
   ],
   "totals": {
     "units": 1134,
-    "covered": 765,
+    "covered": 766,
     "stale": 5,
-    "missing": 364,
+    "missing": 363,
     "currentSeasonCovered": 34
   },
   "units": [
@@ -7392,12 +7392,14 @@
       "department": "金融系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/fin/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "5109aead1d",
@@ -7672,8 +7674,8 @@
       "department": "五道口金融学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.pbcsf.tsinghua.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 12,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -17344,7 +17346,6 @@
     "清华大学人工智能学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学碳中和研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学经济系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "清华大学金融系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学中国语言文学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学哲学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学艺术史论系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
