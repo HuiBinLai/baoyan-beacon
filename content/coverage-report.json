@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T03:34:39.813Z",
+  "generatedAt": "2026-07-28T03:53:30.246Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2275,
+    "notices": 2277,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 345,
+      "total": 347,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 50,
@@ -2205,7 +2205,7 @@
       "id": "auto-67ef1cef2c0a",
       "school": "上海交通大学",
       "department": "航空发动机研究院",
-      "total": 3,
+      "total": 5,
       "years": [
         2027,
         2026,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T03:34:41.072Z",
+  "generatedAt": "2026-07-28T03:53:31.321Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9366,8 +9366,8 @@
       "department": "航空发动机研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 3,
-      "recentFiveYears": 2,
+      "total": 5,
+      "recentFiveYears": 4,
       "currentSeason": 1,
       "years": [
         2027,

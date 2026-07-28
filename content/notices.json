@@ -1,5 +1,99 @@
 [
   {
+    "id": "college-723751d1706f",
+    "title": "资讯公告 - 上海交通大学研究生院",
+    "school": "上海交通大学",
+    "department": "航空发动机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学航空发动机研究院官方站点",
+    "sourceUrl": "https://gs.sjtu.edu.cn/news",
+    "sourceHost": "gs.sjtu.edu.cn",
+    "sourceHomepage": "https://gs.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "航空发动机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-67ef1cef2c0a"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "资讯公告 - 上海交通大学研究生院。航空发动机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "航空发动机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-07-28"
+  },
+  {
+    "id": "college-3a3d83f42ffa",
+    "title": "资讯公告 - 上海交通大学研究生院",
+    "school": "上海交通大学",
+    "department": "航空发动机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学航空发动机研究院官方站点",
+    "sourceUrl": "https://gs.sjtu.edu.cn/announcement/work",
+    "sourceHost": "gs.sjtu.edu.cn",
+    "sourceHomepage": "https://gs.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "航空发动机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-67ef1cef2c0a"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "资讯公告 - 上海交通大学研究生院。航空发动机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "航空发动机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-07-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-07-28"
+  },
+  {
     "id": "college-ca8bbb9483ed",
     "title": "中国人民大学哲学院2027年推免生接收工作报名通知 more",
     "school": "中国人民大学",
