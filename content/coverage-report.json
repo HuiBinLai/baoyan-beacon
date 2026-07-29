@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-28T03:53:30.246Z",
+  "generatedAt": "2026-07-29T03:35:26.959Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2277,
+    "notices": 2288,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 321,
-    "missingCollegeSources": 87,
+    "missingCollegeSources": 86,
     "llmStructured": 1560,
     "unstructured": 0
   },
@@ -27,10 +27,10 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 361,
+      "total": 372,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 62,
+      "departments": 63,
       "llmStructured": 117,
       "latestDate": "2080-91-79",
       "status": "stale"
@@ -1241,10 +1241,13 @@
       "id": "auto-ef8743fea875",
       "school": "北京大学",
       "department": "政府管理学院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 11,
+      "years": [
+        2026,
+        2024
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-a76c22caf7f0",
@@ -4269,7 +4272,6 @@
     "北京大学医学部 已登记源但暂无候选，需要检查公告页。",
     "北京大学医学人文学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学艺术学院 已登记源但暂无候选，需要检查公告页。",
-    "北京大学政府管理学院 已登记源但暂无候选，需要检查公告页。",
     "清华大学工业工程系 已登记源但暂无候选，需要检查公告页。",
     "清华大学环境科学与健康系 已登记源但暂无候选，需要检查公告页。",
     "清华大学机械工程学院 已登记源但暂无候选，需要检查公告页。",

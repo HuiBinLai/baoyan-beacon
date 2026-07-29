@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T03:53:31.321Z",
+  "generatedAt": "2026-07-29T03:35:28.227Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -624,11 +624,12 @@
       "department": "政府管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.sg.pku.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 15,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
-        2026
+        2026,
+        2024
       ],
       "latestDate": "2026-01-01",
       "status": "covered"

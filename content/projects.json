@@ -22273,6 +22273,275 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-0f7478ea4a82",
+    "school": "北京大学",
+    "department": "政府管理学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 政府管理学院",
+    "tracks": [
+      "经管金融"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 6,
+        "stages": [
+          "复试/考核",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "专业型硕士",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2026-09-01",
+        "notices": [
+          {
+            "id": "college-a035155fa5ff",
+            "title": "北京大学政府管理学院2026年“申请-考核制”博士研究生招生复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/39d3133357ff45c1906284b1377e4486.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-328d837cfdcb",
+            "title": "政府管理学院关于2026年博士研究生招生指导教师的说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1387742.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-e4dd55fd9740",
+            "title": "北京大学政府管理学院2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1387741.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-18c26f915790",
+            "title": "北京大学政府管理学院2026年非全日制公共管理硕士（MPA）专业学位研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1387598.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-a62b0c8eab03",
+            "title": "北京大学政府管理学院 2026年推荐免试研究生招生复试通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-09-01",
+            "applicationEnd": "2026-09-01",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1387073.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-dfbcbbb2cdfe",
+            "title": "政府管理学院2026年关于接收推荐免试研究生的说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-01",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1386752.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 5,
+        "stages": [
+          "招生简章",
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "直博",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-08-10",
+        "lastApplicationEnd": "2023-08-30",
+        "notices": [
+          {
+            "id": "college-38cec7ed2d13",
+            "title": "北京大学政府管理学院2024年非全日制公共管理硕士（MPA）专业学位研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1370513.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-01974fad5d08",
+            "title": "北京大学政府管理学院2024年“申请-考核制”博士研究生招生复试通知（含硕博连读）",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1369794.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-12648f4526c8",
+            "title": "北京大学政府管理学院2024年博士研究生招生专业目录",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1369063.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-1c5fb32d0c72",
+            "title": "政府管理学院关于2024年博士研究生招生指导教师的说明",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1369062.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          },
+          {
+            "id": "college-d96ef37f18dd",
+            "title": "北京大学政府管理学院2024“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-08-10",
+            "applicationEnd": "2023-08-30",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.sg.pku.edu.cn/wzsy/syzsxx/1201900zfglxyx1369061.htm",
+            "sourceHost": "www.sg.pku.edu.cn",
+            "sourceHomepage": "https://www.sg.pku.edu.cn/",
+            "departmentHomepage": "http://www.sg.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 11,
+    "llmStructuredCount": 0,
+    "years": [
+      2026,
+      2024
+    ],
+    "stages": [
+      "复试/考核",
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "专业型硕士",
+      "直博",
+      "硕士"
+    ],
+    "majors": [
+      "政治学",
+      "公共管理"
+    ],
+    "sourceHosts": [
+      "www.sg.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.sg.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.sg.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-80651a7e0fb3",
     "school": "北京师范大学",
     "department": "北京师范大学校级/待分院",
