@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:35:28.227Z",
+  "generatedAt": "2026-07-30T03:35:30.952Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -488,8 +488,8 @@
       "department": "先进制造与机器人学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://amr.pku.edu.cn/",
-      "total": 12,
-      "recentFiveYears": 12,
+      "total": 13,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,

@@ -43762,6 +43762,134 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-3ed9c2816fa5",
+    "school": "北京大学",
+    "department": "先进制造与机器人学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 先进制造与机器人学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-06-25",
+        "notices": [
+          {
+            "id": "college-d96f5b6f77d1",
+            "title": "北京大学先进制造与机器人学院2026年全国优秀大学生暑期学科体验营成功举办",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://amr.pku.edu.cn/xwzx/xwkx/c51c737efc2d41f8bbd5acdacf78b39b.htm",
+            "sourceHost": "amr.pku.edu.cn",
+            "sourceHomepage": "https://amr.pku.edu.cn/",
+            "departmentHomepage": "https://amr.pku.edu.cn/"
+          },
+          {
+            "id": "college-2aa87cf8cb4a",
+            "title": "北京大学先进制造与机器人学院2026年全国优秀大学生暑期学科体验营成功举办 2026-07-16",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://amr.pku.edu.cn/xwzx/xwkx/c51c737efc2d41f8bbd5acdacf78b39b.htm",
+            "sourceHost": "amr.pku.edu.cn",
+            "sourceHomepage": "https://amr.pku.edu.cn/",
+            "departmentHomepage": "https://amr.pku.edu.cn/"
+          },
+          {
+            "id": "college-676aef6c5367",
+            "title": "09 2026-06 【暑期学科体验营】2026年北京大学先进制造与机器人学院全国优秀大学生暑期学科体验营报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-25",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://amr.pku.edu.cn/tzgg/a5d4c6ef29bd4a57b25649e7830a42fc.htm",
+            "sourceHost": "amr.pku.edu.cn",
+            "sourceHomepage": "https://amr.pku.edu.cn/",
+            "departmentHomepage": "https://amr.pku.edu.cn/"
+          },
+          {
+            "id": "college-c961adc7aa82",
+            "title": "北京大学先进制造与机器人学院2026年“申请-考核制”博士研究生招生说明 2025-10-20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
+            "sourceHost": "amr.pku.edu.cn",
+            "sourceHomepage": "https://amr.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 4,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士"
+    ],
+    "majors": [
+      "人工智能"
+    ],
+    "sourceHosts": [
+      "amr.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://amr.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://amr.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-35bfe59a53bc",
     "school": "北京理工大学",
     "department": "北京理工大学校级/待分院",
@@ -48014,118 +48142,6 @@
     ],
     "departmentHomepages": [
       "https://future.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-3ed9c2816fa5",
-    "school": "北京大学",
-    "department": "先进制造与机器人学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 先进制造与机器人学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "推免报名",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-06-25",
-        "notices": [
-          {
-            "id": "college-2aa87cf8cb4a",
-            "title": "北京大学先进制造与机器人学院2026年全国优秀大学生暑期学科体验营成功举办 2026-07-16",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://amr.pku.edu.cn/xwzx/xwkx/c51c737efc2d41f8bbd5acdacf78b39b.htm",
-            "sourceHost": "amr.pku.edu.cn",
-            "sourceHomepage": "https://amr.pku.edu.cn/",
-            "departmentHomepage": "https://amr.pku.edu.cn/"
-          },
-          {
-            "id": "college-676aef6c5367",
-            "title": "09 2026-06 【暑期学科体验营】2026年北京大学先进制造与机器人学院全国优秀大学生暑期学科体验营报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-06-25",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://amr.pku.edu.cn/tzgg/a5d4c6ef29bd4a57b25649e7830a42fc.htm",
-            "sourceHost": "amr.pku.edu.cn",
-            "sourceHomepage": "https://amr.pku.edu.cn/",
-            "departmentHomepage": "https://amr.pku.edu.cn/"
-          },
-          {
-            "id": "college-c961adc7aa82",
-            "title": "北京大学先进制造与机器人学院2026年“申请-考核制”博士研究生招生说明 2025-10-20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-12-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
-            "sourceHost": "amr.pku.edu.cn",
-            "sourceHomepage": "https://amr.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 3,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "推免报名",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士"
-    ],
-    "majors": [
-      "人工智能"
-    ],
-    "sourceHosts": [
-      "amr.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://amr.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://amr.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
