@@ -22273,6 +22273,265 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-bedf16b01ccf",
+    "school": "北京大学",
+    "department": "力学与工程科学学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 力学与工程科学学院",
+    "tracks": [
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 10,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-06-01",
+        "lastApplicationEnd": "2026-06-30",
+        "notices": [
+          {
+            "id": "college-7943713295d9",
+            "title": "【研究生】【夏令营】2026年北京大学力学与工程科学学院全国优秀大学生夏令营优秀营员（含递补）通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/13687d3bbc35427ebea1c4b475d0a351.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-b06a70cf8276",
+            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营优秀营员（含递补）通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/ac5474ff03b04ee180be7bc665a5d705.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-aa8b110b39be",
+            "title": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/2994358414a245afb6561bef3b0f04a5.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-a8dbce1cc65e",
+            "title": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营 2026.07.08",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/2994358414a245afb6561bef3b0f04a5.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-4f5a01d03336",
+            "title": "2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营正式开营",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/810f3adc26804d65ae3d12cbedb7d38c.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-8f77ef26c2d4",
+            "title": "【研究生】【夏令营】2026年北京大学力学与工程科学学院全国优秀大学生夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-30",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/e65c4e80558645e69723380cfcf3340b.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-c986e6a6b98c",
+            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/97dd4d0cf391438086eb87ed9a487fe6.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-e1f9429f6bb4",
+            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-22",
+            "applicationEnd": "2026-06-22",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/71d6283f14b54088934c2d7648948a11.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-d1bdbcdbcb48",
+            "title": "【研究生】【夏令营】力学与工程科学学院2026年全国优秀大学生夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-22",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/3d8fc64c92f8495daa931008015aa996.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          },
+          {
+            "id": "college-6b575b95d3b5",
+            "title": "北京大学2026年接收推荐免试研究生办法（校本部）(点击下载）",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bstjms/index.htm?CSRFT=7YWG-TX1N-O1C3-Z0IL-3DQO-JWOY-44TS-RJL1",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-09-01",
+        "lastApplicationEnd": "2025-09-10",
+        "notices": [
+          {
+            "id": "college-e5d28af7a920",
+            "title": "北京大学2025年接收推荐免试研究生办法（力学与工程科学学院）",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/04b9d9e0436448dfa80c1ed44578b22b.htm",
+            "sourceHost": "mech.pku.edu.cn",
+            "sourceHomepage": "https://mech.pku.edu.cn/",
+            "departmentHomepage": "https://mech.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 11,
+    "llmStructuredCount": 2,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "专业型硕士",
+      "待确认",
+      "直博"
+    ],
+    "majors": [],
+    "sourceHosts": [
+      "mech.pku.edu.cn",
+      "admission.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://mech.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://mech.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-0f7478ea4a82",
     "school": "北京大学",
     "department": "政府管理学院",
@@ -28051,233 +28310,6 @@
     ],
     "departmentHomepages": [
       "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-bedf16b01ccf",
-    "school": "北京大学",
-    "department": "力学与工程科学学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 力学与工程科学学院",
-    "tracks": [
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 8,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-06-01",
-        "lastApplicationEnd": "2026-06-30",
-        "notices": [
-          {
-            "id": "college-aa8b110b39be",
-            "title": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/2994358414a245afb6561bef3b0f04a5.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-a8dbce1cc65e",
-            "title": "北京大学力学与工程科学学院2026年全国优秀大学生夏令营正式开营 2026.07.08",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/2994358414a245afb6561bef3b0f04a5.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-4f5a01d03336",
-            "title": "2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营正式开营",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/xwzx/xwkx/810f3adc26804d65ae3d12cbedb7d38c.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-8f77ef26c2d4",
-            "title": "【研究生】【夏令营】2026年北京大学力学与工程科学学院全国优秀大学生夏令营参营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-06-30",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/e65c4e80558645e69723380cfcf3340b.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-c986e6a6b98c",
-            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营参营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/97dd4d0cf391438086eb87ed9a487fe6.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-e1f9429f6bb4",
-            "title": "【研究生】【机械专业夏令营】2026年北京大学力学与工程科学学院全国优秀大学生机械专业夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-22",
-            "applicationEnd": "2026-06-22",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/zyxwjy/tzgg4/71d6283f14b54088934c2d7648948a11.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-d1bdbcdbcb48",
-            "title": "【研究生】【夏令营】力学与工程科学学院2026年全国优秀大学生夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-22",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/3d8fc64c92f8495daa931008015aa996.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          },
-          {
-            "id": "college-6b575b95d3b5",
-            "title": "北京大学2026年接收推荐免试研究生办法（校本部）(点击下载）",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bstjms/index.htm?CSRFT=7YWG-TX1N-O1C3-Z0IL-3DQO-JWOY-44TS-RJL1",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-09-01",
-        "lastApplicationEnd": "2025-09-10",
-        "notices": [
-          {
-            "id": "college-e5d28af7a920",
-            "title": "北京大学2025年接收推荐免试研究生办法（力学与工程科学学院）",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://mech.pku.edu.cn/jyjx/yjsjy/tzgg1/04b9d9e0436448dfa80c1ed44578b22b.htm",
-            "sourceHost": "mech.pku.edu.cn",
-            "sourceHomepage": "https://mech.pku.edu.cn/",
-            "departmentHomepage": "https://mech.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 9,
-    "llmStructuredCount": 2,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "专业型硕士",
-      "待确认",
-      "直博"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "mech.pku.edu.cn",
-      "admission.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://mech.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://mech.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

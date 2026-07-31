@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:35:30.952Z",
+  "generatedAt": "2026-07-31T04:00:07.801Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -470,8 +470,8 @@
       "department": "力学与工程科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://mech.pku.edu.cn/",
-      "total": 19,
-      "recentFiveYears": 18,
+      "total": 21,
+      "recentFiveYears": 20,
       "currentSeason": 0,
       "years": [
         2026,
