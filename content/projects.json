@@ -74648,6 +74648,86 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-a5f2f6466e5e",
+    "school": "复旦大学",
+    "department": "生物技术学院",
+    "region": "上海",
+    "levels": [],
+    "title": "复旦大学 · 生物技术学院",
+    "tracks": [
+      "医学药学",
+      "理工基础",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 1,
+        "stages": [
+          "直博"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2026-08-01",
+        "lastPublishedAt": "2026-08-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "auto-a0bc2e288fd3",
+            "title": "复旦大学生物技术学院2027级直博生招生报名通知",
+            "stage": "直博",
+            "year": 2026,
+            "publishedAt": "2026-08-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://mp.weixin.qq.com/s/rPWqABhXAJrS-pMbHYzy1Q",
+            "sourceHost": "mp.weixin.qq.com",
+            "sourceHomepage": "https://mp.weixin.qq.com/",
+            "departmentHomepage": "https://mp.weixin.qq.com/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 1,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "直博"
+    ],
+    "degreeTypes": [
+      "直博"
+    ],
+    "majors": [
+      "化学",
+      "生物学",
+      "材料科学与工程",
+      "环境科学与工程",
+      "生物医学工程",
+      "基础医学"
+    ],
+    "sourceHosts": [
+      "mp.weixin.qq.com"
+    ],
+    "sourceHomepages": [
+      "https://mp.weixin.qq.com/"
+    ],
+    "departmentHomepages": [
+      "https://mp.weixin.qq.com/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-8edece114f75",
     "school": "复旦大学",
     "department": "数学科学学院,上海数学中心",
