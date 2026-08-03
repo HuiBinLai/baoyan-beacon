@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T03:29:31.274Z",
+  "generatedAt": "2026-08-03T03:38:35.980Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,8 +9,8 @@
     2022
   ],
   "totals": {
-    "units": 1134,
-    "covered": 766,
+    "units": 1135,
+    "covered": 767,
     "stale": 5,
     "missing": 363,
     "currentSeasonCovered": 34
@@ -4203,6 +4203,21 @@
         2022
       ],
       "latestDate": "2022-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "a5f2f6466e",
+      "school": "复旦大学",
+      "department": "生物技术学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://mp.weixin.qq.com/s/rPWqABhXAJrS-pMbHYzy1Q",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-08-01",
       "status": "covered"
     },
     {

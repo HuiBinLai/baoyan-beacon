@@ -2536,6 +2536,19 @@
     "priority": 9037
   },
   {
+    "id": "a5f2f6466e",
+    "school": "复旦大学",
+    "department": "生物技术学院",
+    "aliases": [
+      "生物技术学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://mp.weixin.qq.com/s/rPWqABhXAJrS-pMbHYzy1Q",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 4,
+    "priority": 9000
+  },
+  {
     "id": "2375fac2b6",
     "school": "复旦大学",
     "department": "高等教育研究所",
