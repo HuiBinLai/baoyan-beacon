@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T03:38:34.727Z",
+  "generatedAt": "2026-08-04T03:42:50.654Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2292,
+    "notices": 2296,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 375,
+      "total": 377,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 63,
@@ -82,12 +82,12 @@
     {
       "school": "南京大学",
       "region": "江苏",
-      "total": 37,
+      "total": 39,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 17,
       "llmStructured": 37,
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-08-03",
       "status": "stale"
     },
     {
@@ -649,7 +649,7 @@
       "id": "auto-cebf12ced5cb",
       "school": "北京大学",
       "department": "环境科学与工程学院",
-      "total": 15,
+      "total": 16,
       "years": [
         2027,
         2026,
@@ -1253,7 +1253,7 @@
       "id": "auto-a76c22caf7f0",
       "school": "北京大学",
       "department": "智能学院",
-      "total": 12,
+      "total": 13,
       "years": [
         2026,
         2025,

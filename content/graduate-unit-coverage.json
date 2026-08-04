@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T03:38:35.980Z",
+  "generatedAt": "2026-08-04T03:42:51.958Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -287,8 +287,8 @@
       "department": "智能学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://sai.pku.edu.cn/",
-      "total": 24,
-      "recentFiveYears": 24,
+      "total": 25,
+      "recentFiveYears": 25,
       "currentSeason": 0,
       "years": [
         2026,
@@ -539,8 +539,8 @@
       "department": "环境科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://cese.pku.edu.cn/",
-      "total": 26,
-      "recentFiveYears": 20,
+      "total": 27,
+      "recentFiveYears": 21,
       "currentSeason": 1,
       "years": [
         2027,
