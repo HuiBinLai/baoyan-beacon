@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:42:51.958Z",
+  "generatedAt": "2026-08-05T03:42:20.072Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -15205,8 +15205,8 @@
       "department": "国际金融研究院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://iif.ustc.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 5,
+      "total": 20,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15536,8 +15536,8 @@
       "department": "管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://mf.ustc.edu.cn/2024/0529/c14030a642293/page.htm",
-      "total": 38,
-      "recentFiveYears": 31,
+      "total": 46,
+      "recentFiveYears": 36,
       "currentSeason": 0,
       "years": [
         2026,

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T03:42:50.654Z",
+  "generatedAt": "2026-08-05T03:42:18.717Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2296,
+    "notices": 2306,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 229,
+      "total": 239,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -3207,7 +3207,7 @@
       "id": "auto-17b841659512",
       "school": "中国科学技术大学",
       "department": "国际金融研究院",
-      "total": 10,
+      "total": 20,
       "years": [
         2026,
         2025,
