@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T05:45:32.070Z",
+  "generatedAt": "2026-08-08T03:30:19.033Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2306,
+    "notices": 2311,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 347,
+      "total": 352,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 50,
@@ -2545,7 +2545,7 @@
       "id": "auto-e104caede43a",
       "school": "上海交通大学",
       "department": "系统生物医学研究院",
-      "total": 10,
+      "total": 15,
       "years": [
         2026,
         2025,

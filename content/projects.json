@@ -16029,6 +16029,364 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-d7b944c65b0d",
+    "school": "上海交通大学",
+    "department": "系统生物医学研究院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 系统生物医学研究院",
+    "tracks": [
+      "医学药学",
+      "理工基础",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-07-17",
+        "lastApplicationEnd": "2026-07-11",
+        "notices": [
+          {
+            "id": "college-e5bd55532501",
+            "title": "上海交通大学系统生物医学研究院全国优秀大学生学...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-17",
+            "applicationEnd": "2026-07-11",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12906.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-52e2290fb60b",
+            "title": "上海交通大学系统生物医学研究院全国优秀大学生学...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12890.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-78bffcf937ad",
+            "title": "2026研究生招生宣传及导师介绍",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12893.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4de0fa6b3e1d",
+            "title": "系统生物医学研究院2026级推免研究生（直博生...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12762.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-91ca58e5a94f",
+            "title": "系统生物医学研究院2026级推免研究生（仅直博...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-14",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12759.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fd0436e45404",
+            "title": "> 2026研究生招生宣传及导师介绍",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12893.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1a119bff3821",
+            "title": "> 上海交通大学系统生物医学研究院全国优秀大学生学术交流夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12890.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d7ee1db4c4fb",
+            "title": "> 上海交通大学系统生物医学研究院2026级申请考核制、硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12773.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-06334b384061",
+            "title": "> 系统生物医学研究院2026级推免研究生（仅直博生）选拔通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-14",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12759.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "复试/考核",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-12-15",
+        "lastApplicationEnd": "2025-03-22",
+        "notices": [
+          {
+            "id": "college-ec86f02866bd",
+            "title": "> 上海交通大学系统生物医学研究院2025级硕士研究生招生复试通知",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-03-22",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12725.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fcf0e109803a",
+            "title": "> 上海交通大学系统生物医学研究院2025级申请考核制、硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-12-15",
+            "applicationEnd": "2025-03-08",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12706.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 4,
+        "stages": [
+          "复试/考核",
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2024-03-22",
+        "notices": [
+          {
+            "id": "college-8162bb6983a3",
+            "title": "> 上海交通大学系统生物医学研究院2024级硕士研究生招生复试通知",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-03-22",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12651.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-9ae4485233aa",
+            "title": "> 系统生物医学研究院2024级第二批申请考核制/硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12644.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-0177175f3871",
+            "title": "> 系统生物医学研究院2024级推免研究生选拔办法（含直博生）",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-09-23",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12611.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8f403d5538e8",
+            "title": "> 2024级申请考核制/硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12621.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 15,
+    "llmStructuredCount": 1,
+    "years": [
+      2026,
+      2025,
+      2024
+    ],
+    "stages": [
+      "推免报名",
+      "夏令营/研学营",
+      "招生简章",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "直博",
+      "硕士",
+      "学术型硕士"
+    ],
+    "majors": [
+      "教育学",
+      "数学",
+      "化学",
+      "生物学",
+      "临床医学"
+    ],
+    "sourceHosts": [
+      "scsb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://scsb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://scsb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-175efe2a2dd7",
     "school": "上海交通大学",
     "department": "药学院",
@@ -27407,284 +27765,6 @@
       "http://yz.neu.edu.cn/",
       "http://www.graduate.neu.edu.cn/",
       "http://neunews.neu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-d7b944c65b0d",
-    "school": "上海交通大学",
-    "department": "系统生物医学研究院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 系统生物医学研究院",
-    "tracks": [
-      "医学药学",
-      "理工基础",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2025-09-14",
-        "notices": [
-          {
-            "id": "college-fd0436e45404",
-            "title": "> 2026研究生招生宣传及导师介绍",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12893.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-1a119bff3821",
-            "title": "> 上海交通大学系统生物医学研究院全国优秀大学生学术交流夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12890.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d7ee1db4c4fb",
-            "title": "> 上海交通大学系统生物医学研究院2026级申请考核制、硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12773.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-06334b384061",
-            "title": "> 系统生物医学研究院2026级推免研究生（仅直博生）选拔通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-14",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12759.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "复试/考核",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-12-15",
-        "lastApplicationEnd": "2025-03-22",
-        "notices": [
-          {
-            "id": "college-ec86f02866bd",
-            "title": "> 上海交通大学系统生物医学研究院2025级硕士研究生招生复试通知",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-03-22",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12725.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-fcf0e109803a",
-            "title": "> 上海交通大学系统生物医学研究院2025级申请考核制、硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-12-15",
-            "applicationEnd": "2025-03-08",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12706.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 4,
-        "stages": [
-          "复试/考核",
-          "招生简章",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2024-03-22",
-        "notices": [
-          {
-            "id": "college-8162bb6983a3",
-            "title": "> 上海交通大学系统生物医学研究院2024级硕士研究生招生复试通知",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-03-22",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12651.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-9ae4485233aa",
-            "title": "> 系统生物医学研究院2024级第二批申请考核制/硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12644.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-0177175f3871",
-            "title": "> 系统生物医学研究院2024级推免研究生选拔办法（含直博生）",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-09-23",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12611.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-8f403d5538e8",
-            "title": "> 2024级申请考核制/硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12621.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 10,
-    "llmStructuredCount": 1,
-    "years": [
-      2026,
-      2025,
-      2024
-    ],
-    "stages": [
-      "推免报名",
-      "夏令营/研学营",
-      "招生简章",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "直博",
-      "硕士",
-      "学术型硕士"
-    ],
-    "majors": [
-      "教育学",
-      "数学",
-      "化学",
-      "生物学",
-      "临床医学"
-    ],
-    "sourceHosts": [
-      "scsb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://scsb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://scsb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
