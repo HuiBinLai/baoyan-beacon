@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T03:30:19.033Z",
+  "generatedAt": "2026-08-09T03:13:54.653Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2311,
+    "notices": 2316,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -82,12 +82,12 @@
     {
       "school": "南京大学",
       "region": "江苏",
-      "total": 39,
+      "total": 44,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 17,
       "llmStructured": 37,
-      "latestDate": "2026-08-03",
+      "latestDate": "2026-08-08",
       "status": "stale"
     },
     {

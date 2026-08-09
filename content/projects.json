@@ -10497,6 +10497,507 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-479e1b2fe2ea",
+    "school": "南京大学",
+    "department": "南京大学校级/待分院",
+    "region": "江苏",
+    "levels": [
+      "985"
+    ],
+    "title": "南京大学 · 南京大学校级/待分院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [
+      "学院待复核"
+    ],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 10,
+        "stages": [
+          "预推免",
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-08-08",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "auto-fd81aef56610",
+            "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-08-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/d5/21/c47863a840993/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "auto-5fac7194ced0",
+            "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-08-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/d4/e2/c47863a840930/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "auto-d3e1678e3eda",
+            "title": "南京大学2027年“国优计划”推荐免试硕士研究生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-08-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/d4/e1/c47863a840929/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "auto-0d9bfa000ad7",
+            "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-08-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/d5/22/c47865a840994/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "auto-f76bb5f2f7b1",
+            "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-08-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/d4/e3/c47865a840931/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "auto-9c158e824c4e",
+            "title": "南京大学2027年接收推荐免试研究生预报名通知",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-08-03",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/d4/52/c47863a840786/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "auto-3f623a897d18",
+            "title": "南京大学2027年接收推荐免试研究生预报名通知",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-08-03",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/d4/56/c47865a840790/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "search-08bb26c81525",
+            "title": "南京大学2026 年接收 推荐免试研究生 工作办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/07/0b/c47865a788235/pagem.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "search-6df1b80bc0fe",
+            "title": "南京大学2026 年接收推荐免试研究生预报名 通知",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/cb/cc/c47865a773068/pagem.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "search-a6d68cfbb3dc",
+            "title": "夏令营 / 推免",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/xlyxx/",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 3,
+        "stages": [
+          "推免报名",
+          "预推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "search-56d915d2531e",
+            "title": "南京大学 召开 2025 年接收 推荐免试研究生 工作布置会-南京大学材料...",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://molab.nju.edu.cn/info/1003/1003.htm",
+            "sourceHost": "molab.nju.edu.cn",
+            "sourceHomepage": "https://molab.nju.edu.cn/",
+            "departmentHomepage": "https://molab.nju.edu.cn/"
+          },
+          {
+            "id": "search-d06404d74ce7",
+            "title": "南京大学2025 年接收 推荐免试研究生 工作办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/yw/ed/ad/c48430a716205/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "search-89818200c28f",
+            "title": "南京大学2025 年接收推荐免试研究生预报名 通知",
+            "stage": "预推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/ca/fc/c47863a707324/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 3,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "search-e71bb9cc5833",
+            "title": "关于申请 南京大学2024 年 推荐免试研究生 流程的提醒",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/be/1c/c47863a638492/page.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "search-ab0eb0be2414",
+            "title": "南京大学 2024 年接收 推荐免试研究生 工作办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/bb/ca/c47863a637898/pagem.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          },
+          {
+            "id": "search-312069f82ca0",
+            "title": "南京大学2024 年全国优秀大学生 夏令营 通知信息汇总(持续更新)",
+            "stage": "夏令营/研学营",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/64/b3/c47863a681139/pagem.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "预推免",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "直博",
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2022-08-16",
+        "lastApplicationEnd": "2022-09-15",
+        "notices": [
+          {
+            "id": "search-98453c1776cc",
+            "title": "2023 年接收推荐免试研究生预报名 通知",
+            "stage": "预推免",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2022-08-16",
+            "applicationEnd": "2022-09-15",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://arch.nju.edu.cn/rcpy/yjs/pyfa/20220816/i226494.html",
+            "sourceHost": "arch.nju.edu.cn",
+            "sourceHomepage": "https://arch.nju.edu.cn/",
+            "departmentHomepage": "https://arch.nju.edu.cn/"
+          },
+          {
+            "id": "search-5bbfababd5b8",
+            "title": "南京大学2023 年全国优秀大学生 夏令营 通知信息汇总(持续更新)",
+            "stage": "夏令营/研学营",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzb.nju.edu.cn/8c/b0/c47868a625840/pagem.htm",
+            "sourceHost": "yzb.nju.edu.cn",
+            "sourceHomepage": "https://yzb.nju.edu.cn/",
+            "departmentHomepage": "https://yzb.nju.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 3,
+        "stages": [
+          "推免报名",
+          "预推免",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2021-08-20",
+        "lastApplicationEnd": "2021-09-15",
+        "notices": [
+          {
+            "id": "search-a70090df528f",
+            "title": "南京大学 2022 年接收 推荐免试研究生 申请材料清单",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://grawww.nju.edu.cn/_upload/article/files/18/68/c652bfc44e228cb6b62a8c0c4c3f/25c5f4df-ca27-4f8e-843b-72f75636c708.pdf",
+            "sourceHost": "grawww.nju.edu.cn",
+            "sourceHomepage": "https://grawww.nju.edu.cn/",
+            "departmentHomepage": "https://grawww.nju.edu.cn/"
+          },
+          {
+            "id": "search-518cf97ab737",
+            "title": "南京大学2022 年接收推荐免试研究生预报名 通知",
+            "stage": "预推免",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2021-08-20",
+            "applicationEnd": "2021-09-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://software.nju.edu.cn/tzgg/20210820/i205129.html",
+            "sourceHost": "software.nju.edu.cn",
+            "sourceHomepage": "https://software.nju.edu.cn/",
+            "departmentHomepage": "https://software.nju.edu.cn/"
+          },
+          {
+            "id": "search-2996343809b2",
+            "title": "南京大学2022 年全国优秀大学生 夏令营 通知信息汇总(持续更新中)",
+            "stage": "夏令营/研学营",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://grawww.nju.edu.cn/b8/12/c905a571410/page.htm",
+            "sourceHost": "grawww.nju.edu.cn",
+            "sourceHomepage": "https://grawww.nju.edu.cn/",
+            "departmentHomepage": "https://grawww.nju.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 21,
+    "llmStructuredCount": 14,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ],
+    "stages": [
+      "预推免",
+      "推免报名",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士",
+      "博士",
+      "直博",
+      "专业型硕士"
+    ],
+    "majors": [
+      "待结构化",
+      "城乡规划学学术",
+      "城市规划专业硕士",
+      "085100建筑学专业硕士",
+      "085300城市规划专业硕士"
+    ],
+    "sourceHosts": [
+      "yzb.nju.edu.cn",
+      "molab.nju.edu.cn",
+      "arch.nju.edu.cn",
+      "grawww.nju.edu.cn",
+      "software.nju.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzb.nju.edu.cn/",
+      "https://molab.nju.edu.cn/",
+      "https://arch.nju.edu.cn/",
+      "https://grawww.nju.edu.cn/",
+      "https://software.nju.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yzb.nju.edu.cn/",
+      "https://molab.nju.edu.cn/",
+      "https://arch.nju.edu.cn/",
+      "https://grawww.nju.edu.cn/",
+      "https://software.nju.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-7f204bf104d3",
     "school": "上海交通大学",
     "department": "燃气轮机研究院",
@@ -14025,425 +14526,6 @@
       "https://gra.hnu.edu.cn/",
       "http://gra.hnu.edu.cn/",
       "http://law.hnu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-479e1b2fe2ea",
-    "school": "南京大学",
-    "department": "南京大学校级/待分院",
-    "region": "江苏",
-    "levels": [
-      "985"
-    ],
-    "title": "南京大学 · 南京大学校级/待分院",
-    "tracks": [
-      "综合/待确认"
-    ],
-    "qualityFlags": [
-      "学院待复核"
-    ],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "预推免",
-          "推免报名",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-08-03",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "auto-9c158e824c4e",
-            "title": "南京大学2027年接收推荐免试研究生预报名通知",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-08-03",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/d4/52/c47863a840786/page.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          },
-          {
-            "id": "auto-3f623a897d18",
-            "title": "南京大学2027年接收推荐免试研究生预报名通知",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-08-03",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/d4/56/c47865a840790/page.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          },
-          {
-            "id": "search-08bb26c81525",
-            "title": "南京大学2026 年接收 推荐免试研究生 工作办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/07/0b/c47865a788235/pagem.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          },
-          {
-            "id": "search-6df1b80bc0fe",
-            "title": "南京大学2026 年接收推荐免试研究生预报名 通知",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/cb/cc/c47865a773068/pagem.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          },
-          {
-            "id": "search-a6d68cfbb3dc",
-            "title": "夏令营 / 推免",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/xlyxx/",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "推免报名",
-          "预推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "search-56d915d2531e",
-            "title": "南京大学 召开 2025 年接收 推荐免试研究生 工作布置会-南京大学材料...",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://molab.nju.edu.cn/info/1003/1003.htm",
-            "sourceHost": "molab.nju.edu.cn",
-            "sourceHomepage": "https://molab.nju.edu.cn/",
-            "departmentHomepage": "https://molab.nju.edu.cn/"
-          },
-          {
-            "id": "search-d06404d74ce7",
-            "title": "南京大学2025 年接收 推荐免试研究生 工作办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/yw/ed/ad/c48430a716205/page.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          },
-          {
-            "id": "search-89818200c28f",
-            "title": "南京大学2025 年接收推荐免试研究生预报名 通知",
-            "stage": "预推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/ca/fc/c47863a707324/page.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 3,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "search-e71bb9cc5833",
-            "title": "关于申请 南京大学2024 年 推荐免试研究生 流程的提醒",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/be/1c/c47863a638492/page.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          },
-          {
-            "id": "search-ab0eb0be2414",
-            "title": "南京大学 2024 年接收 推荐免试研究生 工作办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/bb/ca/c47863a637898/pagem.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          },
-          {
-            "id": "search-312069f82ca0",
-            "title": "南京大学2024 年全国优秀大学生 夏令营 通知信息汇总(持续更新)",
-            "stage": "夏令营/研学营",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/64/b3/c47863a681139/pagem.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "预推免",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "直博",
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2022-08-16",
-        "lastApplicationEnd": "2022-09-15",
-        "notices": [
-          {
-            "id": "search-98453c1776cc",
-            "title": "2023 年接收推荐免试研究生预报名 通知",
-            "stage": "预推免",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2022-08-16",
-            "applicationEnd": "2022-09-15",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://arch.nju.edu.cn/rcpy/yjs/pyfa/20220816/i226494.html",
-            "sourceHost": "arch.nju.edu.cn",
-            "sourceHomepage": "https://arch.nju.edu.cn/",
-            "departmentHomepage": "https://arch.nju.edu.cn/"
-          },
-          {
-            "id": "search-5bbfababd5b8",
-            "title": "南京大学2023 年全国优秀大学生 夏令营 通知信息汇总(持续更新)",
-            "stage": "夏令营/研学营",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzb.nju.edu.cn/8c/b0/c47868a625840/pagem.htm",
-            "sourceHost": "yzb.nju.edu.cn",
-            "sourceHomepage": "https://yzb.nju.edu.cn/",
-            "departmentHomepage": "https://yzb.nju.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 3,
-        "stages": [
-          "推免报名",
-          "预推免",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2021-08-20",
-        "lastApplicationEnd": "2021-09-15",
-        "notices": [
-          {
-            "id": "search-a70090df528f",
-            "title": "南京大学 2022 年接收 推荐免试研究生 申请材料清单",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://grawww.nju.edu.cn/_upload/article/files/18/68/c652bfc44e228cb6b62a8c0c4c3f/25c5f4df-ca27-4f8e-843b-72f75636c708.pdf",
-            "sourceHost": "grawww.nju.edu.cn",
-            "sourceHomepage": "https://grawww.nju.edu.cn/",
-            "departmentHomepage": "https://grawww.nju.edu.cn/"
-          },
-          {
-            "id": "search-518cf97ab737",
-            "title": "南京大学2022 年接收推荐免试研究生预报名 通知",
-            "stage": "预推免",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2021-08-20",
-            "applicationEnd": "2021-09-15",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://software.nju.edu.cn/tzgg/20210820/i205129.html",
-            "sourceHost": "software.nju.edu.cn",
-            "sourceHomepage": "https://software.nju.edu.cn/",
-            "departmentHomepage": "https://software.nju.edu.cn/"
-          },
-          {
-            "id": "search-2996343809b2",
-            "title": "南京大学2022 年全国优秀大学生 夏令营 通知信息汇总(持续更新中)",
-            "stage": "夏令营/研学营",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://grawww.nju.edu.cn/b8/12/c905a571410/page.htm",
-            "sourceHost": "grawww.nju.edu.cn",
-            "sourceHomepage": "https://grawww.nju.edu.cn/",
-            "departmentHomepage": "https://grawww.nju.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 16,
-    "llmStructuredCount": 14,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023,
-      2022
-    ],
-    "stages": [
-      "预推免",
-      "推免报名",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "博士",
-      "待确认",
-      "直博",
-      "专业型硕士"
-    ],
-    "majors": [
-      "待结构化",
-      "城乡规划学学术",
-      "城市规划专业硕士",
-      "085100建筑学专业硕士",
-      "085300城市规划专业硕士"
-    ],
-    "sourceHosts": [
-      "yzb.nju.edu.cn",
-      "molab.nju.edu.cn",
-      "arch.nju.edu.cn",
-      "grawww.nju.edu.cn",
-      "software.nju.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yzb.nju.edu.cn/",
-      "https://molab.nju.edu.cn/",
-      "https://arch.nju.edu.cn/",
-      "https://grawww.nju.edu.cn/",
-      "https://software.nju.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yzb.nju.edu.cn/",
-      "https://molab.nju.edu.cn/",
-      "https://arch.nju.edu.cn/",
-      "https://grawww.nju.edu.cn/",
-      "https://software.nju.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
