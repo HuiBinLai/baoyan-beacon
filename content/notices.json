@@ -1,205 +1,5 @@
 [
   {
-    "id": "auto-fd81aef56610",
-    "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "预推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-08",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d5/21/c47863a840993/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-09",
-    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名截止时间汇总。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "预推免",
-    "classifiedAt": "2026-08-09"
-  },
-  {
-    "id": "auto-5fac7194ced0",
-    "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-08",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d4/e2/c47863a840930/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-09",
-    "sourceExcerpt": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-09"
-  },
-  {
-    "id": "auto-d3e1678e3eda",
-    "title": "南京大学2027年“国优计划”推荐免试硕士研究生报名通知",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-08",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d4/e1/c47863a840929/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "硕士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-09",
-    "sourceExcerpt": "南京大学2027年“国优计划”推荐免试硕士研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-09"
-  },
-  {
-    "id": "auto-0d9bfa000ad7",
-    "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "预推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-08",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d5/22/c47865a840994/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-09",
-    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名截止时间汇总。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "预推免",
-    "classifiedAt": "2026-08-09"
-  },
-  {
-    "id": "auto-f76bb5f2f7b1",
-    "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-08",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d4/e3/c47865a840931/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-09",
-    "sourceExcerpt": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-09"
-  },
-  {
     "id": "college-ca8bbb9483ed",
     "title": "中国人民大学哲学院2027年推免生接收工作报名通知 more",
     "school": "中国人民大学",
@@ -29663,6 +29463,206 @@
     "sourceHost": "marx.lzu.edu.cn",
     "sourceHomepage": "https://marx.lzu.edu.cn/",
     "departmentHomepage": "https://marx.lzu.edu.cn/"
+  },
+  {
+    "id": "auto-fd81aef56610",
+    "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "预推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-08",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d5/21/c47863a840993/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-09",
+    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名截止时间汇总。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "预推免",
+    "classifiedAt": "2026-08-09"
+  },
+  {
+    "id": "auto-5fac7194ced0",
+    "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-08",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d4/e2/c47863a840930/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-09",
+    "sourceExcerpt": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-09"
+  },
+  {
+    "id": "auto-d3e1678e3eda",
+    "title": "南京大学2027年“国优计划”推荐免试硕士研究生报名通知",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-08",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d4/e1/c47863a840929/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-09",
+    "sourceExcerpt": "南京大学2027年“国优计划”推荐免试硕士研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-09"
+  },
+  {
+    "id": "auto-0d9bfa000ad7",
+    "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "预推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-08",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d5/22/c47865a840994/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-09",
+    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名截止时间汇总。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "预推免",
+    "classifiedAt": "2026-08-09"
+  },
+  {
+    "id": "auto-f76bb5f2f7b1",
+    "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-08",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d4/e3/c47865a840931/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-09",
+    "sourceExcerpt": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-09"
   },
   {
     "id": "auto-9c158e824c4e",
