@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T03:32:13.690Z",
+  "generatedAt": "2026-08-12T03:23:52.623Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2316,
+    "notices": 2317,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 377,
+      "total": 378,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 63,
@@ -459,7 +459,7 @@
       "id": "auto-be14dcbc0e21",
       "school": "北京大学",
       "department": "材料科学与工程学院",
-      "total": 21,
+      "total": 22,
       "years": [
         2026,
         2025,
