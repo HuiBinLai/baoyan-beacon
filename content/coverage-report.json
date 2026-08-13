@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T03:23:52.623Z",
+  "generatedAt": "2026-08-13T03:07:30.341Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2317,
+    "notices": 2321,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 242,
+      "total": 246,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -1385,7 +1385,7 @@
       "id": "auto-d3ad835c55a1",
       "school": "清华大学",
       "department": "工艺美术系",
-      "total": 27,
+      "total": 29,
       "years": [
         2027,
         2026,
@@ -1537,7 +1537,7 @@
       "id": "auto-e2bf126a21a7",
       "school": "清华大学",
       "department": "环境艺术设计系",
-      "total": 27,
+      "total": 29,
       "years": [
         2027,
         2026,
@@ -1626,7 +1626,7 @@
       "id": "auto-e0050b4ec741",
       "school": "清华大学",
       "department": "建筑技术科学系",
-      "total": 27,
+      "total": 29,
       "years": [
         2027,
         2026,
@@ -1754,7 +1754,7 @@
       "id": "auto-b44a5c981efa",
       "school": "清华大学",
       "department": "领导力与组织管理系",
-      "total": 18,
+      "total": 19,
       "years": [
         2027,
         2026,
@@ -1806,7 +1806,7 @@
       "id": "auto-1ac063963b25",
       "school": "清华大学",
       "department": "人工智能学院",
-      "total": 27,
+      "total": 29,
       "years": [
         2027,
         2026,
@@ -1831,7 +1831,7 @@
       "id": "auto-cd1e5a886948",
       "school": "清华大学",
       "department": "市场营销系",
-      "total": 2,
+      "total": 3,
       "years": [
         2026,
         2025
@@ -1962,7 +1962,7 @@
       "id": "auto-6e523fba3bb2",
       "school": "清华大学",
       "department": "信息艺术设计系",
-      "total": 27,
+      "total": 29,
       "years": [
         2027,
         2026,
@@ -1976,7 +1976,7 @@
       "id": "auto-9da0519b89bc",
       "school": "清华大学",
       "department": "药学院",
-      "total": 3,
+      "total": 4,
       "years": [
         2027,
         2026
@@ -2035,7 +2035,7 @@
       "id": "auto-cdcba6c3f5c5",
       "school": "清华大学",
       "department": "政治学系",
-      "total": 28,
+      "total": 31,
       "years": [
         2027,
         2026,

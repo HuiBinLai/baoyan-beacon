@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:23:53.965Z",
+  "generatedAt": "2026-08-13T03:07:31.664Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -7073,9 +7073,9 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 34,
-      "recentFiveYears": 32,
-      "currentSeason": 2,
+      "total": 36,
+      "recentFiveYears": 33,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -7206,9 +7206,9 @@
       "department": "药学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.sps.tsinghua.edu.cn/",
-      "total": 3,
+      "total": 4,
       "recentFiveYears": 2,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026
@@ -7438,9 +7438,9 @@
       "department": "领导力与组织管理系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/lom/",
-      "total": 18,
+      "total": 19,
       "recentFiveYears": 16,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -7471,8 +7471,8 @@
       "department": "市场营销系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mark/",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7655,8 +7655,8 @@
       "department": "政治学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.dps.tsinghua.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026
@@ -8076,9 +8076,9 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 27,
-      "recentFiveYears": 25,
-      "currentSeason": 2,
+      "total": 29,
+      "recentFiveYears": 26,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
