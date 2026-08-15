@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T03:07:11.606Z",
+  "generatedAt": "2026-08-15T02:35:13.725Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2321,
+    "notices": 2325,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 246,
+      "total": 250,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -1385,7 +1385,7 @@
       "id": "auto-d3ad835c55a1",
       "school": "清华大学",
       "department": "工艺美术系",
-      "total": 29,
+      "total": 32,
       "years": [
         2027,
         2026,
@@ -1399,7 +1399,7 @@
       "id": "auto-de047849affc",
       "school": "清华大学",
       "department": "管理科学与工程系",
-      "total": 15,
+      "total": 18,
       "years": [
         2026,
         2025
@@ -1537,7 +1537,7 @@
       "id": "auto-e2bf126a21a7",
       "school": "清华大学",
       "department": "环境艺术设计系",
-      "total": 29,
+      "total": 32,
       "years": [
         2027,
         2026,
@@ -1626,7 +1626,7 @@
       "id": "auto-e0050b4ec741",
       "school": "清华大学",
       "department": "建筑技术科学系",
-      "total": 29,
+      "total": 32,
       "years": [
         2027,
         2026,
@@ -1806,7 +1806,7 @@
       "id": "auto-1ac063963b25",
       "school": "清华大学",
       "department": "人工智能学院",
-      "total": 29,
+      "total": 32,
       "years": [
         2027,
         2026,
@@ -1962,7 +1962,7 @@
       "id": "auto-6e523fba3bb2",
       "school": "清华大学",
       "department": "信息艺术设计系",
-      "total": 29,
+      "total": 32,
       "years": [
         2027,
         2026,
@@ -1976,7 +1976,7 @@
       "id": "auto-9da0519b89bc",
       "school": "清华大学",
       "department": "药学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2027,
         2026
@@ -2035,7 +2035,7 @@
       "id": "auto-cdcba6c3f5c5",
       "school": "清华大学",
       "department": "政治学系",
-      "total": 31,
+      "total": 34,
       "years": [
         2027,
         2026,

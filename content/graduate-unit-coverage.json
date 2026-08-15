@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T03:07:12.930Z",
+  "generatedAt": "2026-08-15T02:35:14.780Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -7073,8 +7073,8 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 36,
-      "recentFiveYears": 33,
+      "total": 39,
+      "recentFiveYears": 36,
       "currentSeason": 3,
       "years": [
         2027,
@@ -7206,9 +7206,9 @@
       "department": "药学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.sps.tsinghua.edu.cn/",
-      "total": 4,
+      "total": 5,
       "recentFiveYears": 2,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026
@@ -7455,8 +7455,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 15,
-      "recentFiveYears": 15,
+      "total": 18,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8076,8 +8076,8 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 29,
-      "recentFiveYears": 26,
+      "total": 32,
+      "recentFiveYears": 29,
       "currentSeason": 3,
       "years": [
         2027,
