@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:04:50.433Z",
+  "generatedAt": "2026-08-18T02:43:33.115Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 767,
     "stale": 5,
     "missing": 363,
-    "currentSeasonCovered": 34
+    "currentSeasonCovered": 36
   },
   "units": [
     {
@@ -6753,16 +6753,17 @@
       "department": "车辆与运载学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.svm.tsinghua.edu.cn/",
-      "total": 27,
+      "total": 29,
       "recentFiveYears": 27,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2023
       ],
-      "latestDate": "2026-07-03",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -7191,13 +7192,14 @@
       "department": "基础医学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.bms.tsinghua.edu.cn/",
-      "total": 2,
+      "total": 3,
       "recentFiveYears": 2,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2025
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
