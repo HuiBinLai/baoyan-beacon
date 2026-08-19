@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:43:33.115Z",
+  "generatedAt": "2026-08-19T02:39:34.871Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -7440,9 +7440,9 @@
       "department": "领导力与组织管理系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/lom/",
-      "total": 19,
+      "total": 21,
       "recentFiveYears": 16,
-      "currentSeason": 3,
+      "currentSeason": 5,
       "years": [
         2027,
         2026,
@@ -7523,9 +7523,9 @@
       "department": "人文学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.rwxy.tsinghua.edu.cn/",
-      "total": 15,
+      "total": 17,
       "recentFiveYears": 12,
-      "currentSeason": 2,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -7594,9 +7594,9 @@
       "department": "哲学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.phil.tsinghua.edu.cn/",
-      "total": 2,
+      "total": 4,
       "recentFiveYears": 0,
-      "currentSeason": 2,
+      "currentSeason": 4,
       "years": [
         2027
       ],
