@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T02:39:33.548Z",
+  "generatedAt": "2026-08-20T03:11:11.823Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2332,
+    "notices": 2335,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 257,
+      "total": 260,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -1854,7 +1854,7 @@
       "id": "auto-f645b052e302",
       "school": "清华大学",
       "department": "数学科学中心",
-      "total": 26,
+      "total": 28,
       "years": [
         2026,
         2025,
@@ -2026,7 +2026,7 @@
       "id": "auto-64a7fba65130",
       "school": "清华大学",
       "department": "哲学系",
-      "total": 4,
+      "total": 5,
       "years": [
         2027
       ],

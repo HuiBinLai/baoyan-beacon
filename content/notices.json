@@ -1,106 +1,7 @@
 [
   {
-    "id": "college-ff7cd662e519",
-    "title": "清华大学求真书院2027年博士研究生招生综合考核及录取办法",
-    "school": "清华大学",
-    "department": "领导力与组织管理系",
-    "majors": [
-      "人工智能",
-      "数学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "清华大学领导力与组织管理系官方站点",
-    "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8314.htm",
-    "sourceHost": "qzc.tsinghua.edu.cn",
-    "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
-    "summary": "详情请查阅附件",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-b44a5c981efa"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学求真书院2027年博士研究生招生综合考核及录取办法。详情请查阅附件。清华大学求真书院2027年博士研究生招生综合考核及录取办法-清华大学求真书院 清华主页 EN 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机构 求真讲席教授 研究生导师 书院班主任 求真益友学者 书院辅导员 书院德育助理 学生组织 书院学术 培养方案 研究方向 特色课程 求真通识 国际交流 求真萃智 至美数学 讲座预告 讲座回顾 书院资源 院长荐书 交流空间 网络资源 电子讲义 交流预约 书院生活 党建工作 班团风采 社会实践 志愿公益 文体活动 学生作品 学风建设 求真点滴 新闻动态 综合新闻 通知公告 公开活动 书院服务 规章制度 表格下载 办事指南 联系我们 MENU 清华首页 English 首页 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-08-19",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-08-19"
-  },
-  {
-    "id": "college-698fb69aa042",
-    "title": "清华大学求真书院2027年硕士推免生考核及录取办法",
-    "school": "清华大学",
-    "department": "领导力与组织管理系",
-    "majors": [
-      "人工智能",
-      "数学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "清华大学领导力与组织管理系官方站点",
-    "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8313.htm",
-    "sourceHost": "qzc.tsinghua.edu.cn",
-    "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
-    "summary": "详情请查阅附件",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-b44a5c981efa"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学求真书院2027年硕士推免生考核及录取办法。详情请查阅附件。清华大学求真书院2027年硕士推免生考核及录取办法-清华大学求真书院 清华主页 EN 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机构 求真讲席教授 研究生导师 书院班主任 求真益友学者 书院辅导员 书院德育助理 学生组织 书院学术 培养方案 研究方向 特色课程 求真通识 国际交流 求真萃智 至美数学 讲座预告 讲座回顾 书院资源 院长荐书 交流空间 网络资源 电子讲义 交流预约 书院生活 党建工作 班团风采 社会实践 志愿公益 文体活动 学生作品 学风建设 求真点滴 新闻动态 综合新闻 通知公告 公开活动 书院服务 规章制度 表格下载 办事指南 联系我们 MENU 清华首页 English 首页 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机构 求真讲席教授",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "材料审查流程：申请材料至少3位专家逐一审核",
-      "百分制打分",
-      "并取平均分",
-      "将对各组间成绩进行标准化",
-      "按照最终成绩由高到低确定入围综合考核考生名单"
-    ],
-    "materials": [
-      "材料审查流程：申请材料至少3位专家逐一审核",
-      "百分制打分",
-      "并取平均分",
-      "将对各组间成绩进行标准化"
-    ],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-08-19",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-19"
-  },
-  {
-    "id": "college-6607714adcdd",
-    "title": "清华大学人文学院2027年博士研究生招生综合考核及录取",
+    "id": "college-2a09bfa00437",
+    "title": "清华大学2027年人文学院接收优秀应届本科毕业生免试攻",
     "school": "清华大学",
     "department": "哲学系",
     "majors": [
@@ -112,7 +13,7 @@
     "deadline": "",
     "publishedAt": "2027-01-01",
     "sourceName": "清华大学哲学系官方站点",
-    "sourceUrl": "https://www.rwxy.tsinghua.edu.cn/info/1158/10288.htm",
+    "sourceUrl": "https://www.rwxy.tsinghua.edu.cn/info/1158/10289.htm",
     "sourceHost": "www.rwxy.tsinghua.edu.cn",
     "sourceHomepage": "https://www.rwxy.tsinghua.edu.cn/",
     "departmentHomepage": "https://www.rwxy.tsinghua.edu.cn/",
@@ -125,12 +26,60 @@
       "auto-64a7fba65130"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "清华大学人文学院2027年博士研究生招生综合考核及录取。哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学人文学院2027年博士研究生招生综合考核及录取办法-清华大学人文学院 EN 清华大学 清华新闻网 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 院系公告 首页 > 院系公告 > 正文 清华大学人文学院2027年博士研究生招生综合考核及录取办法 来源：清华大学人文学院研究",
+    "sourceExcerpt": "清华大学2027年人文学院接收优秀应届本科毕业生免试攻。哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学2027年人文学院接收优秀应届本科毕业生免试攻读研究生综合考核名单公示-清华大学人文学院 EN 清华大学 清华新闻网 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 院系公告 首页 > 院系公告 > 正文 清华大学2027年人文学院接收优秀应届本科毕业生免试攻读研究生综合",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
+      "清华大学2027年人文学院接收优秀应届本科毕业生免试攻",
       "哲学系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "清华大学2027年人文学院接收优秀应届本科毕业生免试攻",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-20",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-20"
+  },
+  {
+    "id": "college-5ccef4a9cb4d",
+    "title": "2026-08-19 清华大学数学科学系2027年博士研究生招生综合考核及录取办法",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/5114.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026-08-19 清华大学数学科学系2027年博士研究生招生综合考核及录取办法。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2027年博士研究生招生综合考核及录取办法-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 系友之家 系友名录 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -141,43 +90,43 @@
       "博士"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-08-19",
+    "structuredAt": "2026-08-20",
     "noticeStage": "复试/考核",
-    "classifiedAt": "2026-08-19"
+    "classifiedAt": "2026-08-20"
   },
   {
-    "id": "college-1a14ac3ca21a",
-    "title": "清华大学人文学院2027年硕士推免生考核及录取办法",
+    "id": "college-eb828450f9c3",
+    "title": "2026-08-19 清华大学数学科学系2027年博士研究生招生综合考核及录取办法",
     "school": "清华大学",
-    "department": "哲学系",
+    "department": "数学科学中心",
     "majors": [
-      "待确认"
+      "数学"
     ],
     "type": "推免",
-    "year": 2027,
+    "year": 2026,
     "region": "北京",
     "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "清华大学哲学系官方站点",
-    "sourceUrl": "https://www.rwxy.tsinghua.edu.cn/info/1158/10287.htm",
-    "sourceHost": "www.rwxy.tsinghua.edu.cn",
-    "sourceHomepage": "https://www.rwxy.tsinghua.edu.cn/",
-    "departmentHomepage": "https://www.rwxy.tsinghua.edu.cn/",
-    "summary": "哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/5114.htm",
+    "sourceHost": "www.math.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-64a7fba65130"
+      "auto-f645b052e302"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "清华大学人文学院2027年硕士推免生考核及录取办法。哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学人文学院2027年硕士推免生考核及录取办法-清华大学人文学院 EN 清华大学 清华新闻网 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 院系公告 首页 > 院系公告 > 正文 清华大学人文学院2027年硕士推免生考核及录取办法 来源：清华大学人文学院研究生办 发布时间：20",
+    "sourceExcerpt": "2026-08-19 清华大学数学科学系2027年博士研究生招生综合考核及录取办法。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2027年博士研究生招生综合考核及录取办法-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 系友之家 系友名录 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "哲学系学院官网补漏发现的推免相关官方信息",
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -185,12 +134,12 @@
     "applicationMethod": "",
     "targetStudents": "",
     "degreeTypes": [
-      "待确认"
+      "博士"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-08-19",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-19"
+    "structuredAt": "2026-08-20",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-08-20"
   },
   {
     "id": "college-ca8bbb9483ed",
@@ -10720,6 +10669,199 @@
     "structuredAt": "2026-05-09",
     "noticeStage": "推免",
     "classifiedAt": "2026-05-09"
+  },
+  {
+    "id": "college-ff7cd662e519",
+    "title": "清华大学求真书院2027年博士研究生招生综合考核及录取办法",
+    "school": "清华大学",
+    "department": "领导力与组织管理系",
+    "majors": [
+      "人工智能",
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学领导力与组织管理系官方站点",
+    "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8314.htm",
+    "sourceHost": "qzc.tsinghua.edu.cn",
+    "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
+    "summary": "详情请查阅附件",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-b44a5c981efa"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学求真书院2027年博士研究生招生综合考核及录取办法。详情请查阅附件。清华大学求真书院2027年博士研究生招生综合考核及录取办法-清华大学求真书院 清华主页 EN 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机构 求真讲席教授 研究生导师 书院班主任 求真益友学者 书院辅导员 书院德育助理 学生组织 书院学术 培养方案 研究方向 特色课程 求真通识 国际交流 求真萃智 至美数学 讲座预告 讲座回顾 书院资源 院长荐书 交流空间 网络资源 电子讲义 交流预约 书院生活 党建工作 班团风采 社会实践 志愿公益 文体活动 学生作品 学风建设 求真点滴 新闻动态 综合新闻 通知公告 公开活动 书院服务 规章制度 表格下载 办事指南 联系我们 MENU 清华首页 English 首页 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-19",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-08-19"
+  },
+  {
+    "id": "college-698fb69aa042",
+    "title": "清华大学求真书院2027年硕士推免生考核及录取办法",
+    "school": "清华大学",
+    "department": "领导力与组织管理系",
+    "majors": [
+      "人工智能",
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学领导力与组织管理系官方站点",
+    "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8313.htm",
+    "sourceHost": "qzc.tsinghua.edu.cn",
+    "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
+    "summary": "详情请查阅附件",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-b44a5c981efa"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学求真书院2027年硕士推免生考核及录取办法。详情请查阅附件。清华大学求真书院2027年硕士推免生考核及录取办法-清华大学求真书院 清华主页 EN 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机构 求真讲席教授 研究生导师 书院班主任 求真益友学者 书院辅导员 书院德育助理 学生组织 书院学术 培养方案 研究方向 特色课程 求真通识 国际交流 求真萃智 至美数学 讲座预告 讲座回顾 书院资源 院长荐书 交流空间 网络资源 电子讲义 交流预约 书院生活 党建工作 班团风采 社会实践 志愿公益 文体活动 学生作品 学风建设 求真点滴 新闻动态 综合新闻 通知公告 公开活动 书院服务 规章制度 表格下载 办事指南 联系我们 MENU 清华首页 English 首页 关于求真 院长寄语 书院介绍 书院顾问 求真大事记 书院印象 书院招生 领军计划招生 数学与人工智能实验班 英才班招生 研究生招生 媒体求真 考题资源 书院团队 党政组织 学术机构 求真讲席教授",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "材料审查流程：申请材料至少3位专家逐一审核",
+      "百分制打分",
+      "并取平均分",
+      "将对各组间成绩进行标准化",
+      "按照最终成绩由高到低确定入围综合考核考生名单"
+    ],
+    "materials": [
+      "材料审查流程：申请材料至少3位专家逐一审核",
+      "百分制打分",
+      "并取平均分",
+      "将对各组间成绩进行标准化"
+    ],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-19",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-19"
+  },
+  {
+    "id": "college-6607714adcdd",
+    "title": "清华大学人文学院2027年博士研究生招生综合考核及录取",
+    "school": "清华大学",
+    "department": "哲学系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学哲学系官方站点",
+    "sourceUrl": "https://www.rwxy.tsinghua.edu.cn/info/1158/10288.htm",
+    "sourceHost": "www.rwxy.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.rwxy.tsinghua.edu.cn/",
+    "departmentHomepage": "https://www.rwxy.tsinghua.edu.cn/",
+    "summary": "哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-64a7fba65130"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学人文学院2027年博士研究生招生综合考核及录取。哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学人文学院2027年博士研究生招生综合考核及录取办法-清华大学人文学院 EN 清华大学 清华新闻网 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 院系公告 首页 > 院系公告 > 正文 清华大学人文学院2027年博士研究生招生综合考核及录取办法 来源：清华大学人文学院研究",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "哲学系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-19",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-08-19"
+  },
+  {
+    "id": "college-1a14ac3ca21a",
+    "title": "清华大学人文学院2027年硕士推免生考核及录取办法",
+    "school": "清华大学",
+    "department": "哲学系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学哲学系官方站点",
+    "sourceUrl": "https://www.rwxy.tsinghua.edu.cn/info/1158/10287.htm",
+    "sourceHost": "www.rwxy.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.rwxy.tsinghua.edu.cn/",
+    "departmentHomepage": "https://www.rwxy.tsinghua.edu.cn/",
+    "summary": "哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-64a7fba65130"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学人文学院2027年硕士推免生考核及录取办法。哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学人文学院2027年硕士推免生考核及录取办法-清华大学人文学院 EN 清华大学 清华新闻网 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 首页 关于我们 院长致辞 历史沿革 学院现状 现任领导 历任领导 机构设置 办公电话 动态新闻 百年文史哲 师资队伍 师资概况 师资名单 人才培养 学科设置 学位授权点建设年度报告 精品课 博士生最终学术报告 科学研究 科研机构 学术刊物 科研项目 科研成果 招生招聘 本科生 研究生 留学生 学生园地 就业与校友 院系公告 首页 > 院系公告 > 正文 清华大学人文学院2027年硕士推免生考核及录取办法 来源：清华大学人文学院研究生办 发布时间：20",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "哲学系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-19",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-19"
   },
   {
     "id": "college-9ce3699f7985",
