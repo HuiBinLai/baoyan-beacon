@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T02:50:54.810Z",
+  "generatedAt": "2026-08-22T02:58:49.982Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2335,
+    "notices": 2336,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 260,
+      "total": 261,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -1267,7 +1267,7 @@
       "id": "auto-b69e89812abf",
       "school": "清华大学",
       "department": "车辆与运载学院",
-      "total": 26,
+      "total": 27,
       "years": [
         2027,
         2026,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T02:50:56.106Z",
+  "generatedAt": "2026-08-22T02:58:51.329Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -6753,9 +6753,9 @@
       "department": "车辆与运载学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.svm.tsinghua.edu.cn/",
-      "total": 29,
+      "total": 30,
       "recentFiveYears": 27,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
