@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T07:39:53.557Z",
+  "generatedAt": "2026-08-28T10:10:27.315Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,11 +9,11 @@
     2022
   ],
   "totals": {
-    "units": 1135,
-    "covered": 768,
-    "stale": 5,
+    "units": 1139,
+    "covered": 769,
+    "stale": 8,
     "missing": 362,
-    "currentSeasonCovered": 43
+    "currentSeasonCovered": 47
   },
   "units": [
     {
@@ -5009,6 +5009,26 @@
       "status": "covered"
     },
     {
+      "id": "8dc91d57d6",
+      "school": "湖南大学",
+      "department": "化学化工学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "http://cc.hnu.edu.cn/info/1102/12589.htm",
+      "total": 12,
+      "recentFiveYears": 11,
+      "currentSeason": 1,
+      "years": [
+        2027,
+        2026,
+        2025,
+        2024,
+        2023,
+        2022
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
+    },
+    {
       "id": "2968aead04",
       "school": "湖南大学",
       "department": "教育科学研究院",
@@ -7457,8 +7477,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 13,
-      "recentFiveYears": 13,
+      "total": 16,
+      "recentFiveYears": 16,
       "currentSeason": 0,
       "years": [
         2026,
@@ -10866,6 +10886,21 @@
       "years": [],
       "latestDate": "",
       "status": "missing"
+    },
+    {
+      "id": "209a69b744",
+      "school": "武汉大学",
+      "department": "哲学学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://philosophy.whu.edu.cn/info/1302/127571.htm",
+      "total": 1,
+      "recentFiveYears": 0,
+      "currentSeason": 1,
+      "years": [
+        2027
+      ],
+      "latestDate": "2026-01-01",
+      "status": "stale"
     },
     {
       "id": "31aad2f0a4",
@@ -15735,8 +15770,8 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 9,
-      "recentFiveYears": 8,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 1,
       "years": [
         2027,
@@ -15819,9 +15854,9 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 11,
+      "total": 12,
       "recentFiveYears": 8,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -15907,8 +15942,8 @@
       "department": "文学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026
@@ -16735,6 +16770,36 @@
       "status": "missing"
     },
     {
+      "id": "3defa01405",
+      "school": "中山大学",
+      "department": "岭南学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://lingnan.sysu.edu.cn/article/3734",
+      "total": 1,
+      "recentFiveYears": 0,
+      "currentSeason": 1,
+      "years": [
+        2027
+      ],
+      "latestDate": "2026-01-01",
+      "status": "stale"
+    },
+    {
+      "id": "b8d3bb5280",
+      "school": "中山大学",
+      "department": "化学工程与技术学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://cet.sysu.edu.cn/article/1933",
+      "total": 1,
+      "recentFiveYears": 0,
+      "currentSeason": 1,
+      "years": [
+        2027
+      ],
+      "latestDate": "2026-01-01",
+      "status": "stale"
+    },
+    {
       "id": "4a902f7959",
       "school": "中山大学",
       "department": "软件工程学院",
@@ -17426,6 +17491,7 @@
     "武汉大学邮箱系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "武汉大学办公系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "武汉大学职能部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
+    "武汉大学哲学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "西安交通大学全部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "西安交通大学数学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "西安交通大学机械学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
@@ -17605,6 +17671,8 @@
     "中山大学干训基地干部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中山大学在线学习中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中山大学中组部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中山大学视觉形象识别系 最近五年暂无招生项目候选，需要补官网/公众号来源。"
+    "中山大学视觉形象识别系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
+    "中山大学岭南学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
+    "中山大学化学工程与技术学院 最近五年暂无招生项目候选，需要补官网/公众号来源。"
   ]
 }

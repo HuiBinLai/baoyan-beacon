@@ -12079,6 +12079,19 @@
     "priority": 21
   },
   {
+    "id": "209a69b744",
+    "school": "武汉大学",
+    "department": "哲学学院",
+    "aliases": [
+      "哲学学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://philosophy.whu.edu.cn/info/1302/127571.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 27,
+    "priority": 9008
+  },
+  {
     "id": "31aad2f0a4",
     "school": "武汉大学",
     "department": "水利水电学院",
@@ -12467,6 +12480,19 @@
     "sourceStatus": "from_notices",
     "schoolPriority": 28,
     "priority": 9342
+  },
+  {
+    "id": "8dc91d57d6",
+    "school": "湖南大学",
+    "department": "化学化工学院",
+    "aliases": [
+      "化学化工学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "http://cc.hnu.edu.cn/info/1102/12589.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 29,
+    "priority": 9001
   },
   {
     "id": "2968aead04",
@@ -12948,6 +12974,32 @@
     "sourceStatus": "auto_discovered",
     "schoolPriority": 31,
     "priority": 16
+  },
+  {
+    "id": "3defa01405",
+    "school": "中山大学",
+    "department": "岭南学院",
+    "aliases": [
+      "岭南学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://lingnan.sysu.edu.cn/article/3734",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 31,
+    "priority": 9011
+  },
+  {
+    "id": "b8d3bb5280",
+    "school": "中山大学",
+    "department": "化学工程与技术学院",
+    "aliases": [
+      "化学工程与技术学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://cet.sysu.edu.cn/article/1933",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 31,
+    "priority": 9012
   },
   {
     "id": "4a902f7959",
