@@ -1,5 +1,376 @@
 [
   {
+    "id": "college-1929539a9ba5",
+    "title": "1.中国人民大学劳动人事学院2027年推免生接收申请表",
+    "school": "中国人民大学",
+    "department": "劳动人事学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "中国人民大学劳动人事学院官方站点",
+    "sourceUrl": "https://slhr.ruc.edu.cn/docs/2026-06/577e994f6bc74904bf9585f015a4fda9.doc",
+    "sourceHost": "slhr.ruc.edu.cn",
+    "sourceHomepage": "https://slhr.ruc.edu.cn/",
+    "departmentHomepage": "https://slhr.ruc.edu.cn/",
+    "summary": "劳动人事学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "ruc-labor-human-resources"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "1.中国人民大学劳动人事学院2027年推免生接收申请表。劳动人事学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "劳动人事学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [
+      "1.中国人民大学劳动人事学院2027年推免生接收申请表"
+    ],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-29",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-29"
+  },
+  {
+    "id": "college-805a9522737e",
+    "title": "中国人民大学研究生招生网",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
+    "majors": [
+      "人工智能",
+      "智慧治理"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国人民大学公共管理学院官方站点",
+    "sourceUrl": "https://pgs.ruc.edu.cn/",
+    "sourceHost": "pgs.ruc.edu.cn",
+    "sourceHomepage": "https://pgs.ruc.edu.cn/",
+    "departmentHomepage": "http://spap.ruc.edu.cn/",
+    "summary": "公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-cd3a02b4b857"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "中国人民大学研究生招生网。公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "公共管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-29",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-29"
+  },
+  {
+    "id": "college-1d5a810fa4c0",
+    "title": "2026年中国人民大学与北京雁栖湖应用数学研究院联合培养博士生招生简章",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国人民大学公共管理学院官方站点",
+    "sourceUrl": "https://pgs.ruc.edu.cn/info/1044/3604.htm",
+    "sourceHost": "pgs.ruc.edu.cn",
+    "sourceHomepage": "https://pgs.ruc.edu.cn/",
+    "departmentHomepage": "http://spap.ruc.edu.cn/",
+    "summary": "公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-cd3a02b4b857"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026年中国人民大学与北京雁栖湖应用数学研究院联合培养博士生招生简章。公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "公共管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-29",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-08-29"
+  },
+  {
+    "id": "college-ec1fbc5fb368",
+    "title": "中国人民大学2026年“英才培育计划”博士研究生招生报名通知",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国人民大学公共管理学院官方站点",
+    "sourceUrl": "https://pgs.ruc.edu.cn/info/1045/3569.htm",
+    "sourceHost": "pgs.ruc.edu.cn",
+    "sourceHomepage": "https://pgs.ruc.edu.cn/",
+    "departmentHomepage": "http://spap.ruc.edu.cn/",
+    "summary": "公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-cd3a02b4b857"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "中国人民大学2026年“英才培育计划”博士研究生招生报名通知。公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "公共管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-29",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-29"
+  },
+  {
+    "id": "college-70ebe4b9948c",
+    "title": "2021年各学院接收推免生工作办法及名单网址链接",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
+    "majors": [
+      "人工智能"
+    ],
+    "type": "推免",
+    "year": 2021,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2021-01-01",
+    "sourceName": "中国人民大学公共管理学院官方站点",
+    "sourceUrl": "https://pgs.ruc.edu.cn/info/1053/2451.htm",
+    "sourceHost": "pgs.ruc.edu.cn",
+    "sourceHomepage": "https://pgs.ruc.edu.cn/",
+    "departmentHomepage": "http://spap.ruc.edu.cn/",
+    "summary": "公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-cd3a02b4b857"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2021年各学院接收推免生工作办法及名单网址链接。公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "公共管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-29",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-29"
+  },
+  {
+    "id": "college-f616f64f40dd",
+    "title": "上海交通大学董浩云智能管理与物流研究院（中美物流研究院）2027级学术型直博生招生简章",
+    "school": "上海交通大学",
+    "department": "董浩云智能管理与物流研究院",
+    "majors": [
+      "计算机科学与技术",
+      "数学",
+      "机械工程",
+      "管理科学与工程",
+      "工商管理"
+    ],
+    "type": "直博",
+    "year": 2027,
+    "region": "上海",
+    "deadline": "2026-09-07",
+    "publishedAt": "2027-01-01",
+    "sourceName": "上海交通大学董浩云智能管理与物流研究院官方站点",
+    "sourceUrl": "http://www.sugli.sjtu.edu.cn/stu_info/3032.html",
+    "sourceHost": "www.sugli.sjtu.edu.cn",
+    "sourceHomepage": "http://www.sugli.sjtu.edu.cn/",
+    "departmentHomepage": "http://www.sugli.sjtu.edu.cn/",
+    "summary": "董浩云智能管理与物流研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-2ad43d9b4a20"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "上海交通大学董浩云智能管理与物流研究院（中美物流研究院）2027级学术型直博生招生简章。董浩云智能管理与物流研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。上海交通大学董浩云智能管理与物流研究院（中美物流研究院）2027级学术型直博生招生简章-上海交大中美物流研究院 中文版 | ENGLISH jAccount登录 首 页 研究院概况 学院简介 发展大事记 院长致辞 研究院领导 历任院长 组织架构 信息公告 新闻动态 学院通知 招生信息 校友信息 师资队伍 师资队伍概况 国家级人才计划 上海市人才计划 知名学者 教师名录 人才招聘 科学研究 科学研究概况 科研动态 科研方向 科研项目 科研成果 人才培养与高端培训 人才培养概况 工程管理教育改革与创新 博士 全日制硕士 在职MEM工程管理硕士 留学生 学生活动 高端培训 校政企合作 校政企合作概况 合作动态 合作单位 国际合作 国际合作概况 国际会议 外事指南 知识园地 媒体聚焦 党政信息 规章制度 下载服务 信息公告 信息公告 新闻动态 学院通知 招生信息 校友信息 招生信息 上海交通大学董浩云智能管理",
+    "applicationStart": "",
+    "applicationEnd": "2026-09-07",
+    "registrationTime": "2、报名截止 ：2026年 9 月 7 日 （ 周一） 3、其它注意事项 1 ）报名截至日期后，进行初审",
+    "requirements": [
+      "董浩云智能管理与物流研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "近20年来研究院在师资队伍建设",
+      "人才培养",
+      "科学研究及社会服务等方面",
+      "发展迅速",
+      "成绩显著",
+      "承担了一大批国家级科研计划项目（含十多项重点重大项目",
+      "在MS",
+      "OR",
+      "JOC",
+      "POMS",
+      "IISE等顶尖国际期刊或权威期刊发表了一批高水平论文",
+      "根据教育部和上海交通大学有关研究生招生政策的文件规定",
+      "董浩云智能管理与物流研究院（中美物流研究院）将开展2027级博士研究生自主选拔招生工作",
+      "为一批优秀应届本科毕业生搭建高起点继续深造和发展的平台",
+      "招生专业代码： 120100 招生专业名称：管理科学与工程 招生类别：学术型博士（全日制） 一",
+      "申请资格 1",
+      "拥护中国共产党",
+      "热爱祖国",
+      "品德优良",
+      "遵纪守法",
+      "身心健康"
+    ],
+    "materials": [
+      "非重点高校学生",
+      "如在学术研究",
+      "竞赛获奖等方面有突出表现的可以适当放宽",
+      "三",
+      "招生专业 招生专业 学制 (年) 管理科学与工程 5 四",
+      "申请材料 1",
+      "报名 考生自行准备以下电子版和纸质版材料",
+      "电子版发邮件至 zs_sjtu_sugli@126.com",
+      "邮件主题： XX大学XXX直博报名",
+      "纸质版材料需要在 报道 当天提交",
+      "报名材料不予退回： 1.上海交通大学董浩云智能管理与物流研究院（中美物流研究院） 2027级直博生报名汇总表",
+      "3.本人第二代居民身份证件扫描件 4.本科成绩单 1份（加盖所在学校或者学院教务部门公章）",
+      "5.本科学习成绩专业排名证明 1份（加盖所在学校或者学院教务部门公章）"
+    ],
+    "applicationMethod": "二、招生 导师列表 招生导师名单 姓名 导师介绍及邮箱链接 耿娜 http://www.sugli.sjtu.edu.cn/teacher1/2346.html 张大力 http://www.sugli.sjtu.edu.cn/teacher1/2187.html 周利平 http://www.sugli.sjtu.edu.cn/teacher1/2398.html 备注：报考本批次直博生的同学请首先与导师取得联系",
+    "targetStudents": "根据教育部和上海交通大学有关研究生招生政策的文件规定，董浩云智能管理与物流研究院（中美物流研究院）将开展2027级博士研究生自主选拔招生工作，为一批优秀应届本科毕业生搭建高起点继续深造和发展的平台",
+    "degreeTypes": [
+      "直博"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-29",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-08-29"
+  },
+  {
+    "id": "college-0ee8e25aee50",
+    "title": "资讯公告 - 上海交通大学研究生院",
+    "school": "上海交通大学",
+    "department": "文化创意产业学院",
+    "majors": [
+      "教育学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学文化创意产业学院官方站点",
+    "sourceUrl": "https://www.gs.sjtu.edu.cn/news",
+    "sourceHost": "www.gs.sjtu.edu.cn",
+    "sourceHomepage": "https://www.gs.sjtu.edu.cn/",
+    "departmentHomepage": "https://icci.sjtu.edu.cn/",
+    "summary": "文化创意产业学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-4c3c7749c1d7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "资讯公告 - 上海交通大学研究生院。文化创意产业学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。资讯公告 - 上海交通大学研究生院 --> --> 选择身份 访客 学生 教师 校友 信息系统 学生/教师/教务登录 学位系统 下载中心 国际交流 培养管理 学位学科 其他 联系我们 EN 首页 资讯公告 最新动态 招生 培养 学科 学位 国际 学术 其他 通知公告 工作信息 招生信息 培养信息 学位学科 国际交流 学术就业 招生工作 研究生招生 国际研究生招生 培养服务 课程与教学 研究生教学督导 国际化培养 ​学生服务 学籍奖助 培养要求与规定 课教改革 学位学科 学位 学科建设 优秀成果 卓越工程师 专项工作 研究生创新创业竞赛 博士生致远荣誉计划 大师讲坛 学术之星 信息公开 规章制度 学风建设 信息服务 管理信息系统操作指南 党建工作 工作手册 关于我们 研究生院 简介 机构设置 国家卓越工程师学院 简介 机构设置 联系我们 热门搜索 --> 首页 资讯公告 最新动态 招生 培养 学科 学位 国际 学术 其他 通知公告 工作信息 招生信息 培养信息 学",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "文化创意产业学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-29",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-29"
+  },
+  {
     "id": "college-a4bb854e2966",
     "title": "中国人民大学劳动人事学院2027年推免生接收工作报名通知",
     "school": "中国人民大学",
@@ -38,442 +409,6 @@
       "待确认"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-28",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "college-1215947c779e",
-    "title": "中国人民大学文学院",
-    "school": "中国人民大学",
-    "department": "文学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "2025-01-05",
-    "publishedAt": "2026-01-01",
-    "sourceName": "中国人民大学文学院官方站点",
-    "sourceUrl": "http://wenxueyuan.ruc.edu.cn/xwgg/gg/18731f08fbd748cca0499ed37862f756.htm",
-    "sourceHost": "wenxueyuan.ruc.edu.cn",
-    "sourceHomepage": "http://wenxueyuan.ruc.edu.cn/",
-    "departmentHomepage": "http://wenxueyuan.ruc.edu.cn/",
-    "summary": "文学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-a5d644ead328"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "中国人民大学文学院。文学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。中国人民大学文学院 学院概况 学院简介 领导团队 院长致辞 机构设置 学科简介 历任领导 大 事 记 联系我们 新闻公告 新闻 公告 学术动态 师资团队 前辈学人 在职教师 特聘专家 兼职导师 荣休及离任教师 招生信息 本科生招生 硕士研究生招生 博士研究生招生 留学生招生 课程培训班招生 短期培训班招生 人才培养 新生导航 本科生 硕士研究生 博士研究生 留学生 同等学力 古典学实验班 精品课程 在职课程班 学术研究 学术成果 主要项目 学术活动 学术刊物 对外交流 外事新闻 海外学者来访 教师交流 学生交流 院际合作项目 办事指南 党建工会 教师党建 学生党建 工会动态 离退休工作 学生发展 团学组织 活动报道 活动图集 服务下载 校友之家 流金岁月 校友动态 校友风采 校友名册 文苑风采 人物专访 教师推荐书目 中文视窗 中文新世纪 人大诗报 中文学刊 News & Notice 新闻公告 > 新闻 > 公告 > 学术动态 文学院2025年申请-考核制博士生招生工作办法 发布时间：",
-    "applicationStart": "2024-12-05",
-    "applicationEnd": "2025-01-05",
-    "registrationTime": "（二）提交申请材料 考生报名后须将申请材料于2024年12月27日10:00至2025年1月5日10:00在学校“智慧研招”系统中统一上传电子版申请材料，逾期将视为考生放弃审核资格",
-    "requirements": [
-      "文学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求",
-      "完成报名并缴费成功后还需在学校“智慧研招”系统中按要求提交材料",
-      "方可视为报名成功",
-      "（二）提交申请材料 考生报名后须将申请材料于2024年12月27日10:00至2025年1月5日10:00在学校“智慧研招”系统中统一上传电子版申请材料",
-      "逾期将视为考生放弃审核资格",
-      "2．证明外语能力的外语成绩单原件",
-      "包括但不限于以下成绩： 英语：大学英语六级（CET6）",
-      "全国英语等级考试第五级（PETS5）",
-      "托福（TOEFL）",
-      "GRE",
-      "GMAT",
-      "雅思（IELTS）",
-      "法语",
-      "日语",
-      "俄语等语种成绩单应为国内外权威考试机构颁发的成绩单"
-    ],
-    "materials": [
-      "二",
-      "选拔模式 报考我院的考生采取“申请—考核制”的模式进行选拔",
-      "即考生申请并报名后",
-      "由学院对申请考生提交的材料进行集体审核评议",
-      "通过审核的考生方可进入综合考核阶段",
-      "综合考核阶段将进行综合考试",
-      "内容包含外语水平",
-      "专业知识和综合素质三方面",
-      "三",
-      "组织管理 成立学院博士生招生工作领导小组",
-      "负责本学院“申请—考核制”博士生招生工作管理办法的制定",
-      "报名材料的集体审核评议",
-      "完成报名并缴费成功后还需在学校“智慧研招”系统中按要求提交材料",
-      "方可视为报名成功",
-      "在申请材料提交",
-      "审核及综合考核阶段均不区分导师",
-      "（二）提交申请材料 考生报名后须将申请材料于2024年12月27日10:00至2025年1月5日10:00在学校“智慧研招”系统中统一上传电子版申请材料",
-      "逾期将视为考生放弃审核资格"
-    ],
-    "applicationMethod": "二、选拔模式 报考我院的考生采取“申请—考核制”的模式进行选拔，即考生申请并报名后，由学院对申请考生提交的材料进行集体审核评议，通过审核的考生方可进入综合考核阶段，综合考核阶段将进行综合考试，内容包含外语水平、专业知识和综合素质三方面",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士",
-      "硕士"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-08-28",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "college-24ae4ffeea5e",
-    "title": "研究生招生_中国人民大学哲学院",
-    "school": "中国人民大学",
-    "department": "哲学院",
-    "majors": [
-      "哲学"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "中国人民大学哲学院官方站点",
-    "sourceUrl": "http://phi.ruc.edu.cn/zspy/yjs/yjszs/",
-    "sourceHost": "phi.ruc.edu.cn",
-    "sourceHomepage": "http://phi.ruc.edu.cn/",
-    "departmentHomepage": "http://phi.ruc.edu.cn/",
-    "summary": "哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-f9c70ac74498"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "研究生招生_中国人民大学哲学院。哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "哲学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-28",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "college-b650a1e4b7c5",
-    "title": "研究生招生_中国人民大学哲学院",
-    "school": "中国人民大学",
-    "department": "哲学院",
-    "majors": [
-      "哲学"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "中国人民大学哲学院官方站点",
-    "sourceUrl": "http://phi.ruc.edu.cn/zspy/yjs/yjszs/323a687b4b83499a959a83d838c431a1.htm",
-    "sourceHost": "phi.ruc.edu.cn",
-    "sourceHomepage": "http://phi.ruc.edu.cn/",
-    "departmentHomepage": "http://phi.ruc.edu.cn/",
-    "summary": "哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-f9c70ac74498"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "研究生招生_中国人民大学哲学院。哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "哲学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-28",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "auto-0d9bfa000ad7",
-    "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "预推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-28",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d5/22/c47865a840994/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-28",
-    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名截止时间汇总。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "预推免",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "auto-f76bb5f2f7b1",
-    "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-28",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d4/e3/c47865a840931/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-28",
-    "sourceExcerpt": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "auto-3f623a897d18",
-    "title": "南京大学2027年接收推荐免试研究生预报名通知",
-    "school": "南京大学",
-    "department": "待结构化",
-    "majors": [
-      "待确认"
-    ],
-    "type": "预推免",
-    "year": 2026,
-    "region": "江苏",
-    "deadline": "",
-    "publishedAt": "2026-08-28",
-    "sourceName": "南京大学研究生招生网",
-    "sourceUrl": "https://yzb.nju.edu.cn/d4/56/c47865a840790/page.htm",
-    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
-    "tags": [
-      "自动抓取",
-      "南京大学"
-    ],
-    "confidence": "auto",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-08-28",
-    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
-    "sourceHost": "yzb.nju.edu.cn",
-    "sourceHomepage": "https://yzb.nju.edu.cn/",
-    "departmentHomepage": "https://yzb.nju.edu.cn/",
-    "noticeStage": "预推免",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "college-50df62d69cdc",
-    "title": "清华大学研究生招生网",
-    "school": "清华大学",
-    "department": "管理科学与工程系",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "清华大学管理科学与工程系官方站点",
-    "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/sszs/ptzk.htm",
-    "sourceHost": "yz.tsinghua.edu.cn",
-    "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
-    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-de047849affc"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学研究生招生网。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。普通招考-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 普通招考 硕士招生 简章目录 推荐免试 普通招考 博士招生 简章目录 推荐免试 普通招考 港澳台招生 通知公告 简章目录 国际招生 通知公告 简章目录 硕士招生 博士招生 港澳台招生 国际招生 硕士招生 简章目录 推荐免试 普通招考 13 2026.03 清华大学2026年硕士研究生招生复试基本分数线 13 2026.03 清华大学2026年硕士研究生招生复试录取办法 28 ",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "硕士"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-08-28",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "college-dc8d03ea837b",
-    "title": "清华大学研究生招生网",
-    "school": "清华大学",
-    "department": "管理科学与工程系",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "清华大学管理科学与工程系官方站点",
-    "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gatzs/jzml.htm",
-    "sourceHost": "yz.tsinghua.edu.cn",
-    "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
-    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-de047849affc"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学研究生招生网。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。简章目录-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 港澳台招生 → 简章目录 硕士招生 简章目录 推荐免试 普通招考 博士招生 简章目录 推荐免试 普通招考 港澳台招生 通知公告 简章目录 国际招生 通知公告 简章目录 硕士招生 博士招生 港澳台招生 国际招生 港澳台招生 通知公告 简章目录 06 2025.11 清华大学2026年招收香港、澳门、台湾地区研究生简章 06 2025.11 清华大学2026年招收港澳台地区硕士研究生专业目录 ",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "硕士"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-08-28",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-08-28"
-  },
-  {
-    "id": "college-d5d8411ee418",
-    "title": "清华大学研究生招生网",
-    "school": "清华大学",
-    "department": "管理科学与工程系",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "清华大学管理科学与工程系官方站点",
-    "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gjxs/jzml.htm",
-    "sourceHost": "yz.tsinghua.edu.cn",
-    "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
-    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-de047849affc"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学研究生招生网。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。简章目录-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 国际招生 → 简章目录 硕士招生 简章目录 推荐免试 普通招考 博士招生 简章目录 推荐免试 普通招考 港澳台招生 通知公告 简章目录 国际招生 通知公告 简章目录 国际招生 通知公告 简章目录 01 2025.09 清华大学2026年招收国际研究生专业目录 01 2025.09 清华大学2026年招收国际研究生简章 01 2025.09 2026年本科学历国际学生攻读博士学位申请指南 0",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_page",
     "structuredAt": "2026-08-28",
     "noticeStage": "推免报名",
     "classifiedAt": "2026-08-28"
@@ -815,6 +750,181 @@
     "structuredAt": "2026-06-30",
     "noticeStage": "推免报名",
     "classifiedAt": "2026-06-30"
+  },
+  {
+    "id": "college-1215947c779e",
+    "title": "中国人民大学文学院",
+    "school": "中国人民大学",
+    "department": "文学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "2025-01-05",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国人民大学文学院官方站点",
+    "sourceUrl": "http://wenxueyuan.ruc.edu.cn/xwgg/gg/18731f08fbd748cca0499ed37862f756.htm",
+    "sourceHost": "wenxueyuan.ruc.edu.cn",
+    "sourceHomepage": "http://wenxueyuan.ruc.edu.cn/",
+    "departmentHomepage": "http://wenxueyuan.ruc.edu.cn/",
+    "summary": "文学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a5d644ead328"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "中国人民大学文学院。文学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。中国人民大学文学院 学院概况 学院简介 领导团队 院长致辞 机构设置 学科简介 历任领导 大 事 记 联系我们 新闻公告 新闻 公告 学术动态 师资团队 前辈学人 在职教师 特聘专家 兼职导师 荣休及离任教师 招生信息 本科生招生 硕士研究生招生 博士研究生招生 留学生招生 课程培训班招生 短期培训班招生 人才培养 新生导航 本科生 硕士研究生 博士研究生 留学生 同等学力 古典学实验班 精品课程 在职课程班 学术研究 学术成果 主要项目 学术活动 学术刊物 对外交流 外事新闻 海外学者来访 教师交流 学生交流 院际合作项目 办事指南 党建工会 教师党建 学生党建 工会动态 离退休工作 学生发展 团学组织 活动报道 活动图集 服务下载 校友之家 流金岁月 校友动态 校友风采 校友名册 文苑风采 人物专访 教师推荐书目 中文视窗 中文新世纪 人大诗报 中文学刊 News & Notice 新闻公告 > 新闻 > 公告 > 学术动态 文学院2025年申请-考核制博士生招生工作办法 发布时间：",
+    "applicationStart": "2024-12-05",
+    "applicationEnd": "2025-01-05",
+    "registrationTime": "（二）提交申请材料 考生报名后须将申请材料于2024年12月27日10:00至2025年1月5日10:00在学校“智慧研招”系统中统一上传电子版申请材料，逾期将视为考生放弃审核资格",
+    "requirements": [
+      "文学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "完成报名并缴费成功后还需在学校“智慧研招”系统中按要求提交材料",
+      "方可视为报名成功",
+      "（二）提交申请材料 考生报名后须将申请材料于2024年12月27日10:00至2025年1月5日10:00在学校“智慧研招”系统中统一上传电子版申请材料",
+      "逾期将视为考生放弃审核资格",
+      "2．证明外语能力的外语成绩单原件",
+      "包括但不限于以下成绩： 英语：大学英语六级（CET6）",
+      "全国英语等级考试第五级（PETS5）",
+      "托福（TOEFL）",
+      "GRE",
+      "GMAT",
+      "雅思（IELTS）",
+      "法语",
+      "日语",
+      "俄语等语种成绩单应为国内外权威考试机构颁发的成绩单"
+    ],
+    "materials": [
+      "二",
+      "选拔模式 报考我院的考生采取“申请—考核制”的模式进行选拔",
+      "即考生申请并报名后",
+      "由学院对申请考生提交的材料进行集体审核评议",
+      "通过审核的考生方可进入综合考核阶段",
+      "综合考核阶段将进行综合考试",
+      "内容包含外语水平",
+      "专业知识和综合素质三方面",
+      "三",
+      "组织管理 成立学院博士生招生工作领导小组",
+      "负责本学院“申请—考核制”博士生招生工作管理办法的制定",
+      "报名材料的集体审核评议",
+      "完成报名并缴费成功后还需在学校“智慧研招”系统中按要求提交材料",
+      "方可视为报名成功",
+      "在申请材料提交",
+      "审核及综合考核阶段均不区分导师",
+      "（二）提交申请材料 考生报名后须将申请材料于2024年12月27日10:00至2025年1月5日10:00在学校“智慧研招”系统中统一上传电子版申请材料",
+      "逾期将视为考生放弃审核资格"
+    ],
+    "applicationMethod": "二、选拔模式 报考我院的考生采取“申请—考核制”的模式进行选拔，即考生申请并报名后，由学院对申请考生提交的材料进行集体审核评议，通过审核的考生方可进入综合考核阶段，综合考核阶段将进行综合考试，内容包含外语水平、专业知识和综合素质三方面",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士",
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-28"
+  },
+  {
+    "id": "college-24ae4ffeea5e",
+    "title": "研究生招生_中国人民大学哲学院",
+    "school": "中国人民大学",
+    "department": "哲学院",
+    "majors": [
+      "哲学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国人民大学哲学院官方站点",
+    "sourceUrl": "http://phi.ruc.edu.cn/zspy/yjs/yjszs/",
+    "sourceHost": "phi.ruc.edu.cn",
+    "sourceHomepage": "http://phi.ruc.edu.cn/",
+    "departmentHomepage": "http://phi.ruc.edu.cn/",
+    "summary": "哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f9c70ac74498"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "研究生招生_中国人民大学哲学院。哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "哲学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-28"
+  },
+  {
+    "id": "college-b650a1e4b7c5",
+    "title": "研究生招生_中国人民大学哲学院",
+    "school": "中国人民大学",
+    "department": "哲学院",
+    "majors": [
+      "哲学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国人民大学哲学院官方站点",
+    "sourceUrl": "http://phi.ruc.edu.cn/zspy/yjs/yjszs/323a687b4b83499a959a83d838c431a1.htm",
+    "sourceHost": "phi.ruc.edu.cn",
+    "sourceHomepage": "http://phi.ruc.edu.cn/",
+    "departmentHomepage": "http://phi.ruc.edu.cn/",
+    "summary": "哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f9c70ac74498"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "研究生招生_中国人民大学哲学院。哲学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "哲学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-28"
   },
   {
     "id": "search-c8ced90b5bf3",
@@ -29938,6 +30048,126 @@
     "departmentHomepage": "https://marx.lzu.edu.cn/"
   },
   {
+    "id": "auto-0d9bfa000ad7",
+    "title": "南京大学2027年接收推荐免试研究生预报名截止时间汇总",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "预推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-28",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d5/22/c47865a840994/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-28",
+    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名截止时间汇总。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "预推免",
+    "classifiedAt": "2026-08-28"
+  },
+  {
+    "id": "auto-f76bb5f2f7b1",
+    "title": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-28",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d4/e3/c47865a840931/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-28",
+    "sourceExcerpt": "南京大学2027年“集成电路专项班”推荐免试研究生报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-28"
+  },
+  {
+    "id": "auto-3f623a897d18",
+    "title": "南京大学2027年接收推荐免试研究生预报名通知",
+    "school": "南京大学",
+    "department": "待结构化",
+    "majors": [
+      "待确认"
+    ],
+    "type": "预推免",
+    "year": 2026,
+    "region": "江苏",
+    "deadline": "",
+    "publishedAt": "2026-08-28",
+    "sourceName": "南京大学研究生招生网",
+    "sourceUrl": "https://yzb.nju.edu.cn/d4/56/c47865a840790/page.htm",
+    "summary": "每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。",
+    "tags": [
+      "自动抓取",
+      "南京大学"
+    ],
+    "confidence": "auto",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-08-28",
+    "sourceExcerpt": "南京大学2027年接收推荐免试研究生预报名通知。每日抓取脚本自动发现的候选通知，发布前建议由维护者核验学院、专业、报名截止日期等字段。。",
+    "sourceHost": "yzb.nju.edu.cn",
+    "sourceHomepage": "https://yzb.nju.edu.cn/",
+    "departmentHomepage": "https://yzb.nju.edu.cn/",
+    "noticeStage": "预推免",
+    "classifiedAt": "2026-08-28"
+  },
+  {
     "id": "search-2e776d252f7e",
     "title": "2026 年接收推荐免试研究生预报名 通知",
     "school": "南京大学",
@@ -30696,6 +30926,147 @@
     "sourceHost": "pharmacy.nankai.edu.cn",
     "sourceHomepage": "https://pharmacy.nankai.edu.cn/",
     "departmentHomepage": "https://pharmacy.nankai.edu.cn/"
+  },
+  {
+    "id": "college-50df62d69cdc",
+    "title": "清华大学研究生招生网",
+    "school": "清华大学",
+    "department": "管理科学与工程系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学管理科学与工程系官方站点",
+    "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/sszs/ptzk.htm",
+    "sourceHost": "yz.tsinghua.edu.cn",
+    "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-de047849affc"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学研究生招生网。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。普通招考-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 硕士招生 → 普通招考 硕士招生 简章目录 推荐免试 普通招考 博士招生 简章目录 推荐免试 普通招考 港澳台招生 通知公告 简章目录 国际招生 通知公告 简章目录 硕士招生 博士招生 港澳台招生 国际招生 硕士招生 简章目录 推荐免试 普通招考 13 2026.03 清华大学2026年硕士研究生招生复试基本分数线 13 2026.03 清华大学2026年硕士研究生招生复试录取办法 28 ",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-28"
+  },
+  {
+    "id": "college-dc8d03ea837b",
+    "title": "清华大学研究生招生网",
+    "school": "清华大学",
+    "department": "管理科学与工程系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学管理科学与工程系官方站点",
+    "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gatzs/jzml.htm",
+    "sourceHost": "yz.tsinghua.edu.cn",
+    "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-de047849affc"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学研究生招生网。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。简章目录-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 港澳台招生 → 简章目录 硕士招生 简章目录 推荐免试 普通招考 博士招生 简章目录 推荐免试 普通招考 港澳台招生 通知公告 简章目录 国际招生 通知公告 简章目录 硕士招生 博士招生 港澳台招生 国际招生 港澳台招生 通知公告 简章目录 06 2025.11 清华大学2026年招收香港、澳门、台湾地区研究生简章 06 2025.11 清华大学2026年招收港澳台地区硕士研究生专业目录 ",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-28"
+  },
+  {
+    "id": "college-d5d8411ee418",
+    "title": "清华大学研究生招生网",
+    "school": "清华大学",
+    "department": "管理科学与工程系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学管理科学与工程系官方站点",
+    "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gjxs/jzml.htm",
+    "sourceHost": "yz.tsinghua.edu.cn",
+    "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-de047849affc"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学研究生招生网。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。简章目录-清华研究生招生网 招生综合信息平台 &#xe61e; EN 招生信息 Admissions 硕士招生 博士招生 港澳台招生 国际招生 政策法规 Policies 信息公开 Info 公开信息 院系信息 Departments Info 网上报名 Apply Now 中国（境内） 中国（港澳台） 国际 International 最新公告 Notice 联系我们 Contact Us 联系方式 监督申诉 招生综合信息平台 EN 招生信息 Admissions 首页 → 招生信息 → 国际招生 → 简章目录 硕士招生 简章目录 推荐免试 普通招考 博士招生 简章目录 推荐免试 普通招考 港澳台招生 通知公告 简章目录 国际招生 通知公告 简章目录 国际招生 通知公告 简章目录 01 2025.09 清华大学2026年招收国际研究生专业目录 01 2025.09 清华大学2026年招收国际研究生简章 01 2025.09 2026年本科学历国际学生攻读博士学位申请指南 0",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-08-28",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-08-28"
   },
   {
     "id": "college-6cd84eb2e237",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-28T10:10:26.043Z",
+  "generatedAt": "2026-08-29T07:49:39.275Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2267,
+    "notices": 2274,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 148,
+      "total": 153,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 326,
+      "total": 328,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 50,
@@ -2153,12 +2153,13 @@
       "id": "auto-2ad43d9b4a20",
       "school": "上海交通大学",
       "department": "董浩云智能管理与物流研究院",
-      "total": 5,
+      "total": 6,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2532,7 +2533,7 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 11,
+      "total": 12,
       "years": [
         2041,
         2026,
@@ -4010,7 +4011,7 @@
       "id": "auto-cd3a02b4b857",
       "school": "中国人民大学",
       "department": "公共管理学院",
-      "total": 22,
+      "total": 26,
       "years": [
         2026,
         2025,
@@ -4082,7 +4083,7 @@
       "id": "ruc-labor-human-resources",
       "school": "中国人民大学",
       "department": "劳动人事学院",
-      "total": 12,
+      "total": 13,
       "years": [
         2027,
         2026,

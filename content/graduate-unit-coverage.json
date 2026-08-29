@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T10:10:27.315Z",
+  "generatedAt": "2026-08-29T07:49:40.545Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 769,
     "stale": 8,
     "missing": 362,
-    "currentSeasonCovered": 47
+    "currentSeasonCovered": 49
   },
   "units": [
     {
@@ -9137,8 +9137,8 @@
       "department": "文化创意产业学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://icci.sjtu.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 12,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2041,
@@ -9815,14 +9815,15 @@
       "department": "董浩云智能管理与物流研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://www.sugli.sjtu.edu.cn/",
-      "total": 5,
+      "total": 6,
       "recentFiveYears": 5,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -9831,15 +9832,16 @@
       "department": "中美物流研究院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://yzb.sjtu.edu.cn/post/2564",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 6,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-05-11",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15854,9 +15856,9 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 12,
+      "total": 13,
       "recentFiveYears": 8,
-      "currentSeason": 4,
+      "currentSeason": 5,
       "years": [
         2027,
         2026,
@@ -16276,8 +16278,8 @@
       "department": "公共管理学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 22,
-      "recentFiveYears": 20,
+      "total": 26,
+      "recentFiveYears": 23,
       "currentSeason": 0,
       "years": [
         2026,
