@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-30T04:26:29.720Z",
+  "generatedAt": "2026-08-31T04:42:45.863Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2164,
+    "notices": 2178,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 321,
-    "missingCollegeSources": 88,
+    "missingCollegeSources": 86,
     "llmStructured": 1534,
     "unstructured": 0
   },
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 145,
+      "total": 150,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -27,10 +27,10 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 358,
+      "total": 363,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 63,
+      "departments": 65,
       "llmStructured": 116,
       "latestDate": "2080-91-79",
       "status": "stale"
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 225,
+      "total": 229,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -459,7 +459,7 @@
       "id": "auto-be14dcbc0e21",
       "school": "北京大学",
       "department": "材料科学与工程学院",
-      "total": 18,
+      "total": 19,
       "years": [
         2026,
         2025,
@@ -581,11 +581,12 @@
       "id": "auto-0c7482477085",
       "school": "北京大学",
       "department": "光华管理学院",
-      "total": 12,
+      "total": 13,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-08-31",
       "status": "covered"
     },
     {
@@ -723,7 +724,7 @@
       "id": "auto-241ae2d891dd",
       "school": "北京大学",
       "department": "教育学院",
-      "total": 12,
+      "total": 13,
       "years": [
         2027,
         2026,
@@ -1062,10 +1063,12 @@
       "id": "auto-7a8f641a2bed",
       "school": "北京大学",
       "department": "新材料学院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 1,
+      "years": [
+        2027
+      ],
+      "latestDate": "2026-08-31",
+      "status": "covered"
     },
     {
       "id": "auto-e36fb7e1c657",
@@ -1218,7 +1221,7 @@
       "id": "auto-33513dc1713b",
       "school": "北京大学",
       "department": "哲学系",
-      "total": 5,
+      "total": 6,
       "years": [
         2026,
         2025
@@ -1230,10 +1233,12 @@
       "id": "auto-9ff57f12f149",
       "school": "北京大学",
       "department": "哲学系宗教学系",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-ef8743fea875",
@@ -3194,7 +3199,7 @@
       "id": "auto-17b841659512",
       "school": "中国科学技术大学",
       "department": "国际金融研究院",
-      "total": 10,
+      "total": 12,
       "years": [
         2026,
         2025,
@@ -3611,12 +3616,13 @@
       "id": "auto-b6549a32b840",
       "school": "中国科学技术大学",
       "department": "人工智能与数据科学学院",
-      "total": 3,
+      "total": 5,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -4069,7 +4075,7 @@
       "id": "ruc-labor-human-resources",
       "school": "中国人民大学",
       "department": "劳动人事学院",
-      "total": 10,
+      "total": 12,
       "years": [
         2027,
         2026,
@@ -4140,7 +4146,7 @@
       "id": "auto-a5d644ead328",
       "school": "中国人民大学",
       "department": "文学院",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
@@ -4178,7 +4184,7 @@
       "id": "auto-f9c70ac74498",
       "school": "中国人民大学",
       "department": "哲学院",
-      "total": 9,
+      "total": 11,
       "years": [
         2027,
         2026,
@@ -4255,11 +4261,9 @@
     "北京大学人文社会科学学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学数学科学学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学体育教研部 已登记源但暂无候选，需要检查公告页。",
-    "北京大学新材料学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学医学部 已登记源但暂无候选，需要检查公告页。",
     "北京大学医学人文学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学艺术学院 已登记源但暂无候选，需要检查公告页。",
-    "北京大学哲学系宗教学系 已登记源但暂无候选，需要检查公告页。",
     "清华大学工业工程系 已登记源但暂无候选，需要检查公告页。",
     "清华大学环境科学与健康系 已登记源但暂无候选，需要检查公告页。",
     "清华大学机械工程学院 已登记源但暂无候选，需要检查公告页。",

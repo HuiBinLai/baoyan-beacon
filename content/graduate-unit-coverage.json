@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:26:30.955Z",
+  "generatedAt": "2026-08-31T04:42:47.092Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,11 +9,11 @@
     2022
   ],
   "totals": {
-    "units": 1139,
-    "covered": 766,
-    "stale": 8,
-    "missing": 365,
-    "currentSeasonCovered": 49
+    "units": 1140,
+    "covered": 767,
+    "stale": 9,
+    "missing": 364,
+    "currentSeasonCovered": 52
   },
   "units": [
     {
@@ -374,8 +374,8 @@
       "department": "哲学系宗教学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://phil.pku.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 16,
+      "total": 17,
+      "recentFiveYears": 17,
       "currentSeason": 0,
       "years": [
         2026,
@@ -504,8 +504,8 @@
       "department": "材料科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.mse.pku.edu.cn/",
-      "total": 27,
-      "recentFiveYears": 24,
+      "total": 28,
+      "recentFiveYears": 25,
       "currentSeason": 0,
       "years": [
         2026,
@@ -658,9 +658,9 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 15,
+      "total": 16,
       "recentFiveYears": 14,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -706,13 +706,14 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 12,
+      "total": 13,
       "recentFiveYears": 12,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-08-31",
       "status": "covered"
     },
     {
@@ -1006,12 +1007,14 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 0,
+      "total": 1,
       "recentFiveYears": 0,
-      "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "currentSeason": 1,
+      "years": [
+        2027
+      ],
+      "latestDate": "2026-08-31",
+      "status": "stale"
     },
     {
       "id": "65578aa757",
@@ -1084,8 +1087,8 @@
       "department": "哲学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://phil.pku.edu.cn/",
-      "total": 19,
-      "recentFiveYears": 18,
+      "total": 20,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,
@@ -1351,8 +1354,8 @@
       "department": "宗教学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://phil.pku.edu.cn/xwgg/tzgg/c83801861f2648fd8802714995227548.htm",
-      "total": 17,
-      "recentFiveYears": 17,
+      "total": 18,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -3436,6 +3439,25 @@
         2022
       ],
       "latestDate": "2022-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "b1666ebe4c",
+      "school": "东北大学",
+      "department": "信息科学与工程学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "http://www.ise.neu.edu.cn/2024/0611/c157a256745/pagem.htm",
+      "total": 6,
+      "recentFiveYears": 6,
+      "currentSeason": 0,
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022
+      ],
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -14515,14 +14537,15 @@
       "department": "人工智能与数据科学学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://saids.ustc.edu.cn/",
-      "total": 4,
+      "total": 6,
       "recentFiveYears": 4,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15236,8 +15259,8 @@
       "department": "国际金融研究院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://iif.ustc.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 5,
+      "total": 12,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15567,8 +15590,8 @@
       "department": "管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://mf.ustc.edu.cn/2024/0529/c14030a642293/page.htm",
-      "total": 36,
-      "recentFiveYears": 29,
+      "total": 38,
+      "recentFiveYears": 31,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15760,8 +15783,8 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 9,
-      "recentFiveYears": 8,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 1,
       "years": [
         2027,
@@ -15844,9 +15867,9 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 10,
+      "total": 12,
       "recentFiveYears": 8,
-      "currentSeason": 2,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -15932,8 +15955,8 @@
       "department": "文学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026

@@ -9427,6 +9427,19 @@
     "priority": 9205
   },
   {
+    "id": "b1666ebe4c",
+    "school": "东北大学",
+    "department": "信息科学与工程学院",
+    "aliases": [
+      "信息科学与工程学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "http://www.ise.neu.edu.cn/2024/0611/c157a256745/pagem.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 19,
+    "priority": 9026
+  },
+  {
     "id": "ff75c62f46",
     "school": "东北大学",
     "department": "文法学院",
