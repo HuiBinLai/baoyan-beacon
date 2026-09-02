@@ -936,6 +936,19 @@
     "priority": 91
   },
   {
+    "id": "de3e15fe97",
+    "school": "北京大学",
+    "department": "2027年接收推荐免试研究生办法校本部",
+    "aliases": [
+      "2027年接收推荐免试研究生办法校本部"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 2,
+    "priority": 9014
+  },
+  {
     "id": "f872127d43",
     "school": "北京大学",
     "department": "国际法学院",
