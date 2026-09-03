@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T04:16:20.720Z",
+  "generatedAt": "2026-09-03T04:38:33.670Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2306,
+    "notices": 2310,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 402,
+      "total": 403,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 66,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 234,
+      "total": 237,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -802,7 +802,7 @@
       "id": "auto-c174a4b6a962",
       "school": "北京大学",
       "department": "力学与工程科学学院",
-      "total": 11,
+      "total": 12,
       "years": [
         2027,
         2026,
@@ -3702,7 +3702,7 @@
       "id": "auto-fa74f23abbbf",
       "school": "中国科学技术大学",
       "department": "少年班学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2026,
         2022,
@@ -3788,7 +3788,7 @@
       "id": "auto-e36122ef1f74",
       "school": "中国科学技术大学",
       "department": "苏州高等研究院",
-      "total": 3,
+      "total": 4,
       "years": [
         2026
       ],
@@ -3877,7 +3877,7 @@
       "id": "auto-290f08665c10",
       "school": "中国科学技术大学",
       "department": "稀土学院",
-      "total": 2,
+      "total": 4,
       "years": [
         2027,
         2026
@@ -3889,7 +3889,7 @@
       "id": "auto-7e4d8c514b42",
       "school": "中国科学技术大学",
       "department": "稀土学院科教融合学院",
-      "total": 2,
+      "total": 4,
       "years": [
         2027,
         2026
