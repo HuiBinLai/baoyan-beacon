@@ -600,19 +600,38 @@
     "timeline": [
       {
         "year": 2027,
-        "count": 1,
+        "count": 2,
         "stages": [
           "推免报名"
         ],
         "degreeTypes": [
           "直博",
-          "学术型硕士"
+          "学术型硕士",
+          "专业型硕士"
         ],
         "firstPublishedAt": "2026-06-23",
-        "lastPublishedAt": "2026-06-23",
+        "lastPublishedAt": "2026-09-04",
         "firstApplicationStart": "2026-07-01",
-        "lastApplicationEnd": "2026-07-14",
+        "lastApplicationEnd": "2026-09-10",
         "notices": [
+          {
+            "id": "college-19a7c38e58dd",
+            "title": "中国人民大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2026-09-04",
+            "applicationStart": "2026-09-04",
+            "applicationEnd": "2026-09-10",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/20260904001.html",
+            "sourceHost": "ai.ruc.edu.cn",
+            "sourceHomepage": "https://ai.ruc.edu.cn/",
+            "departmentHomepage": "https://ai.ruc.edu.cn/"
+          },
           {
             "id": "college-a4d20976df90",
             "title": "中国人民大学高瓴人工智能学院2027年推免生接收工作报名通知",
@@ -975,9 +994,9 @@
       }
     ],
     "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 1,
+    "currentSeasonCount": 2,
     "latestPastYear": 2026,
-    "noticeCount": 15,
+    "noticeCount": 16,
     "llmStructuredCount": 6,
     "years": [
       2027,
@@ -996,17 +1015,17 @@
     "degreeTypes": [
       "直博",
       "学术型硕士",
-      "待确认",
       "专业型硕士",
+      "待确认",
       "硕士"
     ],
     "majors": [
       "人工智能",
+      "电子信息",
+      "智慧治理",
       "计算机科学与技术",
       "智能科学与技术",
-      "电子信息",
       "电子信息（人工智能）",
-      "智慧治理",
       "人工智能专业",
       "人工智能（大数据科学与技术）"
     ],
@@ -8609,6 +8628,570 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-8249b1a190b3",
+    "school": "清华大学",
+    "department": "雕塑系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 雕塑系",
+    "tracks": [
+      "艺术设计"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 7,
+        "stages": [
+          "推免报名",
+          "复试/考核",
+          "结果公示"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-07-01",
+        "lastApplicationEnd": "2026-07-28",
+        "notices": [
+          {
+            "id": "college-896965dc1d97",
+            "title": "硕士招生 2026.09.02 清华大学美术学院2027年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/68014c26-d4dc-4b9f-93a0-878e7913323b?yxsdm=080",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-c702411456ac",
+            "title": "18 2026.06 关于清华大学2027年接收优秀应届本科毕业生免试攻读研究生报名的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-01",
+            "applicationEnd": "2026-07-28",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3233.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-6903fe30c1ce",
+            "title": "03 2026.07 清华大学2027年接收推荐免试研究生办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3250.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-57cdab98c273",
+            "title": "博士招生 2026.08.26 清华大学美术学院2027年博士研究生招生综合考核及录取办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/b3d85d21-c472-498d-a35d-69b05171e49c?yxsdm=080",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-882758e3e9a6",
+            "title": "清华研究生招生网 网上报名、成绩查询、录取结果查询",
+            "stage": "结果公示",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-6cd48e53b98d",
+            "title": "硕士招生 2026.06.30 清华大学美术学院2027年接收外校优秀应届本科毕业生推荐免试攻读研究生相关要求",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1569/32659.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-31001758ff90",
+            "title": "硕士招生 2026.06.30 清华大学美术学院关于2027年全国硕士研究生招生考试初试相关调整的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1569/32655.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "推免",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-01-28",
+        "lastApplicationEnd": "2025-09-23",
+        "notices": [
+          {
+            "id": "college-2ced4c800e6d",
+            "title": "07 2025.06 关于清华大学2026年接收优秀应届本科毕业生免试攻读研究生报名的通知",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-07-01",
+            "applicationEnd": "2025-07-28",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3008.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-2c0f7cc71e8f",
+            "title": "08 2025.07 清华大学2026年接收推荐免试研究生办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3036.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-c9ac4983f034",
+            "title": "12 2025.09 清华大学2026年推荐免试调剂信息",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-12",
+            "applicationEnd": "2025-09-13",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3068.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-a1dd2f6e22c5",
+            "title": "19 2025.09 2026年推荐免试直硕、直博生履行正式报名手续的通知及资格复审要求",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-22",
+            "applicationEnd": "2025-09-23",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3077.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-b8d9bb137dcf",
+            "title": "硕士招生 2025.12.10 2026 年美术学院硕士研究生招生考试（初试）第四科考试用具说明",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1536/32229.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-1211de8ebccd",
+            "title": "招生简章 2025.01.27 清华大学2025年艺术类专业（美术学院）本科招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-01-28",
+            "applicationEnd": "2025-02-11",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1526/31599.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2024-02-05",
+        "lastApplicationEnd": "2024-02-19",
+        "notices": [
+          {
+            "id": "college-18e89fb36a27",
+            "title": "02 2024.09 清华大学2025年接收推荐免试研究生办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/2826.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-721bb59fad0e",
+            "title": "招生简章 2024.02.05 清华大学2024年艺术类专业（美术学院）本科招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-02-05",
+            "applicationEnd": "2024-02-19",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1509/30895.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-351bfd47d0b1",
+            "title": "08 2021.09 清华大学研究生招生网络远程考核注意事项",
+            "stage": "复试/考核",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/2019.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2020,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2020-01-01",
+        "lastPublishedAt": "2020-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-e16645fea205",
+            "title": "招生简章 2020.11.27 清华大学2021年艺术类专业（美术学院）本科招生简章",
+            "stage": "招生简章",
+            "year": 2020,
+            "publishedAt": "2020-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1182/14576.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-7c145d94b034",
+            "title": "最新消息 2020.11.27 清华大学2021年艺术类专业（美术学院）本科招生简章",
+            "stage": "招生简章",
+            "year": 2020,
+            "publishedAt": "2020-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1181/14626.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2018,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2018-01-01",
+        "lastPublishedAt": "2018-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-a5260404f238",
+            "title": "最新消息 2018.07.02 2019年清华大学美术学院国际学生（本科）招生简章",
+            "stage": "招生简章",
+            "year": 2018,
+            "publishedAt": "2018-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1384/15843.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2016,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2016-01-01",
+        "lastPublishedAt": "2016-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-1a796c6fe6a7",
+            "title": "招生简章 2016.01.19 清华大学美术学院2016年外国留学生本科招生简章",
+            "stage": "招生简章",
+            "year": 2016,
+            "publishedAt": "2016-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1385/15845.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-b0869fa2219b",
+            "title": "招生简章 2016.10.18 2017年清华大学美术学院国际学生（本科）招生简章",
+            "stage": "招生简章",
+            "year": 2016,
+            "publishedAt": "2016-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1385/15844.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2015,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2015-01-01",
+        "lastPublishedAt": "2015-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-1ee31f31019d",
+            "title": "招生简章 2015.01.21 清华大学美术学院2015年外国留学生本科招生简章（仅适于外籍考生报考）",
+            "stage": "招生简章",
+            "year": 2015,
+            "publishedAt": "2015-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1385/15846.htm",
+            "sourceHost": "www.ad.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 22,
+    "llmStructuredCount": 14,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2021,
+      2020,
+      2018,
+      2016,
+      2015
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "结果公示",
+      "推免",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士",
+      "直博"
+    ],
+    "majors": [
+      "人工智能",
+      "设计学",
+      "服装与服饰设计",
+      "服装与服饰设计（染织艺术设计）",
+      "陶瓷艺术设计",
+      "视觉传达设计",
+      "环境设计",
+      "产品设计",
+      "产品设计（交通工具造型设计）",
+      "艺术与科技（信息设计）",
+      "动画",
+      "工艺美术",
+      "绘画",
+      "摄影",
+      "雕塑"
+    ],
+    "sourceHosts": [
+      "yzbm.tsinghua.edu.cn",
+      "yz.tsinghua.edu.cn",
+      "www.ad.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzbm.tsinghua.edu.cn/",
+      "https://yz.tsinghua.edu.cn/",
+      "https://www.ad.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.ad.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-3d997a739f41",
     "school": "上海交通大学",
     "department": "人工智能学院",
@@ -9134,554 +9717,6 @@
     "departmentHomepages": [
       "https://sai.sjtu.edu.cn/",
       "https://yzb.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-8249b1a190b3",
-    "school": "清华大学",
-    "department": "雕塑系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 雕塑系",
-    "tracks": [
-      "艺术设计"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "复试/考核",
-          "结果公示"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-07-01",
-        "lastApplicationEnd": "2026-07-28",
-        "notices": [
-          {
-            "id": "college-c702411456ac",
-            "title": "18 2026.06 关于清华大学2027年接收优秀应届本科毕业生免试攻读研究生报名的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-01",
-            "applicationEnd": "2026-07-28",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3233.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-6903fe30c1ce",
-            "title": "03 2026.07 清华大学2027年接收推荐免试研究生办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3250.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-57cdab98c273",
-            "title": "博士招生 2026.08.26 清华大学美术学院2027年博士研究生招生综合考核及录取办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/b3d85d21-c472-498d-a35d-69b05171e49c?yxsdm=080",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-882758e3e9a6",
-            "title": "清华研究生招生网 网上报名、成绩查询、录取结果查询",
-            "stage": "结果公示",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-6cd48e53b98d",
-            "title": "硕士招生 2026.06.30 清华大学美术学院2027年接收外校优秀应届本科毕业生推荐免试攻读研究生相关要求",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1569/32659.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-31001758ff90",
-            "title": "硕士招生 2026.06.30 清华大学美术学院关于2027年全国硕士研究生招生考试初试相关调整的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1569/32655.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "推免",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-01-28",
-        "lastApplicationEnd": "2025-09-23",
-        "notices": [
-          {
-            "id": "college-2ced4c800e6d",
-            "title": "07 2025.06 关于清华大学2026年接收优秀应届本科毕业生免试攻读研究生报名的通知",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-07-01",
-            "applicationEnd": "2025-07-28",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3008.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-2c0f7cc71e8f",
-            "title": "08 2025.07 清华大学2026年接收推荐免试研究生办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3036.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-c9ac4983f034",
-            "title": "12 2025.09 清华大学2026年推荐免试调剂信息",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-12",
-            "applicationEnd": "2025-09-13",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3068.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-a1dd2f6e22c5",
-            "title": "19 2025.09 2026年推荐免试直硕、直博生履行正式报名手续的通知及资格复审要求",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-22",
-            "applicationEnd": "2025-09-23",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3077.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-b8d9bb137dcf",
-            "title": "硕士招生 2025.12.10 2026 年美术学院硕士研究生招生考试（初试）第四科考试用具说明",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1536/32229.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-1211de8ebccd",
-            "title": "招生简章 2025.01.27 清华大学2025年艺术类专业（美术学院）本科招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-01-28",
-            "applicationEnd": "2025-02-11",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1526/31599.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2024-02-05",
-        "lastApplicationEnd": "2024-02-19",
-        "notices": [
-          {
-            "id": "college-18e89fb36a27",
-            "title": "02 2024.09 清华大学2025年接收推荐免试研究生办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/2826.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-721bb59fad0e",
-            "title": "招生简章 2024.02.05 清华大学2024年艺术类专业（美术学院）本科招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-02-05",
-            "applicationEnd": "2024-02-19",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1509/30895.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-351bfd47d0b1",
-            "title": "08 2021.09 清华大学研究生招生网络远程考核注意事项",
-            "stage": "复试/考核",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/2019.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2020,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2020-01-01",
-        "lastPublishedAt": "2020-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-e16645fea205",
-            "title": "招生简章 2020.11.27 清华大学2021年艺术类专业（美术学院）本科招生简章",
-            "stage": "招生简章",
-            "year": 2020,
-            "publishedAt": "2020-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1182/14576.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-7c145d94b034",
-            "title": "最新消息 2020.11.27 清华大学2021年艺术类专业（美术学院）本科招生简章",
-            "stage": "招生简章",
-            "year": 2020,
-            "publishedAt": "2020-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1181/14626.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2018,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2018-01-01",
-        "lastPublishedAt": "2018-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-a5260404f238",
-            "title": "最新消息 2018.07.02 2019年清华大学美术学院国际学生（本科）招生简章",
-            "stage": "招生简章",
-            "year": 2018,
-            "publishedAt": "2018-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1384/15843.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2016,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2016-01-01",
-        "lastPublishedAt": "2016-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-1a796c6fe6a7",
-            "title": "招生简章 2016.01.19 清华大学美术学院2016年外国留学生本科招生简章",
-            "stage": "招生简章",
-            "year": 2016,
-            "publishedAt": "2016-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1385/15845.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-b0869fa2219b",
-            "title": "招生简章 2016.10.18 2017年清华大学美术学院国际学生（本科）招生简章",
-            "stage": "招生简章",
-            "year": 2016,
-            "publishedAt": "2016-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1385/15844.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2015,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2015-01-01",
-        "lastPublishedAt": "2015-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-1ee31f31019d",
-            "title": "招生简章 2015.01.21 清华大学美术学院2015年外国留学生本科招生简章（仅适于外籍考生报考）",
-            "stage": "招生简章",
-            "year": 2015,
-            "publishedAt": "2015-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ad.tsinghua.edu.cn/info/1385/15846.htm",
-            "sourceHost": "www.ad.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.ad.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.ad.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 21,
-    "llmStructuredCount": 14,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2021,
-      2020,
-      2018,
-      2016,
-      2015
-    ],
-    "stages": [
-      "推免报名",
-      "复试/考核",
-      "结果公示",
-      "推免",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "硕士",
-      "直博"
-    ],
-    "majors": [
-      "人工智能",
-      "设计学",
-      "服装与服饰设计",
-      "服装与服饰设计（染织艺术设计）",
-      "陶瓷艺术设计",
-      "视觉传达设计",
-      "环境设计",
-      "产品设计",
-      "产品设计（交通工具造型设计）",
-      "艺术与科技（信息设计）",
-      "动画",
-      "工艺美术",
-      "绘画",
-      "摄影",
-      "雕塑"
-    ],
-    "sourceHosts": [
-      "yz.tsinghua.edu.cn",
-      "yzbm.tsinghua.edu.cn",
-      "www.ad.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yz.tsinghua.edu.cn/",
-      "https://yzbm.tsinghua.edu.cn/",
-      "https://www.ad.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.ad.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -10640,6 +10675,442 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-80a30337b4e2",
+    "school": "清华大学",
+    "department": "领导力与组织管理系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 领导力与组织管理系",
+    "tracks": [
+      "经管金融",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 4,
+        "stages": [
+          "复试/考核",
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "硕士",
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-07-01",
+        "lastApplicationEnd": "2027-09-04",
+        "notices": [
+          {
+            "id": "college-f669e663f9f6",
+            "title": "清华大学经济管理学院2027年博士研究生招生综合考核及录取办法 2026-08-13",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-08-12",
+            "applicationEnd": "2027-09-04",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/3377370e-ce1f-40e1-a328-b5ae5ff5b2e3?yxsdm=051",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-678f687bb450",
+            "title": "清华大学求真书院2027年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-07-01",
+            "applicationEnd": "2026-07-28",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8268.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-ff7cd662e519",
+            "title": "清华大学求真书院2027年博士研究生招生综合考核及录取办法",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8314.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-698fb69aa042",
+            "title": "清华大学求真书院2027年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8313.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 11,
+        "stages": [
+          "推免",
+          "复试/考核",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-04-16",
+        "lastApplicationEnd": "2026-09-03",
+        "notices": [
+          {
+            "id": "college-1097a395869c",
+            "title": "求真书院数学国际博士研究生招生公告",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-04-16",
+            "applicationEnd": "2022-08-31",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7146.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-b583e11598c8",
+            "title": "清华大学经济管理学院2026年博士研究生招生综合考核及录取办法 2025-08-12",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-08-12",
+            "applicationEnd": "2026-09-03",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/1fe76b24-797b-4559-96f5-e91602c0455e?yxsdm=051",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-8b45ee2bbedb",
+            "title": "领导力与组织管理系-清华大学求真书院",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/syjx/yjfx/qhdxjjglxy/ldlyzzglx.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-0018f41901c2",
+            "title": "领军计划招生-清华大学求真书院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/syzs/ljjhzs.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-0070e0b9d6cc",
+            "title": "清华大学2026年丘成桐数学科学领军人才培养计划招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-22",
+            "applicationEnd": "2025-10-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/7623.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e7ffc4f150b3",
+            "title": "清华大学求真书院2026年博士生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-07-01",
+            "applicationEnd": "2025-07-28",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7355.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-44a89416fe74",
+            "title": "清华大学求真书院2026年博士研究生招生综合考核及录取办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7500.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-1a38be6ea97e",
+            "title": "清华大学求真书院2026年接收优秀应届本科毕业生免试攻读研究生直硕/直博项目综合考...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7502.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e7313879646f",
+            "title": "清华大学求真书院2026年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7501.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-3d925d1b6ff8",
+            "title": "书院招生-清华大学求真书院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/syzs.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-62c1207dd125",
+            "title": "招生信息-清华大学求真书院",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/syzs/yjszs2/zsxx.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 4,
+        "stages": [
+          "招生简章",
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-08-23",
+        "lastApplicationEnd": "2024-10-31",
+        "notices": [
+          {
+            "id": "college-95362eb5bc44",
+            "title": "清华大学2025年丘成桐数学科学领军人才培养计划招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-10-24",
+            "applicationEnd": "2024-10-31",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/6528.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e206867c6dd3",
+            "title": "清华大学2025年丘成桐数学科学领军人才培养计划招生简章（第二批次）",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/6736.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-2ecb1d787f21",
+            "title": "清华大学求真书院2025年博士生招生综合考核及录取办法",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-08-23",
+            "applicationEnd": "2024-09-02",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/6352.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-b7eefe50f0e6",
+            "title": "清华大学求真书院2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/6351.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 4,
+    "latestPastYear": 2026,
+    "noticeCount": 19,
+    "llmStructuredCount": 8,
+    "years": [
+      2027,
+      2026,
+      2025
+    ],
+    "stages": [
+      "复试/考核",
+      "招生简章",
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "直博",
+      "硕士",
+      "博士",
+      "待确认"
+    ],
+    "majors": [
+      "理论经济学",
+      "应用经济学",
+      "金融",
+      "教育学",
+      "管理科学与工程",
+      "工商管理",
+      "人工智能",
+      "数学",
+      "理论物理",
+      "应用与计算数学",
+      "代数与数论",
+      "几何与拓扑",
+      "分析与方程",
+      "概率与统计",
+      "计算与应用数学"
+    ],
+    "sourceHosts": [
+      "yzbm.tsinghua.edu.cn",
+      "qzc.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzbm.tsinghua.edu.cn/",
+      "https://qzc.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://pg.sem.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-e4448295d25d",
     "school": "北京大学",
     "department": "电子学院",
@@ -11047,426 +11518,6 @@
       "https://www.pku.edu.cn/",
       "https://ss.pku.edu.cn/",
       "https://eecs.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-80a30337b4e2",
-    "school": "清华大学",
-    "department": "领导力与组织管理系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 领导力与组织管理系",
-    "tracks": [
-      "经管金融",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 4,
-        "stages": [
-          "复试/考核",
-          "招生简章",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "硕士",
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2026-07-01",
-        "lastApplicationEnd": "2027-09-04",
-        "notices": [
-          {
-            "id": "college-f669e663f9f6",
-            "title": "清华大学经济管理学院2027年博士研究生招生综合考核及录取办法 2026-08-13",
-            "stage": "复试/考核",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2026-08-12",
-            "applicationEnd": "2027-09-04",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/3377370e-ce1f-40e1-a328-b5ae5ff5b2e3?yxsdm=051",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-678f687bb450",
-            "title": "清华大学求真书院2027年博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2026-07-01",
-            "applicationEnd": "2026-07-28",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8268.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-ff7cd662e519",
-            "title": "清华大学求真书院2027年博士研究生招生综合考核及录取办法",
-            "stage": "复试/考核",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8314.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-698fb69aa042",
-            "title": "清华大学求真书院2027年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/8313.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 10,
-        "stages": [
-          "复试/考核",
-          "推免",
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-07-01",
-        "lastApplicationEnd": "2026-09-03",
-        "notices": [
-          {
-            "id": "college-b583e11598c8",
-            "title": "清华大学经济管理学院2026年博士研究生招生综合考核及录取办法 2025-08-12",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-08-12",
-            "applicationEnd": "2026-09-03",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/1fe76b24-797b-4559-96f5-e91602c0455e?yxsdm=051",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-8b45ee2bbedb",
-            "title": "领导力与组织管理系-清华大学求真书院",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/syjx/yjfx/qhdxjjglxy/ldlyzzglx.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-0018f41901c2",
-            "title": "领军计划招生-清华大学求真书院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/syzs/ljjhzs.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-0070e0b9d6cc",
-            "title": "清华大学2026年丘成桐数学科学领军人才培养计划招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-22",
-            "applicationEnd": "2025-10-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/7623.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e7ffc4f150b3",
-            "title": "清华大学求真书院2026年博士生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-07-01",
-            "applicationEnd": "2025-07-28",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7355.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-44a89416fe74",
-            "title": "清华大学求真书院2026年博士研究生招生综合考核及录取办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7500.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-1a38be6ea97e",
-            "title": "清华大学求真书院2026年接收优秀应届本科毕业生免试攻读研究生直硕/直博项目综合考...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7502.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e7313879646f",
-            "title": "清华大学求真书院2026年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/7501.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-3d925d1b6ff8",
-            "title": "书院招生-清华大学求真书院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/syzs.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-62c1207dd125",
-            "title": "招生信息-清华大学求真书院",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/syzs/yjszs2/zsxx.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 4,
-        "stages": [
-          "招生简章",
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-08-23",
-        "lastApplicationEnd": "2024-10-31",
-        "notices": [
-          {
-            "id": "college-95362eb5bc44",
-            "title": "清华大学2025年丘成桐数学科学领军人才培养计划招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-10-24",
-            "applicationEnd": "2024-10-31",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/6528.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e206867c6dd3",
-            "title": "清华大学2025年丘成桐数学科学领军人才培养计划招生简章（第二批次）",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/6736.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-2ecb1d787f21",
-            "title": "清华大学求真书院2025年博士生招生综合考核及录取办法",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-08-23",
-            "applicationEnd": "2024-09-02",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/6352.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-b7eefe50f0e6",
-            "title": "清华大学求真书院2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1162/6351.htm",
-            "sourceHost": "qzc.tsinghua.edu.cn",
-            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 4,
-    "latestPastYear": 2026,
-    "noticeCount": 18,
-    "llmStructuredCount": 8,
-    "years": [
-      2027,
-      2026,
-      2025
-    ],
-    "stages": [
-      "复试/考核",
-      "招生简章",
-      "推免报名",
-      "推免"
-    ],
-    "degreeTypes": [
-      "直博",
-      "硕士",
-      "博士",
-      "待确认"
-    ],
-    "majors": [
-      "理论经济学",
-      "应用经济学",
-      "金融",
-      "教育学",
-      "管理科学与工程",
-      "工商管理",
-      "人工智能",
-      "数学",
-      "理论物理",
-      "应用与计算数学",
-      "代数与数论",
-      "几何与拓扑",
-      "分析与方程",
-      "概率与统计",
-      "计算与应用数学"
-    ],
-    "sourceHosts": [
-      "yzbm.tsinghua.edu.cn",
-      "qzc.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yzbm.tsinghua.edu.cn/",
-      "https://qzc.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://pg.sem.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -30281,6 +30332,244 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-6e58594614d1",
+    "school": "北京大学",
+    "department": "碳中和研究院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 碳中和研究院",
+    "tracks": [
+      "医学药学",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 3,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-09-08",
+        "notices": [
+          {
+            "id": "college-deaa26f6eaf3",
+            "title": "北京大学碳中和研究院关于接收2027年推荐免试（直博）研究生的说明",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/ae786dc3007a4df4a06b69fe121cae30.htm",
+            "sourceHost": "carbon.pku.edu.cn",
+            "sourceHomepage": "https://carbon.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          },
+          {
+            "id": "college-ac2a28368ff3",
+            "title": "北京大学碳中和研究院关于接收2027年推荐免试（直博）研究生的说明",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://carbon.pku.edu.cn/xwzx/tzgg/af3f1150512244a8996ddf183d1893ef.htm",
+            "sourceHost": "carbon.pku.edu.cn",
+            "sourceHomepage": "https://carbon.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          },
+          {
+            "id": "college-55b5e84641bf",
+            "title": "北京大学碳中和研究院关于接收2027年推荐免试（直博）研究生的说明 2026 / 09 / 02",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://carbon.pku.edu.cn/xwzx/tzgg/af3f1150512244a8996ddf183d1893ef.htm",
+            "sourceHost": "carbon.pku.edu.cn",
+            "sourceHomepage": "https://carbon.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "直博"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2025-09-10",
+        "notices": [
+          {
+            "id": "college-d5c194673c23",
+            "title": "碳中和系统科学与治理2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/fcbc0d1dedfa45a6a98fe0cb9659b21d.htm",
+            "sourceHost": "carbon.pku.edu.cn",
+            "sourceHomepage": "https://carbon.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          },
+          {
+            "id": "college-b80a51f00000",
+            "title": "碳中和系统科学与治理2026年“申请-考核制”博士研究生招生说明 2025 / 10 / 20",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/fcbc0d1dedfa45a6a98fe0cb9659b21d.htm",
+            "sourceHost": "carbon.pku.edu.cn",
+            "sourceHomepage": "https://carbon.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          },
+          {
+            "id": "college-a2f6f18901df",
+            "title": "北京大学碳中和研究院关于接收2026年推荐免试（直博）研究生的说明 2025 / 09 / 01",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/8740cef39c0a4a8b8f4c13250f4aee13.htm",
+            "sourceHost": "carbon.pku.edu.cn",
+            "sourceHomepage": "https://carbon.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          },
+          {
+            "id": "college-d2e97497dfdb",
+            "title": "北京大学碳中和研究院关于接收2026年推荐免试（直博）研究生的说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/8740cef39c0a4a8b8f4c13250f4aee13.htm",
+            "sourceHost": "carbon.pku.edu.cn",
+            "sourceHomepage": "https://carbon.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-04-09",
+        "lastApplicationEnd": "2025-06-12",
+        "notices": [
+          {
+            "id": "college-834db3fe2984",
+            "title": "2025年生命科学联合中心（北大方面）与PTN项目（北大方面）全国优秀大学生联合夏令营",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-04-09",
+            "applicationEnd": "2025-06-12",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/3705.htm",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "http://www.aais.pku.edu.cn/",
+            "departmentHomepage": "https://carbon.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 3,
+    "latestPastYear": 2026,
+    "noticeCount": 8,
+    "llmStructuredCount": 1,
+    "years": [
+      2027,
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "直博",
+      "博士",
+      "待确认"
+    ],
+    "majors": [
+      "应用经济学",
+      "政治学",
+      "整合生物学",
+      "定量生物学",
+      "合成生物学",
+      "生命化学（化学生物学）",
+      "生命医学（基础医学/临床医学）",
+      "脑科学与类脑研究",
+      "心理学"
+    ],
+    "sourceHosts": [
+      "carbon.pku.edu.cn",
+      "www.aais.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://carbon.pku.edu.cn/",
+      "http://www.aais.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://carbon.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-56f15e79dda1",
     "school": "北京大学",
     "department": "现代农学院",
@@ -38602,177 +38891,6 @@
     ],
     "departmentHomepages": [
       "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-6e58594614d1",
-    "school": "北京大学",
-    "department": "碳中和研究院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 碳中和研究院",
-    "tracks": [
-      "医学药学",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "直博"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2025-09-10",
-        "notices": [
-          {
-            "id": "college-d5c194673c23",
-            "title": "碳中和系统科学与治理2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/fcbc0d1dedfa45a6a98fe0cb9659b21d.htm",
-            "sourceHost": "carbon.pku.edu.cn",
-            "sourceHomepage": "https://carbon.pku.edu.cn/",
-            "departmentHomepage": "https://carbon.pku.edu.cn/"
-          },
-          {
-            "id": "college-b80a51f00000",
-            "title": "碳中和系统科学与治理2026年“申请-考核制”博士研究生招生说明 2025 / 10 / 20",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/fcbc0d1dedfa45a6a98fe0cb9659b21d.htm",
-            "sourceHost": "carbon.pku.edu.cn",
-            "sourceHomepage": "https://carbon.pku.edu.cn/",
-            "departmentHomepage": "https://carbon.pku.edu.cn/"
-          },
-          {
-            "id": "college-a2f6f18901df",
-            "title": "北京大学碳中和研究院关于接收2026年推荐免试（直博）研究生的说明 2025 / 09 / 01",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/8740cef39c0a4a8b8f4c13250f4aee13.htm",
-            "sourceHost": "carbon.pku.edu.cn",
-            "sourceHomepage": "https://carbon.pku.edu.cn/",
-            "departmentHomepage": "https://carbon.pku.edu.cn/"
-          },
-          {
-            "id": "college-d2e97497dfdb",
-            "title": "北京大学碳中和研究院关于接收2026年推荐免试（直博）研究生的说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://carbon.pku.edu.cn/jypy/bszs/8740cef39c0a4a8b8f4c13250f4aee13.htm",
-            "sourceHost": "carbon.pku.edu.cn",
-            "sourceHomepage": "https://carbon.pku.edu.cn/",
-            "departmentHomepage": "https://carbon.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-04-09",
-        "lastApplicationEnd": "2025-06-12",
-        "notices": [
-          {
-            "id": "college-834db3fe2984",
-            "title": "2025年生命科学联合中心（北大方面）与PTN项目（北大方面）全国优秀大学生联合夏令营",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-04-09",
-            "applicationEnd": "2025-06-12",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.aais.pku.edu.cn/info/1058/3705.htm",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "http://www.aais.pku.edu.cn/",
-            "departmentHomepage": "https://carbon.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 5,
-    "llmStructuredCount": 1,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "博士",
-      "直博",
-      "待确认"
-    ],
-    "majors": [
-      "整合生物学",
-      "定量生物学",
-      "合成生物学",
-      "生命化学（化学生物学）",
-      "生命医学（基础医学/临床医学）",
-      "脑科学与类脑研究",
-      "心理学"
-    ],
-    "sourceHosts": [
-      "carbon.pku.edu.cn",
-      "www.aais.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://carbon.pku.edu.cn/",
-      "http://www.aais.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://carbon.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -47492,6 +47610,140 @@
     "departmentHomepages": [
       "http://ibs.ouc.edu.cn/",
       "http://siapa.ouc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-794771716a8e",
+    "school": "中国科学技术大学",
+    "department": "大尺度火灾国际联合研究中心",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 大尺度火灾国际联合研究中心",
+    "tracks": [
+      "理工基础",
+      "教育心理",
+      "新闻传播外语"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-73ea31236a32",
+            "title": "物理学院2026年“所系结合”科技夏令营...",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://news.ustc.edu.cn/info/1055/96095.htm",
+            "sourceHost": "news.ustc.edu.cn",
+            "sourceHomepage": "http://news.ustc.edu.cn/",
+            "departmentHomepage": "http://news.ustc.edu.cn/"
+          },
+          {
+            "id": "college-8e98b2427591",
+            "title": "集成电路学院开展中微集成电路科技英才班夏令营",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://news.ustc.edu.cn/info/1047/95750.htm",
+            "sourceHost": "news.ustc.edu.cn",
+            "sourceHomepage": "http://news.ustc.edu.cn/",
+            "departmentHomepage": "http://news.ustc.edu.cn/"
+          },
+          {
+            "id": "college-93860ff57269",
+            "title": "人才培养-中国科大新闻网",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://news.ustc.edu.cn/rcpy.htm",
+            "sourceHost": "news.ustc.edu.cn",
+            "sourceHomepage": "http://news.ustc.edu.cn/",
+            "departmentHomepage": "http://news.ustc.edu.cn/"
+          },
+          {
+            "id": "college-141b15854c6e",
+            "title": "中国科学技术大学学位与研究生教育",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://gradschool.ustc.edu.cn/",
+            "sourceHost": "gradschool.ustc.edu.cn",
+            "sourceHomepage": "https://gradschool.ustc.edu.cn/",
+            "departmentHomepage": "http://news.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 4,
+    "llmStructuredCount": 1,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认"
+    ],
+    "majors": [
+      "物理学",
+      "人工智能",
+      "金融",
+      "化学"
+    ],
+    "sourceHosts": [
+      "news.ustc.edu.cn",
+      "gradschool.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://news.ustc.edu.cn/",
+      "https://gradschool.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://news.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -56659,124 +56911,6 @@
     ],
     "departmentHomepages": [
       "http://flc.ouc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-794771716a8e",
-    "school": "中国科学技术大学",
-    "department": "大尺度火灾国际联合研究中心",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 大尺度火灾国际联合研究中心",
-    "tracks": [
-      "理工基础",
-      "教育心理",
-      "新闻传播外语"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-8e98b2427591",
-            "title": "集成电路学院开展中微集成电路科技英才班夏令营",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://news.ustc.edu.cn/info/1047/95750.htm",
-            "sourceHost": "news.ustc.edu.cn",
-            "sourceHomepage": "http://news.ustc.edu.cn/",
-            "departmentHomepage": "http://news.ustc.edu.cn/"
-          },
-          {
-            "id": "college-93860ff57269",
-            "title": "人才培养-中国科大新闻网",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://news.ustc.edu.cn/rcpy.htm",
-            "sourceHost": "news.ustc.edu.cn",
-            "sourceHomepage": "http://news.ustc.edu.cn/",
-            "departmentHomepage": "http://news.ustc.edu.cn/"
-          },
-          {
-            "id": "college-141b15854c6e",
-            "title": "中国科学技术大学学位与研究生教育",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://gradschool.ustc.edu.cn/",
-            "sourceHost": "gradschool.ustc.edu.cn",
-            "sourceHomepage": "https://gradschool.ustc.edu.cn/",
-            "departmentHomepage": "http://news.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 3,
-    "llmStructuredCount": 1,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免报名",
-      "推免"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [
-      "人工智能",
-      "金融",
-      "物理学",
-      "化学"
-    ],
-    "sourceHosts": [
-      "news.ustc.edu.cn",
-      "gradschool.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://news.ustc.edu.cn/",
-      "https://gradschool.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://news.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

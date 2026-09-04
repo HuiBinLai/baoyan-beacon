@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:38:35.064Z",
+  "generatedAt": "2026-09-04T04:06:32.202Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -894,9 +894,9 @@
       "department": "碳中和研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://carbon.pku.edu.cn/",
-      "total": 12,
+      "total": 15,
       "recentFiveYears": 9,
-      "currentSeason": 3,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,
@@ -7522,8 +7522,8 @@
       "department": "领导力与组织管理系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/lom/",
-      "total": 18,
-      "recentFiveYears": 14,
+      "total": 19,
+      "recentFiveYears": 15,
       "currentSeason": 4,
       "years": [
         2027,
@@ -7788,8 +7788,8 @@
       "department": "美术学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.ad.tsinghua.edu.cn/",
-      "total": 21,
-      "recentFiveYears": 15,
+      "total": 22,
+      "recentFiveYears": 16,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7926,8 +7926,8 @@
       "department": "雕塑系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 22,
-      "recentFiveYears": 15,
+      "total": 23,
+      "recentFiveYears": 16,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14121,8 +14121,8 @@
       "department": "少年班学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://sgy.ustc.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026
@@ -14197,8 +14197,8 @@
       "department": "物理学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://physics.ustc.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 12,
+      "recentFiveYears": 11,
       "currentSeason": 1,
       "years": [
         2027,
@@ -14972,8 +14972,8 @@
       "department": "核科学技术学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.snst.ustc.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 6,
+      "total": 8,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15233,8 +15233,8 @@
       "department": "大尺度火灾国际联合研究中心",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 3,
-      "recentFiveYears": 3,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2026
@@ -15815,9 +15815,9 @@
       "department": "高瓴人工智能学院",
       "sourceName": "中国人民大学高瓴人工智能学院官方站点",
       "sourceUrl": "https://ai.ruc.edu.cn/newslist/notice/index1.htm",
-      "total": 15,
+      "total": 16,
       "recentFiveYears": 10,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -15827,7 +15827,7 @@
         2020,
         2019
       ],
-      "latestDate": "2026-06-23",
+      "latestDate": "2026-09-04",
       "status": "covered"
     },
     {
@@ -16054,9 +16054,9 @@
       "department": "新闻学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 15,
+      "total": 16,
       "recentFiveYears": 11,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -16067,7 +16067,7 @@
         2020,
         2019
       ],
-      "latestDate": "2026-06-23",
+      "latestDate": "2026-09-04",
       "status": "covered"
     },
     {
