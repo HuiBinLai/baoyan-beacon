@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-04T04:06:31.152Z",
+  "generatedAt": "2026-09-05T04:00:53.736Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2317,
+    "notices": 2323,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 154,
+      "total": 156,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 311,
+      "total": 313,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 50,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 238,
+      "total": 240,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -2148,7 +2148,7 @@
       "id": "auto-a33482cdb1bf",
       "school": "上海交通大学",
       "department": "电气工程学院",
-      "total": 15,
+      "total": 16,
       "years": [
         2026,
         2025,
@@ -2705,7 +2705,7 @@
       "id": "auto-181d998d2449",
       "school": "上海交通大学",
       "department": "智慧能源创新学院",
-      "total": 6,
+      "total": 7,
       "years": [
         2027,
         2026,
@@ -3316,15 +3316,16 @@
       "id": "auto-351366c5e75e",
       "school": "中国科学技术大学",
       "department": "化学系",
-      "total": 8,
+      "total": 9,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2022,
         2021
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -3878,7 +3879,7 @@
       "id": "auto-290f08665c10",
       "school": "中国科学技术大学",
       "department": "稀土学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2027,
         2026
@@ -3890,7 +3891,7 @@
       "id": "auto-7e4d8c514b42",
       "school": "中国科学技术大学",
       "department": "稀土学院科教融合学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2027,
         2026
@@ -4037,8 +4038,9 @@
       "id": "auto-cd3a02b4b857",
       "school": "中国人民大学",
       "department": "公共管理学院",
-      "total": 26,
+      "total": 28,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -4047,7 +4049,7 @@
         2021,
         2020
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {

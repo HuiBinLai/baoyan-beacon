@@ -10,10 +10,62 @@
     "title": "中国人民大学 · 公共管理学院",
     "tracks": [
       "经管金融",
+      "计算机/AI",
       "理工基础"
     ],
     "qualityFlags": [],
     "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-09-04",
+        "lastApplicationEnd": "2026-09-01",
+        "notices": [
+          {
+            "id": "college-1b798d013a2c",
+            "title": "中国人民大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-09-04",
+            "applicationEnd": "2026-09-01",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://pgs.ruc.edu.cn/info/1055/3622.htm",
+            "sourceHost": "pgs.ruc.edu.cn",
+            "sourceHomepage": "https://pgs.ruc.edu.cn/",
+            "departmentHomepage": "http://spap.ruc.edu.cn/"
+          },
+          {
+            "id": "college-a32d7f280e7f",
+            "title": "中国人民大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-09-04",
+            "applicationEnd": "2026-09-01",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://pgs.ruc.edu.cn/info/1053/3621.htm",
+            "sourceHost": "pgs.ruc.edu.cn",
+            "sourceHomepage": "https://pgs.ruc.edu.cn/",
+            "departmentHomepage": "http://spap.ruc.edu.cn/"
+          }
+        ]
+      },
       {
         "year": 2026,
         "count": 14,
@@ -535,12 +587,13 @@
         ]
       }
     ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
     "latestPastYear": 2026,
-    "noticeCount": 24,
+    "noticeCount": 26,
     "llmStructuredCount": 19,
     "years": [
+      2027,
       2026,
       2025,
       2024,
@@ -557,21 +610,22 @@
     ],
     "degreeTypes": [
       "直博",
+      "专业型硕士",
       "硕士",
       "待确认",
       "博士",
-      "学术型硕士",
-      "专业型硕士"
+      "学术型硕士"
     ],
     "majors": [
+      "人工智能",
+      "电子信息",
+      "智慧治理",
       "数学",
       "低空经济与产业发展",
       "低空域治理与社会安全",
       "数字技术与低空智能",
       "马克思主义理论",
-      "中共党史党建学",
-      "人工智能",
-      "智慧治理"
+      "中共党史党建学"
     ],
     "sourceHosts": [
       "pgs.ruc.edu.cn"
@@ -16964,6 +17018,329 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-5e9a0d9637ce",
+    "school": "上海交通大学",
+    "department": "电气工程学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 电气工程学院",
+    "tracks": [
+      "计算机/AI",
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "推免报名",
+          "招生简章",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "硕士",
+          "直博"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-16",
+        "lastApplicationEnd": "2026-05-25",
+        "notices": [
+          {
+            "id": "college-32d77a6c88dc",
+            "title": "02 2026-09 电气工程学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/bks_tzgg/2579.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1375fd5da196",
+            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-05-11",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36866.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-cd8e09a83252",
+            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-16",
+            "applicationEnd": "2025-10-13",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36746.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-59f7b7ceaedd",
+            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36754.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5a5c732d7aac",
+            "title": "12 2026-06 电气工程学院接收2023级强基计划本科生转段直博复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2479.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-645361f45d8e",
+            "title": "20 2026-03 【硕士】电气工程学院2026年统考硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2297.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fbfd6a063041",
+            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36755.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d6cfd3397e39",
+            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-16",
+            "applicationEnd": "2025-10-13",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36745.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a6e9867d4af2",
+            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-05-11",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36865.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2024-09-11",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-06-05",
+        "lastApplicationEnd": "2026-09-16",
+        "notices": [
+          {
+            "id": "college-a9cf5c52887b",
+            "title": "【9推16日报名截止】上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知-上海交通大学电子信息与电气工程学院（学部）",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-16",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10659.html",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6f11a8b3d70e",
+            "title": "26 2025.06 上海交通大学电气工程学院 2026级研究生优才夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-05",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3223",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-632b99ea8ffc",
+            "title": "2025级推荐免试直升研究生选拔申请表_直博.docx",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-09-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/34814795/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E5%8D%9A.docx",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c6b1c5682490",
+            "title": "2025级推荐免试直升研究生选拔申请表_直硕.docx",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-09-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/20137580/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E7%A1%95.docx",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 13,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章",
+      "复试/考核",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士",
+      "直博",
+      "专业型硕士"
+    ],
+    "majors": [
+      "电气工程",
+      "计算机科学与技术",
+      "软件工程",
+      "网络空间安全",
+      "电子信息",
+      "电子科学与技术",
+      "电力系统及其自动化",
+      "电力电子与电力传动",
+      "高电压与绝缘技术",
+      "电机与电器",
+      "电工理论及其新技术",
+      "可控聚变",
+      "工程硕博士培养改革专项",
+      "集成电路专项",
+      "联培基地"
+    ],
+    "sourceHosts": [
+      "see.sjtu.edu.cn",
+      "mem.seiee.sjtu.edu.cn",
+      "www.seiee.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://see.sjtu.edu.cn/",
+      "https://mem.seiee.sjtu.edu.cn/",
+      "https://www.seiee.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.seiee.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-7f204bf104d3",
     "school": "上海交通大学",
     "department": "燃气轮机研究院",
@@ -21296,312 +21673,6 @@
     ],
     "departmentHomepages": [
       "https://naoce.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-5e9a0d9637ce",
-    "school": "上海交通大学",
-    "department": "电气工程学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 电气工程学院",
-    "tracks": [
-      "计算机/AI",
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 8,
-        "stages": [
-          "推免报名",
-          "招生简章",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士",
-          "硕士",
-          "直博"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-16",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-1375fd5da196",
-            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-05-11",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36866.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-cd8e09a83252",
-            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-16",
-            "applicationEnd": "2025-10-13",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36746.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-59f7b7ceaedd",
-            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36754.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5a5c732d7aac",
-            "title": "12 2026-06 电气工程学院接收2023级强基计划本科生转段直博复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2479.html",
-            "sourceHost": "see.sjtu.edu.cn",
-            "sourceHomepage": "https://see.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-645361f45d8e",
-            "title": "20 2026-03 【硕士】电气工程学院2026年统考硕士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2297.html",
-            "sourceHost": "see.sjtu.edu.cn",
-            "sourceHomepage": "https://see.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-fbfd6a063041",
-            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36755.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d6cfd3397e39",
-            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-16",
-            "applicationEnd": "2025-10-13",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36745.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a6e9867d4af2",
-            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-05-11",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36865.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 4,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2024-09-11",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-06-05",
-        "lastApplicationEnd": "2026-09-16",
-        "notices": [
-          {
-            "id": "college-a9cf5c52887b",
-            "title": "【9推16日报名截止】上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知-上海交通大学电子信息与电气工程学院（学部）",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-09-16",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10659.html",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6f11a8b3d70e",
-            "title": "26 2025.06 上海交通大学电气工程学院 2026级研究生优才夏令营活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-05",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3223",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-632b99ea8ffc",
-            "title": "2025级推荐免试直升研究生选拔申请表_直博.docx",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-09-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/34814795/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E5%8D%9A.docx",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c6b1c5682490",
-            "title": "2025级推荐免试直升研究生选拔申请表_直硕.docx",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-09-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/20137580/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E7%A1%95.docx",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 12,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章",
-      "复试/考核",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "博士",
-      "硕士",
-      "直博",
-      "待确认",
-      "专业型硕士"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "软件工程",
-      "网络空间安全",
-      "电子信息",
-      "电气工程",
-      "电子科学与技术",
-      "电力系统及其自动化",
-      "电力电子与电力传动",
-      "高电压与绝缘技术",
-      "电机与电器",
-      "电工理论及其新技术",
-      "可控聚变",
-      "工程硕博士培养改革专项",
-      "集成电路专项",
-      "联培基地"
-    ],
-    "sourceHosts": [
-      "mem.seiee.sjtu.edu.cn",
-      "see.sjtu.edu.cn",
-      "www.seiee.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://mem.seiee.sjtu.edu.cn/",
-      "https://see.sjtu.edu.cn/",
-      "https://www.seiee.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.seiee.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -34755,6 +34826,237 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-16c5088a7107",
+    "school": "上海交通大学",
+    "department": "智慧能源创新学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 智慧能源创新学院",
+    "tracks": [
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2027-09-05",
+        "lastApplicationEnd": "2027-09-08",
+        "notices": [
+          {
+            "id": "college-22597a1a1ced",
+            "title": "智慧能源创新学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-09-05",
+            "applicationEnd": "2027-09-08",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/4064.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5edb0fed2c22",
+            "title": "上海交通大学国家电投智慧能源创新学院2027级研究生优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3996.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "招生简章",
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-06-20",
+        "notices": [
+          {
+            "id": "college-49d00eba353d",
+            "title": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-20",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3966.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-3d150db9980c",
+            "title": "智慧能源创新学院2026年春季批次&ldquo;申请-考核&rdquo;制博士研究生招生综合考核办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3962.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2b89659b813b",
+            "title": "智慧能源创新学院2026年春季批次全日制博士研究生招生通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3948.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f7e91207aca1",
+            "title": "智慧能源创新学院2026年非全日制工程类专业学位博士研究生招生通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3937.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-06-03",
+        "lastApplicationEnd": "2025-07-03",
+        "notices": [
+          {
+            "id": "college-8ffed426c7fa",
+            "title": "27 2025.06 上海交通大学国家电投智慧能源创新学院2026级研究生优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-03",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3224",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
+    "latestPastYear": 2026,
+    "noticeCount": 7,
+    "llmStructuredCount": 1,
+    "years": [
+      2027,
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "夏令营/研学营",
+      "招生简章",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "学术型硕士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "化学",
+      "能源动力",
+      "电气工程",
+      "教育学",
+      "电气",
+      "动力工程",
+      "核工程",
+      "材料",
+      "化工",
+      "信息"
+    ],
+    "sourceHosts": [
+      "www.senergy.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.senergy.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.senergy.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-16a427a195c7",
     "school": "西北工业大学",
     "department": "西北工业大学校级/待分院",
@@ -37779,220 +38081,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-16c5088a7107",
-    "school": "上海交通大学",
-    "department": "智慧能源创新学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 智慧能源创新学院",
-    "tracks": [
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-07-15",
-        "notices": [
-          {
-            "id": "college-5edb0fed2c22",
-            "title": "上海交通大学国家电投智慧能源创新学院2027级研究生优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-07-15",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3996.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "招生简章",
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-06-20",
-        "notices": [
-          {
-            "id": "college-49d00eba353d",
-            "title": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-06-20",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3966.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-3d150db9980c",
-            "title": "智慧能源创新学院2026年春季批次&ldquo;申请-考核&rdquo;制博士研究生招生综合考核办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3962.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2b89659b813b",
-            "title": "智慧能源创新学院2026年春季批次全日制博士研究生招生通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3948.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f7e91207aca1",
-            "title": "智慧能源创新学院2026年非全日制工程类专业学位博士研究生招生通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3937.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-06-03",
-        "lastApplicationEnd": "2025-07-03",
-        "notices": [
-          {
-            "id": "college-8ffed426c7fa",
-            "title": "27 2025.06 上海交通大学国家电投智慧能源创新学院2026级研究生优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-03",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3224",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 1,
-    "latestPastYear": 2026,
-    "noticeCount": 6,
-    "llmStructuredCount": 1,
-    "years": [
-      2027,
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "招生简章",
-      "复试/考核",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士",
-      "学术型硕士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "化学",
-      "能源动力",
-      "电气工程",
-      "教育学",
-      "电气",
-      "动力工程",
-      "核工程",
-      "材料",
-      "化工",
-      "信息"
-    ],
-    "sourceHosts": [
-      "www.senergy.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.senergy.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.senergy.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-2063e66ce12f",
     "school": "西安交通大学",
     "department": "法学院",
@@ -38448,6 +38536,255 @@
       "http://yz.ouc.edu.cn/",
       "http://jwc.ouc.edu.cn/",
       "http://law.ouc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-3b7b8590b02e",
+    "school": "中国科学技术大学",
+    "department": "化学系",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 化学系",
+    "tracks": [
+      "理工基础",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "预推免"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-09-04",
+        "lastApplicationEnd": "2027-09-10",
+        "notices": [
+          {
+            "id": "college-772098f9d595",
+            "title": "2027年中国科学技术大学化学与材料科学学院推荐免试研究生预报名通知 2026-09-04",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-09-04",
+            "applicationEnd": "2027-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/2026/0904/c14104a752220/page.htm",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "复试/考核",
+          "推免"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "直博"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-04-25",
+        "lastApplicationEnd": "2026-05-06",
+        "notices": [
+          {
+            "id": "college-309758d7e3b4",
+            "title": "中国科学技术大学化学与材料科学学院2026年硕士研究生招生复试工作方案 2026-03-19",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-03-02",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/2026/0319/c14104a723533/page.htm",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-b2acbbf16ce0",
+            "title": "中国科学院东莞材料科学与技术研究所-中国科大化学与材料科学学院2026年博士研究生招生报名通告 2026-04-25",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-04-25",
+            "applicationEnd": "2026-05-06",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/2026/0425/c14104a735798/page.htm",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-c4b452a83af0",
+            "title": "2025年第十六届物理与化学夏令营－化学分营通知 2025-06-19",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/2025/0619/c14104a688140/page.htm",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-366c1bf311ca",
+            "title": "化学与材料科学学院 2024年硕士研究生招生复试分数线 2024-03-18",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/2024/0318/c14104a632888/page.htm",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-1d663df1bc8d",
+            "title": "中国科学技术大学研究生招生在线—招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://yzb2.ustc.edu.cn//zs/2022",
+            "sourceHost": "yzb2.ustc.edu.cn",
+            "sourceHomepage": "http://yzb2.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
+    "latestPastYear": 2026,
+    "noticeCount": 6,
+    "llmStructuredCount": 2,
+    "years": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2022
+    ],
+    "stages": [
+      "预推免",
+      "复试/考核",
+      "推免",
+      "夏令营/研学营",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "直博",
+      "硕士",
+      "待确认"
+    ],
+    "majors": [
+      "化学",
+      "生物学",
+      "材料科学与工程",
+      "材料与化工",
+      "有机化学",
+      "分析化学",
+      "无机化学",
+      "物理化学",
+      "化学物理",
+      "高分子化学与物理",
+      "能源化学",
+      "材料物理与化学",
+      "材料学",
+      "材料加工工程",
+      "化学工程与技术"
+    ],
+    "sourceHosts": [
+      "scms.ustc.edu.cn",
+      "yzb2.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://scms.ustc.edu.cn/",
+      "http://yzb2.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yz1.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -42508,220 +42845,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-3b7b8590b02e",
-    "school": "中国科学技术大学",
-    "department": "化学系",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 化学系",
-    "tracks": [
-      "理工基础",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "复试/考核",
-          "推免"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "直博"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-04-25",
-        "lastApplicationEnd": "2026-05-06",
-        "notices": [
-          {
-            "id": "college-309758d7e3b4",
-            "title": "中国科学技术大学化学与材料科学学院2026年硕士研究生招生复试工作方案 2026-03-19",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-03-02",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://scms.ustc.edu.cn/2026/0319/c14104a723533/page.htm",
-            "sourceHost": "scms.ustc.edu.cn",
-            "sourceHomepage": "https://scms.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-b2acbbf16ce0",
-            "title": "中国科学院东莞材料科学与技术研究所-中国科大化学与材料科学学院2026年博士研究生招生报名通告 2026-04-25",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-04-25",
-            "applicationEnd": "2026-05-06",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://scms.ustc.edu.cn/2026/0425/c14104a735798/page.htm",
-            "sourceHost": "scms.ustc.edu.cn",
-            "sourceHomepage": "https://scms.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-c4b452a83af0",
-            "title": "2025年第十六届物理与化学夏令营－化学分营通知 2025-06-19",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scms.ustc.edu.cn/2025/0619/c14104a688140/page.htm",
-            "sourceHost": "scms.ustc.edu.cn",
-            "sourceHomepage": "https://scms.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-366c1bf311ca",
-            "title": "化学与材料科学学院 2024年硕士研究生招生复试分数线 2024-03-18",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://scms.ustc.edu.cn/2024/0318/c14104a632888/page.htm",
-            "sourceHost": "scms.ustc.edu.cn",
-            "sourceHomepage": "https://scms.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-1d663df1bc8d",
-            "title": "中国科学技术大学研究生招生在线—招生简章",
-            "stage": "招生简章",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://yzb2.ustc.edu.cn//zs/2022",
-            "sourceHost": "yzb2.ustc.edu.cn",
-            "sourceHomepage": "http://yzb2.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 5,
-    "llmStructuredCount": 2,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2022
-    ],
-    "stages": [
-      "复试/考核",
-      "推免",
-      "夏令营/研学营",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "直博",
-      "待确认"
-    ],
-    "majors": [
-      "有机化学",
-      "分析化学",
-      "无机化学",
-      "物理化学",
-      "化学物理",
-      "高分子化学与物理",
-      "能源化学",
-      "材料科学与工程",
-      "材料物理与化学",
-      "材料学",
-      "材料加工工程",
-      "化学工程与技术",
-      "化学",
-      "生物学"
-    ],
-    "sourceHosts": [
-      "scms.ustc.edu.cn",
-      "yzb2.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://scms.ustc.edu.cn/",
-      "http://yzb2.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-96b99d33d5b9",
     "school": "中国科学技术大学",
     "department": "人工智能与数据科学学院",
@@ -43088,6 +43211,188 @@
     ],
     "departmentHomepages": [
       "https://sse.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-a18acf0cdf13",
+    "school": "中国科学技术大学",
+    "department": "稀土学院科教融合学院",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 稀土学院科教融合学院",
+    "tracks": [
+      "理工基础",
+      "材料能源化工",
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-09-10",
+        "notices": [
+          {
+            "id": "college-27e65e1930be",
+            "title": "关于中国科学技术大学环境科学与光电技术学院2027年接收推免生的通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://env.ustc.edu.cn/2026/0902/c9571a751849/page.htm",
+            "sourceHost": "env.ustc.edu.cn",
+            "sourceHomepage": "http://env.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          },
+          {
+            "id": "college-a26a7c77fd9d",
+            "title": "环境科学与光电技术学院 2027年硕士研究生招生考试初试科目调整通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://env.ustc.edu.cn/2026/0603/c9571a742465/page.htm",
+            "sourceHost": "env.ustc.edu.cn",
+            "sourceHomepage": "http://env.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "预推免",
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-09-04",
+        "lastApplicationEnd": "2026-09-10",
+        "notices": [
+          {
+            "id": "college-d92fc2d0c2d7",
+            "title": "04 2026-09 2027年中国科学技术大学化学与材料科学学院推荐免试研究生预报名通知 Learn more",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-09-04",
+            "applicationEnd": "2026-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/2026/0904/c2402a752220/page.htm",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          },
+          {
+            "id": "college-51cd140d21c7",
+            "title": "2026年硕士研究生招生简章，",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yz.ustc.edu.cn/sszs_2021/",
+            "sourceHost": "yz.ustc.edu.cn",
+            "sourceHomepage": "https://yz.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          },
+          {
+            "id": "college-0b65cfc25b48",
+            "title": "中国科学技术大学 化学与材料科学学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
+    "latestPastYear": 2026,
+    "noticeCount": 5,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "预推免",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士",
+      "直博",
+      "专业型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "电子信息",
+      "数学",
+      "化学",
+      "生物学",
+      "材料科学与工程",
+      "材料与化工",
+      "计算机科学与技术",
+      "物理学",
+      "信息安全"
+    ],
+    "sourceHosts": [
+      "env.ustc.edu.cn",
+      "scms.ustc.edu.cn",
+      "yz.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://env.ustc.edu.cn/",
+      "https://scms.ustc.edu.cn/",
+      "https://yz.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://scms.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -48349,168 +48654,6 @@
     ],
     "departmentHomepages": [
       "https://physics.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-a18acf0cdf13",
-    "school": "中国科学技术大学",
-    "department": "稀土学院科教融合学院",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 稀土学院科教融合学院",
-    "tracks": [
-      "理工基础",
-      "计算机/AI",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "硕士"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-09-10",
-        "notices": [
-          {
-            "id": "college-27e65e1930be",
-            "title": "关于中国科学技术大学环境科学与光电技术学院2027年接收推免生的通知",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-09-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://env.ustc.edu.cn/2026/0902/c9571a751849/page.htm",
-            "sourceHost": "env.ustc.edu.cn",
-            "sourceHomepage": "http://env.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          },
-          {
-            "id": "college-a26a7c77fd9d",
-            "title": "环境科学与光电技术学院 2027年硕士研究生招生考试初试科目调整通知",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://env.ustc.edu.cn/2026/0603/c9571a742465/page.htm",
-            "sourceHost": "env.ustc.edu.cn",
-            "sourceHomepage": "http://env.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "招生简章",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-51cd140d21c7",
-            "title": "2026年硕士研究生招生简章，",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yz.ustc.edu.cn/sszs_2021/",
-            "sourceHost": "yz.ustc.edu.cn",
-            "sourceHomepage": "https://yz.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          },
-          {
-            "id": "college-0b65cfc25b48",
-            "title": "中国科学技术大学 化学与材料科学学院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scms.ustc.edu.cn/",
-            "sourceHost": "scms.ustc.edu.cn",
-            "sourceHomepage": "https://scms.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 2,
-    "latestPastYear": 2026,
-    "noticeCount": 4,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "硕士",
-      "直博",
-      "专业型硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "电子信息",
-      "数学",
-      "计算机科学与技术",
-      "物理学",
-      "化学",
-      "生物学",
-      "信息安全"
-    ],
-    "sourceHosts": [
-      "env.ustc.edu.cn",
-      "yz.ustc.edu.cn",
-      "scms.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://env.ustc.edu.cn/",
-      "https://yz.ustc.edu.cn/",
-      "https://scms.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://scms.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

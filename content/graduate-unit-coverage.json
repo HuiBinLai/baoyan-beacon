@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T04:06:32.202Z",
+  "generatedAt": "2026-09-05T04:00:54.782Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 770,
     "stale": 9,
     "missing": 362,
-    "currentSeasonCovered": 79
+    "currentSeasonCovered": 88
   },
   "units": [
     {
@@ -8858,8 +8858,8 @@
       "department": "电气工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://see.sjtu.edu.cn/",
-      "total": 20,
-      "recentFiveYears": 20,
+      "total": 21,
+      "recentFiveYears": 21,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9258,9 +9258,9 @@
       "department": "智慧能源创新学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://www.senergy.sjtu.edu.cn/",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 5,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -14217,10 +14217,11 @@
       "department": "物理系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://phys.ustc.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 15,
-      "currentSeason": 0,
+      "total": 18,
+      "recentFiveYears": 16,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -14228,7 +14229,7 @@
         2022,
         2011
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -14299,17 +14300,18 @@
       "department": "化学与材料科学学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://scms.ustc.edu.cn/",
-      "total": 23,
-      "recentFiveYears": 23,
-      "currentSeason": 0,
+      "total": 25,
+      "recentFiveYears": 24,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2023,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -14318,10 +14320,11 @@
       "department": "化学物理系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://dcp.ustc.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 14,
-      "currentSeason": 0,
+      "total": 17,
+      "recentFiveYears": 15,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -14329,7 +14332,7 @@
         2022,
         2011
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -14338,10 +14341,11 @@
       "department": "应用化学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://applchem.ustc.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 14,
-      "currentSeason": 0,
+      "total": 17,
+      "recentFiveYears": 15,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -14349,7 +14353,7 @@
         2022,
         2021
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -14358,10 +14362,11 @@
       "department": "材料科学与工程系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://mse.ustc.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 14,
-      "currentSeason": 0,
+      "total": 17,
+      "recentFiveYears": 15,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -14369,7 +14374,7 @@
         2022,
         2011
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -14378,10 +14383,11 @@
       "department": "化学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://chem.ustc.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 15,
-      "currentSeason": 0,
+      "total": 19,
+      "recentFiveYears": 16,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -14390,7 +14396,7 @@
         2021,
         2011
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -14399,10 +14405,11 @@
       "department": "高分子科学与工程系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://polymer.ustc.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 14,
-      "currentSeason": 0,
+      "total": 17,
+      "recentFiveYears": 15,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -14410,7 +14417,7 @@
         2022,
         2011
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15170,8 +15177,8 @@
       "department": "稀土学院科教融合学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 4,
-      "recentFiveYears": 2,
+      "total": 5,
+      "recentFiveYears": 3,
       "currentSeason": 2,
       "years": [
         2027,
@@ -15515,8 +15522,8 @@
       "department": "稀土学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 10,
-      "recentFiveYears": 8,
+      "total": 11,
+      "recentFiveYears": 9,
       "currentSeason": 2,
       "years": [
         2027,
@@ -15643,10 +15650,11 @@
       "department": "管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://mf.ustc.edu.cn/2024/0529/c14030a642293/page.htm",
-      "total": 38,
-      "recentFiveYears": 31,
-      "currentSeason": 0,
+      "total": 40,
+      "recentFiveYears": 32,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -15659,7 +15667,7 @@
         2016,
         2011
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -16342,10 +16350,11 @@
       "department": "公共管理学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 26,
+      "total": 28,
       "recentFiveYears": 23,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -16354,7 +16363,7 @@
         2021,
         2020
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
