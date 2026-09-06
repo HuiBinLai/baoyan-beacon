@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-05T04:00:53.736Z",
+  "generatedAt": "2026-09-06T04:01:11.095Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2323,
+    "notices": 2313,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 321,
     "missingCollegeSources": 85,
-    "llmStructured": 1534,
+    "llmStructured": 1532,
     "unstructured": 0
   },
   "schools": [
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 156,
+      "total": 154,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
-      "llmStructured": 123,
+      "llmStructured": 121,
       "latestDate": "2027-01-01",
       "status": "stale"
     },
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 406,
+      "total": 399,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 66,
+      "departments": 65,
       "llmStructured": 116,
       "latestDate": "2080-91-79",
       "status": "stale"
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 313,
+      "total": 316,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 50,
@@ -82,7 +82,7 @@
     {
       "school": "南京大学",
       "region": "江苏",
-      "total": 45,
+      "total": 42,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 17,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 240,
+      "total": 237,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -247,7 +247,7 @@
     {
       "school": "华东师范大学",
       "region": "上海",
-      "total": 28,
+      "total": 30,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 19,
@@ -583,7 +583,7 @@
       "id": "auto-0c7482477085",
       "school": "北京大学",
       "department": "光华管理学院",
-      "total": 13,
+      "total": 14,
       "years": [
         2027,
         2026
@@ -802,7 +802,7 @@
       "id": "auto-c174a4b6a962",
       "school": "北京大学",
       "department": "力学与工程科学学院",
-      "total": 12,
+      "total": 11,
       "years": [
         2027,
         2026,
@@ -843,7 +843,7 @@
       "id": "auto-16873f93fce5",
       "school": "北京大学",
       "department": "区域与国别研究院",
-      "total": 15,
+      "total": 10,
       "years": [
         2027,
         2026,
@@ -1074,7 +1074,7 @@
       "id": "auto-7a8f641a2bed",
       "school": "北京大学",
       "department": "新材料学院",
-      "total": 2,
+      "total": 1,
       "years": [
         2027
       ],
@@ -1250,7 +1250,7 @@
       "id": "auto-9ff57f12f149",
       "school": "北京大学",
       "department": "哲学系宗教学系",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
@@ -1572,7 +1572,7 @@
       "id": "auto-54c40ec397fd",
       "school": "清华大学",
       "department": "会计系",
-      "total": 4,
+      "total": 3,
       "years": [
         2027,
         2026
@@ -1776,7 +1776,7 @@
       "id": "auto-b44a5c981efa",
       "school": "清华大学",
       "department": "领导力与组织管理系",
-      "total": 19,
+      "total": 20,
       "years": [
         2027,
         2026,
@@ -2135,7 +2135,7 @@
       "id": "auto-45d7ff8dd7de",
       "school": "上海交通大学",
       "department": "船舶海洋与建筑工程学院",
-      "total": 12,
+      "total": 14,
       "years": [
         2027,
         2026,
@@ -2217,7 +2217,7 @@
       "id": "auto-a6176ddbcf96",
       "school": "上海交通大学",
       "department": "海洋研究院",
-      "total": 36,
+      "total": 37,
       "years": [
         2026,
         2025,
@@ -3070,7 +3070,7 @@
       "id": "auto-ed425466a896",
       "school": "中国科学技术大学",
       "department": "地球化学与行星科学系",
-      "total": 9,
+      "total": 8,
       "years": [
         2026,
         2025,
@@ -3107,7 +3107,7 @@
       "id": "auto-ecb12824cefc",
       "school": "中国科学技术大学",
       "department": "电子工程与信息科学系",
-      "total": 10,
+      "total": 9,
       "years": [
         2026,
         2025,
@@ -3662,11 +3662,10 @@
       "id": "auto-3c9aba76ede4",
       "school": "中国科学技术大学",
       "department": "人文与社会科学学院",
-      "total": 6,
+      "total": 4,
       "years": [
         2026,
         2025,
-        2024,
         2023
       ],
       "latestDate": "2026-01-01",
@@ -3879,7 +3878,7 @@
       "id": "auto-290f08665c10",
       "school": "中国科学技术大学",
       "department": "稀土学院",
-      "total": 5,
+      "total": 4,
       "years": [
         2027,
         2026
@@ -3891,7 +3890,7 @@
       "id": "auto-7e4d8c514b42",
       "school": "中国科学技术大学",
       "department": "稀土学院科教融合学院",
-      "total": 5,
+      "total": 4,
       "years": [
         2027,
         2026
@@ -4208,10 +4207,9 @@
       "id": "auto-173f39eab2b3",
       "school": "中国人民大学",
       "department": "应用经济学院",
-      "total": 4,
+      "total": 2,
       "years": [
-        2026,
-        2020
+        2026
       ],
       "latestDate": "2026-01-01",
       "status": "covered"

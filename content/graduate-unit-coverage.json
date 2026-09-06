@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:00:54.782Z",
+  "generatedAt": "2026-09-06T04:01:12.427Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,8 +10,8 @@
   ],
   "totals": {
     "units": 1141,
-    "covered": 770,
-    "stale": 9,
+    "covered": 769,
+    "stale": 10,
     "missing": 362,
     "currentSeasonCovered": 88
   },
@@ -459,9 +459,9 @@
       "department": "工学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.coe.pku.edu.cn/",
-      "total": 6,
+      "total": 5,
       "recentFiveYears": 4,
-      "currentSeason": 2,
+      "currentSeason": 1,
       "years": [
         2027,
         2024
@@ -475,9 +475,9 @@
       "department": "力学与工程科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://mech.pku.edu.cn/",
-      "total": 22,
+      "total": 21,
       "recentFiveYears": 19,
-      "currentSeason": 2,
+      "currentSeason": 1,
       "years": [
         2027,
         2026,
@@ -718,9 +718,9 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 13,
+      "total": 14,
       "recentFiveYears": 12,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026
@@ -856,8 +856,8 @@
       "department": "区域与国别研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ias.pku.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 15,
+      "total": 12,
+      "recentFiveYears": 10,
       "currentSeason": 2,
       "years": [
         2027,
@@ -911,8 +911,8 @@
       "department": "前沿交叉学科研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.aais.pku.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 14,
+      "total": 16,
+      "recentFiveYears": 13,
       "currentSeason": 3,
       "years": [
         2027,
@@ -1025,9 +1025,9 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 2,
+      "total": 1,
       "recentFiveYears": 0,
-      "currentSeason": 2,
+      "currentSeason": 1,
       "years": [
         2027
       ],
@@ -1214,15 +1214,14 @@
       "department": "2027年接收推荐免试研究生办法校本部",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
-      "total": 5,
-      "recentFiveYears": 1,
+      "total": 4,
+      "recentFiveYears": 0,
       "currentSeason": 4,
       "years": [
-        2027,
-        2026
+        2027
       ],
       "latestDate": "2027-01-01",
-      "status": "covered"
+      "status": "stale"
     },
     {
       "id": "f872127d43",
@@ -5285,14 +5284,15 @@
       "department": "外语学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://www.fl.ecnu.edu.cn/9c/7a/c11684a629882/page.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -7463,9 +7463,9 @@
       "department": "会计系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/ac/",
-      "total": 4,
+      "total": 3,
       "recentFiveYears": 2,
-      "currentSeason": 2,
+      "currentSeason": 1,
       "years": [
         2027,
         2026
@@ -7522,9 +7522,9 @@
       "department": "领导力与组织管理系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/lom/",
-      "total": 19,
+      "total": 20,
       "recentFiveYears": 15,
-      "currentSeason": 4,
+      "currentSeason": 5,
       "years": [
         2027,
         2026,
@@ -7752,8 +7752,8 @@
       "department": "国际关系学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.dir.tsinghua.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 9,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8824,9 +8824,9 @@
       "department": "船舶海洋与建筑工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://naoce.sjtu.edu.cn/",
-      "total": 17,
+      "total": 19,
       "recentFiveYears": 15,
-      "currentSeason": 2,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -9358,8 +9358,8 @@
       "department": "海洋研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://ioo.sjtu.edu.cn/",
-      "total": 36,
-      "recentFiveYears": 36,
+      "total": 37,
+      "recentFiveYears": 37,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14544,8 +14544,8 @@
       "department": "电子工程与信息科学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://eeis.ustc.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 10,
+      "recentFiveYears": 9,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14644,8 +14644,8 @@
       "department": "地球和空间科学学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://ess.ustc.edu.cn/",
-      "total": 25,
-      "recentFiveYears": 20,
+      "total": 24,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14681,8 +14681,8 @@
       "department": "地球化学与行星科学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://ess.ustc.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 9,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14887,8 +14887,8 @@
       "department": "人文与社会科学学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://hsss.ustc.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 15,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -14938,8 +14938,8 @@
       "department": "科技哲学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://sts.ustc.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 11,
+      "total": 14,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15177,9 +15177,9 @@
       "department": "稀土学院科教融合学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 5,
+      "total": 4,
       "recentFiveYears": 3,
-      "currentSeason": 2,
+      "currentSeason": 1,
       "years": [
         2027,
         2026
@@ -15522,9 +15522,9 @@
       "department": "稀土学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 11,
+      "total": 10,
       "recentFiveYears": 9,
-      "currentSeason": 2,
+      "currentSeason": 1,
       "years": [
         2027,
         2026,
@@ -15585,9 +15585,9 @@
       "department": "环境科学与光电技术学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://env.ustc.edu.cn/2025/0826/c9571a697495/page.htm",
-      "total": 9,
+      "total": 8,
       "recentFiveYears": 1,
-      "currentSeason": 8,
+      "currentSeason": 7,
       "years": [
         2027,
         2026
@@ -15878,12 +15878,11 @@
       "department": "应用经济学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 4,
-      "recentFiveYears": 3,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
-        2026,
-        2020
+        2026
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -15894,14 +15893,13 @@
       "department": "经济学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 7,
-      "recentFiveYears": 6,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
       "years": [
         2026,
         2025,
-        2023,
-        2020
+        2023
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -17389,6 +17387,7 @@
     "北京大学人文社会科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学工学院力学与工程科学学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学人口研究所国家发展研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
+    "北京大学2027年接收推荐免试研究生办法校本部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学材料科学与工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学可靠性与系统工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学中国商飞-北航大飞机研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
