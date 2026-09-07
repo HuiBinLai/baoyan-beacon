@@ -43278,6 +43278,188 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-a18acf0cdf13",
+    "school": "中国科学技术大学",
+    "department": "稀土学院科教融合学院",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 稀土学院科教融合学院",
+    "tracks": [
+      "理工基础",
+      "材料能源化工",
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-09-10",
+        "notices": [
+          {
+            "id": "college-a26a7c77fd9d",
+            "title": "环境科学与光电技术学院 2027年硕士研究生招生考试初试科目调整通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://env.ustc.edu.cn/2026/0603/c9571a742465/page.htm",
+            "sourceHost": "env.ustc.edu.cn",
+            "sourceHomepage": "http://env.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          },
+          {
+            "id": "college-27e65e1930be",
+            "title": "关于中国科学技术大学环境科学与光电技术学院2027年接收推免生的通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://env.ustc.edu.cn/2026/0902/c9571a751849/page.htm",
+            "sourceHost": "env.ustc.edu.cn",
+            "sourceHomepage": "http://env.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "预推免",
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-09-04",
+        "lastApplicationEnd": "2026-09-10",
+        "notices": [
+          {
+            "id": "college-d92fc2d0c2d7",
+            "title": "04 2026-09 2027年中国科学技术大学化学与材料科学学院推荐免试研究生预报名通知 Learn more",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-09-04",
+            "applicationEnd": "2026-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/2026/0904/c2402a752220/page.htm",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          },
+          {
+            "id": "college-51cd140d21c7",
+            "title": "2026年硕士研究生招生简章，",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yz.ustc.edu.cn/sszs_2021/",
+            "sourceHost": "yz.ustc.edu.cn",
+            "sourceHomepage": "https://yz.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          },
+          {
+            "id": "college-0b65cfc25b48",
+            "title": "中国科学技术大学 化学与材料科学学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scms.ustc.edu.cn/",
+            "sourceHost": "scms.ustc.edu.cn",
+            "sourceHomepage": "https://scms.ustc.edu.cn/",
+            "departmentHomepage": "https://scms.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
+    "latestPastYear": 2026,
+    "noticeCount": 5,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "预推免",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "待确认",
+      "直博",
+      "专业型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "电子信息",
+      "数学",
+      "化学",
+      "生物学",
+      "材料科学与工程",
+      "材料与化工",
+      "计算机科学与技术",
+      "物理学",
+      "信息安全"
+    ],
+    "sourceHosts": [
+      "env.ustc.edu.cn",
+      "scms.ustc.edu.cn",
+      "yz.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://env.ustc.edu.cn/",
+      "https://scms.ustc.edu.cn/",
+      "https://yz.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://scms.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-2beb8869ac89",
     "school": "中国农业大学",
     "department": "农学院",
@@ -48200,168 +48382,6 @@
     ],
     "departmentHomepages": [
       "https://physics.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-a18acf0cdf13",
-    "school": "中国科学技术大学",
-    "department": "稀土学院科教融合学院",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 稀土学院科教融合学院",
-    "tracks": [
-      "理工基础",
-      "材料能源化工",
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-09-10",
-        "notices": [
-          {
-            "id": "college-27e65e1930be",
-            "title": "关于中国科学技术大学环境科学与光电技术学院2027年接收推免生的通知",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-09-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://env.ustc.edu.cn/2026/0902/c9571a751849/page.htm",
-            "sourceHost": "env.ustc.edu.cn",
-            "sourceHomepage": "http://env.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "预推免",
-          "招生简章",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-09-04",
-        "lastApplicationEnd": "2026-09-10",
-        "notices": [
-          {
-            "id": "college-d92fc2d0c2d7",
-            "title": "04 2026-09 2027年中国科学技术大学化学与材料科学学院推荐免试研究生预报名通知 Learn more",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-09-04",
-            "applicationEnd": "2026-09-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scms.ustc.edu.cn/2026/0904/c2402a752220/page.htm",
-            "sourceHost": "scms.ustc.edu.cn",
-            "sourceHomepage": "https://scms.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          },
-          {
-            "id": "college-51cd140d21c7",
-            "title": "2026年硕士研究生招生简章，",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yz.ustc.edu.cn/sszs_2021/",
-            "sourceHost": "yz.ustc.edu.cn",
-            "sourceHomepage": "https://yz.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          },
-          {
-            "id": "college-0b65cfc25b48",
-            "title": "中国科学技术大学 化学与材料科学学院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scms.ustc.edu.cn/",
-            "sourceHost": "scms.ustc.edu.cn",
-            "sourceHomepage": "https://scms.ustc.edu.cn/",
-            "departmentHomepage": "https://scms.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 1,
-    "latestPastYear": 2026,
-    "noticeCount": 4,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026
-    ],
-    "stages": [
-      "推免报名",
-      "预推免",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "直博",
-      "专业型硕士"
-    ],
-    "majors": [
-      "化学",
-      "生物学",
-      "材料科学与工程",
-      "材料与化工",
-      "计算机科学与技术",
-      "数学",
-      "物理学",
-      "信息安全"
-    ],
-    "sourceHosts": [
-      "env.ustc.edu.cn",
-      "scms.ustc.edu.cn",
-      "yz.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://env.ustc.edu.cn/",
-      "https://scms.ustc.edu.cn/",
-      "https://yz.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://scms.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

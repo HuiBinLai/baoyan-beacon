@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T04:01:12.427Z",
+  "generatedAt": "2026-09-07T03:55:43.824Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -15177,9 +15177,9 @@
       "department": "稀土学院科教融合学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 4,
+      "total": 5,
       "recentFiveYears": 3,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026
@@ -15522,9 +15522,9 @@
       "department": "稀土学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 10,
+      "total": 11,
       "recentFiveYears": 9,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -15542,9 +15542,9 @@
       "department": "中国科学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.ustc.edu.cn/yxjs.htm",
-      "total": 9,
+      "total": 10,
       "recentFiveYears": 3,
-      "currentSeason": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -15585,9 +15585,9 @@
       "department": "环境科学与光电技术学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://env.ustc.edu.cn/2025/0826/c9571a697495/page.htm",
-      "total": 8,
+      "total": 9,
       "recentFiveYears": 1,
-      "currentSeason": 7,
+      "currentSeason": 8,
       "years": [
         2027,
         2026

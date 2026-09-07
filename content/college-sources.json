@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-91717f4adc06",
+    "school": "北京大学",
+    "department": "2027年接收推荐免试研究生办法校本部",
+    "region": "北京",
+    "homepageUrl": "https://admission.pku.edu.cn/",
+    "sourceHost": "admission.pku.edu.cn",
+    "baseUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
+    "listUrls": [
+      "https://admission.pku.edu.cn/docs/20260831123041610549.pdf"
+    ],
+    "includeKeywords": [
+      "推免",
+      "推荐免试",
+      "免试",
+      "夏令营",
+      "研学营",
+      "优秀大学生",
+      "预推免",
+      "预报名",
+      "直博",
+      "接收优秀应届本科毕业生",
+      "招生简章",
+      "研究生招生"
+    ],
+    "excludeKeywords": [
+      "博士后",
+      "招聘",
+      "人才招聘",
+      "初试成绩",
+      "成绩复核",
+      "复试名单",
+      "复试成绩",
+      "复试录取",
+      "港澳台",
+      "优秀营员名单",
+      "入营名单",
+      "候补名单",
+      "拟录取",
+      "公示",
+      "采购",
+      "招标"
+    ],
+    "maxListPages": 8,
+    "sourceStatus": "auto_discovered_with_search",
+    "discoveredAt": "2026-09-07T00:02:37.093Z"
+  },
+  {
     "id": "auto-b852a577dfd1",
     "school": "北京大学",
     "department": "北京国际数学研究中心",

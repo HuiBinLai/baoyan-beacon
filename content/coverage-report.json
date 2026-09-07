@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T04:01:11.095Z",
+  "generatedAt": "2026-09-07T03:55:42.465Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2313,
+    "notices": 2314,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
-    "collegeSources": 321,
+    "collegeSources": 322,
     "missingCollegeSources": 85,
     "llmStructured": 1532,
     "unstructured": 0
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 237,
+      "total": 238,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -444,6 +444,17 @@
     }
   ],
   "collegeSources": [
+    {
+      "id": "auto-91717f4adc06",
+      "school": "北京大学",
+      "department": "2027年接收推荐免试研究生办法校本部",
+      "total": 2,
+      "years": [
+        2027
+      ],
+      "latestDate": "2026-08-31",
+      "status": "covered"
+    },
     {
       "id": "auto-b852a577dfd1",
       "school": "北京大学",
@@ -3878,7 +3889,7 @@
       "id": "auto-290f08665c10",
       "school": "中国科学技术大学",
       "department": "稀土学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2027,
         2026
@@ -3890,7 +3901,7 @@
       "id": "auto-7e4d8c514b42",
       "school": "中国科学技术大学",
       "department": "稀土学院科教融合学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2027,
         2026
