@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-07T03:55:42.465Z",
+  "generatedAt": "2026-09-08T04:21:49.824Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2314,
+    "notices": 2330,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 322,
-    "missingCollegeSources": 85,
+    "missingCollegeSources": 84,
     "llmStructured": 1532,
     "unstructured": 0
   },
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 154,
+      "total": 156,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -27,10 +27,10 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 399,
+      "total": 406,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 65,
+      "departments": 66,
       "llmStructured": 116,
       "latestDate": "2080-91-79",
       "status": "stale"
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 238,
+      "total": 239,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 316,
+      "total": 317,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 50,
@@ -82,18 +82,18 @@
     {
       "school": "南京大学",
       "region": "江苏",
-      "total": 42,
+      "total": 45,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 17,
       "llmStructured": 37,
-      "latestDate": "2026-09-01",
+      "latestDate": "2026-09-08",
       "status": "stale"
     },
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 238,
+      "total": 240,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 49,
@@ -854,7 +854,7 @@
       "id": "auto-16873f93fce5",
       "school": "北京大学",
       "department": "区域与国别研究院",
-      "total": 10,
+      "total": 15,
       "years": [
         2027,
         2026,
@@ -1002,10 +1002,13 @@
       "id": "auto-cfecad5837bc",
       "school": "北京大学",
       "department": "体育教研部",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 2,
+      "years": [
+        2027,
+        2026
+      ],
+      "latestDate": "2027-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-42b7acfa3214",
@@ -1884,7 +1887,7 @@
       "id": "auto-f645b052e302",
       "school": "清华大学",
       "department": "数学科学中心",
-      "total": 18,
+      "total": 19,
       "years": [
         2026,
         2025,
@@ -2280,7 +2283,7 @@
       "id": "auto-350442648cf5",
       "school": "上海交通大学",
       "department": "集成电路学院信息与电子工程学院",
-      "total": 5,
+      "total": 6,
       "years": [
         2026,
         2025
@@ -3118,7 +3121,7 @@
       "id": "auto-ecb12824cefc",
       "school": "中国科学技术大学",
       "department": "电子工程与信息科学系",
-      "total": 9,
+      "total": 10,
       "years": [
         2026,
         2025,
@@ -3800,11 +3803,12 @@
       "id": "auto-e36122ef1f74",
       "school": "中国科学技术大学",
       "department": "苏州高等研究院",
-      "total": 4,
+      "total": 5,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -4218,9 +4222,10 @@
       "id": "auto-173f39eab2b3",
       "school": "中国人民大学",
       "department": "应用经济学院",
-      "total": 2,
+      "total": 4,
       "years": [
-        2026
+        2026,
+        2020
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -4305,7 +4310,6 @@
     "北京大学人口研究所国家发展研究院 已登记源但暂无候选，需要检查公告页。",
     "北京大学人文社会科学学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学数学科学学院 已登记源但暂无候选，需要检查公告页。",
-    "北京大学体育教研部 已登记源但暂无候选，需要检查公告页。",
     "北京大学医学部 已登记源但暂无候选，需要检查公告页。",
     "北京大学医学人文学院 已登记源但暂无候选，需要检查公告页。",
     "北京大学艺术学院 已登记源但暂无候选，需要检查公告页。",
