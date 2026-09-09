@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:21:51.127Z",
+  "generatedAt": "2026-09-09T04:17:00.104Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9021,8 +9021,8 @@
       "department": "医学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 14,
-      "recentFiveYears": 14,
+      "total": 15,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9073,8 +9073,8 @@
       "department": "凯原法学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://law.sjtu.edu.cn/",
-      "total": 25,
-      "recentFiveYears": 25,
+      "total": 28,
+      "recentFiveYears": 28,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9105,8 +9105,8 @@
       "department": "马克思主义学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://ma.sjtu.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 13,
+      "total": 16,
+      "recentFiveYears": 14,
       "currentSeason": 2,
       "years": [
         2027,
@@ -9409,9 +9409,9 @@
       "department": "张江高等研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://zias.sjtu.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 8,
-      "currentSeason": 1,
+      "total": 14,
+      "recentFiveYears": 12,
+      "currentSeason": 2,
       "years": [
         2027,
         2026
@@ -9468,8 +9468,8 @@
       "department": "航空发动机研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 3,
-      "recentFiveYears": 2,
+      "total": 4,
+      "recentFiveYears": 3,
       "currentSeason": 1,
       "years": [
         2027,
@@ -9877,8 +9877,8 @@
       "department": "董浩云智能管理与物流研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://www.sugli.sjtu.edu.cn/",
-      "total": 5,
-      "recentFiveYears": 4,
+      "total": 6,
+      "recentFiveYears": 5,
       "currentSeason": 1,
       "years": [
         2027,
@@ -9894,8 +9894,8 @@
       "department": "中美物流研究院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://yzb.sjtu.edu.cn/post/2564",
-      "total": 6,
-      "recentFiveYears": 5,
+      "total": 7,
+      "recentFiveYears": 6,
       "currentSeason": 1,
       "years": [
         2027,
@@ -10027,8 +10027,8 @@
       "department": "机械与动力工程学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://me.sjtu.edu.cn/YanJS/indexnotice/7019.html",
-      "total": 8,
-      "recentFiveYears": 7,
+      "total": 9,
+      "recentFiveYears": 8,
       "currentSeason": 1,
       "years": [
         2027,
@@ -15344,8 +15344,8 @@
       "department": "集成电路学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://sme.ustc.edu.cn/",
-      "total": 3,
-      "recentFiveYears": 3,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2026
@@ -15932,9 +15932,9 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 12,
+      "total": 14,
       "recentFiveYears": 8,
-      "currentSeason": 4,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T04:21:49.824Z",
+  "generatedAt": "2026-09-09T04:16:58.797Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2330,
+    "notices": 2345,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 156,
+      "total": 158,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 317,
+      "total": 327,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 50,
@@ -82,21 +82,21 @@
     {
       "school": "南京大学",
       "region": "江苏",
-      "total": 45,
+      "total": 47,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 17,
       "llmStructured": 37,
-      "latestDate": "2026-09-08",
+      "latestDate": "2026-09-09",
       "status": "stale"
     },
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 240,
+      "total": 241,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 49,
+      "departments": 50,
       "llmStructured": 85,
       "latestDate": "2027-01-01",
       "status": "stale"
@@ -2188,7 +2188,7 @@
       "id": "auto-2ad43d9b4a20",
       "school": "上海交通大学",
       "department": "董浩云智能管理与物流研究院",
-      "total": 5,
+      "total": 6,
       "years": [
         2027,
         2026,
@@ -2245,7 +2245,7 @@
       "id": "auto-67ef1cef2c0a",
       "school": "上海交通大学",
       "department": "航空发动机研究院",
-      "total": 3,
+      "total": 4,
       "years": [
         2027,
         2026,
@@ -2329,7 +2329,7 @@
       "id": "auto-58ddd8f8b4bf",
       "school": "上海交通大学",
       "department": "凯原法学院",
-      "total": 23,
+      "total": 26,
       "years": [
         2026,
         2025,
@@ -2698,7 +2698,7 @@
       "id": "auto-ad03aed45d06",
       "school": "上海交通大学",
       "department": "张江高等研究院",
-      "total": 9,
+      "total": 14,
       "years": [
         2027,
         2026
@@ -3390,7 +3390,7 @@
       "id": "auto-0bc19c05002b",
       "school": "中国科学技术大学",
       "department": "集成电路学院",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
@@ -4125,7 +4125,7 @@
       "id": "ruc-labor-human-resources",
       "school": "中国人民大学",
       "department": "劳动人事学院",
-      "total": 12,
+      "total": 14,
       "years": [
         2027,
         2026,
