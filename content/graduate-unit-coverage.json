@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:17:00.104Z",
+  "generatedAt": "2026-09-10T04:22:53.218Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 770,
     "stale": 10,
     "missing": 361,
-    "currentSeasonCovered": 90
+    "currentSeasonCovered": 91
   },
   "units": [
     {
@@ -530,9 +530,9 @@
       "department": "未来技术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://future.pku.edu.cn/",
-      "total": 9,
+      "total": 10,
       "recentFiveYears": 8,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -669,9 +669,9 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 19,
+      "total": 21,
       "recentFiveYears": 15,
-      "currentSeason": 4,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,
@@ -7929,8 +7929,8 @@
       "department": "雕塑系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 23,
-      "recentFiveYears": 16,
+      "total": 24,
+      "recentFiveYears": 17,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9261,9 +9261,9 @@
       "department": "智慧能源创新学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://www.senergy.sjtu.edu.cn/",
-      "total": 7,
+      "total": 8,
       "recentFiveYears": 5,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -9295,17 +9295,18 @@
       "department": "人工智能学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://soai.sjtu.edu.cn/",
-      "total": 22,
+      "total": 23,
       "recentFiveYears": 22,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2023,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
