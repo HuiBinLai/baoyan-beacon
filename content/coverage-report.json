@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T04:22:52.275Z",
+  "generatedAt": "2026-09-11T04:12:31.974Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2351,
+    "notices": 2355,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 409,
+      "total": 412,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 66,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 241,
+      "total": 242,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -583,11 +583,12 @@
       "id": "auto-f1fe64630965",
       "school": "北京大学",
       "department": "公共卫生学院",
-      "total": 2,
+      "total": 3,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -663,7 +664,7 @@
       "id": "auto-cebf12ced5cb",
       "school": "北京大学",
       "department": "环境科学与工程学院",
-      "total": 17,
+      "total": 18,
       "years": [
         2027,
         2026,
@@ -813,7 +814,7 @@
       "id": "auto-c174a4b6a962",
       "school": "北京大学",
       "department": "力学与工程科学学院",
-      "total": 11,
+      "total": 12,
       "years": [
         2027,
         2026,
@@ -3758,7 +3759,7 @@
       "id": "auto-40e79fe2ebbd",
       "school": "中国科学技术大学",
       "department": "生物医学工程学院",
-      "total": 7,
+      "total": 8,
       "years": [
         2027,
         2026,

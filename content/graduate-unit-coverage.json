@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:22:53.218Z",
+  "generatedAt": "2026-09-11T04:12:33.309Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -459,9 +459,9 @@
       "department": "工学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.coe.pku.edu.cn/",
-      "total": 5,
+      "total": 6,
       "recentFiveYears": 4,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2024
@@ -475,9 +475,9 @@
       "department": "力学与工程科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://mech.pku.edu.cn/",
-      "total": 21,
+      "total": 22,
       "recentFiveYears": 19,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -547,9 +547,9 @@
       "department": "环境科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://cese.pku.edu.cn/",
-      "total": 27,
+      "total": 28,
       "recentFiveYears": 20,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -784,9 +784,9 @@
       "department": "公共卫生学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sph.pku.edu.cn/",
-      "total": 7,
+      "total": 8,
       "recentFiveYears": 5,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026
@@ -14812,9 +14812,9 @@
       "department": "生物医学工程学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://bme.ustc.edu.cn/",
-      "total": 19,
+      "total": 20,
       "recentFiveYears": 17,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -15621,9 +15621,9 @@
       "department": "生命科学与医学部",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://biomed.ustc.edu.cn/2025/0619/c24218a688176/page.htm",
-      "total": 9,
+      "total": 10,
       "recentFiveYears": 6,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
