@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:30:40.735Z",
+  "generatedAt": "2026-09-18T04:20:59.051Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,8 +9,8 @@
     2022
   ],
   "totals": {
-    "units": 1143,
-    "covered": 772,
+    "units": 1145,
+    "covered": 774,
     "stale": 11,
     "missing": 360,
     "currentSeasonCovered": 121
@@ -373,9 +373,9 @@
       "department": "考古文博学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://archaeology.pku.edu.cn/",
-      "total": 20,
+      "total": 21,
       "recentFiveYears": 16,
-      "currentSeason": 4,
+      "currentSeason": 5,
       "years": [
         2027,
         2026,
@@ -3291,6 +3291,21 @@
         2022
       ],
       "latestDate": "2022-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "d1fb392ed2",
+      "school": "电子科技大学",
+      "department": "物理学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://www.sp.uestc.edu.cn/info/1054/3477.htm",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -6865,8 +6880,8 @@
       "department": "车辆与运载学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.svm.tsinghua.edu.cn/",
-      "total": 28,
-      "recentFiveYears": 25,
+      "total": 29,
+      "recentFiveYears": 26,
       "currentSeason": 3,
       "years": [
         2027,
@@ -6921,8 +6936,8 @@
       "department": "工程力学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 12,
-      "recentFiveYears": 7,
+      "total": 13,
+      "recentFiveYears": 8,
       "currentSeason": 1,
       "years": [
         2027,
@@ -7956,8 +7971,8 @@
       "department": "雕塑系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 24,
-      "recentFiveYears": 17,
+      "total": 25,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9015,8 +9030,8 @@
       "department": "海洋学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://soo.sjtu.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 11,
+      "total": 12,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9228,8 +9243,8 @@
       "department": "文化创意产业学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://icci.sjtu.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 13,
+      "total": 16,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2041,
@@ -9938,6 +9953,21 @@
         2024
       ],
       "latestDate": "2027-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "9b6bbed85c",
+      "school": "上海交通大学",
+      "department": "2027年硕士推免招生专业目录校本部",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://yzb.sjtu.edu.cn/post/3773",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-09-17",
       "status": "covered"
     },
     {
@@ -15997,9 +16027,9 @@
       "department": "劳动人事学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 12,
+      "total": 14,
       "recentFiveYears": 8,
-      "currentSeason": 4,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,

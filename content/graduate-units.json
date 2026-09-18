@@ -3655,6 +3655,19 @@
     "priority": 9003
   },
   {
+    "id": "9b6bbed85c",
+    "school": "上海交通大学",
+    "department": "2027年硕士推免招生专业目录校本部",
+    "aliases": [
+      "2027年硕士推免招生专业目录校本部"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3773",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 5,
+    "priority": 9045
+  },
+  {
     "id": "6288df85a7",
     "school": "上海交通大学",
     "department": "国际与公共事务学院",
@@ -13767,6 +13780,19 @@
     "sourceStatus": "from_notices",
     "schoolPriority": 34,
     "priority": 9421
+  },
+  {
+    "id": "d1fb392ed2",
+    "school": "电子科技大学",
+    "department": "物理学院",
+    "aliases": [
+      "物理学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://www.sp.uestc.edu.cn/info/1054/3477.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 35,
+    "priority": 9033
   },
   {
     "id": "08e6b57dc3",
