@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-18T04:20:57.699Z",
+  "generatedAt": "2026-09-19T04:30:41.216Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2385,
+    "notices": 2395,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 159,
+      "total": 161,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 435,
+      "total": 436,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 333,
+      "total": 340,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 52,
@@ -779,7 +779,7 @@
       "id": "auto-ef6221ff1dfb",
       "school": "北京大学",
       "department": "考古文博学院",
-      "total": 14,
+      "total": 15,
       "years": [
         2027,
         2026,
@@ -2276,7 +2276,7 @@
       "id": "auto-c449e622ea85",
       "school": "上海交通大学",
       "department": "环境科学与工程学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2027,
         2026,
@@ -2335,13 +2335,14 @@
       "id": "auto-58ddd8f8b4bf",
       "school": "上海交通大学",
       "department": "凯原法学院",
-      "total": 23,
+      "total": 24,
       "years": [
+        2027,
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-06-26",
+      "latestDate": "2026-09-18",
       "status": "covered"
     },
     {
@@ -2378,7 +2379,7 @@
       "id": "auto-b92dddbebf0e",
       "school": "上海交通大学",
       "department": "马克思主义学院",
-      "total": 12,
+      "total": 13,
       "years": [
         2027,
         2026
@@ -2421,7 +2422,7 @@
       "id": "auto-1edb45b2bd6b",
       "school": "上海交通大学",
       "department": "浦江国际学院",
-      "total": 6,
+      "total": 7,
       "years": [
         2027,
         2026
@@ -2531,12 +2532,13 @@
       "id": "auto-e34844047681",
       "school": "上海交通大学",
       "department": "生命科学技术学院",
-      "total": 5,
+      "total": 6,
       "years": [
+        2027,
         2026,
         2024
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2579,9 +2581,10 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 13,
+      "total": 15,
       "years": [
         2041,
+        2027,
         2026,
         2025,
         2024
@@ -4243,11 +4246,12 @@
       "id": "auto-f9c70ac74498",
       "school": "中国人民大学",
       "department": "哲学院",
-      "total": 11,
+      "total": 13,
       "years": [
         2027,
         2026,
-        2025
+        2025,
+        2024
       ],
       "latestDate": "2027-01-01",
       "status": "covered"

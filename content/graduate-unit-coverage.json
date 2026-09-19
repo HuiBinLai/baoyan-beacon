@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:20:59.051Z",
+  "generatedAt": "2026-09-19T04:30:42.311Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 774,
     "stale": 11,
     "missing": 360,
-    "currentSeasonCovered": 121
+    "currentSeasonCovered": 124
   },
   "units": [
     {
@@ -373,9 +373,9 @@
       "department": "考古文博学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://archaeology.pku.edu.cn/",
-      "total": 21,
+      "total": 22,
       "recentFiveYears": 16,
-      "currentSeason": 5,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,
@@ -8982,9 +8982,9 @@
       "department": "环境科学与工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://sese.sjtu.edu.cn/",
-      "total": 10,
+      "total": 11,
       "recentFiveYears": 8,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -9046,15 +9046,16 @@
       "department": "生命科学技术学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://life.sjtu.edu.cn/",
-      "total": 9,
+      "total": 10,
       "recentFiveYears": 9,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -9115,15 +9116,16 @@
       "department": "凯原法学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://law.sjtu.edu.cn/",
-      "total": 26,
+      "total": 27,
       "recentFiveYears": 26,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-06-26",
+      "latestDate": "2026-09-18",
       "status": "covered"
     },
     {
@@ -9147,9 +9149,9 @@
       "department": "马克思主义学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://ma.sjtu.edu.cn/",
-      "total": 16,
+      "total": 17,
       "recentFiveYears": 14,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026
@@ -9211,9 +9213,9 @@
       "department": "浦江国际学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://umji.sjtu.edu.cn/",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 5,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026
@@ -9243,11 +9245,12 @@
       "department": "文化创意产业学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://icci.sjtu.edu.cn/",
-      "total": 16,
+      "total": 18,
       "recentFiveYears": 15,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
         2041,
+        2027,
         2026,
         2025,
         2024
@@ -15943,13 +15946,14 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 11,
-      "recentFiveYears": 10,
+      "total": 13,
+      "recentFiveYears": 12,
       "currentSeason": 1,
       "years": [
         2027,
         2026,
-        2025
+        2025,
+        2024
       ],
       "latestDate": "2027-01-01",
       "status": "covered"
