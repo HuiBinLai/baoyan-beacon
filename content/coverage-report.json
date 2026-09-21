@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-20T04:12:27.508Z",
+  "generatedAt": "2026-09-21T04:14:08.342Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2395,
+    "notices": 2402,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 340,
+      "total": 347,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 52,
@@ -2155,7 +2155,7 @@
       "id": "auto-45d7ff8dd7de",
       "school": "上海交通大学",
       "department": "船舶海洋与建筑工程学院",
-      "total": 16,
+      "total": 18,
       "years": [
         2027,
         2026,
@@ -2434,7 +2434,7 @@
       "id": "auto-94ea59f6acb0",
       "school": "上海交通大学",
       "department": "溥渊未来技术学院",
-      "total": 17,
+      "total": 18,
       "years": [
         2027,
         2026,
@@ -2480,7 +2480,7 @@
       "id": "auto-0ff9868c9a19",
       "school": "上海交通大学",
       "department": "人工智能学院",
-      "total": 23,
+      "total": 24,
       "years": [
         2027,
         2026,
@@ -2596,13 +2596,14 @@
       "id": "auto-e104caede43a",
       "school": "上海交通大学",
       "department": "系统生物医学研究院",
-      "total": 13,
+      "total": 14,
       "years": [
+        2027,
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2649,15 +2650,16 @@
       "id": "auto-4f615129dc42",
       "school": "上海交通大学",
       "department": "药学院",
-      "total": 15,
+      "total": 16,
       "years": [
+        2027,
         2026,
         2025,
         2023,
         2022,
         2021
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2732,7 +2734,7 @@
       "id": "auto-181d998d2449",
       "school": "上海交通大学",
       "department": "智慧能源创新学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2027,
         2026,

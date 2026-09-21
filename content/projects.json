@@ -8967,8 +8967,9 @@
     "timeline": [
       {
         "year": 2027,
-        "count": 1,
+        "count": 2,
         "stages": [
+          "推免报名",
           "预推免"
         ],
         "degreeTypes": [
@@ -8980,6 +8981,22 @@
         "firstApplicationStart": "",
         "lastApplicationEnd": "",
         "notices": [
+          {
+            "id": "college-8b23a87fe259",
+            "title": "2027年人工智能学院招收推免生综合考核实施细则 2026-09-20",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sai.sjtu.edu.cn/cn/show/525",
+            "sourceHost": "sai.sjtu.edu.cn",
+            "sourceHomepage": "https://sai.sjtu.edu.cn/",
+            "departmentHomepage": "https://sai.sjtu.edu.cn/"
+          },
           {
             "id": "college-13a03489c2de",
             "title": "上海交通大学人工智能学院2027年接收推荐免试研究生（含直博生）预推免办法 2026-09-08",
@@ -9454,9 +9471,9 @@
       }
     ],
     "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 1,
+    "currentSeasonCount": 2,
     "latestPastYear": 2026,
-    "noticeCount": 23,
+    "noticeCount": 24,
     "llmStructuredCount": 7,
     "years": [
       2027,
@@ -9467,8 +9484,8 @@
       2022
     ],
     "stages": [
-      "预推免",
       "推免报名",
+      "预推免",
       "复试/考核",
       "夏令营/研学营",
       "推免",
@@ -12742,6 +12759,856 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-0f353d45d296",
+    "school": "上海交通大学",
+    "department": "船舶海洋与建筑工程学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 船舶海洋与建筑工程学院",
+    "tracks": [
+      "建筑土木交通",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "预推免",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "直博",
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2027-07-13",
+        "lastApplicationEnd": "2027-08-02",
+        "notices": [
+          {
+            "id": "college-ad3faac3f790",
+            "title": "2027年船舶海洋与建筑工程学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15805.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-370441c0103e",
+            "title": "2027年船舶海洋与建筑工程学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15805.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-886c1c2e7ef5",
+            "title": "船舶海洋与建筑工程学院2027年接收推荐免试研究生预推免办法",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15769.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-93e23aaa844b",
+            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-07-13",
+            "applicationEnd": "2027-08-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-163efe3f7401",
+            "title": "船舶海洋与建筑工程学院2027年接收推荐免试研究生预推免办法",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15769.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ccbfbb8be87b",
+            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-07-13",
+            "applicationEnd": "2027-08-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 10,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "直博",
+          "专业型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-07-03",
+        "lastApplicationEnd": "2027-08-02",
+        "notices": [
+          {
+            "id": "college-cb2318aeb59a",
+            "title": "01 2026.09 船建学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-0a7d90f734cb",
+            "title": "30 2026.06 上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2027-07-13",
+            "applicationEnd": "2027-08-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8d489a6f1531",
+            "title": "14 2026.09 船舶海洋与建筑工程学院2027年推荐优秀应届本科毕业生免试攻读研究生名...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e06f4cf4711f",
+            "title": "01 2026.09 船建学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-0d99c9b225be",
+            "title": "14 2026.09 船舶海洋与建筑工程学院2027年推荐优秀应届本科毕业生免试攻读研究生名...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ac96ac213458",
+            "title": "30 2026.06 上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2027-07-13",
+            "applicationEnd": "2027-08-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-03eb5c1a7153",
+            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15402.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a82d5f84def3",
+            "title": "上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-03",
+            "applicationEnd": "2026-07-31",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/14654.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-85a63209bef4",
+            "title": "上一条：上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-03",
+            "applicationEnd": "2026-07-31",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2a274ed4e8c4",
+            "title": "硕士研究生招生专业目录及考试科目",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/info/1022/3793.htm",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-fc475487184c",
+            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-65638bbae2d1",
+            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 6,
+    "latestPastYear": 2026,
+    "noticeCount": 18,
+    "llmStructuredCount": 1,
+    "years": [
+      2027,
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "预推免",
+      "夏令营/研学营",
+      "推免",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "直博",
+      "待确认",
+      "博士",
+      "专业型硕士",
+      "硕士"
+    ],
+    "majors": [
+      "法律",
+      "土木工程",
+      "电子信息",
+      "教育学",
+      "数学",
+      "机械工程"
+    ],
+    "sourceHosts": [
+      "naoce.sjtu.edu.cn",
+      "oce.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://naoce.sjtu.edu.cn/",
+      "https://oce.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://naoce.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-9659e58cefa5",
+    "school": "上海交通大学",
+    "department": "溥渊未来技术学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 溥渊未来技术学院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "预推免"
+        ],
+        "degreeTypes": [
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-15448198bfba",
+            "title": "2027年溥渊未来技术学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/1189",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d221ff5979b0",
+            "title": "溥渊未来技术学院2027年接收推荐免试研究生（含直博）预推免办法",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/1181",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 10,
+        "stages": [
+          "推免报名",
+          "直博",
+          "复试/考核",
+          "预推免"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "直博",
+          "待确认",
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2022-04-30",
+        "lastApplicationEnd": "2026-07-16",
+        "notices": [
+          {
+            "id": "college-8daeb3466dc6",
+            "title": "溥渊未来技术学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/458",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fb6deef77c0f",
+            "title": "溥渊未来技术学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/858",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c198bc6dccfd",
+            "title": "溥渊未来技术学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-28",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/877",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-7c294da4ead8",
+            "title": "溥渊未来技术学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-16",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/event/103",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-386adb97348d",
+            "title": "【研究生招生】溥渊未来技术学院接收强基计划本科生转段直博报名通知",
+            "stage": "直博",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2022-04-30",
+            "applicationEnd": "2022-05-09",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/642",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-18702c78aece",
+            "title": "溥渊未来技术学院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-03-15",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/544",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a302a36a8bc7",
+            "title": "溥渊未来技术学院接收强基计划本科生转段直博报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-05-12",
+            "applicationEnd": "2026-05-22",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/1088",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-045bc938fffd",
+            "title": "上海交通大学溥渊未来技术学院2026年硕士研究生招生复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-03-26",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/1039",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c18ab92f18fc",
+            "title": "上海交通大学溥渊未来技术学院2026年推荐免试研究生（含直博生）预推免办法",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-09-01",
+            "applicationEnd": "2025-09-14",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/858",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2ab12b3039d6",
+            "title": "上海交通大学溥渊未来技术学院2026年推荐免试研究生（含直博生）预推免办法（第二批）",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-28",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/877",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 3,
+        "stages": [
+          "招生简章",
+          "夏令营/研学营",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-03-15",
+        "lastApplicationEnd": "2025-04-20",
+        "notices": [
+          {
+            "id": "college-7594d47ef4c3",
+            "title": "【博士招生】溥渊未来技术学院2025级非全日制工程类专业学位博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-03-15",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/544",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a3b39efee95d",
+            "title": "上海交通大学溥渊未来技术学院 2025级研究生优才夏令营复试通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/460",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-89b60b98fe8a",
+            "title": "上海交通大学溥渊未来技术学院2025级推荐免试直升研究生招生通知",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/458",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 3,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-10-15",
+        "lastApplicationEnd": "2024-04-20",
+        "notices": [
+          {
+            "id": "college-90b82a2eed54",
+            "title": "【博士研究生】溥渊未来技术学院2024年“申请-考核”制博士研究生招生简章（第二批）",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-04-07",
+            "applicationEnd": "2024-04-20",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/463",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d9d094412011",
+            "title": "【博士研究生】上海交通大学溥渊未来技术学院2024年“申请-考核”制博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10-15",
+            "applicationEnd": "2024-04-15",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/464",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c7e98db6b086",
+            "title": "上海交通大学溥渊未来技术学院2024年“申请-考核”制博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10-15",
+            "applicationEnd": "2024-04-15",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/937",
+            "sourceHost": "gift.sjtu.edu.cn",
+            "sourceHomepage": "https://gift.sjtu.edu.cn/",
+            "departmentHomepage": "https://gift.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
+    "latestPastYear": 2026,
+    "noticeCount": 18,
+    "llmStructuredCount": 8,
+    "years": [
+      2027,
+      2026,
+      2025,
+      2024
+    ],
+    "stages": [
+      "推免报名",
+      "预推免",
+      "直博",
+      "复试/考核",
+      "招生简章",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "直博",
+      "专业型硕士",
+      "待确认",
+      "博士",
+      "硕士",
+      "学术型硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "计算机科学与技术",
+      "电子信息",
+      "数学",
+      "物理学",
+      "化学",
+      "生物学",
+      "机械",
+      "生物医药及高端医疗设备",
+      "控制科学与工程",
+      "机械工程"
+    ],
+    "sourceHosts": [
+      "gift.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://gift.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://gift.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-dfb9ce782003",
     "school": "北京大学",
     "department": "信息工程学院",
@@ -13173,429 +14040,6 @@
     "departmentHomepages": [
       "http://www.ece.pku.edu.cn/",
       "https://www.ece.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-9659e58cefa5",
-    "school": "上海交通大学",
-    "department": "溥渊未来技术学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 溥渊未来技术学院",
-    "tracks": [
-      "计算机/AI",
-      "理工基础",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 1,
-        "stages": [
-          "预推免"
-        ],
-        "degreeTypes": [
-          "直博",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-d221ff5979b0",
-            "title": "溥渊未来技术学院2027年接收推荐免试研究生（含直博）预推免办法",
-            "stage": "预推免",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/1181",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 10,
-        "stages": [
-          "推免报名",
-          "直博",
-          "复试/考核",
-          "预推免"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "直博",
-          "待确认",
-          "博士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2022-04-30",
-        "lastApplicationEnd": "2026-07-16",
-        "notices": [
-          {
-            "id": "college-8daeb3466dc6",
-            "title": "溥渊未来技术学院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/458",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-fb6deef77c0f",
-            "title": "溥渊未来技术学院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/858",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c198bc6dccfd",
-            "title": "溥渊未来技术学院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-28",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/877",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-7c294da4ead8",
-            "title": "溥渊未来技术学院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-07-16",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/event/103",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-386adb97348d",
-            "title": "【研究生招生】溥渊未来技术学院接收强基计划本科生转段直博报名通知",
-            "stage": "直博",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2022-04-30",
-            "applicationEnd": "2022-05-09",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/642",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-18702c78aece",
-            "title": "溥渊未来技术学院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-03-15",
-            "applicationEnd": "2025-04-20",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/544",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a302a36a8bc7",
-            "title": "溥渊未来技术学院接收强基计划本科生转段直博报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-05-12",
-            "applicationEnd": "2026-05-22",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/1088",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-045bc938fffd",
-            "title": "上海交通大学溥渊未来技术学院2026年硕士研究生招生复试通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-03-26",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/1039",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c18ab92f18fc",
-            "title": "上海交通大学溥渊未来技术学院2026年推荐免试研究生（含直博生）预推免办法",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-09-01",
-            "applicationEnd": "2025-09-14",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/858",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2ab12b3039d6",
-            "title": "上海交通大学溥渊未来技术学院2026年推荐免试研究生（含直博生）预推免办法（第二批）",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-28",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/877",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 3,
-        "stages": [
-          "招生简章",
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "直博",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-03-15",
-        "lastApplicationEnd": "2025-04-20",
-        "notices": [
-          {
-            "id": "college-7594d47ef4c3",
-            "title": "【博士招生】溥渊未来技术学院2025级非全日制工程类专业学位博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-03-15",
-            "applicationEnd": "2025-04-20",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/544",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a3b39efee95d",
-            "title": "上海交通大学溥渊未来技术学院 2025级研究生优才夏令营复试通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/460",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-89b60b98fe8a",
-            "title": "上海交通大学溥渊未来技术学院2025级推荐免试直升研究生招生通知",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/458",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 3,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-10-15",
-        "lastApplicationEnd": "2024-04-20",
-        "notices": [
-          {
-            "id": "college-90b82a2eed54",
-            "title": "【博士研究生】溥渊未来技术学院2024年“申请-考核”制博士研究生招生简章（第二批）",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-04-07",
-            "applicationEnd": "2024-04-20",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/463",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d9d094412011",
-            "title": "【博士研究生】上海交通大学溥渊未来技术学院2024年“申请-考核”制博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10-15",
-            "applicationEnd": "2024-04-15",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/464",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c7e98db6b086",
-            "title": "上海交通大学溥渊未来技术学院2024年“申请-考核”制博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10-15",
-            "applicationEnd": "2024-04-15",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://gift.sjtu.edu.cn/announcement/937",
-            "sourceHost": "gift.sjtu.edu.cn",
-            "sourceHomepage": "https://gift.sjtu.edu.cn/",
-            "departmentHomepage": "https://gift.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 1,
-    "latestPastYear": 2026,
-    "noticeCount": 17,
-    "llmStructuredCount": 8,
-    "years": [
-      2027,
-      2026,
-      2025,
-      2024
-    ],
-    "stages": [
-      "预推免",
-      "推免报名",
-      "直博",
-      "复试/考核",
-      "招生简章",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "直博",
-      "专业型硕士",
-      "待确认",
-      "博士",
-      "硕士",
-      "学术型硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "计算机科学与技术",
-      "电子信息",
-      "数学",
-      "物理学",
-      "化学",
-      "生物学",
-      "机械",
-      "生物医药及高端医疗设备",
-      "控制科学与工程",
-      "机械工程"
-    ],
-    "sourceHosts": [
-      "gift.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://gift.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://gift.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -14042,377 +14486,445 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-0f353d45d296",
+    "id": "project-175efe2a2dd7",
     "school": "上海交通大学",
-    "department": "船舶海洋与建筑工程学院",
+    "department": "药学院",
     "region": "上海",
     "levels": [
       "985"
     ],
-    "title": "上海交通大学 · 船舶海洋与建筑工程学院",
+    "title": "上海交通大学 · 药学院",
     "tracks": [
-      "建筑土木交通",
-      "理工基础"
+      "医学药学",
+      "理工基础",
+      "材料能源化工"
     ],
     "qualityFlags": [],
     "timeline": [
       {
         "year": 2027,
-        "count": 4,
+        "count": 1,
         "stages": [
-          "预推免",
-          "夏令营/研学营"
+          "推免报名"
         ],
         "degreeTypes": [
-          "待确认"
+          "直博"
         ],
         "firstPublishedAt": "2027-01-01",
         "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2027-07-13",
-        "lastApplicationEnd": "2027-08-02",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
         "notices": [
           {
-            "id": "college-886c1c2e7ef5",
-            "title": "船舶海洋与建筑工程学院2027年接收推荐免试研究生预推免办法",
-            "stage": "预推免",
+            "id": "college-d955767637ff",
+            "title": "2027年药学院、生物医药前沿学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
             "year": 2027,
             "publishedAt": "2027-01-01",
             "applicationStart": "",
             "applicationEnd": "",
             "degreeTypes": [
-              "待确认"
+              "直博"
             ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15769.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-93e23aaa844b",
-            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-07-13",
-            "applicationEnd": "2027-08-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15592.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-163efe3f7401",
-            "title": "船舶海洋与建筑工程学院2027年接收推荐免试研究生预推免办法",
-            "stage": "预推免",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15769.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-ccbfbb8be87b",
-            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-07-13",
-            "applicationEnd": "2027-08-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/6364.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
           }
         ]
       },
       {
         "year": 2026,
-        "count": 10,
+        "count": 5,
         "stages": [
-          "推免报名",
+          "复试/考核",
           "夏令营/研学营",
-          "推免"
+          "推免报名"
         ],
         "degreeTypes": [
-          "待确认",
-          "博士",
+          "硕士",
           "直博",
-          "专业型硕士",
-          "硕士"
+          "待确认"
         ],
         "firstPublishedAt": "2026-01-01",
         "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-07-03",
-        "lastApplicationEnd": "2027-08-02",
+        "firstApplicationStart": "2025-05-30",
+        "lastApplicationEnd": "2026-03-22",
         "notices": [
           {
-            "id": "college-cb2318aeb59a",
-            "title": "01 2026.09 船建学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
-            "stage": "推免报名",
+            "id": "college-e6d38187b4da",
+            "title": "上海交通大学药学院2026级硕士研究生招生复试办法",
+            "stage": "复试/考核",
             "year": 2026,
             "publishedAt": "2026-01-01",
             "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-0a7d90f734cb",
-            "title": "30 2026.06 上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2027-07-13",
-            "applicationEnd": "2027-08-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-8d489a6f1531",
-            "title": "14 2026.09 船舶海洋与建筑工程学院2027年推荐优秀应届本科毕业生免试攻读研究生名...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-e06f4cf4711f",
-            "title": "01 2026.09 船建学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-0d99c9b225be",
-            "title": "14 2026.09 船舶海洋与建筑工程学院2027年推荐优秀应届本科毕业生免试攻读研究生名...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-ac96ac213458",
-            "title": "30 2026.06 上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2027-07-13",
-            "applicationEnd": "2027-08-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15592.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-03eb5c1a7153",
-            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15402.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a82d5f84def3",
-            "title": "上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-03",
-            "applicationEnd": "2026-07-31",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/14654.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-85a63209bef4",
-            "title": "上一条：上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-03",
-            "applicationEnd": "2026-07-31",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2a274ed4e8c4",
-            "title": "硕士研究生招生专业目录及考试科目",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
+            "applicationEnd": "2026-03-22",
             "degreeTypes": [
               "硕士"
             ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/info/1022/3793.htm",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/6032.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-cfddfb2cdf9b",
+            "title": "上海交通大学药学院2026级研究生优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-05-30",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/5376.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-68fb4e0e7d12",
+            "title": "上海交通大学药学院2026级研究生招生夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/5411.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c1c204c8843a",
+            "title": "上海交通大学药学院全国优秀大学生暑期学术交流营报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/6182.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e5958d7adc5f",
+            "title": "药学院2026级博士研究生招生（第二批）报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/6120.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
           }
         ]
       },
       {
         "year": 2025,
-        "count": 2,
+        "count": 1,
         "stages": [
-          "复试/考核"
+          "夏令营/研学营"
         ],
         "degreeTypes": [
-          "硕士"
+          "直博"
         ],
         "firstPublishedAt": "2025-01-01",
         "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
+        "firstApplicationStart": "2024-05-23",
+        "lastApplicationEnd": "2024-06-13",
         "notices": [
           {
-            "id": "college-fc475487184c",
-            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
-            "stage": "复试/考核",
+            "id": "college-1f936372fbaa",
+            "title": "上海交通大学药学院2025级研究生夏令营报名通知",
+            "stage": "夏令营/研学营",
             "year": 2025,
             "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
+            "applicationStart": "2024-05-23",
+            "applicationEnd": "2024-06-13",
             "degreeTypes": [
-              "硕士"
+              "直博"
             ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4969.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2022-06-01",
+        "lastApplicationEnd": "2022-06-24",
+        "notices": [
+          {
+            "id": "college-d10bdb137ab4",
+            "title": "上海交通大学药学院2023年研究生优才夏令营 报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2022-06-01",
+            "applicationEnd": "2022-06-24",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4140.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
           },
           {
-            "id": "college-65638bbae2d1",
-            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
+            "id": "college-2f92cb828e14",
+            "title": "上海交通大学药学院2023年招收优秀应届本科毕业生 免试攻读研究生（含直博）实施办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
             "applicationStart": "",
             "applicationEnd": "",
             "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4202.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 2,
+        "stages": [
+          "招生简章",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2022-03-25",
+        "lastApplicationEnd": "2022-06-28",
+        "notices": [
+          {
+            "id": "college-95a64de2e3b6",
+            "title": "上海交通大学药学院2022年海南专项博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-03-25",
+            "applicationEnd": "2022-04-20",
+            "degreeTypes": [
+              "直博",
               "硕士"
             ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/13586.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4059.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1f74f0f816c8",
+            "title": "上海交通大学药学院2022年研究生优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-06-01",
+            "applicationEnd": "2022-06-28",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3779.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 5,
+        "stages": [
+          "复试/考核",
+          "推免",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "硕士",
+          "直博"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "2020-10-08",
+        "lastApplicationEnd": "2021-10-15",
+        "notices": [
+          {
+            "id": "college-df1ea4ddef96",
+            "title": "2021年“申请-考核制”制药方向专业学位博士研究生招生办法 （第二批）",
+            "stage": "复试/考核",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "2021-03-15",
+            "applicationEnd": "2021-04-10",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3678.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8a7ddc01befa",
+            "title": "2021年“硕博连读”制药方向专业学位博士研究生招生办法 （第二批）",
+            "stage": "推免",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "2021-03-15",
+            "applicationEnd": "2021-04-10",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3679.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f1b734297ef4",
+            "title": "上海交通大学药学院 2021年博士研究生招生（第二批）综合考核安排",
+            "stage": "复试/考核",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3727.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d05651d5a7c9",
+            "title": "上海交通大学药学院2021年招收优秀应届本科毕业生免试攻读研究生（含直博）实施办法",
+            "stage": "推免报名",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "2020-10-08",
+            "applicationEnd": "2020-10-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3505.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ad8af0cfe374",
+            "title": "药学院2021级推荐免试研究生（第二批）复试通知",
+            "stage": "推免报名",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2021-10-15",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3540.html",
+            "sourceHost": "pharm.sjtu.edu.cn",
+            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
+            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
           }
         ]
       }
     ],
     "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 4,
+    "currentSeasonCount": 1,
     "latestPastYear": 2026,
     "noticeCount": 16,
-    "llmStructuredCount": 1,
+    "llmStructuredCount": 13,
     "years": [
       2027,
       2026,
-      2025
+      2025,
+      2023,
+      2022,
+      2021
     ],
     "stages": [
-      "预推免",
-      "夏令营/研学营",
       "推免报名",
-      "推免",
-      "复试/考核"
+      "复试/考核",
+      "夏令营/研学营",
+      "招生简章",
+      "推免"
     ],
     "degreeTypes": [
-      "待确认",
-      "博士",
       "直博",
-      "专业型硕士",
-      "硕士"
+      "硕士",
+      "待确认",
+      "学术型硕士",
+      "博士"
     ],
     "majors": [
-      "土木工程",
-      "电子信息",
+      "法律",
+      "药学",
+      "药物化学",
+      "药理学",
+      "药剂学",
+      "微生物与生物技术药物学",
+      "药物分析学",
+      "生药学",
+      "智能药学",
+      "临床药学",
+      "生物与医药",
+      "生物学",
+      "化学",
       "教育学",
-      "数学",
-      "机械工程"
+      "药学（100700）",
+      "专业型 生物与医药（086000）"
     ],
     "sourceHosts": [
-      "naoce.sjtu.edu.cn",
-      "oce.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
+      "pharm.sjtu.edu.cn"
     ],
     "sourceHomepages": [
-      "https://naoce.sjtu.edu.cn/",
-      "https://oce.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
+      "https://pharm.sjtu.edu.cn/"
     ],
     "departmentHomepages": [
-      "https://naoce.sjtu.edu.cn/"
+      "https://pharm.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -17460,416 +17972,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-175efe2a2dd7",
-    "school": "上海交通大学",
-    "department": "药学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 药学院",
-    "tracks": [
-      "医学药学",
-      "理工基础",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "复试/考核",
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "直博",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-05-30",
-        "lastApplicationEnd": "2026-03-22",
-        "notices": [
-          {
-            "id": "college-e6d38187b4da",
-            "title": "上海交通大学药学院2026级硕士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-03-22",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/6032.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-cfddfb2cdf9b",
-            "title": "上海交通大学药学院2026级研究生优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-05-30",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/5376.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-68fb4e0e7d12",
-            "title": "上海交通大学药学院2026级研究生招生夏令营入营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/5411.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c1c204c8843a",
-            "title": "上海交通大学药学院全国优秀大学生暑期学术交流营报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/6182.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-e5958d7adc5f",
-            "title": "药学院2026级博士研究生招生（第二批）报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/6120.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "直博"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-05-23",
-        "lastApplicationEnd": "2024-06-13",
-        "notices": [
-          {
-            "id": "college-1f936372fbaa",
-            "title": "上海交通大学药学院2025级研究生夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-05-23",
-            "applicationEnd": "2024-06-13",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4969.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2022-06-01",
-        "lastApplicationEnd": "2022-06-24",
-        "notices": [
-          {
-            "id": "college-d10bdb137ab4",
-            "title": "上海交通大学药学院2023年研究生优才夏令营 报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2022-06-01",
-            "applicationEnd": "2022-06-24",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4140.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2f92cb828e14",
-            "title": "上海交通大学药学院2023年招收优秀应届本科毕业生 免试攻读研究生（含直博）实施办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4202.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 2,
-        "stages": [
-          "招生简章",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2022-03-25",
-        "lastApplicationEnd": "2022-06-28",
-        "notices": [
-          {
-            "id": "college-95a64de2e3b6",
-            "title": "上海交通大学药学院2022年海南专项博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-03-25",
-            "applicationEnd": "2022-04-20",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/4059.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-1f74f0f816c8",
-            "title": "上海交通大学药学院2022年研究生优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-06-01",
-            "applicationEnd": "2022-06-28",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3779.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 5,
-        "stages": [
-          "复试/考核",
-          "推免",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "硕士",
-          "直博"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "2020-10-08",
-        "lastApplicationEnd": "2021-10-15",
-        "notices": [
-          {
-            "id": "college-df1ea4ddef96",
-            "title": "2021年“申请-考核制”制药方向专业学位博士研究生招生办法 （第二批）",
-            "stage": "复试/考核",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "2021-03-15",
-            "applicationEnd": "2021-04-10",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3678.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-8a7ddc01befa",
-            "title": "2021年“硕博连读”制药方向专业学位博士研究生招生办法 （第二批）",
-            "stage": "推免",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "2021-03-15",
-            "applicationEnd": "2021-04-10",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3679.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f1b734297ef4",
-            "title": "上海交通大学药学院 2021年博士研究生招生（第二批）综合考核安排",
-            "stage": "复试/考核",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3727.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d05651d5a7c9",
-            "title": "上海交通大学药学院2021年招收优秀应届本科毕业生免试攻读研究生（含直博）实施办法",
-            "stage": "推免报名",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "2020-10-08",
-            "applicationEnd": "2020-10-08",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3505.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-ad8af0cfe374",
-            "title": "药学院2021级推荐免试研究生（第二批）复试通知",
-            "stage": "推免报名",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2021-10-15",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://pharm.sjtu.edu.cn/zsgz/3540.html",
-            "sourceHost": "pharm.sjtu.edu.cn",
-            "sourceHomepage": "https://pharm.sjtu.edu.cn/",
-            "departmentHomepage": "https://pharm.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 15,
-    "llmStructuredCount": 13,
-    "years": [
-      2026,
-      2025,
-      2023,
-      2022,
-      2021
-    ],
-    "stages": [
-      "复试/考核",
-      "夏令营/研学营",
-      "推免报名",
-      "招生简章",
-      "推免"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "直博",
-      "待确认",
-      "学术型硕士",
-      "博士"
-    ],
-    "majors": [
-      "药学",
-      "药物化学",
-      "药理学",
-      "药剂学",
-      "微生物与生物技术药物学",
-      "药物分析学",
-      "生药学",
-      "智能药学",
-      "临床药学",
-      "生物与医药",
-      "生物学",
-      "化学",
-      "教育学",
-      "药学（100700）",
-      "专业型 生物与医药（086000）",
-      "药学（105500）"
-    ],
-    "sourceHosts": [
-      "pharm.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://pharm.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://pharm.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-f4142278ac29",
     "school": "华中科技大学",
     "department": "华中科技大学校级/待分院",
@@ -18277,6 +18379,361 @@
       "http://gszs.hust.edu.cn/",
       "https://gszs.hust.edu.cn/",
       "http://ugs.hust.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-d7b944c65b0d",
+    "school": "上海交通大学",
+    "department": "系统生物医学研究院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 系统生物医学研究院",
+    "tracks": [
+      "医学药学",
+      "理工基础",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-09-24",
+        "notices": [
+          {
+            "id": "college-b313c691697d",
+            "title": "> 系统生物医学研究院2027级推免研究生（仅直博生）选拔通知",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-24",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12996.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-11-01",
+        "lastApplicationEnd": "2026-07-11",
+        "notices": [
+          {
+            "id": "college-1a119bff3821",
+            "title": "> 上海交通大学系统生物医学研究院全国优秀大学生学术交流夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12890.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fd0436e45404",
+            "title": "> 2026研究生招生宣传及导师介绍",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12893.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d7ee1db4c4fb",
+            "title": "> 上海交通大学系统生物医学研究院2026级申请考核制、硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-01",
+            "applicationEnd": "2026-03-15",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12773.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-06334b384061",
+            "title": "> 系统生物医学研究院2026级推免研究生（仅直博生）选拔通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-14",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12759.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e5bd55532501",
+            "title": "上海交通大学系统生物医学研究院全国优秀大学生学...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-17",
+            "applicationEnd": "2026-07-11",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12906.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-52e2290fb60b",
+            "title": "上海交通大学系统生物医学研究院全国优秀大学生学...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12890.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4de0fa6b3e1d",
+            "title": "系统生物医学研究院2026级推免研究生（直博生...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12762.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-91ca58e5a94f",
+            "title": "系统生物医学研究院2026级推免研究生（仅直博...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-14",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12759.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-78bffcf937ad",
+            "title": "2026研究生招生宣传及导师介绍",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12893.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-12-15",
+        "lastApplicationEnd": "2025-03-08",
+        "notices": [
+          {
+            "id": "college-fcf0e109803a",
+            "title": "> 上海交通大学系统生物医学研究院2025级申请考核制、硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-12-15",
+            "applicationEnd": "2025-03-08",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12706.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 3,
+        "stages": [
+          "招生简章",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2023-09-23",
+        "notices": [
+          {
+            "id": "college-9ae4485233aa",
+            "title": "> 系统生物医学研究院2024级第二批申请考核制/硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12644.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-0177175f3871",
+            "title": "> 系统生物医学研究院2024级推免研究生选拔办法（含直博生）",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-09-23",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12611.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8f403d5538e8",
+            "title": "> 2024级申请考核制/硕博连读博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12621.html",
+            "sourceHost": "scsb.sjtu.edu.cn",
+            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
+            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
+    "latestPastYear": 2026,
+    "noticeCount": 14,
+    "llmStructuredCount": 1,
+    "years": [
+      2027,
+      2026,
+      2025,
+      2024
+    ],
+    "stages": [
+      "推免报名",
+      "夏令营/研学营",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "直博",
+      "待确认",
+      "学术型硕士"
+    ],
+    "majors": [
+      "教育学",
+      "生物学",
+      "数学",
+      "化学",
+      "临床医学"
+    ],
+    "sourceHosts": [
+      "scsb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://scsb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://scsb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -19905,328 +20362,6 @@
     ],
     "departmentHomepages": [
       "https://me.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-d7b944c65b0d",
-    "school": "上海交通大学",
-    "department": "系统生物医学研究院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 系统生物医学研究院",
-    "tracks": [
-      "医学药学",
-      "理工基础",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 9,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-11-01",
-        "lastApplicationEnd": "2026-07-11",
-        "notices": [
-          {
-            "id": "college-1a119bff3821",
-            "title": "> 上海交通大学系统生物医学研究院全国优秀大学生学术交流夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12890.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-fd0436e45404",
-            "title": "> 2026研究生招生宣传及导师介绍",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12893.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d7ee1db4c4fb",
-            "title": "> 上海交通大学系统生物医学研究院2026级申请考核制、硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-01",
-            "applicationEnd": "2026-03-15",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12773.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-06334b384061",
-            "title": "> 系统生物医学研究院2026级推免研究生（仅直博生）选拔通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-14",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12759.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-e5bd55532501",
-            "title": "上海交通大学系统生物医学研究院全国优秀大学生学...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-17",
-            "applicationEnd": "2026-07-11",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12906.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-52e2290fb60b",
-            "title": "上海交通大学系统生物医学研究院全国优秀大学生学...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12890.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-4de0fa6b3e1d",
-            "title": "系统生物医学研究院2026级推免研究生（直博生...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12762.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-91ca58e5a94f",
-            "title": "系统生物医学研究院2026级推免研究生（仅直博...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-14",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12759.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-78bffcf937ad",
-            "title": "2026研究生招生宣传及导师介绍",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12893.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-12-15",
-        "lastApplicationEnd": "2025-03-08",
-        "notices": [
-          {
-            "id": "college-fcf0e109803a",
-            "title": "> 上海交通大学系统生物医学研究院2025级申请考核制、硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-12-15",
-            "applicationEnd": "2025-03-08",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12706.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 3,
-        "stages": [
-          "招生简章",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2023-09-23",
-        "notices": [
-          {
-            "id": "college-9ae4485233aa",
-            "title": "> 系统生物医学研究院2024级第二批申请考核制/硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12644.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-0177175f3871",
-            "title": "> 系统生物医学研究院2024级推免研究生选拔办法（含直博生）",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-09-23",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12611.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-8f403d5538e8",
-            "title": "> 2024级申请考核制/硕博连读博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://scsb.sjtu.edu.cn/EnrolmentInformation/12621.html",
-            "sourceHost": "scsb.sjtu.edu.cn",
-            "sourceHomepage": "https://scsb.sjtu.edu.cn/",
-            "departmentHomepage": "https://scsb.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 13,
-    "llmStructuredCount": 1,
-    "years": [
-      2026,
-      2025,
-      2024
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免报名",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "直博",
-      "学术型硕士"
-    ],
-    "majors": [
-      "教育学",
-      "数学",
-      "化学",
-      "生物学",
-      "临床医学"
-    ],
-    "sourceHosts": [
-      "scsb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://scsb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://scsb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -30578,6 +30713,274 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-16c5088a7107",
+    "school": "上海交通大学",
+    "department": "智慧能源创新学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 智慧能源创新学院",
+    "tracks": [
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "预推免",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "直博",
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-09-09",
+        "lastApplicationEnd": "2027-09-08",
+        "notices": [
+          {
+            "id": "college-adcc36b9e85c",
+            "title": "2027年智慧能源创新学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/4077.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-b72fd5b5455e",
+            "title": "上海交通大学国家电投智慧能源创新学院 2027年接收推荐免试研究生（含直博生）预推免办法",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-09-09",
+            "applicationEnd": "2026-09-13",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/4070.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5edb0fed2c22",
+            "title": "上海交通大学国家电投智慧能源创新学院2027级研究生优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-07-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3996.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-22597a1a1ced",
+            "title": "智慧能源创新学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-09-05",
+            "applicationEnd": "2027-09-08",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/4064.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "招生简章",
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2026-06-20",
+        "notices": [
+          {
+            "id": "college-49d00eba353d",
+            "title": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-06-20",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3966.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-3d150db9980c",
+            "title": "智慧能源创新学院2026年春季批次&ldquo;申请-考核&rdquo;制博士研究生招生综合考核办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3962.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2b89659b813b",
+            "title": "智慧能源创新学院2026年春季批次全日制博士研究生招生通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3948.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-f7e91207aca1",
+            "title": "智慧能源创新学院2026年非全日制工程类专业学位博士研究生招生通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3937.html",
+            "sourceHost": "www.senergy.sjtu.edu.cn",
+            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-06-03",
+        "lastApplicationEnd": "2025-07-03",
+        "notices": [
+          {
+            "id": "college-8ffed426c7fa",
+            "title": "27 2025.06 上海交通大学国家电投智慧能源创新学院2026级研究生优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-03",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3224",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 4,
+    "latestPastYear": 2026,
+    "noticeCount": 9,
+    "llmStructuredCount": 1,
+    "years": [
+      2027,
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "预推免",
+      "夏令营/研学营",
+      "招生简章",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "直博",
+      "待确认",
+      "博士",
+      "学术型硕士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "法律",
+      "人工智能",
+      "化学",
+      "能源动力",
+      "电气工程",
+      "教育学",
+      "电气",
+      "动力工程",
+      "核工程",
+      "材料",
+      "化工",
+      "信息"
+    ],
+    "sourceHosts": [
+      "www.senergy.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.senergy.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.senergy.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-1f4d506c1d3a",
     "school": "北京大学",
     "department": "人文学部",
@@ -33142,257 +33545,6 @@
       "https://yz.sdu.edu.cn/",
       "https://www.art.sdu.edu.cn/",
       "https://www.bkjx.sdu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-16c5088a7107",
-    "school": "上海交通大学",
-    "department": "智慧能源创新学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 智慧能源创新学院",
-    "tracks": [
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 3,
-        "stages": [
-          "预推免",
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2026-09-09",
-        "lastApplicationEnd": "2027-09-08",
-        "notices": [
-          {
-            "id": "college-b72fd5b5455e",
-            "title": "上海交通大学国家电投智慧能源创新学院 2027年接收推荐免试研究生（含直博生）预推免办法",
-            "stage": "预推免",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2026-09-09",
-            "applicationEnd": "2026-09-13",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/4070.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5edb0fed2c22",
-            "title": "上海交通大学国家电投智慧能源创新学院2027级研究生优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-07-15",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3996.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-22597a1a1ced",
-            "title": "智慧能源创新学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-09-05",
-            "applicationEnd": "2027-09-08",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/4064.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "招生简章",
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-06-20",
-        "notices": [
-          {
-            "id": "college-49d00eba353d",
-            "title": "2026年&ldquo;未来能源&rdquo;国际暑期学校招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-06-20",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3966.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-3d150db9980c",
-            "title": "智慧能源创新学院2026年春季批次&ldquo;申请-考核&rdquo;制博士研究生招生综合考核办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3962.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2b89659b813b",
-            "title": "智慧能源创新学院2026年春季批次全日制博士研究生招生通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3948.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-f7e91207aca1",
-            "title": "智慧能源创新学院2026年非全日制工程类专业学位博士研究生招生通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.senergy.sjtu.edu.cn/index.php/index/tongzhigonggao/3937.html",
-            "sourceHost": "www.senergy.sjtu.edu.cn",
-            "sourceHomepage": "https://www.senergy.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.senergy.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-06-03",
-        "lastApplicationEnd": "2025-07-03",
-        "notices": [
-          {
-            "id": "college-8ffed426c7fa",
-            "title": "27 2025.06 上海交通大学国家电投智慧能源创新学院2026级研究生优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-03",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3224",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 3,
-    "latestPastYear": 2026,
-    "noticeCount": 8,
-    "llmStructuredCount": 1,
-    "years": [
-      2027,
-      2026,
-      2025
-    ],
-    "stages": [
-      "预推免",
-      "夏令营/研学营",
-      "推免报名",
-      "招生简章",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "直博",
-      "待确认",
-      "博士",
-      "学术型硕士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "化学",
-      "能源动力",
-      "电气工程",
-      "教育学",
-      "电气",
-      "动力工程",
-      "核工程",
-      "材料",
-      "化工",
-      "信息"
-    ],
-    "sourceHosts": [
-      "www.senergy.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.senergy.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.senergy.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
