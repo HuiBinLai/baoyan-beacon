@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:14:09.733Z",
+  "generatedAt": "2026-09-22T05:03:06.747Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -4328,13 +4328,13 @@
       "department": "高等教育研究所",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://ihe.fudan.edu.cn/57/cc/c45869a743372/page.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-09-22",
       "status": "covered"
     },
     {
@@ -9522,8 +9522,8 @@
       "department": "航空发动机研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 4,
-      "recentFiveYears": 3,
+      "total": 6,
+      "recentFiveYears": 5,
       "currentSeason": 1,
       "years": [
         2027,

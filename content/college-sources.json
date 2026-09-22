@@ -10748,7 +10748,14 @@
     "sourceHost": "hr.zju.edu.cn",
     "baseUrl": "https://hr.zju.edu.cn/cn/1186/list.htm",
     "listUrls": [
-      "https://hr.zju.edu.cn/cn/1186/list.htm"
+      "https://hr.zju.edu.cn/cn/1186/list.htm",
+      "http://www.cec.zju.edu.cn/",
+      "https://person.zju.edu.cn/",
+      "https://person.zju.edu.cn/0005124/569677.html",
+      "https://person.zju.edu.cn/0005124/690626.html",
+      "https://www.zjucce.zju.edu.cn/",
+      "https://www.zjucce.zju.edu.cn/zh-cn/kaibanbaodao/132904.html",
+      "https://www.zjucce.zju.edu.cn/zh-cn/zhedaxinwen/133224.html"
     ],
     "includeKeywords": [
       "推免",
