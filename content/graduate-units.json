@@ -2549,6 +2549,19 @@
     "priority": 9037
   },
   {
+    "id": "2db78be7cc",
+    "school": "复旦大学",
+    "department": "部分院系",
+    "aliases": [
+      "部分院系"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://gsao.fudan.edu.cn/16/1d/c15014a792093/page.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 4,
+    "priority": 9000
+  },
+  {
     "id": "a5f2f6466e",
     "school": "复旦大学",
     "department": "生物技术学院",
