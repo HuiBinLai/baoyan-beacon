@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:24:16.959Z",
+  "generatedAt": "2026-09-24T05:02:48.549Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -8889,9 +8889,9 @@
       "department": "船舶海洋与建筑工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://naoce.sjtu.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 13,
-      "currentSeason": 4,
+      "total": 23,
+      "recentFiveYears": 17,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,
@@ -8906,8 +8906,8 @@
       "department": "电子信息与电气工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://www.seiee.sjtu.edu.cn/",
-      "total": 12,
-      "recentFiveYears": 12,
+      "total": 15,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8923,8 +8923,8 @@
       "department": "电气工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://see.sjtu.edu.cn/",
-      "total": 18,
-      "recentFiveYears": 18,
+      "total": 24,
+      "recentFiveYears": 24,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9050,8 +9050,8 @@
       "department": "海洋学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://soo.sjtu.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 11,
+      "total": 12,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-23T04:24:15.574Z",
+  "generatedAt": "2026-09-24T05:02:47.187Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2385,
+    "notices": 2398,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
-    "collegeSources": 322,
-    "missingCollegeSources": 84,
+    "collegeSources": 323,
+    "missingCollegeSources": 85,
     "llmStructured": 1530,
     "unstructured": 0
   },
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 337,
+      "total": 350,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 52,
@@ -2155,7 +2155,7 @@
       "id": "auto-45d7ff8dd7de",
       "school": "上海交通大学",
       "department": "船舶海洋与建筑工程学院",
-      "total": 12,
+      "total": 18,
       "years": [
         2027,
         2026,
@@ -2168,7 +2168,7 @@
       "id": "auto-a33482cdb1bf",
       "school": "上海交通大学",
       "department": "电气工程学院",
-      "total": 13,
+      "total": 19,
       "years": [
         2026,
         2025,
@@ -2181,7 +2181,7 @@
       "id": "auto-bf19503cb056",
       "school": "上海交通大学",
       "department": "电子信息与电气工程学院",
-      "total": 3,
+      "total": 6,
       "years": [
         2026,
         2025,
@@ -2225,7 +2225,7 @@
       "id": "auto-85bf429b6613",
       "school": "上海交通大学",
       "department": "海洋学院",
-      "total": 11,
+      "total": 12,
       "years": [
         2026,
         2025
@@ -2901,6 +2901,15 @@
       "id": "auto-e9e1ac0882eb",
       "school": "浙江大学",
       "department": "光华法学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-19c112a44b4c",
+      "school": "浙江大学",
+      "department": "建筑工程学院",
       "total": 0,
       "years": [],
       "latestDate": "",
@@ -4376,6 +4385,7 @@
     "浙江大学电气工程学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学公共管理学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学光华法学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学建筑工程学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学经济学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学马克思主义学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学能源工程学院 已登记源但暂无候选，需要检查公告页。",

@@ -13194,6 +13194,416 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-0f353d45d296",
+    "school": "上海交通大学",
+    "department": "船舶海洋与建筑工程学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 船舶海洋与建筑工程学院",
+    "tracks": [
+      "建筑土木交通",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "预推免",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2027-07-13",
+        "lastApplicationEnd": "2027-08-02",
+        "notices": [
+          {
+            "id": "college-370441c0103e",
+            "title": "2027年船舶海洋与建筑工程学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15805.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-163efe3f7401",
+            "title": "船舶海洋与建筑工程学院2027年接收推荐免试研究生预推免办法",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15769.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ccbfbb8be87b",
+            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-07-13",
+            "applicationEnd": "2027-08-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ad3faac3f790",
+            "title": "2027年船舶海洋与建筑工程学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15805.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-886c1c2e7ef5",
+            "title": "船舶海洋与建筑工程学院2027年接收推荐免试研究生预推免办法",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15769.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-93e23aaa844b",
+            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-07-13",
+            "applicationEnd": "2027-08-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 10,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "直博",
+          "专业型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-07-03",
+        "lastApplicationEnd": "2027-08-02",
+        "notices": [
+          {
+            "id": "college-0d99c9b225be",
+            "title": "14 2026.09 船舶海洋与建筑工程学院2027年推荐优秀应届本科毕业生免试攻读研究生名...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-e06f4cf4711f",
+            "title": "01 2026.09 船建学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ac96ac213458",
+            "title": "30 2026.06 上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-cb2318aeb59a",
+            "title": "01 2026.09 船建学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-8d489a6f1531",
+            "title": "14 2026.09 船舶海洋与建筑工程学院2027年推荐优秀应届本科毕业生免试攻读研究生名...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-0a7d90f734cb",
+            "title": "30 2026.06 上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2027-07-13",
+            "applicationEnd": "2027-08-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-03eb5c1a7153",
+            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15402.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a82d5f84def3",
+            "title": "上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-03",
+            "applicationEnd": "2026-07-31",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/14654.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-85a63209bef4",
+            "title": "上一条：上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-03",
+            "applicationEnd": "2026-07-31",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-2a274ed4e8c4",
+            "title": "硕士研究生招生专业目录及考试科目",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/info/1022/3793.htm",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-65638bbae2d1",
+            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "oce.sjtu.edu.cn",
+            "sourceHomepage": "https://oce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fc475487184c",
+            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
+            "sourceHost": "naoce.sjtu.edu.cn",
+            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
+            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 6,
+    "latestPastYear": 2026,
+    "noticeCount": 18,
+    "llmStructuredCount": 1,
+    "years": [
+      2027,
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "预推免",
+      "夏令营/研学营",
+      "推免",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "直博",
+      "博士",
+      "专业型硕士",
+      "硕士"
+    ],
+    "majors": [
+      "电子信息",
+      "土木工程",
+      "法律",
+      "教育学",
+      "数学",
+      "机械工程"
+    ],
+    "sourceHosts": [
+      "oce.sjtu.edu.cn",
+      "naoce.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://oce.sjtu.edu.cn/",
+      "https://naoce.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://naoce.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-9659e58cefa5",
     "school": "上海交通大学",
     "department": "溥渊未来技术学院",
@@ -18977,6 +19387,332 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-5e9a0d9637ce",
+    "school": "上海交通大学",
+    "department": "电气工程学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 电气工程学院",
+    "tracks": [
+      "计算机/AI",
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "推免报名",
+          "预推免",
+          "复试/考核",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "专业型硕士",
+          "直博",
+          "硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-16",
+        "lastApplicationEnd": "2026-05-25",
+        "notices": [
+          {
+            "id": "college-30e8d102fa25",
+            "title": "20 2026-09 2027年电气工程学院招收推免生综合考核实施细则",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2596.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-bc2227ce029e",
+            "title": "11 2026-09 上海交通大学电气工程学院2027级接收推荐免试研究生预推免办法（含工程硕博士专项）",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2586.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ca8913418f3e",
+            "title": "09 2026-09 上海交通大学电气工程学院2027级工程硕博士专项推免招生办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2582.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-32d77a6c88dc",
+            "title": "02 2026-09 电气工程学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/bks_tzgg/2579.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-5a5c732d7aac",
+            "title": "12 2026-06 电气工程学院接收2023级强基计划本科生转段直博复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2479.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-645361f45d8e",
+            "title": "20 2026-03 【硕士】电气工程学院2026年统考硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2297.html",
+            "sourceHost": "see.sjtu.edu.cn",
+            "sourceHomepage": "https://see.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fbfd6a063041",
+            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36755.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d6cfd3397e39",
+            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-16",
+            "applicationEnd": "2025-10-13",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36745.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-a6e9867d4af2",
+            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-05-11",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36865.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2024-09-11",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-06-05",
+        "lastApplicationEnd": "2026-09-16",
+        "notices": [
+          {
+            "id": "college-a9cf5c52887b",
+            "title": "【9推16日报名截止】上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知-上海交通大学电子信息与电气工程学院（学部）",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-16",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10659.html",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-6f11a8b3d70e",
+            "title": "26 2025.06 上海交通大学电气工程学院 2026级研究生优才夏令营活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-05",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "直博",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3223",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-632b99ea8ffc",
+            "title": "2025级推荐免试直升研究生选拔申请表_直博.docx",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-09-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/34814795/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E5%8D%9A.docx",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c6b1c5682490",
+            "title": "2025级推荐免试直升研究生选拔申请表_直硕.docx",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2024-09-11",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/20137580/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E7%A1%95.docx",
+            "sourceHost": "www.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 13,
+    "llmStructuredCount": 4,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "预推免",
+      "复试/考核",
+      "招生简章",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "专业型硕士",
+      "直博",
+      "硕士",
+      "博士"
+    ],
+    "majors": [
+      "电气工程",
+      "人工智能",
+      "电子信息",
+      "计算机科学与技术",
+      "软件工程",
+      "网络空间安全",
+      "电子科学与技术",
+      "电力系统及其自动化",
+      "电力电子与电力传动",
+      "高电压与绝缘技术",
+      "电机与电器",
+      "电工理论及其新技术",
+      "可控聚变",
+      "工程硕博士培养改革专项",
+      "集成电路专项"
+    ],
+    "sourceHosts": [
+      "see.sjtu.edu.cn",
+      "mem.seiee.sjtu.edu.cn",
+      "www.seiee.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://see.sjtu.edu.cn/",
+      "https://mem.seiee.sjtu.edu.cn/",
+      "https://www.seiee.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.seiee.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-486a780d6ca6",
     "school": "上海交通大学",
     "department": "马克思主义学院",
@@ -21983,316 +22719,295 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-0f353d45d296",
+    "id": "project-023a2049096b",
     "school": "上海交通大学",
-    "department": "船舶海洋与建筑工程学院",
+    "department": "海洋学院",
     "region": "上海",
     "levels": [
       "985"
     ],
-    "title": "上海交通大学 · 船舶海洋与建筑工程学院",
+    "title": "上海交通大学 · 海洋学院",
     "tracks": [
-      "建筑土木交通",
-      "理工基础"
+      "理工基础",
+      "计算机/AI",
+      "材料能源化工"
     ],
     "qualityFlags": [],
     "timeline": [
       {
-        "year": 2027,
-        "count": 4,
+        "year": 2026,
+        "count": 6,
         "stages": [
+          "复试/考核",
           "夏令营/研学营",
-          "推免报名",
-          "预推免"
+          "推免报名"
         ],
         "degreeTypes": [
+          "学术型硕士",
           "待确认",
           "直博"
         ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2027-07-13",
-        "lastApplicationEnd": "2027-08-02",
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-06-20",
+        "lastApplicationEnd": "2026-07-10",
         "notices": [
           {
-            "id": "college-ccbfbb8be87b",
-            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "id": "college-aa03abd5348c",
+            "title": "上海交通大学硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3522.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-284c9d286c7a",
+            "title": "2026/03/ 19 上海交通大学海洋学院2026年硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3522.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-ecd07bc53203",
+            "title": "2026/06/ 25 上海交通大学海洋学院2027年研究生优才夏令营通知",
             "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-07-13",
-            "applicationEnd": "2027-08-02",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-25",
+            "applicationEnd": "2026-07-09",
             "degreeTypes": [
               "待确认"
             ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3660.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
           },
           {
-            "id": "college-ad3faac3f790",
-            "title": "2027年船舶海洋与建筑工程学院招收推免生综合考核实施细则",
+            "id": "college-cac722ff9f94",
+            "title": "2026/07/ 17 上海交通大学海洋学院2027夏令营入营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3676.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-3d9489a19b26",
+            "title": "2026/09/ 17 2027年海洋学院招收推免生综合考核实施细则",
             "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
             "applicationStart": "",
             "applicationEnd": "",
             "degreeTypes": [
               "直博"
             ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15805.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3735.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
           },
           {
-            "id": "college-886c1c2e7ef5",
-            "title": "船舶海洋与建筑工程学院2027年接收推荐免试研究生预推免办法",
-            "stage": "预推免",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15769.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-93e23aaa844b",
-            "title": "上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
-            "stage": "夏令营/研学营",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-07-13",
-            "applicationEnd": "2027-08-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15592.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 7,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士",
-          "直博",
-          "专业型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-07-03",
-        "lastApplicationEnd": "2027-08-02",
-        "notices": [
-          {
-            "id": "college-cb2318aeb59a",
-            "title": "01 2026.09 船建学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-8d489a6f1531",
-            "title": "14 2026.09 船舶海洋与建筑工程学院2027年推荐优秀应届本科毕业生免试攻读研究生名...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/user/jaccount_login/bksjwb_tzgg.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-0a7d90f734cb",
-            "title": "30 2026.06 上海交通大学船舶海洋与建筑工程学院2027年优才夏令营报名通知",
+            "id": "college-bbc83b32c218",
+            "title": "上海交通大学海洋学院2026年研究生优才夏令营一号通知",
             "stage": "夏令营/研学营",
             "year": 2026,
             "publishedAt": "2026-01-01",
-            "applicationStart": "2027-07-13",
-            "applicationEnd": "2027-08-02",
+            "applicationStart": "2025-06-20",
+            "applicationEnd": "2026-07-10",
             "degreeTypes": [
               "待确认"
             ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/15592.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-03eb5c1a7153",
-            "title": "船建学院2026年非全日制工程类专业学位博士研究生招生实施办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/15402.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a82d5f84def3",
-            "title": "上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-03",
-            "applicationEnd": "2026-07-31",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://oce.sjtu.edu.cn/bsznyjszsgz/14654.html",
-            "sourceHost": "oce.sjtu.edu.cn",
-            "sourceHomepage": "https://oce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-85a63209bef4",
-            "title": "上一条：上海交通大学船舶海洋与建筑工程学院2026年全日制研究生招生宣传与优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-03",
-            "applicationEnd": "2026-07-31",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/14654.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-2a274ed4e8c4",
-            "title": "硕士研究生招生专业目录及考试科目",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/info/1022/3793.htm",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3068.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
           }
         ]
       },
       {
         "year": 2025,
-        "count": 1,
+        "count": 6,
         "stages": [
+          "夏令营/研学营",
+          "推免报名",
           "复试/考核"
         ],
         "degreeTypes": [
-          "硕士"
+          "待确认",
+          "直博"
         ],
         "firstPublishedAt": "2025-01-01",
         "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
+        "firstApplicationStart": "2025-04-09",
+        "lastApplicationEnd": "2025-10-06",
         "notices": [
           {
-            "id": "college-fc475487184c",
-            "title": "船舶海洋与建筑工程学院关于调整2025年硕士研究生招生考试复试科目的说明",
-            "stage": "复试/考核",
+            "id": "college-f8443faf03c6",
+            "title": "2025/05/ 06 上海交通大学海洋学院2026年研究生优才夏令营一号通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-20",
+            "applicationEnd": "2025-07-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3068.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-cc8ef063c146",
+            "title": "2025/06/ 05 上海交通大学海洋学院2026年研究生优才夏令营二号通知（关于恢复笔试的具体安排）",
+            "stage": "夏令营/研学营",
             "year": 2025,
             "publishedAt": "2025-01-01",
             "applicationStart": "",
             "applicationEnd": "",
             "degreeTypes": [
-              "硕士"
+              "待确认"
             ],
-            "sourceUrl": "https://naoce.sjtu.edu.cn/bsznyjszsgz/13586.html",
-            "sourceHost": "naoce.sjtu.edu.cn",
-            "sourceHomepage": "https://naoce.sjtu.edu.cn/",
-            "departmentHomepage": "https://naoce.sjtu.edu.cn/"
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3116.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-16c3b4294d46",
+            "title": "2025/06/ 20 上海交通大学海洋学院2026年研究生优才夏令营三号通知 （关于夏令营报名截止时间及举办时间调整）",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-06-20",
+            "applicationEnd": "2025-07-03",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3164.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-4472bc78c934",
+            "title": "2025/09/ 25 上海交大海洋学院2026年招收优秀应届本科毕业生免试攻读研究生报名通知（第二批推免选拔）",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-09-26",
+            "applicationEnd": "2025-10-02",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3252.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-1a8d7d6d6ddf",
+            "title": "2025/10/ 02 上海交通大学海洋学院2026年第二批推免选拔报名延长通知",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-10-06",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3262.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-afe6817da4d4",
+            "title": "上海交通大学海洋学院2025年“申请-考核制”/硕博连读（第二批）博士研究生招生办法",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-04-09",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3046.html",
+            "sourceHost": "soo.sjtu.edu.cn",
+            "sourceHomepage": "https://soo.sjtu.edu.cn/",
+            "departmentHomepage": "https://soo.sjtu.edu.cn/"
           }
         ]
       }
     ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 4,
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
     "latestPastYear": 2026,
     "noticeCount": 12,
-    "llmStructuredCount": 1,
+    "llmStructuredCount": 7,
     "years": [
-      2027,
       2026,
       2025
     ],
     "stages": [
+      "复试/考核",
       "夏令营/研学营",
-      "推免报名",
-      "预推免",
-      "推免",
-      "复试/考核"
+      "推免报名"
     ],
     "degreeTypes": [
+      "学术型硕士",
       "待确认",
-      "直博",
-      "博士",
-      "专业型硕士",
-      "硕士"
+      "直博"
     ],
     "majors": [
+      "人工智能",
       "电子信息",
-      "土木工程",
-      "法律",
-      "教育学",
+      "金融",
+      "心理学",
+      "计算机科学与技术",
       "数学",
-      "机械工程"
+      "物理学",
+      "化学",
+      "生物学",
+      "建筑学",
+      "海洋科学（物理海洋学）",
+      "海洋科学（海洋化学）",
+      "海洋科学（生物海洋学与海洋生物学）"
     ],
     "sourceHosts": [
-      "naoce.sjtu.edu.cn",
-      "oce.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
+      "soo.sjtu.edu.cn"
     ],
     "sourceHomepages": [
-      "https://naoce.sjtu.edu.cn/",
-      "https://oce.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
+      "https://soo.sjtu.edu.cn/"
     ],
     "departmentHomepages": [
-      "https://naoce.sjtu.edu.cn/"
+      "https://soo.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -25125,283 +25840,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-023a2049096b",
-    "school": "上海交通大学",
-    "department": "海洋学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 海洋学院",
-    "tracks": [
-      "理工基础",
-      "计算机/AI",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 5,
-        "stages": [
-          "复试/考核",
-          "夏令营/研学营",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "待确认",
-          "直博"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-06-20",
-        "lastApplicationEnd": "2026-07-10",
-        "notices": [
-          {
-            "id": "college-284c9d286c7a",
-            "title": "2026/03/ 19 上海交通大学海洋学院2026年硕士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3522.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-ecd07bc53203",
-            "title": "2026/06/ 25 上海交通大学海洋学院2027年研究生优才夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-25",
-            "applicationEnd": "2026-07-09",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3660.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-cac722ff9f94",
-            "title": "2026/07/ 17 上海交通大学海洋学院2027夏令营入营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3676.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-3d9489a19b26",
-            "title": "2026/09/ 17 2027年海洋学院招收推免生综合考核实施细则",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3735.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-bbc83b32c218",
-            "title": "上海交通大学海洋学院2026年研究生优才夏令营一号通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-06-20",
-            "applicationEnd": "2026-07-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3068.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 6,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-04-09",
-        "lastApplicationEnd": "2025-10-06",
-        "notices": [
-          {
-            "id": "college-f8443faf03c6",
-            "title": "2025/05/ 06 上海交通大学海洋学院2026年研究生优才夏令营一号通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-20",
-            "applicationEnd": "2025-07-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3068.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-cc8ef063c146",
-            "title": "2025/06/ 05 上海交通大学海洋学院2026年研究生优才夏令营二号通知（关于恢复笔试的具体安排）",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3116.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-16c3b4294d46",
-            "title": "2025/06/ 20 上海交通大学海洋学院2026年研究生优才夏令营三号通知 （关于夏令营报名截止时间及举办时间调整）",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-20",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3164.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-4472bc78c934",
-            "title": "2025/09/ 25 上海交大海洋学院2026年招收优秀应届本科毕业生免试攻读研究生报名通知（第二批推免选拔）",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-09-26",
-            "applicationEnd": "2025-10-02",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3252.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-1a8d7d6d6ddf",
-            "title": "2025/10/ 02 上海交通大学海洋学院2026年第二批推免选拔报名延长通知",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-10-06",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/yjszs/3262.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-afe6817da4d4",
-            "title": "上海交通大学海洋学院2025年“申请-考核制”/硕博连读（第二批）博士研究生招生办法",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-04-09",
-            "applicationEnd": "2025-04-20",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://soo.sjtu.edu.cn/notification/3046.html",
-            "sourceHost": "soo.sjtu.edu.cn",
-            "sourceHomepage": "https://soo.sjtu.edu.cn/",
-            "departmentHomepage": "https://soo.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 11,
-    "llmStructuredCount": 7,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "复试/考核",
-      "夏令营/研学营",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "学术型硕士",
-      "待确认",
-      "直博"
-    ],
-    "majors": [
-      "人工智能",
-      "电子信息",
-      "金融",
-      "心理学",
-      "计算机科学与技术",
-      "数学",
-      "物理学",
-      "化学",
-      "生物学",
-      "建筑学",
-      "海洋科学（物理海洋学）",
-      "海洋科学（海洋化学）",
-      "海洋科学（生物海洋学与海洋生物学）"
-    ],
-    "sourceHosts": [
-      "soo.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://soo.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://soo.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-8042887bcee9",
     "school": "上海交通大学",
     "department": "张江高等研究院",
@@ -27857,281 +28295,6 @@
     "departmentHomepages": [
       "http://www.aais.pku.edu.cn/",
       "https://carbon.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-5e9a0d9637ce",
-    "school": "上海交通大学",
-    "department": "电气工程学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 电气工程学院",
-    "tracks": [
-      "计算机/AI",
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "复试/考核",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-16",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-32d77a6c88dc",
-            "title": "02 2026-09 电气工程学院2027年推荐优秀应届本科毕业生免试攻读研究生工作办法",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://see.sjtu.edu.cn/bks_tzgg/2579.html",
-            "sourceHost": "see.sjtu.edu.cn",
-            "sourceHomepage": "https://see.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-5a5c732d7aac",
-            "title": "12 2026-06 电气工程学院接收2023级强基计划本科生转段直博复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2479.html",
-            "sourceHost": "see.sjtu.edu.cn",
-            "sourceHomepage": "https://see.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-645361f45d8e",
-            "title": "20 2026-03 【硕士】电气工程学院2026年统考硕士研究生招生复试办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://see.sjtu.edu.cn/zsgz_tzgg/2297.html",
-            "sourceHost": "see.sjtu.edu.cn",
-            "sourceHomepage": "https://see.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-fbfd6a063041",
-            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36755.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-d6cfd3397e39",
-            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-16",
-            "applicationEnd": "2025-10-13",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36745.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-a6e9867d4af2",
-            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-05-11",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36865.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 4,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2024-09-11",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-06-05",
-        "lastApplicationEnd": "2026-09-16",
-        "notices": [
-          {
-            "id": "college-a9cf5c52887b",
-            "title": "【9推16日报名截止】上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知-上海交通大学电子信息与电气工程学院（学部）",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-09-16",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10659.html",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-6f11a8b3d70e",
-            "title": "26 2025.06 上海交通大学电气工程学院 2026级研究生优才夏令营活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-06-05",
-            "applicationEnd": "2025-07-03",
-            "degreeTypes": [
-              "直博",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3223",
-            "sourceHost": "yzb.sjtu.edu.cn",
-            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-632b99ea8ffc",
-            "title": "2025级推荐免试直升研究生选拔申请表_直博.docx",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-09-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/34814795/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E5%8D%9A.docx",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          },
-          {
-            "id": "college-c6b1c5682490",
-            "title": "2025级推荐免试直升研究生选拔申请表_直硕.docx",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2024-09-11",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.seiee.sjtu.edu.cn/upload/ueditor/file/20240911/20137580/2025%E7%BA%A7%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%9B%B4%E5%8D%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%80%89%E6%8B%94%E7%94%B3%E8%AF%B7%E8%A1%A8_%E7%9B%B4%E7%A1%95.docx",
-            "sourceHost": "www.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://www.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 10,
-    "llmStructuredCount": 4,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "推免报名",
-      "复试/考核",
-      "招生简章",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "直博",
-      "硕士",
-      "博士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "电气工程",
-      "电子信息",
-      "计算机科学与技术",
-      "软件工程",
-      "网络空间安全",
-      "电子科学与技术",
-      "电力系统及其自动化",
-      "电力电子与电力传动",
-      "高电压与绝缘技术",
-      "电机与电器",
-      "电工理论及其新技术",
-      "可控聚变",
-      "工程硕博士培养改革专项",
-      "集成电路专项",
-      "联培基地"
-    ],
-    "sourceHosts": [
-      "see.sjtu.edu.cn",
-      "mem.seiee.sjtu.edu.cn",
-      "www.seiee.sjtu.edu.cn",
-      "yzb.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://see.sjtu.edu.cn/",
-      "https://mem.seiee.sjtu.edu.cn/",
-      "https://www.seiee.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.seiee.sjtu.edu.cn/",
-      "https://yzb.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -38894,6 +39057,216 @@
     "departmentHomepages": [
       "https://www.acem.sjtu.edu.cn/",
       "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-74a4ca064956",
+    "school": "上海交通大学",
+    "department": "电子信息与电气工程学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 电子信息与电气工程学院",
+    "tracks": [
+      "计算机/AI",
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "招生简章",
+          "推免"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-16",
+        "lastApplicationEnd": "2025-10-27",
+        "notices": [
+          {
+            "id": "college-1375fd5da196",
+            "title": "上海交通大学电子信息与电气工程学院2026年非全日制工程类专业学位博士研究生招生报名通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36866.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-cd8e09a83252",
+            "title": "2026年上海交通大学电子信息与电气工程学院工程管理硕士（MEM）招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36746.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-59f7b7ceaedd",
+            "title": "2026年全国硕士研究生招生考试上海交通大学考点公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36754.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-c5f0287373cc",
+            "title": "上海交通大学-电子信息与电气工程学院-工程管理硕士",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-16",
+            "applicationEnd": "2025-10-27",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/index.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-03-15",
+        "lastApplicationEnd": "2025-04-20",
+        "notices": [
+          {
+            "id": "college-1fa4edcc5439",
+            "title": "上海交通大学电子信息与电气工程学院2025年非全日制工程类专业学位博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-03-15",
+            "applicationEnd": "2025-04-20",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36773.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2024-03-15",
+        "lastApplicationEnd": "2024-04-19",
+        "notices": [
+          {
+            "id": "college-685b4aef2e22",
+            "title": "上海交通大学电子信息与电气工程学院2024年非全日制工程类专业学位博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-03-15",
+            "applicationEnd": "2024-04-19",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36145.htm",
+            "sourceHost": "mem.seiee.sjtu.edu.cn",
+            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
+            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 6,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025,
+      2024
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章",
+      "推免"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认",
+      "硕士"
+    ],
+    "majors": [
+      "电子信息",
+      "电气工程",
+      "工程管理",
+      "控制科学与工程",
+      "计算机科学与技术",
+      "电子科学与技术",
+      "信息与通信工程",
+      "仪器科学与技术",
+      "网络空间安全",
+      "集成电路科学与工程",
+      "软件学院",
+      "微纳电子学系"
+    ],
+    "sourceHosts": [
+      "mem.seiee.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://mem.seiee.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.seiee.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -56247,161 +56620,6 @@
     ],
     "departmentHomepages": [
       "https://www.pharm.sdu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-74a4ca064956",
-    "school": "上海交通大学",
-    "department": "电子信息与电气工程学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 电子信息与电气工程学院",
-    "tracks": [
-      "计算机/AI",
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-16",
-        "lastApplicationEnd": "2025-10-27",
-        "notices": [
-          {
-            "id": "college-c5f0287373cc",
-            "title": "上海交通大学-电子信息与电气工程学院-工程管理硕士",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-16",
-            "applicationEnd": "2025-10-27",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/index.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-03-15",
-        "lastApplicationEnd": "2025-04-20",
-        "notices": [
-          {
-            "id": "college-1fa4edcc5439",
-            "title": "上海交通大学电子信息与电气工程学院2025年非全日制工程类专业学位博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-03-15",
-            "applicationEnd": "2025-04-20",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36773.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2024-03-15",
-        "lastApplicationEnd": "2024-04-19",
-        "notices": [
-          {
-            "id": "college-685b4aef2e22",
-            "title": "上海交通大学电子信息与电气工程学院2024年非全日制工程类专业学位博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-03-15",
-            "applicationEnd": "2024-04-19",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://mem.seiee.sjtu.edu.cn/mem/info/36145.htm",
-            "sourceHost": "mem.seiee.sjtu.edu.cn",
-            "sourceHomepage": "https://mem.seiee.sjtu.edu.cn/",
-            "departmentHomepage": "https://www.seiee.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 3,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2025,
-      2024
-    ],
-    "stages": [
-      "推免",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "博士"
-    ],
-    "majors": [
-      "工程管理",
-      "电气工程",
-      "控制科学与工程",
-      "计算机科学与技术",
-      "电子科学与技术",
-      "信息与通信工程",
-      "仪器科学与技术",
-      "网络空间安全",
-      "电子信息",
-      "集成电路科学与工程",
-      "软件学院",
-      "微纳电子学系"
-    ],
-    "sourceHosts": [
-      "mem.seiee.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://mem.seiee.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.seiee.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
