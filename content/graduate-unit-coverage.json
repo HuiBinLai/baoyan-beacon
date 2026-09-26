@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T04:40:47.340Z",
+  "generatedAt": "2026-09-26T03:49:25.125Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -8889,9 +8889,9 @@
       "department": "船舶海洋与建筑工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://naoce.sjtu.edu.cn/",
-      "total": 23,
-      "recentFiveYears": 17,
-      "currentSeason": 6,
+      "total": 27,
+      "recentFiveYears": 19,
+      "currentSeason": 8,
       "years": [
         2027,
         2026,
@@ -9346,9 +9346,9 @@
       "department": "溥渊未来技术学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://gift.sjtu.edu.cn/",
-      "total": 18,
+      "total": 19,
       "recentFiveYears": 16,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,

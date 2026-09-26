@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T04:40:45.943Z",
+  "generatedAt": "2026-09-26T03:49:23.973Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2398,
+    "notices": 2408,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 350,
+      "total": 355,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 52,
@@ -82,12 +82,12 @@
     {
       "school": "南京大学",
       "region": "江苏",
-      "total": 43,
+      "total": 48,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 17,
+      "departments": 18,
       "llmStructured": 37,
-      "latestDate": "2026-09-18",
+      "latestDate": "2026-09-26",
       "status": "stale"
     },
     {
@@ -2155,7 +2155,7 @@
       "id": "auto-45d7ff8dd7de",
       "school": "上海交通大学",
       "department": "船舶海洋与建筑工程学院",
-      "total": 18,
+      "total": 22,
       "years": [
         2027,
         2026,
@@ -2434,7 +2434,7 @@
       "id": "auto-94ea59f6acb0",
       "school": "上海交通大学",
       "department": "溥渊未来技术学院",
-      "total": 18,
+      "total": 19,
       "years": [
         2027,
         2026,
