@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T03:49:25.125Z",
+  "generatedAt": "2026-09-27T04:50:37.233Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,8 +9,8 @@
     2022
   ],
   "totals": {
-    "units": 1146,
-    "covered": 776,
+    "units": 1147,
+    "covered": 777,
     "stale": 10,
     "missing": 360,
     "currentSeasonCovered": 126
@@ -6270,6 +6270,21 @@
         2022
       ],
       "latestDate": "2022-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "930d0b410a",
+      "school": "南京大学",
+      "department": "关于2027年教育部系",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://mp.weixin.qq.com/s/gpSyNxEm_ArYbbNwZlUTAw",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-09-26",
       "status": "covered"
     },
     {

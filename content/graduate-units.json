@@ -4643,6 +4643,19 @@
     "priority": 9072
   },
   {
+    "id": "930d0b410a",
+    "school": "南京大学",
+    "department": "关于2027年教育部系",
+    "aliases": [
+      "关于2027年教育部系"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://mp.weixin.qq.com/s/gpSyNxEm_ArYbbNwZlUTAw",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 7,
+    "priority": 9002
+  },
+  {
     "id": "ca5f5942c4",
     "school": "南京大学",
     "department": "建筑与城市规划学院",
