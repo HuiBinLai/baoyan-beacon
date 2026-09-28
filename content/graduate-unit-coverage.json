@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:50:37.233Z",
+  "generatedAt": "2026-09-28T04:39:37.907Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 777,
     "stale": 10,
     "missing": 360,
-    "currentSeasonCovered": 126
+    "currentSeasonCovered": 127
   },
   "units": [
     {
@@ -265,8 +265,8 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 30,
-      "recentFiveYears": 25,
+      "total": 33,
+      "recentFiveYears": 28,
       "currentSeason": 4,
       "years": [
         2027,
@@ -320,8 +320,8 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 27,
-      "recentFiveYears": 22,
+      "total": 30,
+      "recentFiveYears": 25,
       "currentSeason": 4,
       "years": [
         2027,
@@ -9281,8 +9281,8 @@
       "department": "文化创意产业学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://icci.sjtu.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 13,
+      "total": 17,
+      "recentFiveYears": 14,
       "currentSeason": 2,
       "years": [
         2041,
@@ -14766,17 +14766,18 @@
       "department": "软件学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://sse.ustc.edu.cn/",
-      "total": 8,
+      "total": 9,
       "recentFiveYears": 5,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2022,
         2021,
         2011
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {

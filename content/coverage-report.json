@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T04:50:35.818Z",
+  "generatedAt": "2026-09-28T04:39:36.531Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2408,
+    "notices": 2413,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 432,
+      "total": 435,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 355,
+      "total": 356,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 52,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 236,
+      "total": 237,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -513,7 +513,7 @@
       "id": "auto-1cccc4c719c3",
       "school": "北京大学",
       "department": "电子学院",
-      "total": 19,
+      "total": 22,
       "years": [
         2026,
         2025,
@@ -934,7 +934,7 @@
       "id": "auto-115bcecfd7cf",
       "school": "北京大学",
       "department": "软件与微电子学院",
-      "total": 11,
+      "total": 14,
       "years": [
         2026
       ],
@@ -2581,7 +2581,7 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 14,
+      "total": 15,
       "years": [
         2041,
         2027,
@@ -3713,14 +3713,15 @@
       "id": "auto-9c8e542909e5",
       "school": "中国科学技术大学",
       "department": "软件学院",
-      "total": 5,
+      "total": 6,
       "years": [
+        2027,
         2026,
         2025,
         2022,
         2021
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
