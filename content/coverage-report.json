@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T06:04:18.363Z",
+  "generatedAt": "2026-09-30T04:20:36.218Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2413,
+    "notices": 2418,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 240,
+      "total": 241,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 356,
+      "total": 360,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 52,
@@ -1438,7 +1438,7 @@
       "id": "auto-de047849affc",
       "school": "清华大学",
       "department": "管理科学与工程系",
-      "total": 14,
+      "total": 15,
       "years": [
         2026,
         2025
@@ -2251,7 +2251,7 @@
       "id": "auto-67ef1cef2c0a",
       "school": "上海交通大学",
       "department": "航空发动机研究院",
-      "total": 5,
+      "total": 6,
       "years": [
         2027,
         2026,
@@ -2335,7 +2335,7 @@
       "id": "auto-58ddd8f8b4bf",
       "school": "上海交通大学",
       "department": "凯原法学院",
-      "total": 24,
+      "total": 27,
       "years": [
         2027,
         2026,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T06:04:19.183Z",
+  "generatedAt": "2026-09-30T04:20:37.089Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -7236,8 +7236,8 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 34,
-      "recentFiveYears": 31,
+      "total": 35,
+      "recentFiveYears": 32,
       "currentSeason": 3,
       "years": [
         2027,
@@ -7619,8 +7619,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 14,
-      "recentFiveYears": 14,
+      "total": 15,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8237,8 +8237,8 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 27,
-      "recentFiveYears": 24,
+      "total": 28,
+      "recentFiveYears": 25,
       "currentSeason": 3,
       "years": [
         2027,
@@ -9152,8 +9152,8 @@
       "department": "凯原法学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://law.sjtu.edu.cn/",
-      "total": 26,
-      "recentFiveYears": 25,
+      "total": 29,
+      "recentFiveYears": 28,
       "currentSeason": 1,
       "years": [
         2027,
@@ -9557,8 +9557,8 @@
       "department": "航空发动机研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 5,
-      "recentFiveYears": 4,
+      "total": 6,
+      "recentFiveYears": 5,
       "currentSeason": 1,
       "years": [
         2027,
