@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T04:20:37.089Z",
+  "generatedAt": "2026-10-01T05:20:18.598Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 777,
     "stale": 10,
     "missing": 360,
-    "currentSeasonCovered": 127
+    "currentSeasonCovered": 128
   },
   "units": [
     {
@@ -757,16 +757,17 @@
       "department": "国家发展研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.nsd.pku.edu.cn/",
-      "total": 4,
+      "total": 5,
       "recentFiveYears": 4,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2024,
         2023,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -6778,12 +6779,15 @@
       "department": "海洋工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 3,
-      "recentFiveYears": 3,
+      "total": 6,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2025,
-        2024
+        2024,
+        2022,
+        2020,
+        2019
       ],
       "latestDate": "2025-01-01",
       "status": "covered"
@@ -6915,14 +6919,19 @@
       "department": "车辆与运载学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.svm.tsinghua.edu.cn/",
-      "total": 30,
-      "recentFiveYears": 27,
+      "total": 38,
+      "recentFiveYears": 32,
       "currentSeason": 3,
       "years": [
         2027,
         2026,
         2025,
-        2024
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019
       ],
       "latestDate": "2027-01-01",
       "status": "covered"
@@ -7667,8 +7676,8 @@
       "department": "马克思主义学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.smarx.tsinghua.edu.cn/",
-      "total": 8,
-      "recentFiveYears": 8,
+      "total": 9,
+      "recentFiveYears": 9,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8272,8 +8281,8 @@
       "department": "法学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://www.law.tsinghua.edu.cn/info/1080/19934.htm",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 11,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
