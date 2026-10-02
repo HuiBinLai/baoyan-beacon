@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T05:20:17.150Z",
+  "generatedAt": "2026-10-02T06:02:01.465Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2430,
+    "notices": 2434,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 237,
+      "total": 241,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -3139,7 +3139,7 @@
       "id": "auto-870d421982f2",
       "school": "中国科学技术大学",
       "department": "地球和空间科学学院",
-      "total": 14,
+      "total": 16,
       "years": [
         2026,
         2024,
@@ -3156,7 +3156,7 @@
       "id": "auto-ed425466a896",
       "school": "中国科学技术大学",
       "department": "地球化学与行星科学系",
-      "total": 7,
+      "total": 8,
       "years": [
         2026,
         2025,
@@ -3356,7 +3356,7 @@
       "id": "auto-e8dba074bded",
       "school": "中国科学技术大学",
       "department": "合肥微尺度物质科学国家研究中心",
-      "total": 17,
+      "total": 18,
       "years": [
         2025,
         2023,

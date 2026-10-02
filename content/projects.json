@@ -14943,6 +14943,446 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-b7a00083c843",
+    "school": "中国科学技术大学",
+    "department": "合肥微尺度物质科学国家研究中心",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 合肥微尺度物质科学国家研究中心",
+    "tracks": [
+      "计算机/AI",
+      "理工基础",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-9170d8fb1f3d",
+            "title": "2025年微尺度博士生招生相关公告",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2025/0802/c26138a693790/page.htm",
+            "sourceHost": "www.hfnl.ustc.edu.cn",
+            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-01fa40882185",
+            "title": "2025年微尺度硕士研究生复试工作方案",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2025/0802/c26138a693788/page.htm",
+            "sourceHost": "www.hfnl.ustc.edu.cn",
+            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-dd5b633beae2",
+            "title": "2023年微尺度博士生招生相关公告",
+            "stage": "推免",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2023/0419/c26138a673470/page.htm",
+            "sourceHost": "www.hfnl.ustc.edu.cn",
+            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-1aff53c2648d",
+            "title": "2023年微尺度硕士研究生复试工作方案",
+            "stage": "复试/考核",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2023/0318/c26138a673469/page.htm",
+            "sourceHost": "www.hfnl.ustc.edu.cn",
+            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 10,
+        "stages": [
+          "推免",
+          "复试/考核",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "直博",
+          "博士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2021-10-05",
+        "lastApplicationEnd": "2022-10-20",
+        "notices": [
+          {
+            "id": "college-93cc4c23843f",
+            "title": "关于调整2022年硕士研究生招生考试初试科目的公告",
+            "stage": "推免",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2021/0915/c26138a673463/page.htm",
+            "sourceHost": "www.hfnl.ustc.edu.cn",
+            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-0fee51e4b94f",
+            "title": "中国科大2022年硕士研究生招生考试复试基本分数线",
+            "stage": "复试/考核",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/article_1168.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-db066d05936a",
+            "title": "中国科大2022年博士学位研究生招生网上报名公告",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2021-12-01",
+            "applicationEnd": "2022-03-20",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/article_1151.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-d41cc783c54c",
+            "title": "2022年微尺度博士生招生相关公告",
+            "stage": "推免",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2022/0425/c26138a673467/page.htm",
+            "sourceHost": "www.hfnl.ustc.edu.cn",
+            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-c329ef7f68b4",
+            "title": "关于调整2022年硕士研究生招生考试初试科目的公告",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/article_1139.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-13db5ae4bdb2",
+            "title": "中国科大2022年硕士研究生招生网报公告",
+            "stage": "推免",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2021-10-05",
+            "applicationEnd": "2021-10-25",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/article_1140.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-26ef8e7fd79e",
+            "title": "中国科大2022年硕士招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://yz.ustc.edu.cn/sszs_2022/",
+            "sourceHost": "yz.ustc.edu.cn",
+            "sourceHomepage": "https://yz.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-875df06cc3c3",
+            "title": "中国科大考点公告（二）——2022年硕士研究生招生考试疫情防控方案",
+            "stage": "推免",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/article_1157.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-6f0cdce3ad9e",
+            "title": "中国科学技术大学2022年推免生接收办法",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-09-28",
+            "applicationEnd": "2022-10-20",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/article_1138.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-a86d2910a6e7",
+            "title": "中国科学技术大学合肥微尺度物质科学国家研究中心---2022年博士研究生招生“申请-...",
+            "stage": "推免",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2021/1201/c26138a564763/page.htm",
+            "sourceHost": "www.hfnl.ustc.edu.cn",
+            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 2,
+        "stages": [
+          "招生简章",
+          "推免"
+        ],
+        "degreeTypes": [
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "2020-12-01",
+        "lastApplicationEnd": "2021-01-15",
+        "notices": [
+          {
+            "id": "college-a34b0078ba2f",
+            "title": "中国科大2021博士招生简章",
+            "stage": "招生简章",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "http://yzb2.ustc.edu.cn//zs/2021",
+            "sourceHost": "yzb2.ustc.edu.cn",
+            "sourceHomepage": "http://yzb2.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-ab5fb655bcc2",
+            "title": "中国科大2021年博士学位研究生招生网上报名公告",
+            "stage": "推免",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "2020-12-01",
+            "applicationEnd": "2021-01-15",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/article_1085.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2011,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2011-01-01",
+        "lastPublishedAt": "2011-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-7730706328b9",
+            "title": "2011年硕士报名招生简章",
+            "stage": "招生简章",
+            "year": 2011,
+            "publishedAt": "2011-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://yz1.ustc.edu.cn/deplist.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "http://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2025,
+    "noticeCount": 17,
+    "llmStructuredCount": 6,
+    "years": [
+      2025,
+      2023,
+      2022,
+      2021,
+      2011
+    ],
+    "stages": [
+      "推免",
+      "复试/考核",
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "硕士",
+      "直博",
+      "待确认"
+    ],
+    "majors": [
+      "化学",
+      "哲学",
+      "历史学",
+      "资源与环境",
+      "计算机科学与技术",
+      "网络空间安全",
+      "电子信息",
+      "数学",
+      "物理学",
+      "基础数学",
+      "计算数学",
+      "应用数学",
+      "运筹学与控制论",
+      "生物数学",
+      "数学物理"
+    ],
+    "sourceHosts": [
+      "www.hfnl.ustc.edu.cn",
+      "yz1.ustc.edu.cn",
+      "yz.ustc.edu.cn",
+      "yzb2.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.hfnl.ustc.edu.cn/",
+      "http://yz1.ustc.edu.cn/",
+      "https://yz.ustc.edu.cn/",
+      "http://yzb2.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yz1.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-175efe2a2dd7",
     "school": "上海交通大学",
     "department": "药学院",
@@ -15382,430 +15822,6 @@
     ],
     "departmentHomepages": [
       "https://pharm.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-b7a00083c843",
-    "school": "中国科学技术大学",
-    "department": "合肥微尺度物质科学国家研究中心",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 合肥微尺度物质科学国家研究中心",
-    "tracks": [
-      "计算机/AI",
-      "理工基础",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "推免",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-9170d8fb1f3d",
-            "title": "2025年微尺度博士生招生相关公告",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2025/0802/c26138a693790/page.htm",
-            "sourceHost": "www.hfnl.ustc.edu.cn",
-            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-01fa40882185",
-            "title": "2025年微尺度硕士研究生复试工作方案",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2025/0802/c26138a693788/page.htm",
-            "sourceHost": "www.hfnl.ustc.edu.cn",
-            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "推免",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-dd5b633beae2",
-            "title": "2023年微尺度博士生招生相关公告",
-            "stage": "推免",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2023/0419/c26138a673470/page.htm",
-            "sourceHost": "www.hfnl.ustc.edu.cn",
-            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-1aff53c2648d",
-            "title": "2023年微尺度硕士研究生复试工作方案",
-            "stage": "复试/考核",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2023/0318/c26138a673469/page.htm",
-            "sourceHost": "www.hfnl.ustc.edu.cn",
-            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 9,
-        "stages": [
-          "复试/考核",
-          "推免报名",
-          "推免",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "直博",
-          "博士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2021-10-05",
-        "lastApplicationEnd": "2022-10-20",
-        "notices": [
-          {
-            "id": "college-0fee51e4b94f",
-            "title": "中国科大2022年硕士研究生招生考试复试基本分数线",
-            "stage": "复试/考核",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/article_1168.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-db066d05936a",
-            "title": "中国科大2022年博士学位研究生招生网上报名公告",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2021-12-01",
-            "applicationEnd": "2022-03-20",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/article_1151.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-d41cc783c54c",
-            "title": "2022年微尺度博士生招生相关公告",
-            "stage": "推免",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2022/0425/c26138a673467/page.htm",
-            "sourceHost": "www.hfnl.ustc.edu.cn",
-            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-c329ef7f68b4",
-            "title": "关于调整2022年硕士研究生招生考试初试科目的公告",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/article_1139.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-13db5ae4bdb2",
-            "title": "中国科大2022年硕士研究生招生网报公告",
-            "stage": "推免",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2021-10-05",
-            "applicationEnd": "2021-10-25",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/article_1140.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-26ef8e7fd79e",
-            "title": "中国科大2022年硕士招生简章",
-            "stage": "招生简章",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://yz.ustc.edu.cn/sszs_2022/",
-            "sourceHost": "yz.ustc.edu.cn",
-            "sourceHomepage": "https://yz.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-875df06cc3c3",
-            "title": "中国科大考点公告（二）——2022年硕士研究生招生考试疫情防控方案",
-            "stage": "推免",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/article_1157.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-6f0cdce3ad9e",
-            "title": "中国科学技术大学2022年推免生接收办法",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-09-28",
-            "applicationEnd": "2022-10-20",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/article_1138.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-a86d2910a6e7",
-            "title": "中国科学技术大学合肥微尺度物质科学国家研究中心---2022年博士研究生招生“申请-...",
-            "stage": "推免",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.hfnl.ustc.edu.cn/2021/1201/c26138a564763/page.htm",
-            "sourceHost": "www.hfnl.ustc.edu.cn",
-            "sourceHomepage": "https://www.hfnl.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 2,
-        "stages": [
-          "招生简章",
-          "推免"
-        ],
-        "degreeTypes": [
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "2020-12-01",
-        "lastApplicationEnd": "2021-01-15",
-        "notices": [
-          {
-            "id": "college-a34b0078ba2f",
-            "title": "中国科大2021博士招生简章",
-            "stage": "招生简章",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "http://yzb2.ustc.edu.cn//zs/2021",
-            "sourceHost": "yzb2.ustc.edu.cn",
-            "sourceHomepage": "http://yzb2.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-ab5fb655bcc2",
-            "title": "中国科大2021年博士学位研究生招生网上报名公告",
-            "stage": "推免",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "2020-12-01",
-            "applicationEnd": "2021-01-15",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/article_1085.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2011,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2011-01-01",
-        "lastPublishedAt": "2011-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-7730706328b9",
-            "title": "2011年硕士报名招生简章",
-            "stage": "招生简章",
-            "year": 2011,
-            "publishedAt": "2011-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://yz1.ustc.edu.cn/deplist.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "http://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2025,
-    "noticeCount": 16,
-    "llmStructuredCount": 6,
-    "years": [
-      2025,
-      2023,
-      2022,
-      2021,
-      2011
-    ],
-    "stages": [
-      "推免",
-      "复试/考核",
-      "推免报名",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "博士",
-      "硕士",
-      "直博",
-      "待确认"
-    ],
-    "majors": [
-      "化学",
-      "哲学",
-      "历史学",
-      "资源与环境",
-      "计算机科学与技术",
-      "网络空间安全",
-      "电子信息",
-      "数学",
-      "物理学",
-      "基础数学",
-      "计算数学",
-      "应用数学",
-      "运筹学与控制论",
-      "生物数学",
-      "数学物理"
-    ],
-    "sourceHosts": [
-      "www.hfnl.ustc.edu.cn",
-      "yz1.ustc.edu.cn",
-      "yz.ustc.edu.cn",
-      "yzb2.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.hfnl.ustc.edu.cn/",
-      "http://yz1.ustc.edu.cn/",
-      "https://yz.ustc.edu.cn/",
-      "http://yzb2.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yz1.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -18012,6 +18028,434 @@
     ],
     "departmentHomepages": [
       "https://icci.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-a4e03c988883",
+    "school": "中国科学技术大学",
+    "department": "地球和空间科学学院",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 地球和空间科学学院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础",
+      "经管金融"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "招生简章",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2023-10-08",
+        "lastApplicationEnd": "2023-10-25",
+        "notices": [
+          {
+            "id": "college-738fa660198b",
+            "title": "中国科学技术大学关于研究生招生工作的声明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/article_858.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-74d8e5014ce2",
+            "title": "中国科学技术大学研究生招生在线—招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/ustc_zs/index_12.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-ae8f4dd34190",
+            "title": "中国科学技术大学-研究生招生在线",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/zsjz_index/index.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-adb9fea809f5",
+            "title": "《硕士研究生招生网报公告》",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2023-10-08",
+            "applicationEnd": "2023-10-25",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://yz.ustc.edu.cn/article/2663/182",
+            "sourceHost": "yz.ustc.edu.cn",
+            "sourceHomepage": "http://yz.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-f570429eca34",
+            "title": "4-研究生招生考试考生诚信复试承诺书.doc",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://ess.ustc.edu.cn/_upload/article/files/72/37/6397a64746d68c04a51346fbc7b0/cd6afc6b-13f0-4f25-a914-fe95f7d30af7.doc",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "http://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-b28e7d1256b5",
+            "title": "地球和空间科学学院2026年硕士研究生招生复试安排",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://ess.ustc.edu.cn/2026/0319/c41218a723577/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "http://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 3,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-e605f1a6940a",
+            "title": "中国科学技术大学研究生招生在线—招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2024/",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-3f28bbf58ac1",
+            "title": "中国科学技术大学研究生招生在线—招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2024/cksm4.html",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-625f28d36768",
+            "title": "《2024年中国科大硕士招生简章》",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2024/",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2022-05-09",
+        "lastApplicationEnd": "2022-06-30",
+        "notices": [
+          {
+            "id": "college-84ccdf6ec910",
+            "title": "2022年研究生招生录取工作相关通知",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/article_1190.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          },
+          {
+            "id": "college-f16948349acc",
+            "title": "2022年中国科学技术大学“优秀大学生夏令营” 活动通知",
+            "stage": "夏令营/研学营",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-05-09",
+            "applicationEnd": "2022-06-30",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/article_1187.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2021-01-01",
+        "lastPublishedAt": "2021-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2021-06-30",
+        "notices": [
+          {
+            "id": "college-12bd5144d177",
+            "title": "关于举行2021年中国科学技术大学“优秀大学生夏令营” 活动",
+            "stage": "夏令营/研学营",
+            "year": 2021,
+            "publishedAt": "2021-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2021-06-30",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/article_1126.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2020,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2020-01-01",
+        "lastPublishedAt": "2020-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "2020-06-30",
+        "notices": [
+          {
+            "id": "college-dae0597e3d38",
+            "title": "2020年中国科学技术大学“优秀大学生夏令营” 活动公告",
+            "stage": "夏令营/研学营",
+            "year": 2020,
+            "publishedAt": "2020-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2020-06-30",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/article_1052.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2018,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2018-01-01",
+        "lastPublishedAt": "2018-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-087c0c381b66",
+            "title": "大数据学院（筹）2018年推免生提前面试通知 9-20",
+            "stage": "推免报名",
+            "year": 2018,
+            "publishedAt": "2018-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/article_837.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2014,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2014-01-01",
+        "lastPublishedAt": "2014-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-534dbe6ba608",
+            "title": "中国科学技术大学2014年硕士研究生招生复试分数线",
+            "stage": "复试/考核",
+            "year": 2014,
+            "publishedAt": "2014-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/article_582.htm",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://yz1.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 15,
+    "llmStructuredCount": 2,
+    "years": [
+      2026,
+      2024,
+      2022,
+      2021,
+      2020,
+      2018,
+      2014
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章",
+      "复试/考核",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "待确认"
+    ],
+    "majors": [
+      "计算机科学与技术",
+      "数学",
+      "物理学",
+      "化学",
+      "电子信息",
+      "工商管理",
+      "资源与环境",
+      "固体地球物理",
+      "空间物理",
+      "大气科学",
+      "地质学",
+      "网络空间安全",
+      "金融"
+    ],
+    "sourceHosts": [
+      "yz1.ustc.edu.cn",
+      "yz.ustc.edu.cn",
+      "ess.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yz1.ustc.edu.cn/",
+      "http://yz.ustc.edu.cn/",
+      "http://ess.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yz1.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -20801,401 +21245,6 @@
     ],
     "departmentHomepages": [
       "https://me.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-a4e03c988883",
-    "school": "中国科学技术大学",
-    "department": "地球和空间科学学院",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 地球和空间科学学院",
-    "tracks": [
-      "计算机/AI",
-      "理工基础",
-      "经管金融"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "招生简章",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2023-10-08",
-        "lastApplicationEnd": "2023-10-25",
-        "notices": [
-          {
-            "id": "college-738fa660198b",
-            "title": "中国科学技术大学关于研究生招生工作的声明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/article_858.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-74d8e5014ce2",
-            "title": "中国科学技术大学研究生招生在线—招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/ustc_zs/index_12.shtml",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-ae8f4dd34190",
-            "title": "中国科学技术大学-研究生招生在线",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/zsjz_index/index.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-adb9fea809f5",
-            "title": "《硕士研究生招生网报公告》",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2023-10-08",
-            "applicationEnd": "2023-10-25",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://yz.ustc.edu.cn/article/2663/182",
-            "sourceHost": "yz.ustc.edu.cn",
-            "sourceHomepage": "http://yz.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-f570429eca34",
-            "title": "4-研究生招生考试考生诚信复试承诺书.doc",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://ess.ustc.edu.cn/_upload/article/files/72/37/6397a64746d68c04a51346fbc7b0/cd6afc6b-13f0-4f25-a914-fe95f7d30af7.doc",
-            "sourceHost": "ess.ustc.edu.cn",
-            "sourceHomepage": "http://ess.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-b28e7d1256b5",
-            "title": "地球和空间科学学院2026年硕士研究生招生复试安排",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://ess.ustc.edu.cn/2026/0319/c41218a723577/page.htm",
-            "sourceHost": "ess.ustc.edu.cn",
-            "sourceHomepage": "http://ess.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-625f28d36768",
-            "title": "《2024年中国科大硕士招生简章》",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2024/",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 2,
-        "stages": [
-          "推免报名",
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2022-05-09",
-        "lastApplicationEnd": "2022-06-30",
-        "notices": [
-          {
-            "id": "college-84ccdf6ec910",
-            "title": "2022年研究生招生录取工作相关通知",
-            "stage": "推免报名",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/article_1190.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          },
-          {
-            "id": "college-f16948349acc",
-            "title": "2022年中国科学技术大学“优秀大学生夏令营” 活动通知",
-            "stage": "夏令营/研学营",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-05-09",
-            "applicationEnd": "2022-06-30",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/article_1187.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2021-01-01",
-        "lastPublishedAt": "2021-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2021-06-30",
-        "notices": [
-          {
-            "id": "college-12bd5144d177",
-            "title": "关于举行2021年中国科学技术大学“优秀大学生夏令营” 活动",
-            "stage": "夏令营/研学营",
-            "year": 2021,
-            "publishedAt": "2021-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2021-06-30",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/article_1126.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2020,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2020-01-01",
-        "lastPublishedAt": "2020-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2020-06-30",
-        "notices": [
-          {
-            "id": "college-dae0597e3d38",
-            "title": "2020年中国科学技术大学“优秀大学生夏令营” 活动公告",
-            "stage": "夏令营/研学营",
-            "year": 2020,
-            "publishedAt": "2020-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2020-06-30",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/article_1052.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2018,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2018-01-01",
-        "lastPublishedAt": "2018-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-087c0c381b66",
-            "title": "大数据学院（筹）2018年推免生提前面试通知 9-20",
-            "stage": "推免报名",
-            "year": 2018,
-            "publishedAt": "2018-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/article_837.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2014,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2014-01-01",
-        "lastPublishedAt": "2014-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-534dbe6ba608",
-            "title": "中国科学技术大学2014年硕士研究生招生复试分数线",
-            "stage": "复试/考核",
-            "year": 2014,
-            "publishedAt": "2014-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/article_582.htm",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://yz1.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 13,
-    "llmStructuredCount": 2,
-    "years": [
-      2026,
-      2024,
-      2022,
-      2021,
-      2020,
-      2018,
-      2014
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章",
-      "复试/考核",
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "待确认"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "数学",
-      "物理学",
-      "化学",
-      "电子信息",
-      "工商管理",
-      "资源与环境",
-      "固体地球物理",
-      "空间物理",
-      "大气科学",
-      "地质学",
-      "网络空间安全",
-      "金融"
-    ],
-    "sourceHosts": [
-      "yz1.ustc.edu.cn",
-      "yz.ustc.edu.cn",
-      "ess.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yz1.ustc.edu.cn/",
-      "http://yz.ustc.edu.cn/",
-      "http://ess.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yz1.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -34821,6 +34870,289 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-25fcc32a9046",
+    "school": "中国科学技术大学",
+    "department": "地球化学与行星科学系",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 地球化学与行星科学系",
+    "tracks": [
+      "理工基础",
+      "计算机/AI",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "推免",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "直博",
+          "硕士",
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-02-02",
+        "lastApplicationEnd": "2026-05-10",
+        "notices": [
+          {
+            "id": "college-76778a694807",
+            "title": "2026年地球和空间科学学院招收博士学位研究生报名通告",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-02-02",
+            "applicationEnd": "2026-03-20",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "http://ess.ustc.edu.cn/2026/0201/c41218a721549/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "http://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          },
+          {
+            "id": "college-6e0c646238f8",
+            "title": "2026年地球和空间科学学院招收博士学位研究生报名通告",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-02-02",
+            "applicationEnd": "2026-03-20",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://ess.ustc.edu.cn/2026/0201/c41218a721549/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "https://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          },
+          {
+            "id": "college-7e7ebd5725ca",
+            "title": "地球和空间科学学院2026年博士“综合考核”工作安排",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://ess.ustc.edu.cn/2026/0506/c41218a736943/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "http://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          },
+          {
+            "id": "college-0599f5ada72f",
+            "title": "中国科大地球化学与行星科学营报名通知",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-04-27",
+            "applicationEnd": "2026-05-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://ess.ustc.edu.cn/2026/0425/c41218a735817/page.htm",
+            "sourceHost": "ess.ustc.edu.cn",
+            "sourceHomepage": "https://ess.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-34be77bc4492",
+            "title": "2025硕士招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2025/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-5088a3639462",
+            "title": "2024硕士招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2024/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-19fe1e68b680",
+            "title": "2023硕士招生简章",
+            "stage": "招生简章",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2023/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-5c6d30aa2949",
+            "title": "2022硕士招生简章",
+            "stage": "招生简章",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2022/index.shtml",
+            "sourceHost": "yz1.ustc.edu.cn",
+            "sourceHomepage": "https://yz1.ustc.edu.cn/",
+            "departmentHomepage": "https://ess.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 8,
+    "llmStructuredCount": 1,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ],
+    "stages": [
+      "推免",
+      "复试/考核",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "直博",
+      "硕士",
+      "博士",
+      "待确认"
+    ],
+    "majors": [
+      "物理学",
+      "资源与环境",
+      "化学",
+      "地质学",
+      "地球化学",
+      "资源勘查工程",
+      "行星科学",
+      "环境科学",
+      "人工智能",
+      "计算机科学与技术",
+      "网络空间安全",
+      "数学",
+      "材料科学与工程"
+    ],
+    "sourceHosts": [
+      "ess.ustc.edu.cn",
+      "yz1.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://ess.ustc.edu.cn/",
+      "https://ess.ustc.edu.cn/",
+      "https://yz1.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ess.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-bb648483e298",
     "school": "中国科学技术大学",
     "department": "生物医学工程学院",
@@ -37398,272 +37730,6 @@
     "departmentHomepages": [
       "http://www.grs.zju.edu.cn/",
       "https://zje.intl.zju.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-25fcc32a9046",
-    "school": "中国科学技术大学",
-    "department": "地球化学与行星科学系",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 地球化学与行星科学系",
-    "tracks": [
-      "理工基础",
-      "计算机/AI",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "推免",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "直博",
-          "硕士",
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-02-02",
-        "lastApplicationEnd": "2026-05-10",
-        "notices": [
-          {
-            "id": "college-6e0c646238f8",
-            "title": "2026年地球和空间科学学院招收博士学位研究生报名通告",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-02-02",
-            "applicationEnd": "2026-03-20",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://ess.ustc.edu.cn/2026/0201/c41218a721549/page.htm",
-            "sourceHost": "ess.ustc.edu.cn",
-            "sourceHomepage": "https://ess.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          },
-          {
-            "id": "college-7e7ebd5725ca",
-            "title": "地球和空间科学学院2026年博士“综合考核”工作安排",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://ess.ustc.edu.cn/2026/0506/c41218a736943/page.htm",
-            "sourceHost": "ess.ustc.edu.cn",
-            "sourceHomepage": "http://ess.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          },
-          {
-            "id": "college-0599f5ada72f",
-            "title": "中国科大地球化学与行星科学营报名通知",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-04-27",
-            "applicationEnd": "2026-05-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://ess.ustc.edu.cn/2026/0425/c41218a735817/page.htm",
-            "sourceHost": "ess.ustc.edu.cn",
-            "sourceHomepage": "https://ess.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-34be77bc4492",
-            "title": "2025硕士招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2025/index.shtml",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-5088a3639462",
-            "title": "2024硕士招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2024/index.shtml",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-19fe1e68b680",
-            "title": "2023硕士招生简章",
-            "stage": "招生简章",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2023/index.shtml",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-5c6d30aa2949",
-            "title": "2022硕士招生简章",
-            "stage": "招生简章",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz1.ustc.edu.cn/sszs_2022/index.shtml",
-            "sourceHost": "yz1.ustc.edu.cn",
-            "sourceHomepage": "https://yz1.ustc.edu.cn/",
-            "departmentHomepage": "https://ess.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 7,
-    "llmStructuredCount": 1,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023,
-      2022
-    ],
-    "stages": [
-      "推免",
-      "复试/考核",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "直博",
-      "硕士",
-      "博士",
-      "待确认"
-    ],
-    "majors": [
-      "物理学",
-      "资源与环境",
-      "化学",
-      "地质学",
-      "地球化学",
-      "资源勘查工程",
-      "行星科学",
-      "环境科学",
-      "人工智能",
-      "计算机科学与技术",
-      "网络空间安全",
-      "数学",
-      "材料科学与工程"
-    ],
-    "sourceHosts": [
-      "ess.ustc.edu.cn",
-      "yz1.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ess.ustc.edu.cn/",
-      "http://ess.ustc.edu.cn/",
-      "https://yz1.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ess.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
