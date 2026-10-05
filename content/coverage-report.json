@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T05:10:59.133Z",
+  "generatedAt": "2026-10-05T05:22:59.576Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2434,
+    "notices": 2436,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 241,
+      "total": 243,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -3966,22 +3966,24 @@
       "id": "auto-290f08665c10",
       "school": "中国科学技术大学",
       "department": "稀土学院",
-      "total": 3,
+      "total": 5,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
       "id": "auto-7e4d8c514b42",
       "school": "中国科学技术大学",
       "department": "稀土学院科教融合学院",
-      "total": 3,
+      "total": 5,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
