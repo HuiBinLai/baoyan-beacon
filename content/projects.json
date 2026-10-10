@@ -12742,6 +12742,431 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-b0d375321fd8",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 数学科学中心",
+    "tracks": [
+      "经管金融",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "招生简章",
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2023-08-21",
+        "lastApplicationEnd": "2023-09-14",
+        "notices": [
+          {
+            "id": "college-72b448971136",
+            "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1119/3563.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-9f7a21a57578",
+            "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1119/3563.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-eb828450f9c3",
+            "title": "2026-08-19 清华大学数学科学系2027年博士研究生招生综合考核及录取办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/5114.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-387be24bca67",
+            "title": "数学科学系接收推荐免试应用统计专业硕士调剂通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2023-08-21",
+            "applicationEnd": "2023-09-14",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-d25e6048fa4b",
+            "title": "清华大学数学科学系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-9d73681ccde8",
+            "title": "招收2025年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 6,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-3be7ccbd5076",
+            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-eea016c11a55",
+            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-83d0e89e4888",
+            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2461.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-f4f6713da900",
+            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-7b82e0fcf07a",
+            "title": "清华大学数学科学系2024年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-80acba00cfa8",
+            "title": "招收2024年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2282.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 7,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2023-08-21",
+        "lastApplicationEnd": "2023-09-14",
+        "notices": [
+          {
+            "id": "college-d0d1dc253ef8",
+            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-08-21",
+            "applicationEnd": "2023-09-14",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-2c4eedc49a2a",
+            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-ff6dc86a6496",
+            "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2282.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-e153bbdc31a5",
+            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2285.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-f614bee4368e",
+            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-08-21",
+            "applicationEnd": "2023-09-14",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2291.htm",
+            "sourceHost": "math.tsinghua.edu.cn",
+            "sourceHomepage": "https://math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-4e383df6b7f0",
+            "title": "清华大学数学科学系2023年硕士推免生考核及录取办法",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2154.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-5effcd6af1d0",
+            "title": "招收2023年推荐免试研究生和公开招考博士生的报名工作",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2143.htm",
+            "sourceHost": "www.math.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 19,
+    "llmStructuredCount": 0,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ],
+    "stages": [
+      "招生简章",
+      "复试/考核",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "博士",
+      "专业型硕士",
+      "待确认"
+    ],
+    "majors": [
+      "数学"
+    ],
+    "sourceHosts": [
+      "www.math.tsinghua.edu.cn",
+      "math.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.math.tsinghua.edu.cn/",
+      "https://math.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ymsc.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-9659e58cefa5",
     "school": "上海交通大学",
     "department": "溥渊未来技术学院",
@@ -13194,6 +13619,406 @@
     ],
     "departmentHomepages": [
       "https://gift.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-d3261839f82c",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 光华管理学院",
+    "tracks": [
+      "法学",
+      "人文社科",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "博士",
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-08-31",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-2a2ea26b7d44",
+            "title": "北京大学2027年硕士研究生招生专业目录（校本部）",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2027/yx/zsml_ss_yx.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-88e25e90b8aa",
+            "title": "北京大学2027年推荐免试攻读硕士学位研究生专业目录(校本部)",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/2027/yx/zsml_ss_tm.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-a9250cb635b5",
+            "title": "北京大学2027年推荐免试攻读博士学位研究生专业目录(校本部)",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bstjms/2027/yx/zsml_bs_tm.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-974f910489fe",
+            "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2026-10-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-243e0a1a3140",
+            "title": "北京大学 2027 年硕士研究生招生简章（校本部）",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2026-10-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20261008162609970607.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-b448486065ce",
+            "title": "北京大学2027年接收推荐免试研究生办法（校本部）",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2026-08-31",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 12,
+        "stages": [
+          "推免报名",
+          "复试/考核",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "硕士",
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-10-09",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-24fb991b43e4",
+            "title": "北京大学2026年博士研究生招生专业目录(校本部,留学生,中文授课)",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/bs/zsml_bs_lxs_cn.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-08cafc4f15f5",
+            "title": "北京大学2026年博士研究生招生专业目录(校本部,留学生,English-taught)",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/bs/zsml_bs_lxs_en.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-1406eff6fdc3",
+            "title": "北京大学2026年硕士研究生招生专业目录(校本部,留学生,中文授课)",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/ss/zsml_ss_lxs_cn.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-238a6ad552fe",
+            "title": "北京大学2026年硕士研究生招生专业目录(校本部,留学生,English-taught)",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/ss/zsml_ss_lxs_en.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-f69e065e82ea",
+            "title": "北京大学法学院2026年非全日制法律博士专业学位研究生招生说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.law.pku.edu.cn/xwzx/ggtz/zsjx/307f10d30e7245629adef344c7679d86.htm",
+            "sourceHost": "www.law.pku.edu.cn",
+            "sourceHomepage": "https://www.law.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-f2dbc375625a",
+            "title": "北京大学人口研究所2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
+            "sourceHost": "ipr.pku.edu.cn",
+            "sourceHomepage": "https://ipr.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-af380752a372",
+            "title": "北京大学艺术学院2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.art.pku.edu.cn/rcpyjxxm/bssjy/yjs_tzgg/1eba6cf3cc6c4d03a5f1286f62ef86d9.htm",
+            "sourceHost": "www.art.pku.edu.cn",
+            "sourceHomepage": "https://www.art.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-f70f1ff0ec0c",
+            "title": "北京大学2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章（校本部）",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-11-06",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251106104113194034.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-26ccc31ba560",
+            "title": "北京大学2026年外国留学生研究生招生简章（校本部）",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-20",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251020095346239221.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-89a2ecb8a582",
+            "title": "北京大学2026年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-15",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251015110237141921.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-9c90c23bb0e3",
+            "title": "北京大学2026年博士研究生招生简章(校本部)",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-10",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251010134140836566.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-73db550c4927",
+            "title": "北京大学2026年硕士研究生招生简章（校本部）",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009101959431969.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 6,
+    "latestPastYear": 2026,
+    "noticeCount": 18,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "博士",
+      "专业型硕士",
+      "待确认"
+    ],
+    "majors": [
+      "哲学",
+      "法学",
+      "社会学",
+      "教育学",
+      "中国语言文学",
+      "历史学",
+      "工商管理",
+      "数学",
+      "物理学",
+      "化学",
+      "材料科学与工程",
+      "环境科学与工程",
+      "艺术学",
+      "法律"
+    ],
+    "sourceHosts": [
+      "admission.pku.edu.cn",
+      "www.law.pku.edu.cn",
+      "ipr.pku.edu.cn",
+      "www.art.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://admission.pku.edu.cn/",
+      "https://www.law.pku.edu.cn/",
+      "https://ipr.pku.edu.cn/",
+      "https://www.art.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.gsm.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -14176,798 +15001,6 @@
       "http://edu.hnu.edu.cn/",
       "http://gra.hnu.edu.cn/",
       "http://law.hnu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-b0d375321fd8",
-    "school": "清华大学",
-    "department": "数学科学中心",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 数学科学中心",
-    "tracks": [
-      "经管金融",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "招生简章",
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2023-08-21",
-        "lastApplicationEnd": "2023-09-14",
-        "notices": [
-          {
-            "id": "college-9f7a21a57578",
-            "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1119/3563.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-eb828450f9c3",
-            "title": "2026-08-19 清华大学数学科学系2027年博士研究生招生综合考核及录取办法",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/5114.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-387be24bca67",
-            "title": "数学科学系接收推荐免试应用统计专业硕士调剂通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2023-08-21",
-            "applicationEnd": "2023-09-14",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-d25e6048fa4b",
-            "title": "清华大学数学科学系2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-9d73681ccde8",
-            "title": "招收2025年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 6,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-3be7ccbd5076",
-            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2492.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-eea016c11a55",
-            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2461.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-83d0e89e4888",
-            "title": "2024-08-19 招收2025年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2461.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-f4f6713da900",
-            "title": "2024-09-06 清华大学数学科学系2025年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-7b82e0fcf07a",
-            "title": "清华大学数学科学系2024年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-80acba00cfa8",
-            "title": "招收2024年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2282.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 7,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2023-08-21",
-        "lastApplicationEnd": "2023-09-14",
-        "notices": [
-          {
-            "id": "college-d0d1dc253ef8",
-            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-08-21",
-            "applicationEnd": "2023-09-14",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2291.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-2c4eedc49a2a",
-            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2285.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-ff6dc86a6496",
-            "title": "2023-08-14 招收2024年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2282.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-e153bbdc31a5",
-            "title": "2023-08-30 清华大学数学科学系2024年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2285.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-f614bee4368e",
-            "title": "2023-09-11 数学科学系接收推荐免试应用统计专业硕士调剂通知",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-08-21",
-            "applicationEnd": "2023-09-14",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2291.htm",
-            "sourceHost": "math.tsinghua.edu.cn",
-            "sourceHomepage": "https://math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-4e383df6b7f0",
-            "title": "清华大学数学科学系2023年硕士推免生考核及录取办法",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2154.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-5effcd6af1d0",
-            "title": "招收2023年推荐免试研究生和公开招考博士生的报名工作",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1118/2143.htm",
-            "sourceHost": "www.math.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-            "departmentHomepage": "https://ymsc.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 18,
-    "llmStructuredCount": 0,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023
-    ],
-    "stages": [
-      "招生简章",
-      "复试/考核",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "博士",
-      "专业型硕士",
-      "待确认"
-    ],
-    "majors": [
-      "数学"
-    ],
-    "sourceHosts": [
-      "math.tsinghua.edu.cn",
-      "www.math.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://math.tsinghua.edu.cn/",
-      "https://www.math.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ymsc.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-d3261839f82c",
-    "school": "北京大学",
-    "department": "光华管理学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 光华管理学院",
-    "tracks": [
-      "法学",
-      "人文社科",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 5,
-        "stages": [
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-08-31",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-2a2ea26b7d44",
-            "title": "北京大学2027年硕士研究生招生专业目录（校本部）",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2027/yx/zsml_ss_yx.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-88e25e90b8aa",
-            "title": "北京大学2027年推荐免试攻读硕士学位研究生专业目录(校本部)",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/2027/yx/zsml_ss_tm.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-a9250cb635b5",
-            "title": "北京大学2027年推荐免试攻读博士学位研究生专业目录(校本部)",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/bszs/bstjms/2027/yx/zsml_bs_tm.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-243e0a1a3140",
-            "title": "北京大学 2027 年硕士研究生招生简章（校本部）",
-            "stage": "招生简章",
-            "year": 2027,
-            "publishedAt": "2026-10-08",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20261008162609970607.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-b448486065ce",
-            "title": "北京大学2027年接收推荐免试研究生办法（校本部）",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2026-08-31",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 12,
-        "stages": [
-          "推免报名",
-          "复试/考核",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士",
-          "硕士",
-          "专业型硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-10-09",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-24fb991b43e4",
-            "title": "北京大学2026年博士研究生招生专业目录(校本部,留学生,中文授课)",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/bs/zsml_bs_lxs_cn.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-08cafc4f15f5",
-            "title": "北京大学2026年博士研究生招生专业目录(校本部,留学生,English-taught)",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/bs/zsml_bs_lxs_en.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-1406eff6fdc3",
-            "title": "北京大学2026年硕士研究生招生专业目录(校本部,留学生,中文授课)",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/ss/zsml_ss_lxs_cn.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-238a6ad552fe",
-            "title": "北京大学2026年硕士研究生招生专业目录(校本部,留学生,English-taught)",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/lxszs/lxszyml/2026/ss/zsml_ss_lxs_en.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-f69e065e82ea",
-            "title": "北京大学法学院2026年非全日制法律博士专业学位研究生招生说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.law.pku.edu.cn/xwzx/ggtz/zsjx/307f10d30e7245629adef344c7679d86.htm",
-            "sourceHost": "www.law.pku.edu.cn",
-            "sourceHomepage": "https://www.law.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-f2dbc375625a",
-            "title": "北京大学人口研究所2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ipr.pku.edu.cn/tzgg/2025-10-18/efa4c23559384cf29c162efdd19835b1.htm",
-            "sourceHost": "ipr.pku.edu.cn",
-            "sourceHomepage": "https://ipr.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-af380752a372",
-            "title": "北京大学艺术学院2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.art.pku.edu.cn/rcpyjxxm/bssjy/yjs_tzgg/1eba6cf3cc6c4d03a5f1286f62ef86d9.htm",
-            "sourceHost": "www.art.pku.edu.cn",
-            "sourceHomepage": "https://www.art.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-f70f1ff0ec0c",
-            "title": "北京大学2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章（校本部）",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-11-06",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251106104113194034.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-26ccc31ba560",
-            "title": "北京大学2026年外国留学生研究生招生简章（校本部）",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-20",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251020095346239221.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-89a2ecb8a582",
-            "title": "北京大学2026年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-15",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251015110237141921.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-9c90c23bb0e3",
-            "title": "北京大学2026年博士研究生招生简章(校本部)",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-10",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251010134140836566.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          },
-          {
-            "id": "college-73db550c4927",
-            "title": "北京大学2026年硕士研究生招生简章（校本部）",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009101959431969.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 5,
-    "latestPastYear": 2026,
-    "noticeCount": 17,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "博士",
-      "待确认",
-      "专业型硕士"
-    ],
-    "majors": [
-      "哲学",
-      "法学",
-      "社会学",
-      "教育学",
-      "中国语言文学",
-      "历史学",
-      "数学",
-      "物理学",
-      "化学",
-      "材料科学与工程",
-      "环境科学与工程",
-      "艺术学",
-      "法律",
-      "工商管理"
-    ],
-    "sourceHosts": [
-      "admission.pku.edu.cn",
-      "www.law.pku.edu.cn",
-      "ipr.pku.edu.cn",
-      "www.art.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://admission.pku.edu.cn/",
-      "https://www.law.pku.edu.cn/",
-      "https://ipr.pku.edu.cn/",
-      "https://www.art.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://www.gsm.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -36696,6 +36729,209 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-7c49b0b08198",
+    "school": "北京大学",
+    "department": "新材料学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 新材料学院",
+    "tracks": [
+      "人文社科",
+      "经管金融",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 5,
+        "stages": [
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "专业型硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-08-31",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-5318d27d361e",
+            "title": "北京大学2027年硕士研究生招生专业目录（校本部） 2026-10-08",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2027/yx/zsml_ss_yx.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-fdd5ff1ff356",
+            "title": "北京大学2027年推荐免试攻读硕士学位研究生专业目录(校本部) 2026-09-15",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/2027/yx/zsml_ss_tm.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-aec35c110256",
+            "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2026-10-09",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2026-10-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-258b235823c6",
+            "title": "北京大学 2027 年硕士研究生招生简章（校本部） 2026-10-08",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2026-10-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20261008162609970607.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-911b7d40e46d",
+            "title": "北京大学2027年接收推荐免试研究生办法（校本部） 2026-08-31",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2026-08-31",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-10-09",
+        "lastPublishedAt": "2025-10-15",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-3b9e3a4c9fcf",
+            "title": "北京大学2026年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2025-10-15",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-15",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251015110237141921.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-4b76c24c380f",
+            "title": "北京大学2026年硕士研究生招生简章（校本部） 2025-10-09",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009101959431969.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 5,
+    "latestPastYear": 2026,
+    "noticeCount": 7,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "专业型硕士",
+      "待确认"
+    ],
+    "majors": [
+      "哲学",
+      "法学",
+      "社会学",
+      "教育学",
+      "中国语言文学",
+      "历史学",
+      "工商管理"
+    ],
+    "sourceHosts": [
+      "admission.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://admission.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-415c0d5dabe3",
     "school": "北京大学",
     "department": "哲学系",
@@ -38953,192 +39189,6 @@
     ],
     "departmentHomepages": [
       "https://sfl.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-7c49b0b08198",
-    "school": "北京大学",
-    "department": "新材料学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 新材料学院",
-    "tracks": [
-      "人文社科",
-      "经管金融",
-      "材料能源化工"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 4,
-        "stages": [
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-08-31",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-5318d27d361e",
-            "title": "北京大学2027年硕士研究生招生专业目录（校本部） 2026-10-08",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2027/yx/zsml_ss_yx.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-fdd5ff1ff356",
-            "title": "北京大学2027年推荐免试攻读硕士学位研究生专业目录(校本部) 2026-09-15",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/2027/yx/zsml_ss_tm.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-258b235823c6",
-            "title": "北京大学 2027 年硕士研究生招生简章（校本部） 2026-10-08",
-            "stage": "招生简章",
-            "year": 2027,
-            "publishedAt": "2026-10-08",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20261008162609970607.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-911b7d40e46d",
-            "title": "北京大学2027年接收推荐免试研究生办法（校本部） 2026-08-31",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2026-08-31",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-10-09",
-        "lastPublishedAt": "2025-10-15",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-3b9e3a4c9fcf",
-            "title": "北京大学2026年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2025-10-15",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-15",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251015110237141921.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-4b76c24c380f",
-            "title": "北京大学2026年硕士研究生招生简章（校本部） 2025-10-09",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009101959431969.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 4,
-    "latestPastYear": 2026,
-    "noticeCount": 6,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026
-    ],
-    "stages": [
-      "推免报名",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "待确认",
-      "专业型硕士"
-    ],
-    "majors": [
-      "哲学",
-      "法学",
-      "社会学",
-      "教育学",
-      "中国语言文学",
-      "历史学",
-      "工商管理"
-    ],
-    "sourceHosts": [
-      "admission.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://admission.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -69260,6 +69310,105 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-bb1ff9c7e6b6",
+    "school": "上海交通大学",
+    "department": "汽车工程研究院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 汽车工程研究院",
+    "tracks": [
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "夏令营/研学营",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-07-20",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-6cb010ea2677",
+            "title": "上海交通大学第八届\"交二代\"夏令营举行 2026年07月20日",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-07-20",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://news.sjtu.edu.cn/jdyw/20260720/224803.html",
+            "sourceHost": "news.sjtu.edu.cn",
+            "sourceHomepage": "https://news.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-d804202b7d23",
+            "title": "09 2026.10 上海交通大学 2027年全国硕士研究生招生考试网报公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3797",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 2,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "夏令营/研学营",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士"
+    ],
+    "majors": [
+      "人工智能",
+      "生物学",
+      "设计学"
+    ],
+    "sourceHosts": [
+      "news.sjtu.edu.cn",
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://news.sjtu.edu.cn/",
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-ce1740c19898",
     "school": "上海交通大学",
     "department": "数学科学学院",
@@ -89454,83 +89603,6 @@
     ],
     "sourceHomepages": [
       "https://ga.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yzb.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-bb1ff9c7e6b6",
-    "school": "上海交通大学",
-    "department": "汽车工程研究院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 汽车工程研究院",
-    "tracks": [
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "夏令营/研学营"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-07-20",
-        "lastPublishedAt": "2026-07-20",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-6cb010ea2677",
-            "title": "上海交通大学第八届\"交二代\"夏令营举行 2026年07月20日",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-07-20",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://news.sjtu.edu.cn/jdyw/20260720/224803.html",
-            "sourceHost": "news.sjtu.edu.cn",
-            "sourceHomepage": "https://news.sjtu.edu.cn/",
-            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 1,
-    "llmStructuredCount": 0,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "夏令营/研学营"
-    ],
-    "degreeTypes": [
-      "待确认"
-    ],
-    "majors": [
-      "人工智能",
-      "生物学",
-      "设计学"
-    ],
-    "sourceHosts": [
-      "news.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://news.sjtu.edu.cn/"
     ],
     "departmentHomepages": [
       "https://yzb.sjtu.edu.cn/"

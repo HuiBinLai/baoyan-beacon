@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:19:44.242Z",
+  "generatedAt": "2026-10-10T05:32:37.533Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -741,9 +741,9 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 18,
+      "total": 19,
       "recentFiveYears": 13,
-      "currentSeason": 5,
+      "currentSeason": 6,
       "years": [
         2027,
         2026
@@ -1053,9 +1053,9 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 2,
-      "currentSeason": 4,
+      "currentSeason": 5,
       "years": [
         2027,
         2026
@@ -7482,8 +7482,8 @@
       "department": "数学科学中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://ymsc.tsinghua.edu.cn/",
-      "total": 18,
-      "recentFiveYears": 18,
+      "total": 19,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8322,8 +8322,8 @@
       "department": "数学科学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-      "total": 27,
-      "recentFiveYears": 27,
+      "total": 28,
+      "recentFiveYears": 28,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9560,8 +9560,8 @@
       "department": "汽车工程研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026
