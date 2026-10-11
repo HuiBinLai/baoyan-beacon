@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T05:32:37.533Z",
+  "generatedAt": "2026-10-11T05:11:05.996Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 778,
     "stale": 10,
     "missing": 359,
-    "currentSeasonCovered": 130
+    "currentSeasonCovered": 132
   },
   "units": [
     {
@@ -9545,8 +9545,8 @@
       "department": "空天科学技术研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2022
@@ -9592,14 +9592,15 @@
       "department": "燃气轮机研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 13,
+      "total": 15,
       "recentFiveYears": 13,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026,
         2025
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -16005,9 +16006,9 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 13,
+      "total": 14,
       "recentFiveYears": 12,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -16293,16 +16294,17 @@
       "department": "信息学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 4,
+      "total": 5,
       "recentFiveYears": 3,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2024,
         2022,
         2020
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -16512,9 +16514,9 @@
       "department": "公共管理学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 30,
+      "total": 33,
       "recentFiveYears": 23,
-      "currentSeason": 4,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,

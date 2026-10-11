@@ -1,182 +1,316 @@
 [
   {
-    "id": "college-974f910489fe",
-    "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章",
-    "school": "北京大学",
-    "department": "光华管理学院",
+    "id": "college-aefd2b5cad3f",
+    "title": "中国人民大学信息学院2027年工程硕博士培养改革专项工程直博报名通知",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
     "majors": [
-      "工商管理"
+      "人工智能",
+      "电子信息"
     ],
-    "type": "推免",
+    "type": "直博",
     "year": 2027,
     "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-10-09",
-    "sourceName": "北京大学光华管理学院官方站点",
-    "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
-    "sourceHost": "admission.pku.edu.cn",
-    "sourceHomepage": "https://admission.pku.edu.cn/",
-    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
-    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "deadline": "2026-10-12",
+    "publishedAt": "2027-01-01",
+    "sourceName": "中国人民大学公共管理学院官方站点",
+    "sourceUrl": "https://pgs.ruc.edu.cn/info/1055/3643.htm",
+    "sourceHost": "pgs.ruc.edu.cn",
+    "sourceHomepage": "https://pgs.ruc.edu.cn/",
+    "departmentHomepage": "http://spap.ruc.edu.cn/",
+    "summary": "公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-0c7482477085"
+      "auto-cd3a02b4b857"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
+    "sourceExcerpt": "中国人民大学信息学院2027年工程硕博士培养改革专项工程直博报名通知。公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。中国人民大学信息学院2027年工程硕博士培养改革专项工程直博报名通知-人大研招网 研究生院 人大主页 首页 硕士招生 推荐免试 简章目录 报名初试 复试录取 博士招生 硕博连读(含直博) 简章目录 报名初试 复试录取 港澳台生 推荐免试 简章目录 报名初试 复试录取 国际学生 简章目录 报名初试 复试录取 政策法规 国家法规 学校制度 信息查询 联系我们 学院联系电话 举报联系方式 用户登录 English 首页 硕士招生 推荐免试 简章目录 报名初试 复试录取 博士招生 硕博连读(含直博) 简章目录 报名初试 复试录取 港澳台生 推荐免试 简章目录 报名初试 复试录取 国际学生 简章目录 报名初试 复试录取 政策法规 国家法规 学校制度 信息查询 联系我们 学院联系电话 举报联系方式 博士招生 硕博连读(含直博) 简章目录 报名初试 复试录取 首页 > 博士招生 > 硕博连读(... > 正文 硕博连读(含直博) 中国人民大学信息",
+    "applicationStart": "2026-10-10",
+    "applicationEnd": "2026-10-12",
+    "registrationTime": "系统开放时间为2026年10月10日-10月12日12:00",
     "requirements": [
-      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "公共管理学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "专业型硕士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-10",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-10"
-  },
-  {
-    "id": "college-aec35c110256",
-    "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2026-10-09",
-    "school": "北京大学",
-    "department": "新材料学院",
-    "majors": [
-      "工商管理"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-10-09",
-    "sourceName": "北京大学新材料学院官方站点",
-    "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
-    "sourceHost": "admission.pku.edu.cn",
-    "sourceHomepage": "https://admission.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-7a8f641a2bed"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2026-10-09。新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "新材料学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
+      "项目类型和申请要求",
+      "一",
+      "申请条件 中华人民共和国公民",
+      "遵纪守法",
+      "品德良好",
+      "且满足以下条件： 1.目前就读本科学校具有教育部推荐免试研究生资格的优秀应届本科毕业生",
+      "专业排名和综合素质排名均名列前茅",
+      "5.身心健康",
+      "符合国家和学校规定的体检要求",
+      "二",
+      "招生专业 学院 专业 类型 研究方向 合作企业 招生计划 信息学院 085400电子信息 直博 人工智能与大数据 北京汽车集团 1 三",
+      "申请材料要求 1.有效期内的身份证原件",
+      "每学期均注册的学生证"
     ],
     "materials": [
-      "新材料学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
+      "二",
+      "招生专业 学院 专业 类型 研究方向 合作企业 招生计划 信息学院 085400电子信息 直博 人工智能与大数据 北京汽车集团 1 三",
+      "申请材料要求 1.有效期内的身份证原件",
+      "每学期均注册的学生证",
+      "2.本科学业成绩单（本科学校出具的前6学期本科学业成绩单原件",
+      "含学业排名证明）",
+      "3.外语水平证明",
+      "4.个人简历（内容包括但不限于教育背景",
+      "学术背景",
+      "研究经历等）",
+      "5.专家推荐信2封：两名所报考学科专业领域教授（或相当专业技术职称的专家）的推荐信",
+      "参加线下考核时须提交专家亲笔签字的纸质版推荐信"
     ],
-    "applicationMethod": "",
-    "targetStudents": "",
+    "applicationMethod": "5.专家推荐信2封：两名所报考学科专业领域教授（或相当专业技术职称的专家）的推荐信，参加线下考核时须提交专家亲笔签字的纸质版推荐信",
+    "targetStudents": "遵纪守法，品德良好，且满足以下条件： 1.目前就读本科学校具有教育部推荐免试研究生资格的优秀应届本科毕业生，专业排名和综合素质排名均名列前茅",
     "degreeTypes": [
+      "直博",
       "专业型硕士"
     ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-10",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-10"
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-11"
   },
   {
-    "id": "college-72b448971136",
-    "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
-    "school": "清华大学",
-    "department": "数学科学中心",
+    "id": "college-a9627965f6af",
+    "title": "2027年全国硕士研究生招生考试中国人民大学（10002）网报公告",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
     "majors": [
-      "数学"
+      "艺术学"
     ],
     "type": "推免",
-    "year": 2026,
+    "year": 2027,
     "region": "北京",
     "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "清华大学数学科学中心官方站点",
-    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1119/3563.htm",
-    "sourceHost": "www.math.tsinghua.edu.cn",
-    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
-    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
-    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "publishedAt": "2027-01-01",
+    "sourceName": "中国人民大学公共管理学院官方站点",
+    "sourceUrl": "https://pgs.ruc.edu.cn/info/1042/3638.htm",
+    "sourceHost": "pgs.ruc.edu.cn",
+    "sourceHomepage": "https://pgs.ruc.edu.cn/",
+    "departmentHomepage": "http://spap.ruc.edu.cn/",
+    "summary": "公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-f645b052e302"
+      "auto-cd3a02b4b857"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "2027年全国硕士研究生招生考试中国人民大学（10002）网报公告。公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。2027年全国硕士研究生招生考试中国人民大学（10002）网报公告-人大研招网 研究生院 人大主页 首页 硕士招生 推荐免试 简章目录 报名初试 复试录取 博士招生 硕博连读(含直博) 简章目录 报名初试 复试录取 港澳台生 推荐免试 简章目录 报名初试 复试录取 国际学生 简章目录 报名初试 复试录取 政策法规 国家法规 学校制度 信息查询 联系我们 学院联系电话 举报联系方式 用户登录 English 首页 硕士招生 推荐免试 简章目录 报名初试 复试录取 博士招生 硕博连读(含直博) 简章目录 报名初试 复试录取 港澳台生 推荐免试 简章目录 报名初试 复试录取 国际学生 简章目录 报名初试 复试录取 政策法规 国家法规 学校制度 信息查询 联系我们 学院联系电话 举报联系方式 硕士招生 推荐免试 简章目录 报名初试 复试录取 首页 > 硕士招生 > 报名初试 > 正文 报名初试 2027年全国硕士研究生招生考试中国人民大学（1",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "网上预报名时间为 202 6 年 10 月 9 日 — 12 日，每天 9:00 — 22:00",
+    "requirements": [
+      "公共管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "一",
+      "报考资格 报考中国人民大学的考生",
+      "应符合《中国人民大学 202 7 年硕士研究生招生简章》中规定的报考条件",
+      "10月24日22:00前",
+      "考生须按照报考点要求上传考生本人材料",
+      "同时关注所报考招生单位的通知信息",
+      "2. 报考中国人民大学的考生报名时须仔细浏览我校发布的招生简章和报考通知",
+      "按教育部",
+      "考生所在地省级教育招生考试机构",
+      "报考点以及中国人民大学的网上公告要求报名",
+      "4. 考生应当认真了解并严格按照报考条件及相关政策要求填报报考信息并选择报考点",
+      "应当积极配合报考点工作人员",
+      "根据核验工作需要",
+      "按要求提交材料"
+    ],
+    "materials": [
+      "二",
+      "报名 1. 2 027年全国硕士研究生招生考试 简化考生报名程序",
+      "推进网上报名和网上确认一体化",
+      "考生在填写报考信息后一并提交核验材料",
+      "实现 “一站式”完成报名",
+      "10月24日22:00前",
+      "考生须按照报考点要求上传考生本人材料",
+      "同时关注所报考招生单位的通知信息",
+      "4. 考生应当认真了解并严格按照报考条件及相关政策要求填报报考信息并选择报考点",
+      "应当积极配合报考点工作人员",
+      "根据核验工作需要",
+      "按要求提交材料",
+      "应当对本人网上报名信息进行认真核对",
+      "因不符合报考条件及相关政策要求",
+      "或因考生本人网报信息填写错误",
+      "填报虚假信息",
+      "提交虚假材料及未按要求提交所需材料造成后续不能考试（含初试",
+      "复试）或录取的",
+      "后果由考生本人承担",
+      "（ 2 ）援藏计划单独考试考生 须选择西藏自治区教育考试院指定报考点办理网上报名 并按要求提供核验材料",
+      "专项计划选择 “援藏计划”"
+    ],
+    "applicationMethod": "二、报名 1. 2 027年全国硕士研究生招生考试 简化考生报名程序，推进网上报名和网上确认一体化，考生在填写报考信息后一并提交核验材料，实现 “一站式”完成报名",
+    "targetStudents": "",
+    "degreeTypes": [
+      "直博",
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-11"
+  },
+  {
+    "id": "college-663bead56c53",
+    "title": "2027年全国硕士研究生招生考试中国人民大学（1102）报考点公告",
+    "school": "中国人民大学",
+    "department": "公共管理学院",
+    "majors": [
+      "艺术学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "2026-10-02",
+    "publishedAt": "2027-01-01",
+    "sourceName": "中国人民大学公共管理学院官方站点",
+    "sourceUrl": "https://pgs.ruc.edu.cn/info/1042/3637.htm",
+    "sourceHost": "pgs.ruc.edu.cn",
+    "sourceHomepage": "https://pgs.ruc.edu.cn/",
+    "departmentHomepage": "http://spap.ruc.edu.cn/",
+    "summary": "公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-cd3a02b4b857"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2027年全国硕士研究生招生考试中国人民大学（1102）报考点公告。公共管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。2027年全国硕士研究生招生考试中国人民大学（1102）报考点公告-人大研招网 研究生院 人大主页 首页 硕士招生 推荐免试 简章目录 报名初试 复试录取 博士招生 硕博连读(含直博) 简章目录 报名初试 复试录取 港澳台生 推荐免试 简章目录 报名初试 复试录取 国际学生 简章目录 报名初试 复试录取 政策法规 国家法规 学校制度 信息查询 联系我们 学院联系电话 举报联系方式 用户登录 English 首页 硕士招生 推荐免试 简章目录 报名初试 复试录取 博士招生 硕博连读(含直博) 简章目录 报名初试 复试录取 港澳台生 推荐免试 简章目录 报名初试 复试录取 国际学生 简章目录 报名初试 复试录取 政策法规 国家法规 学校制度 信息查询 联系我们 学院联系电话 举报联系方式 硕士招生 推荐免试 简章目录 报名初试 复试录取 首页 > 硕士招生 > 报名初试 > 正文 报名初试 2027年全国硕士研究生招生考试中国人民大学（1",
+    "applicationStart": "2026-10-15",
+    "applicationEnd": "2026-10-02",
+    "registrationTime": "根据有关文件要求，考生须在网上报名截止日期（ 202 6 年 10 月 2 4 日 22:00 ）前，以 “网上支付”方式缴纳初试费，缴费成功后，考生还须在报考点规定时间内 提交材料 ，否则报名无效",
+    "requirements": [
+      "公共管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "一",
+      "报考资格 考生须符合教育部《 202 7 年全国硕士研究生招生工作管理规定》中规定的报考条件",
+      "并满足所报考招生单位及报考点的有关要求",
+      "二",
+      "报考点选择要求 1 . 根据教育部文件规定",
+      "应届本科毕业生原则上应选择就读学校所在地省级教育招生考试机构指定的报考点办理网上报名手续",
+      "2. 根据北京教育考试院《北京市 202 7 年全国硕士研究生招生考试网上报名公告》（网址： https://www.bjeea.cn/html/yk/tzgg/2026/1007/88385.html）及我校 202 7 年硕士研究生招生简章，符合以下条件的考生应当选择中国人民大学报考点 （中关村校区） 办理网上报名手续 : （ 1 ）报考中国人民大学（学校代码 10002 ）且满足以下条件之一： ① 就读学校在京的应届本科毕业生（含普通高校、成人高校、普通高校举办的成人高等学历教育等应届本科毕业生）",
+      "（ 2 ）报考京外招生单位的中国人民大学 202 7 届应届本科毕业生（不含报考军事院校）",
+      "根据《北京市 202 7 年全国硕士研究生招生考试网上报名公告》规定",
+      "应当选择中国人民大学报考点"
+    ],
+    "materials": [
+      "三",
+      "网上报名 1. 2 027年全国硕士研究生招生考试 简化考生报名程序",
+      "推进网上报名和网上确认一体化",
+      "考生在填写报考信息后一并提交核验材料",
+      "实现 “一站式”完成报名",
+      "所有考生均须登录 “中国研究生招生信息网”（ https://yz.chsi.com.cn ）填报网上报名信息",
+      "网上支付初试费",
+      "同时按照报考点要求上传考生材料",
+      "10月24日22 : 00前",
+      "考生须按照报考点要求上传考生本人材料",
+      "同时关注所报考招生单位的通知信息",
+      "根据有关文件要求",
+      "考生须在网上报名截止日期（ 202 6 年 10 月 2 4 日 22:00 ）前",
+      "以 “网上支付”方式缴纳初试费",
+      "缴费成功后",
+      "考生还须在报考点规定时间内 提交材料",
+      "否则报名无效",
+      "4.网上报名期间",
+      "选择中国人民大学报考点的考生应按照 考生上传材料清单 （ 见附件： 2027年研考中国人民大学（1102）报考点考生上传材料清单 ） 提交相应材料"
+    ],
+    "applicationMethod": "二、报考点选择要求 1 . 根据教育部文件规定，应届本科毕业生原则上应选择就读学校所在地省级教育招生考试机构指定的报考点办理网上报名手续",
+    "targetStudents": "",
+    "degreeTypes": [
+      "直博",
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-11"
+  },
+  {
+    "id": "college-bf5ed9cdcbce",
+    "title": "中国人民大学哲学院2027年应用伦理专业学位研究生招生简章 more",
+    "school": "中国人民大学",
+    "department": "哲学院",
+    "majors": [
+      "哲学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "中国人民大学哲学院官方站点",
+    "sourceUrl": "http://phi.ruc.edu.cn/zspy/yjs/yjszs/1adf8b3ba19b475cb5f9493adab554ab.htm",
+    "sourceHost": "phi.ruc.edu.cn",
+    "sourceHomepage": "http://phi.ruc.edu.cn/",
+    "departmentHomepage": "http://phi.ruc.edu.cn/",
+    "summary": "--> 10-09 2026",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f9c70ac74498"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "中国人民大学哲学院2027年应用伦理专业学位研究生招生简章 more。--> 10-09 2026。研究生招生_中国人民大学哲学院 EN &#xe622; 首页 学院概况 学院介绍 院长寄语 历届系主任·历届院长 哲学名家 荣誉一级教授 机构设置 新闻通知 学院动态 通知公告 讲座信息 党的建设 党建工作 团学工作 工会工作 离退休工作 学子风采 教育团队 在职教师 荣休教师 教师风采 学术研究 学术动态 思想文库 期刊建设 招生培养 本科生 研究生 创新课程建设 在职培训 国际交流 院级交流项目 国际交流动态 全英文硕士 哲学年轮 校友之家 教师回忆录 人大哲学学科展 哲学印记 X 首页 学院概况 + 学院介绍 院长寄语 历届系主任·历届院长 哲学名家 荣誉一级教授 机构设置 新闻通知 + 学院动态 通知公告 讲座信息 党的建设 + 党建工作 团学工作 工会工作 离退休工作 学子风采 教育团队 + 在职教师 荣休教师 教师风采 学术研究 + 学术动态 思想文库 期刊建设 招生培养 + 本科生 研究生 创新课程建设 在职培训 国际交流 + 院级交流项目 国际交流动态 全英文硕士 哲学年",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
-    "requirements": [
-      "数学科学中心学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
+    "requirements": [],
     "materials": [],
     "applicationMethod": "",
     "targetStudents": "",
     "degreeTypes": [
-      "博士"
+      "专业型硕士"
     ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-10",
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-11",
     "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-10"
+    "classifiedAt": "2026-10-11"
   },
   {
-    "id": "college-d804202b7d23",
-    "title": "09 2026.10 上海交通大学 2027年全国硕士研究生招生考试网报公告",
+    "id": "college-91db4cdfb71e",
+    "title": "上海交通大学2027年硕士研究生招生章程",
     "school": "上海交通大学",
-    "department": "汽车工程研究院",
+    "department": "燃气轮机研究院",
     "majors": [
       "待确认"
     ],
     "type": "推免",
-    "year": 2026,
+    "year": 2027,
     "region": "上海",
     "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "上海交通大学汽车工程研究院官方站点",
-    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3797",
+    "publishedAt": "2027-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3784",
     "sourceHost": "yzb.sjtu.edu.cn",
     "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
-    "summary": "汽车工程研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-ede19129610f"
+      "auto-d2c59d947067"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "09 2026.10 上海交通大学 2027年全国硕士研究生招生考试网报公告。汽车工程研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "上海交通大学2027年硕士研究生招生章程。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "汽车工程研究院学院官网补漏发现的推免相关官方信息",
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -187,9 +321,103 @@
       "硕士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-10",
+    "structuredAt": "2026-10-11",
     "noticeStage": "推免报名",
-    "classifiedAt": "2026-10-10"
+    "classifiedAt": "2026-10-11"
+  },
+  {
+    "id": "college-35cec8299602",
+    "title": "上海交通大学2027年硕士研究生招生专业目录（校本部）",
+    "school": "上海交通大学",
+    "department": "燃气轮机研究院",
+    "majors": [
+      "电子信息"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "上海交通大学燃气轮机研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3772",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-d2c59d947067"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "上海交通大学2027年硕士研究生招生专业目录（校本部）。燃气轮机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "燃气轮机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-11"
+  },
+  {
+    "id": "college-ddca1884c5b7",
+    "title": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知",
+    "school": "上海交通大学",
+    "department": "空天科学技术研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2022,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2022-01-01",
+    "sourceName": "上海交通大学空天科学技术研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3315#",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
+    "summary": "空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0cdf797feff4"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知。空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "空天科学技术研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-11"
   },
   {
     "id": "college-1b798d013a2c",
@@ -11197,6 +11425,104 @@
     "structuredAt": "2026-05-26",
     "noticeStage": "推免报名",
     "classifiedAt": "2026-05-26"
+  },
+  {
+    "id": "college-974f910489fe",
+    "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "工商管理"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-10-09",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
+    "sourceHost": "admission.pku.edu.cn",
+    "sourceHomepage": "https://admission.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-10",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-10"
+  },
+  {
+    "id": "college-aec35c110256",
+    "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2026-10-09",
+    "school": "北京大学",
+    "department": "新材料学院",
+    "majors": [
+      "工商管理"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-10-09",
+    "sourceName": "北京大学新材料学院官方站点",
+    "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
+    "sourceHost": "admission.pku.edu.cn",
+    "sourceHomepage": "https://admission.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-7a8f641a2bed"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2026-10-09。新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "新材料学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [
+      "新材料学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-10",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-10"
   },
   {
     "id": "college-243e0a1a3140",
@@ -39907,6 +40233,53 @@
     "departmentHomepage": "https://pharmacy.nankai.edu.cn/"
   },
   {
+    "id": "college-72b448971136",
+    "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://www.math.tsinghua.edu.cn/info/1119/3563.htm",
+    "sourceHost": "www.math.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-10",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-10"
+  },
+  {
     "id": "college-822d62f952a3",
     "title": "08 2026.10 清华大学2027年硕士研究生招生专业目录_统招(含招生人数)",
     "school": "清华大学",
@@ -45866,6 +46239,53 @@
     "sourceHost": "www.yz.sdu.edu.cn",
     "sourceHomepage": "https://www.yz.sdu.edu.cn/",
     "departmentHomepage": "https://www.yz.sdu.edu.cn/"
+  },
+  {
+    "id": "college-d804202b7d23",
+    "title": "09 2026.10 上海交通大学 2027年全国硕士研究生招生考试网报公告",
+    "school": "上海交通大学",
+    "department": "汽车工程研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学汽车工程研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3797",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
+    "summary": "汽车工程研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-ede19129610f"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "09 2026.10 上海交通大学 2027年全国硕士研究生招生考试网报公告。汽车工程研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "汽车工程研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-10",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-10"
   },
   {
     "id": "college-fc44e61c3e66",
