@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T05:41:21.400Z",
+  "generatedAt": "2026-10-13T07:12:28.153Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 778,
     "stale": 10,
     "missing": 359,
-    "currentSeasonCovered": 132
+    "currentSeasonCovered": 135
   },
   "units": [
     {
@@ -265,8 +265,8 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 37,
-      "recentFiveYears": 30,
+      "total": 38,
+      "recentFiveYears": 31,
       "currentSeason": 6,
       "years": [
         2027,
@@ -320,8 +320,8 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 34,
-      "recentFiveYears": 27,
+      "total": 35,
+      "recentFiveYears": 28,
       "currentSeason": 6,
       "years": [
         2027,
@@ -723,16 +723,17 @@
       "department": "经济学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://econ.pku.edu.cn/",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 5,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2024,
         2022,
         2020
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15227,13 +15228,14 @@
       "department": "科技商学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://fbs.ustc.edu.cn/",
-      "total": 2,
+      "total": 3,
       "recentFiveYears": 2,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15479,10 +15481,11 @@
       "department": "国际金融研究院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://iif.ustc.edu.cn/",
-      "total": 12,
+      "total": 13,
       "recentFiveYears": 7,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024,
@@ -15493,7 +15496,7 @@
         2019,
         2018
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -15812,9 +15815,9 @@
       "department": "管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://mf.ustc.edu.cn/2024/0529/c14030a642293/page.htm",
-      "total": 41,
+      "total": 42,
       "recentFiveYears": 33,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
