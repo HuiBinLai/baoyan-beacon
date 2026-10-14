@@ -11943,23 +11943,39 @@
     "timeline": [
       {
         "year": 2027,
-        "count": 5,
+        "count": 6,
         "stages": [
           "招生简章",
           "复试/考核",
           "推免报名"
         ],
         "degreeTypes": [
+          "待确认",
           "直博",
           "硕士",
-          "博士",
-          "待确认"
+          "博士"
         ],
         "firstPublishedAt": "2027-01-01",
         "lastPublishedAt": "2027-01-01",
         "firstApplicationStart": "2026-07-01",
         "lastApplicationEnd": "2027-09-04",
         "notices": [
+          {
+            "id": "college-51fe9f411c70",
+            "title": "清华大学2027年丘成桐数学科学领军人才培养计划招生简章",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/8363.htm",
+            "sourceHost": "qzc.tsinghua.edu.cn",
+            "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
           {
             "id": "college-612f0c36786f",
             "title": "清华大学经济管理学院2027年博士研究生招生简章 2026-07-02",
@@ -12327,9 +12343,9 @@
       }
     ],
     "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 5,
+    "currentSeasonCount": 6,
     "latestPastYear": 2026,
-    "noticeCount": 20,
+    "noticeCount": 21,
     "llmStructuredCount": 8,
     "years": [
       2027,
@@ -12343,20 +12359,20 @@
       "推免"
     ],
     "degreeTypes": [
+      "待确认",
       "直博",
       "硕士",
-      "博士",
-      "待确认"
+      "博士"
     ],
     "majors": [
+      "人工智能",
+      "数学",
       "教育学",
       "理论经济学",
       "应用经济学",
       "金融",
       "管理科学与工程",
       "工商管理",
-      "人工智能",
-      "数学",
       "理论物理",
       "应用与计算数学",
       "代数与数论",
@@ -12366,12 +12382,12 @@
       "计算与应用数学"
     ],
     "sourceHosts": [
-      "yzbm.tsinghua.edu.cn",
-      "qzc.tsinghua.edu.cn"
+      "qzc.tsinghua.edu.cn",
+      "yzbm.tsinghua.edu.cn"
     ],
     "sourceHomepages": [
-      "https://yzbm.tsinghua.edu.cn/",
-      "https://qzc.tsinghua.edu.cn/"
+      "https://qzc.tsinghua.edu.cn/",
+      "https://yzbm.tsinghua.edu.cn/"
     ],
     "departmentHomepages": [
       "http://pg.sem.tsinghua.edu.cn/"
@@ -58745,6 +58761,140 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-b13e34d556b0",
+    "school": "上海交通大学",
+    "department": "中英国际低碳学院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 中英国际低碳学院",
+    "tracks": [
+      "材料能源化工",
+      "建筑土木交通"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-01-01",
+        "lastApplicationEnd": "2026-05-25",
+        "notices": [
+          {
+            "id": "college-0ee8e25aee50",
+            "title": "资讯公告 - 上海交通大学研究生院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.gs.sjtu.edu.cn/news",
+            "sourceHost": "www.gs.sjtu.edu.cn",
+            "sourceHomepage": "https://www.gs.sjtu.edu.cn/",
+            "departmentHomepage": "https://lcc.sjtu.edu.cn/"
+          },
+          {
+            "id": "college-fe6374a55f45",
+            "title": "上海交通大学低碳学院2026年博士研究生招生报名通...",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-01-01",
+            "applicationEnd": "2026-05-25",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://lcc.sjtu.edu.cn/Data/View/4687",
+            "sourceHost": "lcc.sjtu.edu.cn",
+            "sourceHomepage": "https://lcc.sjtu.edu.cn/",
+            "departmentHomepage": "https://lcc.sjtu.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-ba8d4c01ed94",
+            "title": "上海交通大学中英国际低碳学院研究生招生宣传手册（2025） - 上海交通大学研究生院",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.gs.sjtu.edu.cn/post/detail/Z3MyNTYz",
+            "sourceHost": "www.gs.sjtu.edu.cn",
+            "sourceHomepage": "https://www.gs.sjtu.edu.cn/",
+            "departmentHomepage": "https://lcc.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 2,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士"
+    ],
+    "majors": [
+      "能源动力"
+    ],
+    "sourceHosts": [
+      "www.gs.sjtu.edu.cn",
+      "lcc.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.gs.sjtu.edu.cn/",
+      "https://lcc.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://lcc.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-0449229d3e37",
     "school": "四川大学",
     "department": "电子信息学院",
@@ -70112,122 +70262,6 @@
     ],
     "departmentHomepages": [
       "https://yzb.sjtu.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-b13e34d556b0",
-    "school": "上海交通大学",
-    "department": "中英国际低碳学院",
-    "region": "上海",
-    "levels": [
-      "985"
-    ],
-    "title": "上海交通大学 · 中英国际低碳学院",
-    "tracks": [
-      "材料能源化工",
-      "建筑土木交通"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 1,
-        "stages": [
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-01-01",
-        "lastApplicationEnd": "2026-05-25",
-        "notices": [
-          {
-            "id": "college-fe6374a55f45",
-            "title": "上海交通大学低碳学院2026年博士研究生招生报名通...",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-01-01",
-            "applicationEnd": "2026-05-25",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://lcc.sjtu.edu.cn/Data/View/4687",
-            "sourceHost": "lcc.sjtu.edu.cn",
-            "sourceHomepage": "https://lcc.sjtu.edu.cn/",
-            "departmentHomepage": "https://lcc.sjtu.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-ba8d4c01ed94",
-            "title": "上海交通大学中英国际低碳学院研究生招生宣传手册（2025） - 上海交通大学研究生院",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.gs.sjtu.edu.cn/post/detail/Z3MyNTYz",
-            "sourceHost": "www.gs.sjtu.edu.cn",
-            "sourceHomepage": "https://www.gs.sjtu.edu.cn/",
-            "departmentHomepage": "https://lcc.sjtu.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 2,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "推免",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "博士",
-      "硕士",
-      "待确认"
-    ],
-    "majors": [
-      "能源动力"
-    ],
-    "sourceHosts": [
-      "lcc.sjtu.edu.cn",
-      "www.gs.sjtu.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://lcc.sjtu.edu.cn/",
-      "https://www.gs.sjtu.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://lcc.sjtu.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
