@@ -7504,16 +7504,16 @@
     "timeline": [
       {
         "year": 2026,
-        "count": 22,
+        "count": 23,
         "stages": [
-          "夏令营/研学营",
           "推免报名",
+          "夏令营/研学营",
           "推免"
         ],
         "degreeTypes": [
-          "待确认",
           "专业型硕士",
           "博士",
+          "待确认",
           "硕士"
         ],
         "firstPublishedAt": "2026-01-01",
@@ -7521,6 +7521,23 @@
         "firstApplicationStart": "2025-09-01",
         "lastApplicationEnd": "2027-09-07",
         "notices": [
+          {
+            "id": "college-16659dfe76f2",
+            "title": "12 2026.10 北京大学软件与微电子学院2027年工程硕博士培养改革专项博士研究生招生说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/67f64b43b62843d095d4bc876c723c25.htm",
+            "sourceHost": "www.ss.pku.edu.cn",
+            "sourceHomepage": "https://www.ss.pku.edu.cn/",
+            "departmentHomepage": "http://ss.pku.edu.cn/"
+          },
           {
             "id": "college-22a64c6b16a6",
             "title": "北京大学软件与微电子学院2026年全国优秀大学生夏令营通知",
@@ -7961,7 +7978,7 @@
     "currentSeasonStatus": "监控中，暂未发现官方通知",
     "currentSeasonCount": 0,
     "latestPastYear": 2026,
-    "noticeCount": 25,
+    "noticeCount": 26,
     "llmStructuredCount": 3,
     "years": [
       2026,
@@ -7969,19 +7986,19 @@
       2022
     ],
     "stages": [
-      "夏令营/研学营",
       "推免报名",
+      "夏令营/研学营",
       "推免"
     ],
     "degreeTypes": [
-      "待确认",
       "专业型硕士",
       "博士",
+      "待确认",
       "硕士"
     ],
     "majors": [
-      "软件工程",
       "电子信息",
+      "软件工程",
       "人工智能",
       "信息安全",
       "金融",
@@ -7995,15 +8012,15 @@
       "哲学"
     ],
     "sourceHosts": [
-      "ss.pku.edu.cn",
       "www.ss.pku.edu.cn",
+      "ss.pku.edu.cn",
       "admission.pku.edu.cn",
       "eecs.pku.edu.cn"
     ],
     "sourceHomepages": [
+      "https://www.ss.pku.edu.cn/",
       "https://ss.pku.edu.cn/",
       "http://ss.pku.edu.cn/",
-      "https://www.ss.pku.edu.cn/",
       "https://admission.pku.edu.cn/",
       "https://eecs.pku.edu.cn/"
     ],

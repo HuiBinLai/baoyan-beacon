@@ -1,81 +1,37 @@
 [
   {
-    "id": "college-51fe9f411c70",
-    "title": "清华大学2027年丘成桐数学科学领军人才培养计划招生简章",
-    "school": "清华大学",
-    "department": "领导力与组织管理系",
+    "id": "college-16659dfe76f2",
+    "title": "12 2026.10 北京大学软件与微电子学院2027年工程硕博士培养改革专项博士研究生招生说明",
+    "school": "北京大学",
+    "department": "电子学院",
     "majors": [
-      "人工智能",
-      "数学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "清华大学领导力与组织管理系官方站点",
-    "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/8363.htm",
-    "sourceHost": "qzc.tsinghua.edu.cn",
-    "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
-    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
-    "summary": "为全面贯彻党的教育方针，落实立德树人根本任务，充分发挥大师育人作用，加强数学科学人才培养工作，2027年清华大学继续开展丘成桐数学科学领军人才培养计划（以下简称“数学领军计划”）。面向全球招收中学阶段...",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-b44a5c981efa"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学2027年丘成桐数学科学领军人才培养计划招生简章。为全面贯彻党的教育方针，落实立德树人根本任务，充分发挥大师育人作用，加强数学科学人才培养工作，2027年清华大学继续开展丘成桐数学科学领军人才培养计划（以下简称“数学领军计划”）。面向全球招收中学阶段...。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-14",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-14"
-  },
-  {
-    "id": "college-0ee8e25aee50",
-    "title": "资讯公告 - 上海交通大学研究生院",
-    "school": "上海交通大学",
-    "department": "中英国际低碳学院",
-    "majors": [
-      "待确认"
+      "电子信息"
     ],
     "type": "推免",
     "year": 2026,
-    "region": "上海",
+    "region": "北京",
     "deadline": "",
     "publishedAt": "2026-01-01",
-    "sourceName": "上海交通大学中英国际低碳学院官方站点",
-    "sourceUrl": "https://www.gs.sjtu.edu.cn/news",
-    "sourceHost": "www.gs.sjtu.edu.cn",
-    "sourceHomepage": "https://www.gs.sjtu.edu.cn/",
-    "departmentHomepage": "https://lcc.sjtu.edu.cn/",
-    "summary": "中英国际低碳学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "北京大学软件与微电子学院官方站点",
+    "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/67f64b43b62843d095d4bc876c723c25.htm",
+    "sourceHost": "www.ss.pku.edu.cn",
+    "sourceHomepage": "https://www.ss.pku.edu.cn/",
+    "departmentHomepage": "http://ss.pku.edu.cn/",
+    "summary": "软件与微电子学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-50475338268c"
+      "auto-115bcecfd7cf"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "资讯公告 - 上海交通大学研究生院。中英国际低碳学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "12 2026.10 北京大学软件与微电子学院2027年工程硕博士培养改革专项博士研究生招生说明。软件与微电子学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "中英国际低碳学院学院官网补漏发现的推免相关官方信息",
+      "软件与微电子学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -83,12 +39,13 @@
     "applicationMethod": "",
     "targetStudents": "",
     "degreeTypes": [
-      "待确认"
+      "专业型硕士",
+      "博士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-14",
+    "structuredAt": "2026-10-15",
     "noticeStage": "推免报名",
-    "classifiedAt": "2026-10-14"
+    "classifiedAt": "2026-10-15"
   },
   {
     "id": "college-aefd2b5cad3f",
@@ -15625,6 +15582,50 @@
     "sourceExcerpt": "湖南大学 数学学院推荐 2027 年优秀应届本科毕业生免试攻读硕士学位...。搜索引擎发现的湖南大学2027年推免相关官方信息，已按官方域名过滤。请在后台复核学院、专业、截止日期和正文摘要。。",
     "noticeStage": "推免报名",
     "classifiedAt": "2026-08-27"
+  },
+  {
+    "id": "college-51fe9f411c70",
+    "title": "清华大学2027年丘成桐数学科学领军人才培养计划招生简章",
+    "school": "清华大学",
+    "department": "领导力与组织管理系",
+    "majors": [
+      "人工智能",
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学领导力与组织管理系官方站点",
+    "sourceUrl": "https://qzc.tsinghua.edu.cn/info/1070/8363.htm",
+    "sourceHost": "qzc.tsinghua.edu.cn",
+    "sourceHomepage": "https://qzc.tsinghua.edu.cn/",
+    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
+    "summary": "为全面贯彻党的教育方针，落实立德树人根本任务，充分发挥大师育人作用，加强数学科学人才培养工作，2027年清华大学继续开展丘成桐数学科学领军人才培养计划（以下简称“数学领军计划”）。面向全球招收中学阶段...",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-b44a5c981efa"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学2027年丘成桐数学科学领军人才培养计划招生简章。为全面贯彻党的教育方针，落实立德树人根本任务，充分发挥大师育人作用，加强数学科学人才培养工作，2027年清华大学继续开展丘成桐数学科学领军人才培养计划（以下简称“数学领军计划”）。面向全球招收中学阶段...。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-14",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-14"
   },
   {
     "id": "college-b4358b867c2d",
@@ -46706,6 +46707,53 @@
     "sourceHost": "www.yz.sdu.edu.cn",
     "sourceHomepage": "https://www.yz.sdu.edu.cn/",
     "departmentHomepage": "https://www.yz.sdu.edu.cn/"
+  },
+  {
+    "id": "college-0ee8e25aee50",
+    "title": "资讯公告 - 上海交通大学研究生院",
+    "school": "上海交通大学",
+    "department": "中英国际低碳学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学中英国际低碳学院官方站点",
+    "sourceUrl": "https://www.gs.sjtu.edu.cn/news",
+    "sourceHost": "www.gs.sjtu.edu.cn",
+    "sourceHomepage": "https://www.gs.sjtu.edu.cn/",
+    "departmentHomepage": "https://lcc.sjtu.edu.cn/",
+    "summary": "中英国际低碳学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-50475338268c"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "资讯公告 - 上海交通大学研究生院。中英国际低碳学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "中英国际低碳学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-14",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-14"
   },
   {
     "id": "college-d804202b7d23",

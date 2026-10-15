@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T05:16:20.574Z",
+  "generatedAt": "2026-10-15T04:32:51.084Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2483,
+    "notices": 2484,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 452,
+      "total": 453,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -513,7 +513,7 @@
       "id": "auto-1cccc4c719c3",
       "school": "北京大学",
       "department": "电子学院",
-      "total": 25,
+      "total": 26,
       "years": [
         2026,
         2025,
@@ -938,7 +938,7 @@
       "id": "auto-115bcecfd7cf",
       "school": "北京大学",
       "department": "软件与微电子学院",
-      "total": 17,
+      "total": 18,
       "years": [
         2026
       ],
