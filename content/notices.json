@@ -1,53 +1,5 @@
 [
   {
-    "id": "college-16659dfe76f2",
-    "title": "12 2026.10 北京大学软件与微电子学院2027年工程硕博士培养改革专项博士研究生招生说明",
-    "school": "北京大学",
-    "department": "电子学院",
-    "majors": [
-      "电子信息"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "北京大学软件与微电子学院官方站点",
-    "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/67f64b43b62843d095d4bc876c723c25.htm",
-    "sourceHost": "www.ss.pku.edu.cn",
-    "sourceHomepage": "https://www.ss.pku.edu.cn/",
-    "departmentHomepage": "http://ss.pku.edu.cn/",
-    "summary": "软件与微电子学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-115bcecfd7cf"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "12 2026.10 北京大学软件与微电子学院2027年工程硕博士培养改革专项博士研究生招生说明。软件与微电子学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "软件与微电子学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "专业型硕士",
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-15",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-10-15"
-  },
-  {
     "id": "college-aefd2b5cad3f",
     "title": "中国人民大学信息学院2027年工程硕博士培养改革专项工程直博报名通知",
     "school": "中国人民大学",
@@ -21120,6 +21072,54 @@
     "sourceExcerpt": "中山大学 哲学系 2027 年接收优秀应届本科毕业生推荐免试攻读研究生...。搜索引擎发现的中山大学2027年推免相关官方信息，已按官方域名过滤。请在后台复核学院、专业、截止日期和正文摘要。。",
     "noticeStage": "推免报名",
     "classifiedAt": "2026-08-27"
+  },
+  {
+    "id": "college-16659dfe76f2",
+    "title": "12 2026.10 北京大学软件与微电子学院2027年工程硕博士培养改革专项博士研究生招生说明",
+    "school": "北京大学",
+    "department": "电子学院",
+    "majors": [
+      "电子信息"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学软件与微电子学院官方站点",
+    "sourceUrl": "https://www.ss.pku.edu.cn/xshd/zsxx/zstz/67f64b43b62843d095d4bc876c723c25.htm",
+    "sourceHost": "www.ss.pku.edu.cn",
+    "sourceHomepage": "https://www.ss.pku.edu.cn/",
+    "departmentHomepage": "http://ss.pku.edu.cn/",
+    "summary": "软件与微电子学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-115bcecfd7cf"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "12 2026.10 北京大学软件与微电子学院2027年工程硕博士培养改革专项博士研究生招生说明。软件与微电子学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "软件与微电子学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士",
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-15",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-15"
   },
   {
     "id": "college-22a64c6b16a6",
