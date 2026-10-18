@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:29:12.947Z",
+  "generatedAt": "2026-10-18T04:04:55.938Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -265,9 +265,9 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 39,
+      "total": 40,
       "recentFiveYears": 32,
-      "currentSeason": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -284,9 +284,9 @@
       "department": "集成电路学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ic.pku.edu.cn/",
-      "total": 28,
+      "total": 29,
       "recentFiveYears": 22,
-      "currentSeason": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -320,9 +320,9 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 36,
+      "total": 37,
       "recentFiveYears": 29,
-      "currentSeason": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -6926,8 +6926,8 @@
       "department": "车辆与运载学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.svm.tsinghua.edu.cn/",
-      "total": 43,
-      "recentFiveYears": 37,
+      "total": 44,
+      "recentFiveYears": 38,
       "currentSeason": 3,
       "years": [
         2027,
@@ -9300,8 +9300,8 @@
       "department": "文化创意产业学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://icci.sjtu.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 14,
+      "total": 23,
+      "recentFiveYears": 19,
       "currentSeason": 2,
       "years": [
         2041,
@@ -9363,9 +9363,9 @@
       "department": "智慧能源创新学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://www.senergy.sjtu.edu.cn/",
-      "total": 9,
+      "total": 11,
       "recentFiveYears": 5,
-      "currentSeason": 4,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-17T04:29:11.533Z",
+  "generatedAt": "2026-10-18T04:04:54.475Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2484,
+    "notices": 2495,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 453,
+      "total": 455,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 265,
+      "total": 266,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 51,
@@ -60,9 +60,9 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 371,
-      "currentYear": 1,
-      "recentFiveYears": 1,
+      "total": 379,
+      "currentYear": 2,
+      "recentFiveYears": 2,
       "departments": 52,
       "llmStructured": 159,
       "latestDate": "2041-01-01",
@@ -513,13 +513,14 @@
       "id": "auto-1cccc4c719c3",
       "school": "北京大学",
       "department": "电子学院",
-      "total": 26,
+      "total": 27,
       "years": [
+        2027,
         2026,
         2025,
         2022
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -717,8 +718,9 @@
       "id": "auto-5766654a8aed",
       "school": "北京大学",
       "department": "集成电路学院",
-      "total": 10,
+      "total": 11,
       "years": [
+        2027,
         2026,
         2025
       ],
@@ -938,11 +940,12 @@
       "id": "auto-115bcecfd7cf",
       "school": "北京大学",
       "department": "软件与微电子学院",
-      "total": 18,
+      "total": 19,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -1312,7 +1315,7 @@
       "id": "auto-b69e89812abf",
       "school": "清华大学",
       "department": "车辆与运载学院",
-      "total": 40,
+      "total": 41,
       "years": [
         2027,
         2026,
@@ -2635,7 +2638,7 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 15,
+      "total": 21,
       "years": [
         2041,
         2027,
@@ -2788,7 +2791,7 @@
       "id": "auto-181d998d2449",
       "school": "上海交通大学",
       "department": "智慧能源创新学院",
-      "total": 9,
+      "total": 11,
       "years": [
         2027,
         2026,
