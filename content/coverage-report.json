@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T04:15:51.474Z",
+  "generatedAt": "2026-10-20T04:47:31.537Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2499,
+    "notices": 2519,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 459,
+      "total": 465,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 266,
+      "total": 267,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 51,
@@ -60,10 +60,10 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 379,
+      "total": 392,
       "currentYear": 2,
       "recentFiveYears": 2,
-      "departments": 52,
+      "departments": 53,
       "llmStructured": 159,
       "latestDate": "2041-01-01",
       "status": "covered"
@@ -487,7 +487,7 @@
       "id": "auto-82f0fbd04bc7",
       "school": "北京大学",
       "department": "城市规划与设计学院",
-      "total": 20,
+      "total": 23,
       "years": [
         2027,
         2026
@@ -598,7 +598,7 @@
       "id": "auto-0c7482477085",
       "school": "北京大学",
       "department": "光华管理学院",
-      "total": 20,
+      "total": 23,
       "years": [
         2027,
         2026
@@ -1334,7 +1334,7 @@
       "id": "auto-5cbcf2779070",
       "school": "清华大学",
       "department": "城市规划系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -1364,7 +1364,7 @@
       "id": "auto-5109aead1d1f",
       "school": "清华大学",
       "department": "创新创业与战略系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -1428,7 +1428,7 @@
       "id": "auto-8a1555af8482",
       "school": "清华大学",
       "department": "工业设计系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -1547,7 +1547,7 @@
       "id": "auto-efdb96c10431",
       "school": "清华大学",
       "department": "航天航空学院",
-      "total": 50,
+      "total": 51,
       "years": [
         2027,
         2026,
@@ -1586,7 +1586,7 @@
       "id": "auto-bf42dc3e4524",
       "school": "清华大学",
       "department": "环境可持续系统管理系",
-      "total": 50,
+      "total": 51,
       "years": [
         2027,
         2026,
@@ -1632,7 +1632,7 @@
       "id": "auto-65fa30f29b89",
       "school": "清华大学",
       "department": "绘画系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -1651,7 +1651,7 @@
       "id": "auto-a3c948275aed",
       "school": "清华大学",
       "department": "机械工程系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -1715,7 +1715,7 @@
       "id": "auto-953493a80c78",
       "school": "清华大学",
       "department": "建筑系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -1783,7 +1783,7 @@
       "id": "auto-bc1946012103",
       "school": "清华大学",
       "department": "景观学系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -1819,7 +1819,7 @@
       "id": "auto-028fe9eefa89",
       "school": "清华大学",
       "department": "历史系",
-      "total": 49,
+      "total": 50,
       "years": [
         2027,
         2026,
@@ -1851,7 +1851,7 @@
       "id": "auto-388aae5c16fb",
       "school": "清华大学",
       "department": "能源与动力工程系",
-      "total": 47,
+      "total": 48,
       "years": [
         2027,
         2026,
@@ -1870,7 +1870,7 @@
       "id": "auto-dff1f4250423",
       "school": "清华大学",
       "department": "全球创新学院",
-      "total": 5,
+      "total": 6,
       "years": [
         2027,
         2026,
@@ -2018,7 +2018,7 @@
       "id": "auto-64e39c01d19b",
       "school": "清华大学",
       "department": "信息国家研究中心",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -2154,7 +2154,7 @@
       "id": "auto-b8365efed3cc",
       "school": "清华大学",
       "department": "中国语言文学系",
-      "total": 45,
+      "total": 46,
       "years": [
         2027,
         2026,
@@ -2185,9 +2185,11 @@
       "id": "auto-e0a3c3912518",
       "school": "上海交通大学",
       "department": "巴黎卓越工程师学院",
-      "total": 2,
+      "total": 6,
       "years": [
         2026,
+        2025,
+        2024,
         2022
       ],
       "latestDate": "2026-01-01",
@@ -2224,13 +2226,14 @@
       "id": "auto-a33482cdb1bf",
       "school": "上海交通大学",
       "department": "电气工程学院",
-      "total": 19,
+      "total": 21,
       "years": [
+        2027,
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2293,7 +2296,7 @@
       "id": "auto-a6176ddbcf96",
       "school": "上海交通大学",
       "department": "海洋研究院",
-      "total": 37,
+      "total": 39,
       "years": [
         2026,
         2025,
@@ -2435,10 +2438,11 @@
       "id": "auto-b92dddbebf0e",
       "school": "上海交通大学",
       "department": "马克思主义学院",
-      "total": 13,
+      "total": 14,
       "years": [
         2027,
-        2026
+        2026,
+        2022
       ],
       "latestDate": "2027-01-01",
       "status": "covered"
