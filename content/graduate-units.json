@@ -3668,6 +3668,19 @@
     "priority": 9003
   },
   {
+    "id": "eafe3349d6",
+    "school": "上海交通大学",
+    "department": "上海交大船建学院",
+    "aliases": [
+      "上海交大船建学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3205",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 5,
+    "priority": 9007
+  },
+  {
     "id": "9b6bbed85c",
     "school": "上海交通大学",
     "department": "2027年硕士推免招生专业目录校本部",

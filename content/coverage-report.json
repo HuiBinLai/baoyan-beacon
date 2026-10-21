@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20T04:47:31.537Z",
+  "generatedAt": "2026-10-21T04:35:39.279Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2519,
+    "notices": 2521,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
-    "collegeSources": 324,
-    "missingCollegeSources": 86,
+    "collegeSources": 325,
+    "missingCollegeSources": 87,
     "llmStructured": 1530,
     "unstructured": 0
   },
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 267,
+      "total": 269,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 51,
@@ -1462,7 +1462,7 @@
       "id": "auto-de047849affc",
       "school": "清华大学",
       "department": "管理科学与工程系",
-      "total": 17,
+      "total": 19,
       "years": [
         2026,
         2025
@@ -2968,6 +2968,15 @@
       "status": "missing"
     },
     {
+      "id": "auto-42dc7d7ace21",
+      "school": "浙江大学",
+      "department": "航空航天学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
       "id": "auto-ad444795577d",
       "school": "浙江大学",
       "department": "化工学院",
@@ -4459,6 +4468,7 @@
     "浙江大学电气工程学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学公共管理学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学光华法学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学航空航天学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学化工学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学建筑工程学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学经济学院 已登记源但暂无候选，需要检查公告页。",

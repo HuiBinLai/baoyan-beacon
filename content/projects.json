@@ -13947,6 +13947,404 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-ff44f0e30bf1",
+    "school": "清华大学",
+    "department": "管理科学与工程系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 管理科学与工程系",
+    "tracks": [
+      "经管金融"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 18,
+        "stages": [
+          "推免",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "硕士",
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-07-01",
+        "lastApplicationEnd": "2026-08-27",
+        "notices": [
+          {
+            "id": "college-6ee27d0cdb31",
+            "title": "09 / 2026.10",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1291/3653.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-16d4f5fd1f4d",
+            "title": "09 / 2026.10",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1291/3652.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-9158100fcbc8",
+            "title": "09 / 2026.10",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3654.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-5d8aa5aafbcd",
+            "title": "09 / 2026.10",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3655.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-7f183ad611c2",
+            "title": "18 / 2026.06",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1291/3612.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-52e4c0ff134f",
+            "title": "14 / 2026.08",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/b57b7bb3-1bdc-4ba0-ad2a-3837e6809bd6?yxsdm=051",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-4da70e485978",
+            "title": "14 / 2026.08",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-08-25",
+            "applicationEnd": "2026-08-27",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/5dea2161-1dca-4684-adcf-27f4f654be44?yxsdm=051",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-7c5efdbdb6c3",
+            "title": "招生信息-清华大学经济管理学院硕士",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zs1/zsxx1.htm#",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-dc8d03ea837b",
+            "title": "清华大学研究生招生网",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gatzs/jzml.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-d5d8411ee418",
+            "title": "清华大学研究生招生网",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gjxs/jzml.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-34295cd4c3ba",
+            "title": "14 / 2026.08",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/11cab00f-5fae-463a-8319-fc8093a5bb89?yxsdm=051",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-316cfdc222e9",
+            "title": "18 / 2026.06",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-01",
+            "applicationEnd": "2026-07-28",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3611.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-940bc125e2d8",
+            "title": "清华大学经济管理学院硕士",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-50df62d69cdc",
+            "title": "清华大学研究生招生网",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/sszs/ptzk.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-2ef0491e96ca",
+            "title": "通知公告-清华大学经济管理学院硕士",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/xwdt/tzgg.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-cb2c3c55feb2",
+            "title": "招生日程-清华大学经济管理学院硕士",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zs1/zsrc.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-9c0de2312878",
+            "title": "招生信息-清华大学经济管理学院硕士",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zs1/zsxx1.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-bdd7a2389ea3",
+            "title": "中国（境内）考生 推免",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/ndLogin",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-07-01",
+        "lastApplicationEnd": "2025-07-28",
+        "notices": [
+          {
+            "id": "college-95406fb5c85a",
+            "title": "25 / 2025.06",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-07-01",
+            "applicationEnd": "2025-07-28",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3343.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 19,
+    "llmStructuredCount": 3,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免",
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "专业型硕士",
+      "硕士",
+      "待确认",
+      "博士"
+    ],
+    "majors": [
+      "金融",
+      "会计",
+      "工商管理",
+      "人工智能",
+      "金融硕士",
+      "管理硕士",
+      "清华大学-哥伦比亚大学商务分析双硕士学位项目"
+    ],
+    "sourceHosts": [
+      "masters.sem.tsinghua.edu.cn",
+      "yzbm.tsinghua.edu.cn",
+      "yz.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://masters.sem.tsinghua.edu.cn/",
+      "https://yzbm.tsinghua.edu.cn/",
+      "https://yz.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://masters.sem.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-b0d375321fd8",
     "school": "清华大学",
     "department": "数学科学中心",
@@ -16659,372 +17057,6 @@
     "departmentHomepages": [
       "http://www.ece.pku.edu.cn/",
       "https://www.ece.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-ff44f0e30bf1",
-    "school": "清华大学",
-    "department": "管理科学与工程系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 管理科学与工程系",
-    "tracks": [
-      "经管金融"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 16,
-        "stages": [
-          "推免",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "硕士",
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-07-01",
-        "lastApplicationEnd": "2026-08-27",
-        "notices": [
-          {
-            "id": "college-9158100fcbc8",
-            "title": "09 / 2026.10",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3654.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-5d8aa5aafbcd",
-            "title": "09 / 2026.10",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3655.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-7f183ad611c2",
-            "title": "18 / 2026.06",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1291/3612.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-52e4c0ff134f",
-            "title": "14 / 2026.08",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/b57b7bb3-1bdc-4ba0-ad2a-3837e6809bd6?yxsdm=051",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-4da70e485978",
-            "title": "14 / 2026.08",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-08-25",
-            "applicationEnd": "2026-08-27",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/5dea2161-1dca-4684-adcf-27f4f654be44?yxsdm=051",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-7c5efdbdb6c3",
-            "title": "招生信息-清华大学经济管理学院硕士",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zs1/zsxx1.htm#",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-dc8d03ea837b",
-            "title": "清华大学研究生招生网",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gatzs/jzml.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-d5d8411ee418",
-            "title": "清华大学研究生招生网",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/gjxs/jzml.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-34295cd4c3ba",
-            "title": "14 / 2026.08",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/11cab00f-5fae-463a-8319-fc8093a5bb89?yxsdm=051",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-316cfdc222e9",
-            "title": "18 / 2026.06",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-01",
-            "applicationEnd": "2026-07-28",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3611.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-940bc125e2d8",
-            "title": "清华大学经济管理学院硕士",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-50df62d69cdc",
-            "title": "清华大学研究生招生网",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/zsxx/sszs/ptzk.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-2ef0491e96ca",
-            "title": "通知公告-清华大学经济管理学院硕士",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/xwdt/tzgg.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-cb2c3c55feb2",
-            "title": "招生日程-清华大学经济管理学院硕士",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zs1/zsrc.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-9c0de2312878",
-            "title": "招生信息-清华大学经济管理学院硕士",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zs1/zsxx1.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-bdd7a2389ea3",
-            "title": "中国（境内）考生 推免",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/ndLogin",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-07-01",
-        "lastApplicationEnd": "2025-07-28",
-        "notices": [
-          {
-            "id": "college-95406fb5c85a",
-            "title": "25 / 2025.06",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-07-01",
-            "applicationEnd": "2025-07-28",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1232/3343.htm",
-            "sourceHost": "masters.sem.tsinghua.edu.cn",
-            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-            "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 17,
-    "llmStructuredCount": 3,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "推免",
-      "推免报名"
-    ],
-    "degreeTypes": [
-      "专业型硕士",
-      "硕士",
-      "待确认",
-      "博士"
-    ],
-    "majors": [
-      "金融",
-      "会计",
-      "工商管理",
-      "人工智能",
-      "金融硕士",
-      "管理硕士",
-      "清华大学-哥伦比亚大学商务分析双硕士学位项目"
-    ],
-    "sourceHosts": [
-      "masters.sem.tsinghua.edu.cn",
-      "yzbm.tsinghua.edu.cn",
-      "yz.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://masters.sem.tsinghua.edu.cn/",
-      "https://yzbm.tsinghua.edu.cn/",
-      "https://yz.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://masters.sem.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

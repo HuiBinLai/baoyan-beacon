@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:47:32.690Z",
+  "generatedAt": "2026-10-21T04:35:40.797Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,8 +9,8 @@
     2022
   ],
   "totals": {
-    "units": 1147,
-    "covered": 779,
+    "units": 1148,
+    "covered": 780,
     "stale": 10,
     "missing": 358,
     "currentSeasonCovered": 137
@@ -7637,8 +7637,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 17,
-      "recentFiveYears": 17,
+      "total": 19,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,
@@ -10023,6 +10023,21 @@
         2024
       ],
       "latestDate": "2027-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "eafe3349d6",
+      "school": "上海交通大学",
+      "department": "上海交大船建学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://yzb.sjtu.edu.cn/post/3205",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-10-20",
       "status": "covered"
     },
     {
