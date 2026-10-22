@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:35:40.797Z",
+  "generatedAt": "2026-10-22T04:45:04.556Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -13,7 +13,7 @@
     "covered": 780,
     "stale": 10,
     "missing": 358,
-    "currentSeasonCovered": 137
+    "currentSeasonCovered": 139
   },
   "units": [
     {
@@ -605,9 +605,9 @@
       "department": "法学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.law.pku.edu.cn/",
-      "total": 8,
+      "total": 10,
       "recentFiveYears": 6,
-      "currentSeason": 2,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -654,9 +654,9 @@
       "department": "政府管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.sg.pku.edu.cn/",
-      "total": 21,
-      "recentFiveYears": 15,
-      "currentSeason": 6,
+      "total": 25,
+      "recentFiveYears": 16,
+      "currentSeason": 9,
       "years": [
         2027,
         2026,
@@ -671,9 +671,9 @@
       "department": "马克思主义学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://marxism.pku.edu.cn/",
-      "total": 10,
+      "total": 11,
       "recentFiveYears": 5,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -742,9 +742,9 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 24,
+      "total": 28,
       "recentFiveYears": 15,
-      "currentSeason": 9,
+      "currentSeason": 13,
       "years": [
         2027,
         2026
@@ -973,16 +973,17 @@
       "department": "现代农学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.saas.pku.edu.cn/",
-      "total": 8,
+      "total": 10,
       "recentFiveYears": 4,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026,
         2025,
         2024,
         2021
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -1038,9 +1039,9 @@
       "department": "城市规划与设计学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 23,
+      "total": 26,
       "recentFiveYears": 19,
-      "currentSeason": 4,
+      "currentSeason": 7,
       "years": [
         2027,
         2026
@@ -1054,9 +1055,9 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 7,
+      "total": 8,
       "recentFiveYears": 2,
-      "currentSeason": 5,
+      "currentSeason": 6,
       "years": [
         2027,
         2026
@@ -1086,8 +1087,8 @@
       "department": "汇丰商学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.phbs.pku.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 15,
+      "total": 16,
+      "recentFiveYears": 16,
       "currentSeason": 0,
       "years": [
         2026,
@@ -1363,13 +1364,14 @@
       "department": "新闻与传播学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://sjc.pku.edu.cn/info/1037/13081.htm",
-      "total": 1,
+      "total": 3,
       "recentFiveYears": 1,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2024
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -9473,8 +9475,8 @@
       "department": "海洋研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://ioo.sjtu.edu.cn/",
-      "total": 38,
-      "recentFiveYears": 38,
+      "total": 40,
+      "recentFiveYears": 40,
       "currentSeason": 0,
       "years": [
         2026,
@@ -16034,8 +16036,8 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 14,
-      "recentFiveYears": 12,
+      "total": 15,
+      "recentFiveYears": 13,
       "currentSeason": 2,
       "years": [
         2027,
