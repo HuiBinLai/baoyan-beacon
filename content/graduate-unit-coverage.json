@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T04:45:04.556Z",
+  "generatedAt": "2026-10-23T04:49:35.401Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,11 +9,11 @@
     2022
   ],
   "totals": {
-    "units": 1148,
-    "covered": 780,
+    "units": 1149,
+    "covered": 781,
     "stale": 10,
     "missing": 358,
-    "currentSeasonCovered": 139
+    "currentSeasonCovered": 142
   },
   "units": [
     {
@@ -35,9 +35,9 @@
       "department": "理学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fs.pku.edu.cn/",
-      "total": 21,
+      "total": 22,
       "recentFiveYears": 13,
-      "currentSeason": 8,
+      "currentSeason": 9,
       "years": [
         2027,
         2026,
@@ -129,13 +129,14 @@
       "department": "经济与管理学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fem.pku.edu.cn/",
-      "total": 7,
+      "total": 8,
       "recentFiveYears": 7,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2026-10-23",
       "status": "covered"
     },
     {
@@ -178,9 +179,9 @@
       "department": "生命科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://bio.pku.edu.cn/",
-      "total": 12,
+      "total": 14,
       "recentFiveYears": 8,
-      "currentSeason": 4,
+      "currentSeason": 6,
       "years": [
         2027,
         2026
@@ -213,9 +214,9 @@
       "department": "心理与认知科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.psy.pku.edu.cn/",
-      "total": 16,
+      "total": 20,
       "recentFiveYears": 10,
-      "currentSeason": 6,
+      "currentSeason": 10,
       "years": [
         2027,
         2026
@@ -265,9 +266,9 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 44,
+      "total": 45,
       "recentFiveYears": 34,
-      "currentSeason": 9,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
@@ -356,9 +357,9 @@
       "department": "中国语言文学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://chinese.pku.edu.cn/",
-      "total": 16,
+      "total": 18,
       "recentFiveYears": 8,
-      "currentSeason": 8,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
@@ -410,9 +411,9 @@
       "department": "外国语学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sfl.pku.edu.cn/",
-      "total": 19,
+      "total": 20,
       "recentFiveYears": 13,
-      "currentSeason": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026
@@ -512,9 +513,9 @@
       "department": "先进制造与机器人学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://amr.pku.edu.cn/",
-      "total": 25,
-      "recentFiveYears": 17,
-      "currentSeason": 8,
+      "total": 27,
+      "recentFiveYears": 18,
+      "currentSeason": 9,
       "years": [
         2027,
         2026,
@@ -605,9 +606,9 @@
       "department": "法学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.law.pku.edu.cn/",
-      "total": 10,
+      "total": 11,
       "recentFiveYears": 6,
-      "currentSeason": 4,
+      "currentSeason": 5,
       "years": [
         2027,
         2026,
@@ -622,9 +623,9 @@
       "department": "信息管理系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.im.pku.edu.cn/",
-      "total": 8,
+      "total": 9,
       "recentFiveYears": 6,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026
@@ -638,14 +639,15 @@
       "department": "社会学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.shehui.pku.edu.cn/",
-      "total": 4,
+      "total": 5,
       "recentFiveYears": 3,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2019
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -671,9 +673,9 @@
       "department": "马克思主义学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://marxism.pku.edu.cn/",
-      "total": 11,
+      "total": 12,
       "recentFiveYears": 5,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -742,9 +744,9 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 28,
+      "total": 35,
       "recentFiveYears": 15,
-      "currentSeason": 13,
+      "currentSeason": 20,
       "years": [
         2027,
         2026
@@ -1039,9 +1041,9 @@
       "department": "城市规划与设计学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 26,
+      "total": 40,
       "recentFiveYears": 19,
-      "currentSeason": 7,
+      "currentSeason": 21,
       "years": [
         2027,
         2026
@@ -1055,9 +1057,9 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 8,
+      "total": 9,
       "recentFiveYears": 2,
-      "currentSeason": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026
@@ -1232,9 +1234,9 @@
       "department": "新媒体研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://snm.pku.edu.cn/",
-      "total": 5,
+      "total": 6,
       "recentFiveYears": 3,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026
@@ -1297,9 +1299,9 @@
       "department": "城市与环境学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://ues.pku.edu.cn/jyjx/yjsjy/zsxx/f311225988eb46d29d1328dea11805bf.htm",
-      "total": 19,
+      "total": 20,
       "recentFiveYears": 11,
-      "currentSeason": 8,
+      "currentSeason": 9,
       "years": [
         2027,
         2026,
@@ -1461,13 +1463,14 @@
       "department": "习近平新时代中国特色社会主义思想研究院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/e860b3f0df8942c9895d4309e0888e83.htm",
-      "total": 1,
+      "total": 3,
       "recentFiveYears": 1,
-      "currentSeason": 0,
+      "currentSeason": 2,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -10025,6 +10028,21 @@
         2024
       ],
       "latestDate": "2027-01-01",
+      "status": "covered"
+    },
+    {
+      "id": "268bff7558",
+      "school": "上海交通大学",
+      "department": "2027年能源前沿学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "https://yzb.sjtu.edu.cn/post/3777",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-10-22",
       "status": "covered"
     },
     {

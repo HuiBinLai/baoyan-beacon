@@ -3668,6 +3668,19 @@
     "priority": 9003
   },
   {
+    "id": "268bff7558",
+    "school": "上海交通大学",
+    "department": "2027年能源前沿学院",
+    "aliases": [
+      "2027年能源前沿学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3777",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 5,
+    "priority": 9007
+  },
+  {
     "id": "eafe3349d6",
     "school": "上海交通大学",
     "department": "上海交大船建学院",
