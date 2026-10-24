@@ -1,7 +1,151 @@
 [
   {
-    "id": "college-dd03488a2f08",
-    "title": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "id": "college-b7cd3b1b9f4b",
+    "title": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明 2026-10-24",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "人工智能",
+      "计算机科学与技术",
+      "电子信息"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.aais.pku.edu.cn/info/1350/20761.htm",
+    "sourceHost": "www.aais.pku.edu.cn",
+    "sourceHomepage": "https://www.aais.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明 2026-10-24。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明 2026-10-24",
+    "requirements": [
+      "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明 2026-10-24",
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-15723d40c794",
+    "title": "北京大学物理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "物理学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.phy.pku.edu.cn/info/1018/17792.htm",
+    "sourceHost": "www.phy.pku.edu.cn",
+    "sourceHomepage": "https://www.phy.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学物理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学物理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-7d0d4f86f350",
+    "title": "北京大学哲学系2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "哲学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://phil.pku.edu.cn/xwgg/tzgg/ba274ff4d8ed44729cfe512617d51a31.htm",
+    "sourceHost": "phil.pku.edu.cn",
+    "sourceHomepage": "https://phil.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学哲学系2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学哲学系2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-57b155dc0cf0",
+    "title": "北京大学集成电路学院 2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "school": "北京大学",
     "department": "城市规划与设计学院",
     "majors": [
@@ -13,9 +157,9 @@
     "deadline": "",
     "publishedAt": "2027-01-01",
     "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/91792b5f682646e78f8fd89a84f88304.htm",
-    "sourceHost": "www.psy.pku.edu.cn",
-    "sourceHomepage": "https://www.psy.pku.edu.cn/",
+    "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/50185fd93260487da21e9768dd654094.htm",
+    "sourceHost": "ic.pku.edu.cn",
+    "sourceHomepage": "https://ic.pku.edu.cn/",
     "departmentHomepage": "https://www.pku.edu.cn/",
     "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
@@ -26,10 +170,10 @@
       "auto-82f0fbd04bc7"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "北京大学集成电路学院 2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
-    "registrationTime": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "registrationTime": "北京大学集成电路学院 2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "requirements": [
       "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
@@ -42,486 +186,27 @@
       "博士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
+    "structuredAt": "2026-10-24",
     "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
+    "classifiedAt": "2026-10-24"
   },
   {
-    "id": "college-cf2e63748685",
-    "title": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明 2026-10-23",
+    "id": "college-a828afa0a32f",
+    "title": "北京大学教育学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "school": "北京大学",
     "department": "城市规划与设计学院",
     "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/951a054a8fed4862aa326a86ee26c1da.htm",
-    "sourceHost": "xnewera.pku.edu.cn",
-    "sourceHomepage": "https://xnewera.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明 2026-10-23",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-6d3a7c38d797",
-    "title": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://www.gsm.pku.edu.cn/graduate/info/1030/6737.htm",
-    "sourceHost": "www.gsm.pku.edu.cn",
-    "sourceHomepage": "https://www.gsm.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-7cde24ac7099",
-    "title": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明 2026-10-23",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "中国语言文学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://chinese.pku.edu.cn/jyjx/zsxx/64e1044e62e44fc3ad06c98f4ab543c9.htm",
-    "sourceHost": "chinese.pku.edu.cn",
-    "sourceHomepage": "https://chinese.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明 2026-10-23",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-1ac1e2dc35ad",
-    "title": "北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://ues.pku.edu.cn/jyjx/yjsjy/zsxx/ece7f7879f6246cc834dc84b95799512.htm",
-    "sourceHost": "ues.pku.edu.cn",
-    "sourceHomepage": "https://ues.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学城市与环境学院_北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 北大主页 内网登录 邮箱登录 English 首页 学院概况 院长寄语 学院简介 历史沿革 组织机构 系所中心 行政办公 师资队伍 院士 人才计划 在职教职工 荣休教师 教师获奖 教育教学 本科生教育 研究生教育 博士后培养 拔尖人才培养计划 教学平台与实习基地 教育教学成果 科学研究 研究方向 科研动态 学术讲座 科研项目 科研成果 基地与平台 学生园地 学工动态 通知发布 学工队伍 学生风采 所获荣誉 下载专区 党群建设 组织概况 党建动态 我要入党 知识学习 服务指南 工会工作 继续教育 继教概况 专题方向 精品课程 联系我们 校友会 关于我们 凝聚服务 助力城环 时光剪影 城环家谱 学院招聘 教学科研 博士后 教辅行政 --> 教育教学 本科生教育 教学管理 专业介绍 通知公告 联系我们 研究生教育 专业介绍",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-c94399ff9d95",
-    "title": "北京大学新媒体研究院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://snm.pku.edu.cn/info/1029/2944.htm",
-    "sourceHost": "snm.pku.edu.cn",
-    "sourceHomepage": "https://snm.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学新媒体研究院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学新媒体研究院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-061b487341c7",
-    "title": "北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 2026-10-23",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "生物学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://www.bio.pku.edu.cn/homes/Index/news_cont/21/19170.html",
-    "sourceHost": "www.bio.pku.edu.cn",
-    "sourceHomepage": "https://www.bio.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学生命科学学院 EN 内网 --> 新内网 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目 博士后名单 博士后动态 博士后招聘 学院招聘 教研系列 博士后 辅助人员 学生园地 活动新闻 学业促进中心 生涯发展中心 身心健康中心 事业与人生讲座 校友会 工会 工会简介 联系我们 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 2026-10-23",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求",
-      "下载Firefox / 新闻中心 / 通知公告 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 日期： 2026-10-22 北京大学生命科学学院2027年采用优秀本科毕业生推荐免试直接攻读博士学位和“申请-考核”两种招生方式招收攻读博士学位研究生",
-      "本年度“申请-考核制”博士研究生计划招收23人",
-      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
-      "2．学制为5年",
-      "培养要求与本科起点推荐免试直博生相同",
-      "按照我院博士生培养的各项要求",
-      "硕士起点“申请-考核制”博士研究生完成全部培养环节可以申请4年毕业"
-    ],
-    "materials": [
-      "本年度“申请-考核制”博士研究生计划招收23人",
-      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
-      "三",
-      "申请流程 1．网上报名 申请人应在规定的报名期限内登录北大研招网进行网上报名并上传相关材料",
-      "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料",
-      "院系收到申请人报名材料或报名截止后",
-      "申请人的报名信息一律不作修改",
-      "2．提交报名材料 申请人须按照招生简章、报名公告和生命科学学院招生说明的要求在规定期限内如实向报考院系提交下列材料： （1）《北京大学2027年攻读博士学位研究生报考登记表》（网上报名并缴费成功后，方可在报名网站下载，打印确认后须在第2页和第3页上签署本人姓名）"
-    ],
-    "applicationMethod": "本年度“申请-考核制”博士研究生计划招收23人，申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
-    "targetStudents": "",
-    "degreeTypes": [
-      "直博"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-4094070f9655",
-    "title": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://www.im.pku.edu.cn/zsxm/bsxm/28114e811d3f43e98d962166f28c8a53.htm",
-    "sourceHost": "www.im.pku.edu.cn",
-    "sourceHomepage": "https://www.im.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-f3e2f7d12b39",
-    "title": "北京大学社会学系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "社会学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "http://www.shehui.pku.edu.cn/sjytz2/articles/1562855922538254336.html",
-    "sourceHost": "www.shehui.pku.edu.cn",
-    "sourceHomepage": "http://www.shehui.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学社会学系2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学社会学系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-3fa3ec6f58e8",
-    "title": "北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "法学",
       "教育学"
     ],
     "type": "推免",
     "year": 2027,
     "region": "北京",
-    "deadline": "2026-12-01",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
-    "sourceHost": "amr.pku.edu.cn",
-    "sourceHomepage": "https://amr.pku.edu.cn/",
-    "departmentHomepage": "https://www.pku.edu.cn/",
-    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-82f0fbd04bc7"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明_北京大学先进制造与机器人学院 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工程系 控制科学与系统工程系 北京大学机器人研究中心 教职员工 杰出人才 师资队伍 教育教学 本科生教育 研究生教育 专业学位教育 境外学习 留学生 科学研究 重要项目 科研动态 学术活动 学生天地 新闻动态 通知发布 公示信息 学工队伍 办事指南 下载专区 办公服务 学院办公室 办事流程 在线办公 诚聘英才 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工程系 控制科学与",
-    "applicationStart": "",
-    "applicationEnd": "2026-12-01",
-    "registrationTime": "（2）电子版材料（作为初审依据）： 截止时间 ： 2026 年 12 月 1 日 12:00 前， 除了推荐信外 ，其他材料按顺序均须 扫描成 1 个 PDF 文件 （大小不超过 15M）， PDF文件作为普通附件发送（不是超大邮件），发送邮箱至： int.stu.amr@pku.edu.cn",
-    "requirements": [
-      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求",
-      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件",
-      "成绩单原件包括：本科或者硕士阶段就读所在院校的档案馆开具的成绩单复印件加盖档案馆红章",
-      "可视为成绩单原件",
-      "成绩单是学校提供的电子版",
-      "需要打印出来后再次加盖红章可视为成绩单原件",
-      "如果是学校自助机直接打印出来的纸质版带章的成绩单",
-      "且用防伪纸打印的"
-    ],
-    "materials": [
-      "四",
-      "报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后",
-      "方可在报名网站下载",
-      "请在申请表第一页导师处 手写导师姓名",
-      "（3） 两封专家推荐信 专家需线上填写并提交推荐信",
-      "之后将推荐信原件（手写签名）密封并在信封封口骑缝处签字",
-      "（4） 身份证复印件 （5） 最高学历",
-      "学位证书复印件 应届硕士毕业生报名时需提交所在培养单位研究生院或研究生部的证明信",
-      "学信网《教育部学籍在线验证报告》（注意需保证报告中二维码在线验证在有效时间内）",
-      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件"
-    ],
-    "applicationMethod": "四、报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后，方可在报名网站下载",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-47be86435056",
-    "title": "北京大学法学院2027年非全日制法律博士专业学位研究生招生说明 2026-10-22",
-    "school": "北京大学",
-    "department": "城市规划与设计学院",
-    "majors": [
-      "法学",
-      "法律"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
     "deadline": "",
     "publishedAt": "2027-01-01",
     "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://www.law.pku.edu.cn/xwzx/ggtz/zsjx/ea686e194140400a91e8571133a89932.htm",
-    "sourceHost": "www.law.pku.edu.cn",
-    "sourceHomepage": "https://www.law.pku.edu.cn/",
+    "sourceUrl": "https://www.gse.pku.edu.cn/zsxx/bsyjszs/9979486e66154dd4a6d6bdc1fd574d44.htm",
+    "sourceHost": "www.gse.pku.edu.cn",
+    "sourceHomepage": "https://www.gse.pku.edu.cn/",
     "departmentHomepage": "https://www.pku.edu.cn/",
     "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
@@ -532,10 +217,10 @@
       "auto-82f0fbd04bc7"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学法学院2027年非全日制法律博士专业学位研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "北京大学教育学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
-    "registrationTime": "",
+    "registrationTime": "北京大学教育学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "requirements": [
       "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
@@ -545,16 +230,16 @@
     "applicationMethod": "",
     "targetStudents": "",
     "degreeTypes": [
-      "专业型硕士"
+      "博士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-10-23"
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
   },
   {
-    "id": "college-5f39a4dd2710",
-    "title": "北京大学电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "id": "college-ad9e1dfcc2d0",
+    "title": "北京大学智能学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "school": "北京大学",
     "department": "城市规划与设计学院",
     "majors": [
@@ -566,9 +251,9 @@
     "deadline": "",
     "publishedAt": "2027-01-01",
     "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://ele.pku.edu.cn/info/1232/6725.htm",
-    "sourceHost": "ele.pku.edu.cn",
-    "sourceHomepage": "https://ele.pku.edu.cn/",
+    "sourceUrl": "https://sai.pku.edu.cn/info/1034/11055.htm",
+    "sourceHost": "sai.pku.edu.cn",
+    "sourceHomepage": "https://sai.pku.edu.cn/",
     "departmentHomepage": "https://www.pku.edu.cn/",
     "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
@@ -579,10 +264,10 @@
       "auto-82f0fbd04bc7"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "北京大学智能学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
-    "registrationTime": "北京大学电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "registrationTime": "北京大学智能学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "requirements": [
       "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
@@ -595,13 +280,13 @@
       "博士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
+    "structuredAt": "2026-10-24",
     "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
+    "classifiedAt": "2026-10-24"
   },
   {
-    "id": "college-5e4d04a3c3e6",
-    "title": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "id": "college-c1d106b550d5",
+    "title": "北京大学考古文博学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "school": "北京大学",
     "department": "城市规划与设计学院",
     "majors": [
@@ -613,9 +298,9 @@
     "deadline": "",
     "publishedAt": "2027-01-01",
     "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://sfl.pku.edu.cn/jxgl/yjs/zsy/241c7c91b5e14050ab87ff5b0623e9a0.htm",
-    "sourceHost": "sfl.pku.edu.cn",
-    "sourceHomepage": "https://sfl.pku.edu.cn/",
+    "sourceUrl": "https://archaeology.pku.edu.cn/info/1159/44255.htm",
+    "sourceHost": "archaeology.pku.edu.cn",
+    "sourceHomepage": "https://archaeology.pku.edu.cn/",
     "departmentHomepage": "https://www.pku.edu.cn/",
     "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
@@ -626,10 +311,10 @@
       "auto-82f0fbd04bc7"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "北京大学考古文博学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
-    "registrationTime": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "registrationTime": "北京大学考古文博学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "requirements": [
       "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
@@ -642,28 +327,27 @@
       "博士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
+    "structuredAt": "2026-10-24",
     "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
+    "classifiedAt": "2026-10-24"
   },
   {
-    "id": "college-5cff78eb69ef",
-    "title": "北京大学马克思主义学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "id": "college-a1d5fd93e23b",
+    "title": "北京大学环境科学与工程学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "school": "北京大学",
     "department": "城市规划与设计学院",
     "majors": [
-      "法学",
-      "马克思主义理论"
+      "环境科学与工程"
     ],
     "type": "推免",
     "year": 2027,
     "region": "北京",
-    "deadline": "2026-11-25",
+    "deadline": "2027-12-25",
     "publishedAt": "2027-01-01",
     "sourceName": "北京大学城市规划与设计学院官方站点",
-    "sourceUrl": "https://marxism.pku.edu.cn/tzgg/a0139207f8604fe48e15fea08e4fbacb.htm",
-    "sourceHost": "marxism.pku.edu.cn",
-    "sourceHomepage": "https://marxism.pku.edu.cn/",
+    "sourceUrl": "https://cese.pku.edu.cn/tzgg/1e7cd0e9a7fd40f8a2fad2707a40c156.htm",
+    "sourceHost": "cese.pku.edu.cn",
+    "sourceHomepage": "https://cese.pku.edu.cn/",
     "departmentHomepage": "https://www.pku.edu.cn/",
     "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
@@ -674,441 +358,49 @@
       "auto-82f0fbd04bc7"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学马克思主义学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学马克思主义学院 English 首页 学院概况 师资力量 本科生工作 研究生工作 学术科研 继续教育 学生园地 院友之窗 旧版主页 English 首页 学院概况 历史概览 往届领导 现任领导 研究机构 学术委员会 学位委员会 教学指导委员会 学院工会 师资力量 教学科研人员 行政教辅人员 荣休教师 荣休教工 博士后 访问学者 永远怀念 本科生工作 全校思政课教学 马克思主义理论项目 马克思主义理论专业 研究生工作 招生工作 培养工作 学术科研 科研成果 学术动态 课题研究 继续教育 学生园地 通知公告 学生动态 学生事务 团学组织 学生就业 下载专区 院友之窗 组织机构 通知公告 院友动态 院友风采 院友组织 《院友通讯》 院友捐赠 联系我们 --> 通知公告 北京大学马克思主义学院2027年“申请-考核制”博士研究生招生说明 北京大学马克思主义学院 2027 年博士招生继续实施以考察综合素质能力",
+    "sourceExcerpt": "北京大学环境科学与工程学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学环境科学与工程学院2027年“申请-考核制”博士研究生招生说明_通知公告(Announcements)_北京大学环境科学与工程学院 首页 --> --> 首页 学院概况 学院简介 组织机构 历届领导 规章制度 联系我们 师资队伍 学术荣誉 在职教师 博士后 行政人员 退休教师 研究助理 招生教学 本科生 研究生 国际合作 继续教育 基地与平台 国家级平台 教育部平台 生态环境部平台 国家市场监管总局平台 北京市平台 其它部级平台 校级平台 学术科研 学科布局 学术论文 科研项目 专利数据 国际交流 国内合作 学术报告(Seminars) 引智对话 青春学工 先锋党团建设 魅力学术交流 多彩生活定格 生涯发展资讯 志愿实践开展 人才招聘 教学科研 行政/科研助理 专职科研人员/博士后 基金与奖励 唐孝炎创新奖学金 其他基金 院友会 院友动态 院友通讯 院友名录 环境校友联合会 办公服务 办事指南 ",
     "applicationStart": "2026-10-26",
-    "applicationEnd": "2026-11-25",
-    "registrationTime": "二、网上报名 1. 报名时间： （ 1 ）网上报名时间： 2026 年 10 月 26 日 9:00 至 11 月 25 日 17:00 ，逾期不予受理",
+    "applicationEnd": "2027-12-25",
+    "registrationTime": "2.提交报名材料 申请人须在网上报名截止时间 12月25日17:00前， 按《北京大学2027年“申请-考核制”博士研究生网上报名公告》要求完成 材料上传 及 专家推荐信的线上填写与提交",
     "requirements": [
       "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求",
-      "申请人须按照北京大学博士生招生简章和我院招生说明要求进行报名并提交申请材料",
+      "申请人须按照北京大学2027年博士研究生招生简章和我院招生说明的要求完成报名并提交申请材料",
       "具体办法如下： 一",
-      "报名基本条件 1 ．拥护中国共产党的领导",
+      "报名基本条件 1.拥护中国共产党领导",
       "具有正确的政治方向",
       "热爱祖国",
       "品行端正",
       "遵纪守法",
-      "（ 3 ）获得学士学位满 6 年（从获得学士学位之日算起到博士生入学之日）的人员，可按照同等学力身份报考（以同等学力身份报考者，须在报考学科、专业或相近研究领域的全国核心期刊上已发表 2 篇以上学术论文（以第一或第二作者），或已获得省、部级以上与报考学科相关的科研成果奖励（排名前 5 名））",
-      "3 ．身心健康状况符合北京大学研究生入学体检要求"
+      "（3）获得学士学位满6年（从获得学士学位之日算起到博士生入学之日）的人员，可按照同等学力身份报考（以同等学力身份报考者，须在报考学科、专业或相近研究领域的全国核心期刊上已发表2篇以上学术论文（以第一或第二作者），或已获得省、部级以上与报考学科相关的科研成果奖励（排名前5名））",
+      "3.身心健康状况符合北京大学研究生入学体检要求"
     ],
     "materials": [
-      "申请人须按照北京大学博士生招生简章和我院招生说明要求进行报名并提交申请材料",
-      "（ 2 ）报名材料接收截止时间： 2026 年 11 月 26 日 11:00 （以 寄达或送达 时间为准",
-      "不以邮戳为准",
-      "逾期者视为报名无效）",
-      "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料，网上报名程序参照《北京大学 2027 年“申请 - 考核制”博士研究生网上报名公告》（网址： https://admission.pku.edu.cn/applications/ ）",
-      "院系收到申请人报名材料或报名截止后",
-      "申请人的报名信息一律不作修改",
-      "三、提交报名材料 申请人须按照招生简章和报名公告的要求在规定期限内如实向我院提交下列纸质材料： 1. 《北京大学 2027 年攻读博士学位研究 生报考登记表》（网上报名并缴费成功后，方可在报名网站下载，打印确认后须在第 2 页和第 3 页上签署本人姓名）"
-    ],
-    "applicationMethod": "申请人须按照北京大学博士生招生简章和我院招生说明要求进行报名并提交申请材料",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-1a14632eb896",
-    "title": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明",
-    "school": "北京大学",
-    "department": "光华管理学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学光华管理学院官方站点",
-    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/b62c0ee5a8514750a98a5d15aa5e899f.htm",
-    "sourceHost": "www.psy.pku.edu.cn",
-    "sourceHomepage": "https://www.psy.pku.edu.cn/",
-    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
-    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-0c7482477085"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "光华管理学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "专业型硕士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-9ba454f4771a",
-    "title": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明",
-    "school": "北京大学",
-    "department": "光华管理学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学光华管理学院官方站点",
-    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/91792b5f682646e78f8fd89a84f88304.htm",
-    "sourceHost": "www.psy.pku.edu.cn",
-    "sourceHomepage": "https://www.psy.pku.edu.cn/",
-    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
-    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-0c7482477085"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "光华管理学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-9138c10e638d",
-    "title": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明",
-    "school": "北京大学",
-    "department": "光华管理学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学光华管理学院官方站点",
-    "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/951a054a8fed4862aa326a86ee26c1da.htm",
-    "sourceHost": "xnewera.pku.edu.cn",
-    "sourceHomepage": "https://xnewera.pku.edu.cn/",
-    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
-    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-0c7482477085"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "光华管理学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-7277a0e78096",
-    "title": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明",
-    "school": "北京大学",
-    "department": "光华管理学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学光华管理学院官方站点",
-    "sourceUrl": "https://www.gsm.pku.edu.cn/graduate/info/1030/6737.htm",
-    "sourceHost": "www.gsm.pku.edu.cn",
-    "sourceHomepage": "https://www.gsm.pku.edu.cn/",
-    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
-    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-0c7482477085"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "光华管理学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-7e4943be2f43",
-    "title": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明",
-    "school": "北京大学",
-    "department": "光华管理学院",
-    "majors": [
-      "中国语言文学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学光华管理学院官方站点",
-    "sourceUrl": "https://chinese.pku.edu.cn/jyjx/zsxx/64e1044e62e44fc3ad06c98f4ab543c9.htm",
-    "sourceHost": "chinese.pku.edu.cn",
-    "sourceHomepage": "https://chinese.pku.edu.cn/",
-    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
-    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-0c7482477085"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "光华管理学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-0532d1c2df85",
-    "title": "北京大学2027年来华留学研究生招生简章（校本部）",
-    "school": "北京大学",
-    "department": "光华管理学院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-10-23",
-    "sourceName": "北京大学光华管理学院官方站点",
-    "sourceUrl": "https://admission.pku.edu.cn/docs/20261023112449701207.pdf",
-    "sourceHost": "admission.pku.edu.cn",
-    "sourceHomepage": "https://admission.pku.edu.cn/",
-    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
-    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-0c7482477085"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学2027年来华留学研究生招生简章（校本部）。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "光华管理学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-325d9e4640b1",
-    "title": "北京大学2027年来华留学研究生招生简章（校本部） 2026-10-23",
-    "school": "北京大学",
-    "department": "理学部",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-10-23",
-    "sourceName": "北京大学经济与管理学部官方站点",
-    "sourceUrl": "https://admission.pku.edu.cn/docs/20261023112449701207.pdf",
-    "sourceHost": "admission.pku.edu.cn",
-    "sourceHomepage": "https://admission.pku.edu.cn/",
-    "departmentHomepage": "https://fem.pku.edu.cn/",
-    "summary": "经济与管理学部学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-a44105818f04"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学2027年来华留学研究生招生简章（校本部） 2026-10-23。经济与管理学部学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "经济与管理学部学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-13b45df2636f",
-    "title": "10-22 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明",
-    "school": "北京大学",
-    "department": "生命科学学院",
-    "majors": [
-      "生物学"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "北京大学生命科学学院官方站点",
-    "sourceUrl": "https://www.bio.pku.edu.cn/homes/Index/news_cont/21/19170.html",
-    "sourceHost": "www.bio.pku.edu.cn",
-    "sourceHomepage": "https://www.bio.pku.edu.cn/",
-    "departmentHomepage": "https://bio.pku.edu.cn/",
-    "summary": "生命科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-302503b2d86d"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "10-22 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明。生命科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学生命科学学院 EN 内网 --> 新内网 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目 博士后名单 博士后动态 博士后招聘 学院招聘 教研系列 博士后 辅助人员 学生园地 活动新闻 学业促进中心 生涯发展中心 身心健康中心 事业与人生讲座 校友会 工会 工会简介 联系我们 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目 博士后名单 博",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "下载Firefox / 新闻中心 / 通知公告 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 日期： 2026-10-22 北京大学生命科学学院2027年采用优秀本科毕业生推荐免试直接攻读博士学位和“申请-考核”两种招生方式招收攻读博士学位研究生",
-    "requirements": [
-      "生命科学学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求",
-      "下载Firefox / 新闻中心 / 通知公告 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 日期： 2026-10-22 北京大学生命科学学院2027年采用优秀本科毕业生推荐免试直接攻读博士学位和“申请-考核”两种招生方式招收攻读博士学位研究生",
-      "本年度“申请-考核制”博士研究生计划招收23人",
-      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
-      "2．学制为5年",
-      "培养要求与本科起点推荐免试直博生相同",
-      "按照我院博士生培养的各项要求",
-      "硕士起点“申请-考核制”博士研究生完成全部培养环节可以申请4年毕业"
-    ],
-    "materials": [
-      "本年度“申请-考核制”博士研究生计划招收23人",
-      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
-      "三",
-      "申请流程 1．网上报名 申请人应在规定的报名期限内登录北大研招网进行网上报名并上传相关材料",
+      "申请人须按照北京大学2027年博士研究生招生简章和我院招生说明的要求完成报名并提交申请材料",
+      "二",
+      "申请流程 1.网上报名 网上报名时间 ：2026年10月26日9:00-12月25日17:00 申请人应在规定的报名期限内登录北大研招网进行网上报名并上传相关材料",
       "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料",
       "院系收到申请人报名材料或报名截止后",
       "申请人的报名信息一律不作修改",
-      "2．提交报名材料 申请人须按照招生简章、报名公告和生命科学学院招生说明的要求在规定期限内如实向报考院系提交下列材料： （1）《北京大学2027年攻读博士学位研究生报考登记表》（网上报名并缴费成功后，方可在报名网站下载，打印确认后须在第2页和第3页上签署本人姓名）"
+      "2.提交报名材料 申请人须在网上报名截止时间 12月25日17:00前",
+      "按《北京大学2027年“申请-考核制”博士研究生网上报名公告》要求完成 材料上传 及 专家推荐信的线上填写与提交"
     ],
-    "applicationMethod": "本年度“申请-考核制”博士研究生计划招收23人，申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
+    "applicationMethod": "申请人须按照北京大学2027年博士研究生招生简章和我院招生说明的要求完成报名并提交申请材料",
     "targetStudents": "",
     "degreeTypes": [
-      "直博"
+      "博士"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-10-23",
+    "structuredAt": "2026-10-24",
     "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
+    "classifiedAt": "2026-10-24"
   },
   {
-    "id": "college-9f27ed906480",
-    "title": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23",
+    "id": "college-6c1090ea8691",
+    "title": "北京大学软件与微电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
     "school": "北京大学",
-    "department": "新材料学院",
+    "department": "城市规划与设计学院",
     "majors": [
       "待确认"
     ],
@@ -1117,10 +409,653 @@
     "region": "北京",
     "deadline": "",
     "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://ss.pku.edu.cn/zsxx/zsjz/index.htm",
+    "sourceHost": "ss.pku.edu.cn",
+    "sourceHomepage": "https://ss.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学软件与微电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学软件与微电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-fb41fe298230",
+    "title": "北京大学化学与分子工程学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "化学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.chem.pku.edu.cn/tzgg11/f4a2227edf664f2d969cb2c73d2aff52.htm",
+    "sourceHost": "www.chem.pku.edu.cn",
+    "sourceHomepage": "https://www.chem.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学化学与分子工程学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学化学与分子工程学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-a84e3f61166b",
+    "title": "北京大学历史学系2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "历史学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.history.pku.edu.cn/zsjx/sss/0f7e6f8044774c33b0bfeff3801b8e95.htm",
+    "sourceHost": "www.history.pku.edu.cn",
+    "sourceHomepage": "https://www.history.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学历史学系2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学历史学系2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-4401711e9817",
+    "title": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "人工智能",
+      "软件工程"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://www.aais.pku.edu.cn/info/1350/20771.htm",
+    "sourceHost": "www.aais.pku.edu.cn",
+    "sourceHomepage": "https://www.aais.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明",
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-bab858a7ce25",
+    "title": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "人工智能",
+      "计算机科学与技术",
+      "电子信息"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://www.aais.pku.edu.cn/info/1350/20761.htm",
+    "sourceHost": "www.aais.pku.edu.cn",
+    "sourceHomepage": "https://www.aais.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明",
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-c715dc4fecb9",
+    "title": "北京大学物理学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "物理学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://www.phy.pku.edu.cn/info/1018/17792.htm",
+    "sourceHost": "www.phy.pku.edu.cn",
+    "sourceHomepage": "https://www.phy.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学物理学院2027年“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-3ccbe8ccae9f",
+    "title": "北京大学哲学系2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "哲学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://phil.pku.edu.cn/xwgg/tzgg/ba274ff4d8ed44729cfe512617d51a31.htm",
+    "sourceHost": "phil.pku.edu.cn",
+    "sourceHomepage": "https://phil.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学哲学系2027年“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-a18aec54d722",
+    "title": "北京大学环境科学与工程学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "环境科学与工程学院",
+    "majors": [
+      "环境科学与工程"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "2027-12-25",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学环境科学与工程学院官方站点",
+    "sourceUrl": "https://cese.pku.edu.cn/tzgg/1e7cd0e9a7fd40f8a2fad2707a40c156.htm",
+    "sourceHost": "cese.pku.edu.cn",
+    "sourceHomepage": "https://cese.pku.edu.cn/",
+    "departmentHomepage": "https://cese.pku.edu.cn/",
+    "summary": "Oct 23",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-cebf12ced5cb"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学环境科学与工程学院2027年“申请-考核制”博士研究生招生说明。Oct 23。北京大学环境科学与工程学院2027年“申请-考核制”博士研究生招生说明_通知公告(Announcements)_北京大学环境科学与工程学院 首页 --> --> 首页 学院概况 学院简介 组织机构 历届领导 规章制度 联系我们 师资队伍 学术荣誉 在职教师 博士后 行政人员 退休教师 研究助理 招生教学 本科生 研究生 国际合作 继续教育 基地与平台 国家级平台 教育部平台 生态环境部平台 国家市场监管总局平台 北京市平台 其它部级平台 校级平台 学术科研 学科布局 学术论文 科研项目 专利数据 国际交流 国内合作 学术报告(Seminars) 引智对话 青春学工 先锋党团建设 魅力学术交流 多彩生活定格 生涯发展资讯 志愿实践开展 人才招聘 教学科研 行政/科研助理 专职科研人员/博士后 基金与奖励 唐孝炎创新奖学金 其他基金 院友会 院友动态 院友通讯 院友名录 环境校友联合会 办公服务 办事指南 常用下载 办公电话 学院OA English 学院概况 学院简介 组织机构 历届领导 规章制度 联系",
+    "applicationStart": "2026-10-26",
+    "applicationEnd": "2027-12-25",
+    "registrationTime": "2.提交报名材料 申请人须在网上报名截止时间 12月25日17:00前， 按《北京大学2027年“申请-考核制”博士研究生网上报名公告》要求完成 材料上传 及 专家推荐信的线上填写与提交",
+    "requirements": [
+      "申请人须按照北京大学2027年博士研究生招生简章和我院招生说明的要求完成报名并提交申请材料",
+      "具体办法如下： 一",
+      "报名基本条件 1.拥护中国共产党领导",
+      "具有正确的政治方向",
+      "热爱祖国",
+      "品行端正",
+      "遵纪守法",
+      "（3）获得学士学位满6年（从获得学士学位之日算起到博士生入学之日）的人员，可按照同等学力身份报考（以同等学力身份报考者，须在报考学科、专业或相近研究领域的全国核心期刊上已发表2篇以上学术论文（以第一或第二作者），或已获得省、部级以上与报考学科相关的科研成果奖励（排名前5名））",
+      "3.身心健康状况符合北京大学研究生入学体检要求",
+      "2.提交报名材料 申请人须在网上报名截止时间 12月25日17:00前",
+      "按《北京大学2027年“申请-考核制”博士研究生网上报名公告》要求完成 材料上传 及 专家推荐信的线上填写与提交"
+    ],
+    "materials": [
+      "申请人须按照北京大学2027年博士研究生招生简章和我院招生说明的要求完成报名并提交申请材料",
+      "二",
+      "申请流程 1.网上报名 网上报名时间 ：2026年10月26日9:00-12月25日17:00 申请人应在规定的报名期限内登录北大研招网进行网上报名并上传相关材料",
+      "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料",
+      "院系收到申请人报名材料或报名截止后",
+      "申请人的报名信息一律不作修改",
+      "2.提交报名材料 申请人须在网上报名截止时间 12月25日17:00前",
+      "按《北京大学2027年“申请-考核制”博士研究生网上报名公告》要求完成 材料上传 及 专家推荐信的线上填写与提交"
+    ],
+    "applicationMethod": "申请人须按照北京大学2027年博士研究生招生简章和我院招生说明的要求完成报名并提交申请材料",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-c205c7ed72ef",
+    "title": "北京大学集成电路学院 2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "集成电路学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学集成电路学院官方站点",
+    "sourceUrl": "https://ic.pku.edu.cn/rcpy/yjszs/50185fd93260487da21e9768dd654094.htm",
+    "sourceHost": "ic.pku.edu.cn",
+    "sourceHomepage": "https://ic.pku.edu.cn/",
+    "departmentHomepage": "https://ic.pku.edu.cn/",
+    "summary": "集成电路学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-5766654a8aed"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学集成电路学院 2027年“申请-考核制”博士研究生招生说明。集成电路学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "集成电路学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-0f9fa77dce56",
+    "title": "2027博士招生——北京大学教育学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "教育学院",
+    "majors": [
+      "教育学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学教育学院官方站点",
+    "sourceUrl": "http://www.gse.pku.edu.cn/zsxx/bsyjszs/9979486e66154dd4a6d6bdc1fd574d44.htm",
+    "sourceHost": "www.gse.pku.edu.cn",
+    "sourceHomepage": "http://www.gse.pku.edu.cn/",
+    "departmentHomepage": "http://www.gse.pku.edu.cn/",
+    "summary": "教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-241ae2d891dd"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2027博士招生——北京大学教育学院2027年“申请-考核制”博士研究生招生说明。教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "教育学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-562770b32c15",
+    "title": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "前沿交叉学科研究院",
+    "majors": [
+      "人工智能",
+      "软件工程"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学前沿交叉学科研究院官方站点",
+    "sourceUrl": "http://www.aais.pku.edu.cn/info/1350/20771.htm",
+    "sourceHost": "www.aais.pku.edu.cn",
+    "sourceHomepage": "http://www.aais.pku.edu.cn/",
+    "departmentHomepage": "http://www.aais.pku.edu.cn/",
+    "summary": "前沿交叉学科研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-809c9df6fb79"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明。前沿交叉学科研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明",
+      "前沿交叉学科研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-a6979733ca2e",
+    "title": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "前沿交叉学科研究院",
+    "majors": [
+      "人工智能",
+      "计算机科学与技术",
+      "电子信息"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学前沿交叉学科研究院官方站点",
+    "sourceUrl": "http://www.aais.pku.edu.cn/info/1350/20761.htm",
+    "sourceHost": "www.aais.pku.edu.cn",
+    "sourceHomepage": "http://www.aais.pku.edu.cn/",
+    "departmentHomepage": "http://www.aais.pku.edu.cn/",
+    "summary": "前沿交叉学科研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-809c9df6fb79"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明。前沿交叉学科研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明",
+      "前沿交叉学科研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-05ecc1bc2865",
+    "title": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "外国语学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学外国语学院官方站点",
+    "sourceUrl": "https://sfl.pku.edu.cn/tzgg/241c7c91b5e14050ab87ff5b0623e9a0.htm",
+    "sourceHost": "sfl.pku.edu.cn",
+    "sourceHomepage": "https://sfl.pku.edu.cn/",
+    "departmentHomepage": "https://sfl.pku.edu.cn/",
+    "summary": "外国语学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-42b7acfa3214"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明。外国语学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "外国语学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-dabcc71337b5",
+    "title": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明 2026-10-24",
+    "school": "北京大学",
+    "department": "新材料学院",
+    "majors": [
+      "人工智能",
+      "软件工程",
+      "数学",
+      "化学",
+      "生物学",
+      "生物医学工程"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "2027-01-08",
+    "publishedAt": "2027-01-01",
     "sourceName": "北京大学新材料学院官方站点",
-    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/b62c0ee5a8514750a98a5d15aa5e899f.htm",
-    "sourceHost": "www.psy.pku.edu.cn",
-    "sourceHomepage": "https://www.psy.pku.edu.cn/",
+    "sourceUrl": "https://www.aais.pku.edu.cn/info/1350/20771.htm",
+    "sourceHost": "www.aais.pku.edu.cn",
+    "sourceHomepage": "https://www.aais.pku.edu.cn/",
     "departmentHomepage": "https://www.pku.edu.cn/",
     "summary": "新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
@@ -1131,95 +1066,270 @@
       "auto-7a8f641a2bed"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23。新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23",
+    "sourceExcerpt": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明 2026-10-24。新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明-北京大学前沿交叉学科研究院 您的浏览器版本过低，为了保证更好的使用体验，请升级您的浏览器 （ IE 浏览器需要 IE9 以上版本 ） OA系统 科研成果管理系统 学校主页 English 首页 学院概况 学院简介 院长寄语 组织机构 行政办公 联系我们 研究中心 研究中心 招生项目 公共平台 异地科研机构 师资队伍 生物医学跨学科研究中心 生命科学联合中心 定量生物学中心 纳米科学与技术研究中心 磁共振成像研究中心 大数据科学研究中心 国际机器学习研究中心 PTN项目 科学技术与医学史系 碳中和研究院 教育培养 专业介绍 招生通知 培养通知 毕业通知 学生园地 下载专区 科学研究 科研进展 学术讲座 博士后培养 实验室安全 招聘信息 教学科研 博士后招聘 行政教辅 × OA系统 科研成果管理系统 学校主页 Engli",
+    "applicationStart": "2025-10-26",
+    "applicationEnd": "2027-01-08",
+    "registrationTime": "2 ．纸质材料提交： 申请者须于 2025 年 10 月 26 日 9 ： 00 至 2027 年 1 月 8 日 17 ： 00 之间向各专业招生办公室寄（送）达以下申请资料",
     "requirements": [
+      "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明 2026-10-24",
       "新材料学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [
-      "新材料学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "专业型硕士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-23",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
-  },
-  {
-    "id": "college-02a7e5ec23c1",
-    "title": "23 2026-10 【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明",
-    "school": "北京大学",
-    "department": "先进制造与机器人学院",
-    "majors": [
-      "法学",
-      "教育学"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "2026-12-01",
-    "publishedAt": "2026-01-01",
-    "sourceName": "北京大学先进制造与机器人学院官方站点",
-    "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
-    "sourceHost": "amr.pku.edu.cn",
-    "sourceHomepage": "https://amr.pku.edu.cn/",
-    "departmentHomepage": "https://amr.pku.edu.cn/",
-    "summary": "先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-a4607f78b5d8"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "23 2026-10 【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明。先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明_北京大学先进制造与机器人学院 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工程系 控制科学与系统工程系 北京大学机器人研究中心 教职员工 杰出人才 师资队伍 教育教学 本科生教育 研究生教育 专业学位教育 境外学习 留学生 科学研究 重要项目 科研动态 学术活动 学生天地 新闻动态 通知发布 公示信息 学工队伍 办事指南 下载专区 办公服务 学院办公室 办事流程 在线办公 诚聘英才 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工",
-    "applicationStart": "",
-    "applicationEnd": "2026-12-01",
-    "registrationTime": "（2）电子版材料（作为初审依据）： 截止时间 ： 2026 年 12 月 1 日 12:00 前， 除了推荐信外 ，其他材料按顺序均须 扫描成 1 个 PDF 文件 （大小不超过 15M）， PDF文件作为普通附件发送（不是超大邮件），发送邮箱至： int.stu.amr@pku.edu.cn",
-    "requirements": [
-      "先进制造与机器人学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求",
-      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件",
-      "成绩单原件包括：本科或者硕士阶段就读所在院校的档案馆开具的成绩单复印件加盖档案馆红章",
-      "可视为成绩单原件",
-      "成绩单是学校提供的电子版",
-      "需要打印出来后再次加盖红章可视为成绩单原件",
-      "如果是学校自助机直接打印出来的纸质版带章的成绩单",
-      "且用防伪纸打印的"
+      "该项目由北京大学医学部（含相关附属医院）与北京大学校本部联合打造",
+      "围绕医学核心学科",
+      "开展医学与其他学科（数学",
+      "化学",
+      "生物学",
+      "工学和计算机等）交叉融合研究的双导师人才培养项目",
+      "致力于培养复合型医学人才",
+      "推动跨学科研究",
+      "申请人须按照我校博士生招生简章和我院招生说明要求进行报名并提交申请材料",
+      "具体办法如下： 一",
+      "招生对象及基本条件 1 ． 拥护中国共产党的领导",
+      "具有正确的政治方向",
+      "热爱祖国",
+      "品行端正",
+      "遵纪守法"
     ],
     "materials": [
-      "四",
-      "报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后",
-      "方可在报名网站下载",
-      "请在申请表第一页导师处 手写导师姓名",
-      "（3） 两封专家推荐信 专家需线上填写并提交推荐信",
-      "之后将推荐信原件（手写签名）密封并在信封封口骑缝处签字",
-      "（4） 身份证复印件 （5） 最高学历",
-      "学位证书复印件 应届硕士毕业生报名时需提交所在培养单位研究生院或研究生部的证明信",
-      "学信网《教育部学籍在线验证报告》（注意需保证报告中二维码在线验证在有效时间内）",
-      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件"
+      "新材料学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "申请人须按照我校博士生招生简章和我院招生说明要求进行报名并提交申请材料",
+      "二",
+      "招生专业",
+      "导师及相关要求 招生专业： 整合生命科学（授予理学学位） 学科背景： 申请者应具有生物学",
+      "医学",
+      "物理",
+      "化学",
+      "数学",
+      "计算机科学",
+      "材料",
+      "电子等相关理工科专业背景",
+      "对医学相关交叉学科领域有浓厚的兴趣",
+      "且有志于从事学术研究工作",
+      "副导师 杨延涛 北京大学力学与工程科学学院 计算流体力学， 血流动力学 yantao.yang@pku.edu.cn 6 主导师 王宇光 北京大学口腔医院 疾病标志物分析、 微纳生物传感与 疾病智能诊断 wangyuguang@bjmu.edu.cn 分析化学、生物医学工程、有机化学、材料科学与工程等相关专业背景，熟悉微纳生物传感技术",
+      "副导师 郭少军 北京大学材料科学与工程学院 催化材料",
+      "纳米催化医学 guosj@pku.edu.cn 7 主导师 康磊 北京大学第一医院 肿瘤分子核医学 kanglei@bjmu.edu.cn 药物化学",
+      "有机化学",
+      "分子探针",
+      "化学生物学"
     ],
-    "applicationMethod": "四、报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后，方可在报名网站下载",
+    "applicationMethod": "申请人须按照我校博士生招生简章和我院招生说明要求进行报名并提交申请材料",
     "targetStudents": "",
     "degreeTypes": [
       "博士"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-10-23",
+    "structuredAt": "2026-10-24",
     "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-23"
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-c9c007c4bf39",
+    "title": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "信息管理系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学信息管理系官方站点",
+    "sourceUrl": "http://www.im.pku.edu.cn/zsxm/bsxm/28114e811d3f43e98d962166f28c8a53.htm",
+    "sourceHost": "www.im.pku.edu.cn",
+    "sourceHomepage": "http://www.im.pku.edu.cn/",
+    "departmentHomepage": "http://www.im.pku.edu.cn/",
+    "summary": "信息管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-86b9e3341f07"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明。信息管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "信息管理系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-10b9b313916e",
+    "title": "北京大学哲学系2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "哲学系",
+    "majors": [
+      "哲学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "2026-12-28",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学哲学系官方站点",
+    "sourceUrl": "https://phil.pku.edu.cn/zsxx/zsdt/6c33009b854645f8bd263f5a76ef45a8.htm",
+    "sourceHost": "phil.pku.edu.cn",
+    "sourceHomepage": "https://phil.pku.edu.cn/",
+    "departmentHomepage": "https://phil.pku.edu.cn/",
+    "summary": "哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-33513dc1713b"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学哲学系2027年“申请-考核制”博士研究生招生说明。哲学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学哲学系宗教学系 English Version --> English 系图书馆 报考学生 系内通知 本系概况 简介 历史人物 系主任致辞 新闻动态 综合新闻 系内新闻 通知公告 楼宇烈先生纪念专区 杨辛先生纪念专区 110周年系庆 张翼星教授纪念专区 师资队伍 师资力量 组织架构 离退休人员 博士后 学术研究 研究机构 学术进展 学界动态 教育教学 本科教学 研究生教学 相关下载 招生信息 招生动态 博士招生 硕士招生 专业介绍 继续教育 暑期课程 学生工作 办事指南 学工动态 党团建设 文体活动 2023年思政实践专题 爱智杯征文比赛&本科生哲学论坛专题 学术期刊 哲学门 Chinese Journal of Philosophy 交流合作 SAPoLSN 2024 Summer School 系友工作 English --> 报考学生 校 友 english 本系概况 简介 历史人物 系主任致辞 新闻动态 综合新闻 系内新闻 通知公告",
+    "applicationStart": "2026-10-26",
+    "applicationEnd": "2026-12-28",
+    "registrationTime": "2. 提交报名材料 申请材料寄送起止时间： 2026 年 10 月 26 日 9:00 至 12 月 28 日 17:00",
+    "requirements": [
+      "哲学系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "申请人须按照我校博士生招生简章和我系的相关要求进行报名并提交申请材料",
+      "经我系招生工作小组对申请人的材料审核评估后确认是否给予考核资格",
+      "对符合条件者通过考核确定是否录取",
+      "中国大陆考生请按照本说明的要求报名并提交材料",
+      "港澳台地区和外国留学生请参照相关简章要求报名并提交材料",
+      "中国大陆考生",
+      "港澳台地区考生和外国留学生的考核时间",
+      "内容",
+      "办法均按本说明要求执行"
+    ],
+    "materials": [
+      "申请人须按照我校博士生招生简章和我系的相关要求进行报名并提交申请材料",
+      "经我系招生工作小组对申请人的材料审核评估后确认是否给予考核资格",
+      "对符合条件者通过考核确定是否录取",
+      "中国大陆考生请按照本说明的要求报名并提交材料",
+      "港澳台地区和外国留学生请参照相关简章要求报名并提交材料",
+      "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料",
+      "我系收到申请人报名材料或报名截止后",
+      "申请人的报名信息一律不作修改"
+    ],
+    "applicationMethod": "申请人须按照我校博士生招生简章和我系的相关要求进行报名并提交申请材料",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-4106e0cc340f",
+    "title": "北京大学智能学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "智能学院",
+    "majors": [
+      "人工智能"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学智能学院官方站点",
+    "sourceUrl": "http://sai.pku.edu.cn/info/1034/11055.htm",
+    "sourceHost": "sai.pku.edu.cn",
+    "sourceHomepage": "http://sai.pku.edu.cn/",
+    "departmentHomepage": "http://sai.pku.edu.cn/",
+    "summary": "智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a76c22caf7f0"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学智能学院2027年“申请-考核制”博士研究生招生说明。智能学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "智能学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
+  },
+  {
+    "id": "college-58f5b1173205",
+    "title": "2026-10-23 北京大学数学科学学院和北京国际数学研究中心 2027 年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "数学科学学院",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学数学科学学院官方站点",
+    "sourceUrl": "http://www.math.pku.edu.cn/zygg/173038.htm",
+    "sourceHost": "www.math.pku.edu.cn",
+    "sourceHomepage": "http://www.math.pku.edu.cn/",
+    "departmentHomepage": "http://www.math.pku.edu.cn/",
+    "summary": "数学科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-93564fb96e58"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026-10-23 北京大学数学科学学院和北京国际数学研究中心 2027 年“申请-考核制”博士研究生招生说明。数学科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "2026-10-23 北京大学数学科学学院和北京国际数学研究中心 2027 年“申请-考核制”博士研究生招生说明",
+    "requirements": [
+      "数学科学学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-24",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-24"
   },
   {
     "id": "college-aefd2b5cad3f",
@@ -12646,6 +12756,1162 @@
     "classifiedAt": "2026-05-26"
   },
   {
+    "id": "college-dd03488a2f08",
+    "title": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/91792b5f682646e78f8fd89a84f88304.htm",
+    "sourceHost": "www.psy.pku.edu.cn",
+    "sourceHomepage": "https://www.psy.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-cf2e63748685",
+    "title": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/951a054a8fed4862aa326a86ee26c1da.htm",
+    "sourceHost": "xnewera.pku.edu.cn",
+    "sourceHomepage": "https://xnewera.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-6d3a7c38d797",
+    "title": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.gsm.pku.edu.cn/graduate/info/1030/6737.htm",
+    "sourceHost": "www.gsm.pku.edu.cn",
+    "sourceHomepage": "https://www.gsm.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-7cde24ac7099",
+    "title": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "中国语言文学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://chinese.pku.edu.cn/jyjx/zsxx/64e1044e62e44fc3ad06c98f4ab543c9.htm",
+    "sourceHost": "chinese.pku.edu.cn",
+    "sourceHomepage": "https://chinese.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-1ac1e2dc35ad",
+    "title": "北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://ues.pku.edu.cn/jyjx/yjsjy/zsxx/ece7f7879f6246cc834dc84b95799512.htm",
+    "sourceHost": "ues.pku.edu.cn",
+    "sourceHomepage": "https://ues.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学城市与环境学院_北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 北大主页 内网登录 邮箱登录 English 首页 学院概况 院长寄语 学院简介 历史沿革 组织机构 系所中心 行政办公 师资队伍 院士 人才计划 在职教职工 荣休教师 教师获奖 教育教学 本科生教育 研究生教育 博士后培养 拔尖人才培养计划 教学平台与实习基地 教育教学成果 科学研究 研究方向 科研动态 学术讲座 科研项目 科研成果 基地与平台 学生园地 学工动态 通知发布 学工队伍 学生风采 所获荣誉 下载专区 党群建设 组织概况 党建动态 我要入党 知识学习 服务指南 工会工作 继续教育 继教概况 专题方向 精品课程 联系我们 校友会 关于我们 凝聚服务 助力城环 时光剪影 城环家谱 学院招聘 教学科研 博士后 教辅行政 --> 教育教学 本科生教育 教学管理 专业介绍 通知公告 联系我们 研究生教育 专业介绍",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学城市与环境学院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-c94399ff9d95",
+    "title": "北京大学新媒体研究院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://snm.pku.edu.cn/info/1029/2944.htm",
+    "sourceHost": "snm.pku.edu.cn",
+    "sourceHomepage": "https://snm.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学新媒体研究院2027年“申请-考核制”博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学新媒体研究院2027年“申请-考核制”博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-061b487341c7",
+    "title": "北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "生物学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.bio.pku.edu.cn/homes/Index/news_cont/21/19170.html",
+    "sourceHost": "www.bio.pku.edu.cn",
+    "sourceHomepage": "https://www.bio.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 2026-10-23。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学生命科学学院 EN 内网 --> 新内网 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目 博士后名单 博士后动态 博士后招聘 学院招聘 教研系列 博士后 辅助人员 学生园地 活动新闻 学业促进中心 生涯发展中心 身心健康中心 事业与人生讲座 校友会 工会 工会简介 联系我们 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 2026-10-23",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "下载Firefox / 新闻中心 / 通知公告 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 日期： 2026-10-22 北京大学生命科学学院2027年采用优秀本科毕业生推荐免试直接攻读博士学位和“申请-考核”两种招生方式招收攻读博士学位研究生",
+      "本年度“申请-考核制”博士研究生计划招收23人",
+      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
+      "2．学制为5年",
+      "培养要求与本科起点推荐免试直博生相同",
+      "按照我院博士生培养的各项要求",
+      "硕士起点“申请-考核制”博士研究生完成全部培养环节可以申请4年毕业"
+    ],
+    "materials": [
+      "本年度“申请-考核制”博士研究生计划招收23人",
+      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
+      "三",
+      "申请流程 1．网上报名 申请人应在规定的报名期限内登录北大研招网进行网上报名并上传相关材料",
+      "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料",
+      "院系收到申请人报名材料或报名截止后",
+      "申请人的报名信息一律不作修改",
+      "2．提交报名材料 申请人须按照招生简章、报名公告和生命科学学院招生说明的要求在规定期限内如实向报考院系提交下列材料： （1）《北京大学2027年攻读博士学位研究生报考登记表》（网上报名并缴费成功后，方可在报名网站下载，打印确认后须在第2页和第3页上签署本人姓名）"
+    ],
+    "applicationMethod": "本年度“申请-考核制”博士研究生计划招收23人，申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
+    "targetStudents": "",
+    "degreeTypes": [
+      "直博"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-4094070f9655",
+    "title": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.im.pku.edu.cn/zsxm/bsxm/28114e811d3f43e98d962166f28c8a53.htm",
+    "sourceHost": "www.im.pku.edu.cn",
+    "sourceHomepage": "https://www.im.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学信息管理系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-f3e2f7d12b39",
+    "title": "北京大学社会学系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "社会学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "http://www.shehui.pku.edu.cn/sjytz2/articles/1562855922538254336.html",
+    "sourceHost": "www.shehui.pku.edu.cn",
+    "sourceHomepage": "http://www.shehui.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学社会学系2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学社会学系2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-3fa3ec6f58e8",
+    "title": "北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "法学",
+      "教育学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "2026-12-01",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
+    "sourceHost": "amr.pku.edu.cn",
+    "sourceHomepage": "https://amr.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明_北京大学先进制造与机器人学院 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工程系 控制科学与系统工程系 北京大学机器人研究中心 教职员工 杰出人才 师资队伍 教育教学 本科生教育 研究生教育 专业学位教育 境外学习 留学生 科学研究 重要项目 科研动态 学术活动 学生天地 新闻动态 通知发布 公示信息 学工队伍 办事指南 下载专区 办公服务 学院办公室 办事流程 在线办公 诚聘英才 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工程系 控制科学与",
+    "applicationStart": "",
+    "applicationEnd": "2026-12-01",
+    "registrationTime": "（2）电子版材料（作为初审依据）： 截止时间 ： 2026 年 12 月 1 日 12:00 前， 除了推荐信外 ，其他材料按顺序均须 扫描成 1 个 PDF 文件 （大小不超过 15M）， PDF文件作为普通附件发送（不是超大邮件），发送邮箱至： int.stu.amr@pku.edu.cn",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件",
+      "成绩单原件包括：本科或者硕士阶段就读所在院校的档案馆开具的成绩单复印件加盖档案馆红章",
+      "可视为成绩单原件",
+      "成绩单是学校提供的电子版",
+      "需要打印出来后再次加盖红章可视为成绩单原件",
+      "如果是学校自助机直接打印出来的纸质版带章的成绩单",
+      "且用防伪纸打印的"
+    ],
+    "materials": [
+      "四",
+      "报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后",
+      "方可在报名网站下载",
+      "请在申请表第一页导师处 手写导师姓名",
+      "（3） 两封专家推荐信 专家需线上填写并提交推荐信",
+      "之后将推荐信原件（手写签名）密封并在信封封口骑缝处签字",
+      "（4） 身份证复印件 （5） 最高学历",
+      "学位证书复印件 应届硕士毕业生报名时需提交所在培养单位研究生院或研究生部的证明信",
+      "学信网《教育部学籍在线验证报告》（注意需保证报告中二维码在线验证在有效时间内）",
+      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件"
+    ],
+    "applicationMethod": "四、报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后，方可在报名网站下载",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-47be86435056",
+    "title": "北京大学法学院2027年非全日制法律博士专业学位研究生招生说明 2026-10-22",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "法学",
+      "法律"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://www.law.pku.edu.cn/xwzx/ggtz/zsjx/ea686e194140400a91e8571133a89932.htm",
+    "sourceHost": "www.law.pku.edu.cn",
+    "sourceHomepage": "https://www.law.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学法学院2027年非全日制法律博士专业学位研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-5f39a4dd2710",
+    "title": "北京大学电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://ele.pku.edu.cn/info/1232/6725.htm",
+    "sourceHost": "ele.pku.edu.cn",
+    "sourceHomepage": "https://ele.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学电子学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-5e4d04a3c3e6",
+    "title": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://sfl.pku.edu.cn/jxgl/yjs/zsy/241c7c91b5e14050ab87ff5b0623e9a0.htm",
+    "sourceHost": "sfl.pku.edu.cn",
+    "sourceHomepage": "https://sfl.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学外国语学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-5cff78eb69ef",
+    "title": "北京大学马克思主义学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+    "school": "北京大学",
+    "department": "城市规划与设计学院",
+    "majors": [
+      "法学",
+      "马克思主义理论"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "2026-11-25",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学城市规划与设计学院官方站点",
+    "sourceUrl": "https://marxism.pku.edu.cn/tzgg/a0139207f8604fe48e15fea08e4fbacb.htm",
+    "sourceHost": "marxism.pku.edu.cn",
+    "sourceHomepage": "https://marxism.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-82f0fbd04bc7"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学马克思主义学院2027年“申请-考核制”博士研究生招生说明 2026-10-22。城市规划与设计学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学马克思主义学院 English 首页 学院概况 师资力量 本科生工作 研究生工作 学术科研 继续教育 学生园地 院友之窗 旧版主页 English 首页 学院概况 历史概览 往届领导 现任领导 研究机构 学术委员会 学位委员会 教学指导委员会 学院工会 师资力量 教学科研人员 行政教辅人员 荣休教师 荣休教工 博士后 访问学者 永远怀念 本科生工作 全校思政课教学 马克思主义理论项目 马克思主义理论专业 研究生工作 招生工作 培养工作 学术科研 科研成果 学术动态 课题研究 继续教育 学生园地 通知公告 学生动态 学生事务 团学组织 学生就业 下载专区 院友之窗 组织机构 通知公告 院友动态 院友风采 院友组织 《院友通讯》 院友捐赠 联系我们 --> 通知公告 北京大学马克思主义学院2027年“申请-考核制”博士研究生招生说明 北京大学马克思主义学院 2027 年博士招生继续实施以考察综合素质能力",
+    "applicationStart": "2026-10-26",
+    "applicationEnd": "2026-11-25",
+    "registrationTime": "二、网上报名 1. 报名时间： （ 1 ）网上报名时间： 2026 年 10 月 26 日 9:00 至 11 月 25 日 17:00 ，逾期不予受理",
+    "requirements": [
+      "城市规划与设计学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "申请人须按照北京大学博士生招生简章和我院招生说明要求进行报名并提交申请材料",
+      "具体办法如下： 一",
+      "报名基本条件 1 ．拥护中国共产党的领导",
+      "具有正确的政治方向",
+      "热爱祖国",
+      "品行端正",
+      "遵纪守法",
+      "（ 3 ）获得学士学位满 6 年（从获得学士学位之日算起到博士生入学之日）的人员，可按照同等学力身份报考（以同等学力身份报考者，须在报考学科、专业或相近研究领域的全国核心期刊上已发表 2 篇以上学术论文（以第一或第二作者），或已获得省、部级以上与报考学科相关的科研成果奖励（排名前 5 名））",
+      "3 ．身心健康状况符合北京大学研究生入学体检要求"
+    ],
+    "materials": [
+      "申请人须按照北京大学博士生招生简章和我院招生说明要求进行报名并提交申请材料",
+      "（ 2 ）报名材料接收截止时间： 2026 年 11 月 26 日 11:00 （以 寄达或送达 时间为准",
+      "不以邮戳为准",
+      "逾期者视为报名无效）",
+      "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料，网上报名程序参照《北京大学 2027 年“申请 - 考核制”博士研究生网上报名公告》（网址： https://admission.pku.edu.cn/applications/ ）",
+      "院系收到申请人报名材料或报名截止后",
+      "申请人的报名信息一律不作修改",
+      "三、提交报名材料 申请人须按照招生简章和报名公告的要求在规定期限内如实向我院提交下列纸质材料： 1. 《北京大学 2027 年攻读博士学位研究 生报考登记表》（网上报名并缴费成功后，方可在报名网站下载，打印确认后须在第 2 页和第 3 页上签署本人姓名）"
+    ],
+    "applicationMethod": "申请人须按照北京大学博士生招生简章和我院招生说明要求进行报名并提交申请材料",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-1a14632eb896",
+    "title": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/b62c0ee5a8514750a98a5d15aa5e899f.htm",
+    "sourceHost": "www.psy.pku.edu.cn",
+    "sourceHomepage": "https://www.psy.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-9ba454f4771a",
+    "title": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/91792b5f682646e78f8fd89a84f88304.htm",
+    "sourceHost": "www.psy.pku.edu.cn",
+    "sourceHomepage": "https://www.psy.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-9138c10e638d",
+    "title": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://xnewera.pku.edu.cn/jxdt/951a054a8fed4862aa326a86ee26c1da.htm",
+    "sourceHost": "xnewera.pku.edu.cn",
+    "sourceHomepage": "https://xnewera.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学习近平新时代中国特色社会主义思想研究院2027年“申请-考核”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-7277a0e78096",
+    "title": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://www.gsm.pku.edu.cn/graduate/info/1030/6737.htm",
+    "sourceHost": "www.gsm.pku.edu.cn",
+    "sourceHomepage": "https://www.gsm.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学光华管理学院2027年“申请-考核制”博士研究生招生说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-7e4943be2f43",
+    "title": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "中国语言文学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://chinese.pku.edu.cn/jyjx/zsxx/64e1044e62e44fc3ad06c98f4ab543c9.htm",
+    "sourceHost": "chinese.pku.edu.cn",
+    "sourceHomepage": "https://chinese.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学中国语言文学系2027年“申请-考核制”博士研究生招生 说明。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-0532d1c2df85",
+    "title": "北京大学2027年来华留学研究生招生简章（校本部）",
+    "school": "北京大学",
+    "department": "光华管理学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-10-23",
+    "sourceName": "北京大学光华管理学院官方站点",
+    "sourceUrl": "https://admission.pku.edu.cn/docs/20261023112449701207.pdf",
+    "sourceHost": "admission.pku.edu.cn",
+    "sourceHomepage": "https://admission.pku.edu.cn/",
+    "departmentHomepage": "http://www.gsm.pku.edu.cn/",
+    "summary": "光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0c7482477085"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学2027年来华留学研究生招生简章（校本部）。光华管理学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "光华管理学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-325d9e4640b1",
+    "title": "北京大学2027年来华留学研究生招生简章（校本部） 2026-10-23",
+    "school": "北京大学",
+    "department": "理学部",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-10-23",
+    "sourceName": "北京大学经济与管理学部官方站点",
+    "sourceUrl": "https://admission.pku.edu.cn/docs/20261023112449701207.pdf",
+    "sourceHost": "admission.pku.edu.cn",
+    "sourceHomepage": "https://admission.pku.edu.cn/",
+    "departmentHomepage": "https://fem.pku.edu.cn/",
+    "summary": "经济与管理学部学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a44105818f04"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学2027年来华留学研究生招生简章（校本部） 2026-10-23。经济与管理学部学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "经济与管理学部学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-13b45df2636f",
+    "title": "10-22 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明",
+    "school": "北京大学",
+    "department": "生命科学学院",
+    "majors": [
+      "生物学"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学生命科学学院官方站点",
+    "sourceUrl": "https://www.bio.pku.edu.cn/homes/Index/news_cont/21/19170.html",
+    "sourceHost": "www.bio.pku.edu.cn",
+    "sourceHomepage": "https://www.bio.pku.edu.cn/",
+    "departmentHomepage": "https://bio.pku.edu.cn/",
+    "summary": "生命科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-302503b2d86d"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "10-22 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明。生命科学学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。北京大学生命科学学院 EN 内网 --> 新内网 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目 博士后名单 博士后动态 博士后招聘 学院招聘 教研系列 博士后 辅助人员 学生园地 活动新闻 学业促进中心 生涯发展中心 身心健康中心 事业与人生讲座 校友会 工会 工会简介 联系我们 首页 学院概况 学院介绍 党政工团 委员会 学院历史 行政后勤 师资力量 博士生导师 全体教职工 离退休教职工 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 招生与培养 本科生 研究生 实验教学中心 学业促进中心 学术科研 科研基地 讲座信息 科研支撑平台 博士后 博士后项目 博士后名单 博",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "下载Firefox / 新闻中心 / 通知公告 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 日期： 2026-10-22 北京大学生命科学学院2027年采用优秀本科毕业生推荐免试直接攻读博士学位和“申请-考核”两种招生方式招收攻读博士学位研究生",
+    "requirements": [
+      "生命科学学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "下载Firefox / 新闻中心 / 通知公告 新闻中心 综合新闻 党委通讯 通知公告 学术科研 工会新闻 北京大学生命科学学院2027年“申请-考核制” 博士研究生招生说明 日期： 2026-10-22 北京大学生命科学学院2027年采用优秀本科毕业生推荐免试直接攻读博士学位和“申请-考核”两种招生方式招收攻读博士学位研究生",
+      "本年度“申请-考核制”博士研究生计划招收23人",
+      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
+      "2．学制为5年",
+      "培养要求与本科起点推荐免试直博生相同",
+      "按照我院博士生培养的各项要求",
+      "硕士起点“申请-考核制”博士研究生完成全部培养环节可以申请4年毕业"
+    ],
+    "materials": [
+      "本年度“申请-考核制”博士研究生计划招收23人",
+      "申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
+      "三",
+      "申请流程 1．网上报名 申请人应在规定的报名期限内登录北大研招网进行网上报名并上传相关材料",
+      "申请人应当如实填写个人学习情况等网上报名信息并提供真实材料",
+      "院系收到申请人报名材料或报名截止后",
+      "申请人的报名信息一律不作修改",
+      "2．提交报名材料 申请人须按照招生简章、报名公告和生命科学学院招生说明的要求在规定期限内如实向报考院系提交下列材料： （1）《北京大学2027年攻读博士学位研究生报考登记表》（网上报名并缴费成功后，方可在报名网站下载，打印确认后须在第2页和第3页上签署本人姓名）"
+    ],
+    "applicationMethod": "本年度“申请-考核制”博士研究生计划招收23人，申请人须按照北京大学博士研究生招生简章及生命科学学院相关要求报名并提交申请材料",
+    "targetStudents": "",
+    "degreeTypes": [
+      "直博"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
+    "id": "college-9f27ed906480",
+    "title": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23",
+    "school": "北京大学",
+    "department": "新材料学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "北京大学新材料学院官方站点",
+    "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/b62c0ee5a8514750a98a5d15aa5e899f.htm",
+    "sourceHost": "www.psy.pku.edu.cn",
+    "sourceHomepage": "https://www.psy.pku.edu.cn/",
+    "departmentHomepage": "https://www.pku.edu.cn/",
+    "summary": "新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-7a8f641a2bed"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23。新材料学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23",
+    "requirements": [
+      "新材料学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [
+      "新材料学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "专业型硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
+  },
+  {
     "id": "college-5c97a50d1b1b",
     "title": "北京大学新闻与传播学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
     "school": "北京大学",
@@ -23690,6 +24956,72 @@
     "sourceExcerpt": "中山大学 哲学系 2027 年接收优秀应届本科毕业生推荐免试攻读研究生...。搜索引擎发现的中山大学2027年推免相关官方信息，已按官方域名过滤。请在后台复核学院、专业、截止日期和正文摘要。。",
     "noticeStage": "推免报名",
     "classifiedAt": "2026-08-27"
+  },
+  {
+    "id": "college-02a7e5ec23c1",
+    "title": "23 2026-10 【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "先进制造与机器人学院",
+    "majors": [
+      "法学",
+      "教育学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "2026-12-01",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学先进制造与机器人学院官方站点",
+    "sourceUrl": "https://amr.pku.edu.cn/jyjx/yjsjy/tzgg1/d9da6d3b27404b82973325e0868b0395.htm",
+    "sourceHost": "amr.pku.edu.cn",
+    "sourceHomepage": "https://amr.pku.edu.cn/",
+    "departmentHomepage": "https://amr.pku.edu.cn/",
+    "summary": "先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a4607f78b5d8"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "23 2026-10 【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明。先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。【研究生招生】北京大学先进制造与机器人学院2027年“申请-考核制”博士研究生招生说明_北京大学先进制造与机器人学院 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工程系 控制科学与系统工程系 北京大学机器人研究中心 教职员工 杰出人才 师资队伍 教育教学 本科生教育 研究生教育 专业学位教育 境外学习 留学生 科学研究 重要项目 科研动态 学术活动 学生天地 新闻动态 通知发布 公示信息 学工队伍 办事指南 下载专区 办公服务 学院办公室 办事流程 在线办公 诚聘英才 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 教育基地 教育捐赠 教工之家 图书馆 安全工作 产学研 院友会 --> 首页 学院介绍 学院概况 现任领导 历史沿革 新闻中心 新闻快讯 新闻专题 系所中心 先进制造系 机器人科学与工",
+    "applicationStart": "",
+    "applicationEnd": "2026-12-01",
+    "registrationTime": "（2）电子版材料（作为初审依据）： 截止时间 ： 2026 年 12 月 1 日 12:00 前， 除了推荐信外 ，其他材料按顺序均须 扫描成 1 个 PDF 文件 （大小不超过 15M）， PDF文件作为普通附件发送（不是超大邮件），发送邮箱至： int.stu.amr@pku.edu.cn",
+    "requirements": [
+      "先进制造与机器人学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件",
+      "成绩单原件包括：本科或者硕士阶段就读所在院校的档案馆开具的成绩单复印件加盖档案馆红章",
+      "可视为成绩单原件",
+      "成绩单是学校提供的电子版",
+      "需要打印出来后再次加盖红章可视为成绩单原件",
+      "如果是学校自助机直接打印出来的纸质版带章的成绩单",
+      "且用防伪纸打印的"
+    ],
+    "materials": [
+      "四",
+      "报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后",
+      "方可在报名网站下载",
+      "请在申请表第一页导师处 手写导师姓名",
+      "（3） 两封专家推荐信 专家需线上填写并提交推荐信",
+      "之后将推荐信原件（手写签名）密封并在信封封口骑缝处签字",
+      "（4） 身份证复印件 （5） 最高学历",
+      "学位证书复印件 应届硕士毕业生报名时需提交所在培养单位研究生院或研究生部的证明信",
+      "学信网《教育部学籍在线验证报告》（注意需保证报告中二维码在线验证在有效时间内）",
+      "（6） 毕业（在读）院校的正式成绩单原件 包括本科阶段和硕士阶段的成绩单原件"
+    ],
+    "applicationMethod": "四、报名材料提交说明 （1） 《北京大学 2027 年攻读博士学位研究生报考登记表》 网上报名并缴费成功后，方可在报名网站下载",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-10-23",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-23"
   },
   {
     "id": "college-432844263d05",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:49:35.401Z",
+  "generatedAt": "2026-10-24T04:52:30.666Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -145,8 +145,8 @@
       "department": "数学科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.math.pku.edu.cn/",
-      "total": 27,
-      "recentFiveYears": 18,
+      "total": 28,
+      "recentFiveYears": 19,
       "currentSeason": 8,
       "years": [
         2027,
@@ -163,9 +163,9 @@
       "department": "化学与分子工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.chem.pku.edu.cn/",
-      "total": 11,
+      "total": 12,
       "recentFiveYears": 7,
-      "currentSeason": 4,
+      "currentSeason": 5,
       "years": [
         2027,
         2026
@@ -266,9 +266,9 @@
       "department": "电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ele.pku.edu.cn/",
-      "total": 45,
+      "total": 46,
       "recentFiveYears": 34,
-      "currentSeason": 10,
+      "currentSeason": 11,
       "years": [
         2027,
         2026,
@@ -285,9 +285,9 @@
       "department": "集成电路学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ic.pku.edu.cn/",
-      "total": 33,
+      "total": 35,
       "recentFiveYears": 24,
-      "currentSeason": 9,
+      "currentSeason": 11,
       "years": [
         2027,
         2026,
@@ -302,9 +302,9 @@
       "department": "智能学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://sai.pku.edu.cn/",
-      "total": 37,
+      "total": 39,
       "recentFiveYears": 29,
-      "currentSeason": 8,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
@@ -321,9 +321,9 @@
       "department": "软件与微电子学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://ss.pku.edu.cn/",
-      "total": 41,
+      "total": 42,
       "recentFiveYears": 31,
-      "currentSeason": 9,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
@@ -374,9 +374,9 @@
       "department": "考古文博学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://archaeology.pku.edu.cn/",
-      "total": 28,
+      "total": 29,
       "recentFiveYears": 18,
-      "currentSeason": 10,
+      "currentSeason": 11,
       "years": [
         2027,
         2026,
@@ -393,9 +393,9 @@
       "department": "哲学系宗教学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://phil.pku.edu.cn/",
-      "total": 29,
+      "total": 30,
       "recentFiveYears": 20,
-      "currentSeason": 9,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
@@ -411,9 +411,9 @@
       "department": "外国语学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sfl.pku.edu.cn/",
-      "total": 20,
+      "total": 21,
       "recentFiveYears": 13,
-      "currentSeason": 7,
+      "currentSeason": 8,
       "years": [
         2027,
         2026
@@ -567,9 +567,9 @@
       "department": "环境科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://cese.pku.edu.cn/",
-      "total": 40,
+      "total": 42,
       "recentFiveYears": 24,
-      "currentSeason": 11,
+      "currentSeason": 13,
       "years": [
         2027,
         2026,
@@ -623,9 +623,9 @@
       "department": "信息管理系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.im.pku.edu.cn/",
-      "total": 9,
+      "total": 10,
       "recentFiveYears": 6,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026
@@ -692,9 +692,9 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 26,
+      "total": 28,
       "recentFiveYears": 15,
-      "currentSeason": 11,
+      "currentSeason": 13,
       "years": [
         2027,
         2026,
@@ -744,9 +744,9 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 35,
+      "total": 39,
       "recentFiveYears": 15,
-      "currentSeason": 20,
+      "currentSeason": 24,
       "years": [
         2027,
         2026
@@ -923,9 +923,9 @@
       "department": "碳中和研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://carbon.pku.edu.cn/",
-      "total": 15,
+      "total": 16,
       "recentFiveYears": 9,
-      "currentSeason": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -940,9 +940,9 @@
       "department": "前沿交叉学科研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.aais.pku.edu.cn/",
-      "total": 17,
+      "total": 23,
       "recentFiveYears": 14,
-      "currentSeason": 3,
+      "currentSeason": 9,
       "years": [
         2027,
         2026,
@@ -959,8 +959,8 @@
       "department": "北京国际数学研究中心",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://bicmr.pku.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
         2026,
@@ -1041,9 +1041,9 @@
       "department": "城市规划与设计学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 40,
+      "total": 51,
       "recentFiveYears": 19,
-      "currentSeason": 21,
+      "currentSeason": 32,
       "years": [
         2027,
         2026
@@ -1057,9 +1057,9 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 9,
+      "total": 10,
       "recentFiveYears": 2,
-      "currentSeason": 7,
+      "currentSeason": 8,
       "years": [
         2027,
         2026
@@ -1138,9 +1138,9 @@
       "department": "哲学系",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://phil.pku.edu.cn/",
-      "total": 33,
+      "total": 36,
       "recentFiveYears": 22,
-      "currentSeason": 10,
+      "currentSeason": 13,
       "years": [
         2027,
         2026,
@@ -1281,9 +1281,9 @@
       "department": "历史学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://www.history.pku.edu.cn/zsjx/zs/abdf9fec9ac64bd1a8eb73416185dd0e.htm",
-      "total": 17,
+      "total": 18,
       "recentFiveYears": 10,
-      "currentSeason": 7,
+      "currentSeason": 8,
       "years": [
         2027,
         2026,
@@ -1382,9 +1382,9 @@
       "department": "物理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://www.phy.pku.edu.cn/info/1018/8414.htm",
-      "total": 21,
+      "total": 23,
       "recentFiveYears": 13,
-      "currentSeason": 8,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
@@ -1430,9 +1430,9 @@
       "department": "宗教学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://phil.pku.edu.cn/xwgg/tzgg/c83801861f2648fd8802714995227548.htm",
-      "total": 30,
+      "total": 31,
       "recentFiveYears": 21,
-      "currentSeason": 9,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
