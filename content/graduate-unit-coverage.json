@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:52:30.666Z",
+  "generatedAt": "2026-10-25T04:12:39.569Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -656,9 +656,9 @@
       "department": "政府管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.sg.pku.edu.cn/",
-      "total": 25,
+      "total": 27,
       "recentFiveYears": 16,
-      "currentSeason": 9,
+      "currentSeason": 11,
       "years": [
         2027,
         2026,
@@ -994,9 +994,9 @@
       "department": "信息工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ece.pku.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 14,
-      "currentSeason": 2,
+      "total": 19,
+      "recentFiveYears": 15,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -1234,9 +1234,9 @@
       "department": "新媒体研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://snm.pku.edu.cn/",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 3,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026

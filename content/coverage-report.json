@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-24T04:52:29.455Z",
+  "generatedAt": "2026-10-25T04:12:38.072Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2587,
+    "notices": 2592,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 527,
+      "total": 532,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -1116,7 +1116,7 @@
       "id": "auto-e36fb7e1c657",
       "school": "北京大学",
       "department": "新媒体研究院",
-      "total": 3,
+      "total": 4,
       "years": [
         2027,
         2026
@@ -1128,7 +1128,7 @@
       "id": "auto-e676521d61b7",
       "school": "北京大学",
       "department": "信息工程学院",
-      "total": 17,
+      "total": 19,
       "years": [
         2027,
         2026,
@@ -1292,7 +1292,7 @@
       "id": "auto-ef8743fea875",
       "school": "北京大学",
       "department": "政府管理学院",
-      "total": 20,
+      "total": 22,
       "years": [
         2027,
         2026,
