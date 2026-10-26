@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T04:12:39.569Z",
+  "generatedAt": "2026-10-26T04:32:23.148Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,11 +9,11 @@
     2022
   ],
   "totals": {
-    "units": 1149,
+    "units": 1150,
     "covered": 781,
-    "stale": 10,
+    "stale": 11,
     "missing": 358,
-    "currentSeasonCovered": 142
+    "currentSeasonCovered": 144
   },
   "units": [
     {
@@ -427,9 +427,9 @@
       "department": "艺术学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.art.pku.edu.cn/",
-      "total": 13,
+      "total": 15,
       "recentFiveYears": 8,
-      "currentSeason": 5,
+      "currentSeason": 7,
       "years": [
         2027,
         2026
@@ -443,9 +443,9 @@
       "department": "对外汉语教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://hanyu.pku.edu.cn/",
-      "total": 13,
+      "total": 15,
       "recentFiveYears": 8,
-      "currentSeason": 5,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -530,9 +530,9 @@
       "department": "材料科学与工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.mse.pku.edu.cn/",
-      "total": 36,
+      "total": 39,
       "recentFiveYears": 28,
-      "currentSeason": 5,
+      "currentSeason": 8,
       "years": [
         2027,
         2026,
@@ -692,9 +692,9 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 28,
+      "total": 30,
       "recentFiveYears": 15,
-      "currentSeason": 13,
+      "currentSeason": 15,
       "years": [
         2027,
         2026,
@@ -725,9 +725,9 @@
       "department": "经济学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://econ.pku.edu.cn/",
-      "total": 7,
+      "total": 9,
       "recentFiveYears": 5,
-      "currentSeason": 1,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -744,9 +744,9 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 39,
+      "total": 43,
       "recentFiveYears": 15,
-      "currentSeason": 24,
+      "currentSeason": 28,
       "years": [
         2027,
         2026
@@ -883,9 +883,9 @@
       "department": "区域与国别研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ias.pku.edu.cn/",
-      "total": 18,
-      "recentFiveYears": 14,
-      "currentSeason": 2,
+      "total": 20,
+      "recentFiveYears": 15,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -940,9 +940,9 @@
       "department": "前沿交叉学科研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.aais.pku.edu.cn/",
-      "total": 23,
-      "recentFiveYears": 14,
-      "currentSeason": 9,
+      "total": 25,
+      "recentFiveYears": 15,
+      "currentSeason": 10,
       "years": [
         2027,
         2026,
@@ -994,9 +994,9 @@
       "department": "信息工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ece.pku.edu.cn/",
-      "total": 19,
-      "recentFiveYears": 15,
-      "currentSeason": 3,
+      "total": 21,
+      "recentFiveYears": 16,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -1041,9 +1041,9 @@
       "department": "城市规划与设计学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 51,
+      "total": 54,
       "recentFiveYears": 19,
-      "currentSeason": 32,
+      "currentSeason": 35,
       "years": [
         2027,
         2026
@@ -1057,9 +1057,9 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 10,
+      "total": 11,
       "recentFiveYears": 2,
-      "currentSeason": 8,
+      "currentSeason": 9,
       "years": [
         2027,
         2026
@@ -1089,8 +1089,8 @@
       "department": "汇丰商学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.phbs.pku.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 16,
+      "total": 17,
+      "recentFiveYears": 17,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7372,6 +7372,21 @@
       "status": "covered"
     },
     {
+      "id": "6999376f2b",
+      "school": "清华大学",
+      "department": "杨振宁高等研究院",
+      "sourceName": "清华大学官方院系页面自动发现",
+      "sourceUrl": "https://www.ias.tsinghua.edu.cn/",
+      "total": 1,
+      "recentFiveYears": 0,
+      "currentSeason": 1,
+      "years": [
+        2027
+      ],
+      "latestDate": "2027-01-01",
+      "status": "stale"
+    },
+    {
       "id": "41a404cc9c",
       "school": "清华大学",
       "department": "基础医学院",
@@ -7439,15 +7454,16 @@
       "department": "高等研究院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.ias.tsinghua.edu.cn/",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 6,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
         2025,
         2024
       ],
-      "latestDate": "2026-07-03",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -17717,6 +17733,7 @@
     "清华大学机械工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学信息国家研究中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学人工智能学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
+    "清华大学杨振宁高等研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学碳中和研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学经济系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学中国语言文学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",

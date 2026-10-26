@@ -6140,10 +6140,10 @@
     "timeline": [
       {
         "year": 2027,
-        "count": 32,
+        "count": 35,
         "stages": [
-          "复试/考核",
           "推免报名",
+          "复试/考核",
           "招生简章"
         ],
         "degreeTypes": [
@@ -6151,11 +6151,43 @@
           "直博",
           "专业型硕士"
         ],
-        "firstPublishedAt": "2026-10-20",
+        "firstPublishedAt": "2021-12-02",
         "lastPublishedAt": "2027-01-01",
         "firstApplicationStart": "2026-10-26",
         "lastApplicationEnd": "2027-12-25",
         "notices": [
+          {
+            "id": "college-b72158f05844",
+            "title": "北京大学对外汉语教育学院2027年博士研究生招生说明 2026-10-26",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hanyu.pku.edu.cn/xwgg/tzgg/894af487a69e491493b3317a616d0190.htm",
+            "sourceHost": "hanyu.pku.edu.cn",
+            "sourceHomepage": "https://hanyu.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-32e48e7b423f",
+            "title": "北京大学艺术学院2027年“申请-考核制”博士研究生招生说明 2026-10-26",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.art.pku.edu.cn/rcpyjxxm/bssjy/yjs_tzgg/71c40d01c8a34825bc5e906236fb058d.htm",
+            "sourceHost": "www.art.pku.edu.cn",
+            "sourceHomepage": "https://www.art.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
           {
             "id": "college-b7cd3b1b9f4b",
             "title": "北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明 2026-10-24",
@@ -6667,6 +6699,22 @@
             "sourceHost": "admission.pku.edu.cn",
             "sourceHomepage": "https://admission.pku.edu.cn/",
             "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-7703562d132e",
+            "title": "北京大学经济学院2027年“申请-考核制”博士研究生招生说明 2026-10-26",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2021-12-02",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/d02ef1cd86e94a6b9e07e3f4f76adf82.htm",
+            "sourceHost": "econ.pku.edu.cn",
+            "sourceHomepage": "https://econ.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
           }
         ]
       },
@@ -6884,17 +6932,17 @@
       }
     ],
     "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 32,
+    "currentSeasonCount": 35,
     "latestPastYear": 2026,
-    "noticeCount": 44,
+    "noticeCount": 47,
     "llmStructuredCount": 3,
     "years": [
       2027,
       2026
     ],
     "stages": [
-      "复试/考核",
       "推免报名",
+      "复试/考核",
       "招生简章",
       "推免"
     ],
@@ -6905,6 +6953,7 @@
       "硕士"
     ],
     "majors": [
+      "艺术学",
       "人工智能",
       "计算机科学与技术",
       "电子信息",
@@ -6916,28 +6965,27 @@
       "中国语言文学",
       "生物学",
       "社会学",
-      "马克思主义理论",
-      "新闻与传播"
+      "马克思主义理论"
     ],
     "sourceHosts": [
+      "hanyu.pku.edu.cn",
+      "www.art.pku.edu.cn",
       "www.aais.pku.edu.cn",
       "www.phy.pku.edu.cn",
       "phil.pku.edu.cn",
       "ic.pku.edu.cn",
       "www.gse.pku.edu.cn",
-      "sai.pku.edu.cn",
-      "archaeology.pku.edu.cn",
-      "cese.pku.edu.cn"
+      "sai.pku.edu.cn"
     ],
     "sourceHomepages": [
+      "https://hanyu.pku.edu.cn/",
+      "https://www.art.pku.edu.cn/",
       "https://www.aais.pku.edu.cn/",
       "https://www.phy.pku.edu.cn/",
       "https://phil.pku.edu.cn/",
       "https://ic.pku.edu.cn/",
       "https://www.gse.pku.edu.cn/",
-      "https://sai.pku.edu.cn/",
-      "https://archaeology.pku.edu.cn/",
-      "https://cese.pku.edu.cn/"
+      "https://sai.pku.edu.cn/"
     ],
     "departmentHomepages": [
       "https://www.pku.edu.cn/",
@@ -6956,30 +7004,79 @@
     "title": "北京大学 · 光华管理学院",
     "tracks": [
       "人文社科",
-      "计算机/AI",
-      "法学"
+      "经管金融",
+      "材料能源化工"
     ],
     "qualityFlags": [],
     "timeline": [
       {
         "year": 2027,
-        "count": 23,
+        "count": 27,
         "stages": [
           "复试/考核",
           "推免报名",
           "招生简章"
         ],
         "degreeTypes": [
+          "直博",
           "博士",
           "专业型硕士",
           "硕士",
           "待确认"
         ],
-        "firstPublishedAt": "2026-08-31",
+        "firstPublishedAt": "2021-12-02",
         "lastPublishedAt": "2027-01-01",
         "firstApplicationStart": "2026-10-26",
         "lastApplicationEnd": "2026-12-28",
         "notices": [
+          {
+            "id": "college-54d2b72a485a",
+            "title": "北京大学材料科学与工程学院2027年“申请-考核制” 博士研究生招生说明（学术型）",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2026-12-25",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/7464.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-a8492a1f5d13",
+            "title": "北京大学对外汉语教育学院2027年博士研究生招生说明",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://hanyu.pku.edu.cn/xwgg/tzgg/894af487a69e491493b3317a616d0190.htm",
+            "sourceHost": "hanyu.pku.edu.cn",
+            "sourceHomepage": "https://hanyu.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-36fa64397b5b",
+            "title": "北京大学艺术学院2027年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.art.pku.edu.cn/rcpyjxxm/bssjy/yjs_tzgg/71c40d01c8a34825bc5e906236fb058d.htm",
+            "sourceHost": "www.art.pku.edu.cn",
+            "sourceHomepage": "https://www.art.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
           {
             "id": "college-4401711e9817",
             "title": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明",
@@ -7347,6 +7444,22 @@
             "sourceHost": "admission.pku.edu.cn",
             "sourceHomepage": "https://admission.pku.edu.cn/",
             "departmentHomepage": "http://www.gsm.pku.edu.cn/"
+          },
+          {
+            "id": "college-1606890ab222",
+            "title": "北京大学经济学院2027年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2021-12-02",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2026-12-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/d02ef1cd86e94a6b9e07e3f4f76adf82.htm",
+            "sourceHost": "econ.pku.edu.cn",
+            "sourceHomepage": "https://econ.pku.edu.cn/",
+            "departmentHomepage": "http://www.gsm.pku.edu.cn/"
           }
         ]
       },
@@ -7598,9 +7711,9 @@
       }
     ],
     "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 23,
+    "currentSeasonCount": 27,
     "latestPastYear": 2026,
-    "noticeCount": 37,
+    "noticeCount": 41,
     "llmStructuredCount": 0,
     "years": [
       2027,
@@ -7612,43 +7725,49 @@
       "招生简章"
     ],
     "degreeTypes": [
+      "直博",
       "博士",
       "专业型硕士",
       "硕士",
       "待确认"
     ],
     "majors": [
+      "材料科学与工程",
+      "材料与化工",
+      "教育学",
+      "艺术学",
+      "人工智能",
       "软件工程",
+      "计算机科学与技术",
+      "电子信息",
       "物理学",
       "哲学",
       "中国语言文学",
       "新闻与传播",
+      "法学",
       "社会学",
       "历史学",
-      "工商管理",
-      "数学",
-      "化学",
-      "材料科学与工程"
+      "工商管理"
     ],
     "sourceHosts": [
+      "www.mse.pku.edu.cn",
+      "hanyu.pku.edu.cn",
+      "www.art.pku.edu.cn",
       "www.aais.pku.edu.cn",
       "www.phy.pku.edu.cn",
       "phil.pku.edu.cn",
       "www.psy.pku.edu.cn",
-      "xnewera.pku.edu.cn",
-      "www.gsm.pku.edu.cn",
-      "chinese.pku.edu.cn",
-      "saas.pku.edu.cn"
+      "xnewera.pku.edu.cn"
     ],
     "sourceHomepages": [
+      "https://www.mse.pku.edu.cn/",
+      "https://hanyu.pku.edu.cn/",
+      "https://www.art.pku.edu.cn/",
       "https://www.aais.pku.edu.cn/",
       "https://www.phy.pku.edu.cn/",
       "https://phil.pku.edu.cn/",
       "https://www.psy.pku.edu.cn/",
-      "https://xnewera.pku.edu.cn/",
-      "https://www.gsm.pku.edu.cn/",
-      "https://chinese.pku.edu.cn/",
-      "https://saas.pku.edu.cn/"
+      "https://xnewera.pku.edu.cn/"
     ],
     "departmentHomepages": [
       "http://www.gsm.pku.edu.cn/"
@@ -14092,6 +14211,508 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-dfb9ce782003",
+    "school": "北京大学",
+    "department": "信息工程学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 信息工程学院",
+    "tracks": [
+      "计算机/AI"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-10-26",
+        "lastApplicationEnd": "2027-09-18",
+        "notices": [
+          {
+            "id": "college-e7a568da1c67",
+            "title": "北京大学信息工程学院2027年外国来华留学生研究生招生说明 2026-10-25",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3244.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-086c20c6f7ff",
+            "title": "北京大学信息工程学院2027年“申请-考核制”博士研究生招生说明 2026-10-25",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2026-11-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3243.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-904c2ed080d4",
+            "title": "北京大学信息工程学院2027年度推荐免试研究生复试通知 2026-09-12",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2027-09-16",
+            "applicationEnd": "2027-09-18",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3225.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-4cb74768d0da",
+            "title": "北京大学信息工程学院2027年接收推荐免试研究生说明 2026-08-31",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3213.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 10,
+        "stages": [
+          "推免",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "博士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2026-11-25",
+        "notices": [
+          {
+            "id": "college-03e939d67f97",
+            "title": "( 2026-10-25 )",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3244.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-6fc2425f0117",
+            "title": "( 2026-10-25 )",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2026-11-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3243.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-b163509965e4",
+            "title": "( 2026-09-12 )",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3225.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-6467bbc96b58",
+            "title": "( 2026-08-31 )",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3213.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-acefcaad13b2",
+            "title": "( 2026-07-07 )",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3182.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-d9b4913690da",
+            "title": "北京大学信息工程学院2026年国际暑期探索营招生简章-北京大学信息工程学院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3161.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-94f530dd913b",
+            "title": "北京大学信息工程学院2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章-北京大学信息工程学院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-11-10",
+            "applicationEnd": "2026-01-09",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3057.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-f6de9ea6fdb6",
+            "title": "北京大学信息工程学院2026年外国来华留学生研究生招生说明 （中文授课项目）",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-23",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3052.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-26d67a8704c2",
+            "title": "关于举办“汇智凝芯---北京大学信息工程学院 2026年全国优秀大学生学术探索营”的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-03",
+            "applicationEnd": "2026-06-25",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3175.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "http://www.ece.pku.edu.cn/",
+            "departmentHomepage": "http://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-a60280e07711",
+            "title": "招生简章-北京大学信息工程学院",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/zsjy/zs/zsjz.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 5,
+        "stages": [
+          "复试/考核",
+          "推免报名",
+          "招生简章",
+          "推免"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-09-10",
+        "lastApplicationEnd": "2025-01-10",
+        "notices": [
+          {
+            "id": "college-da05a0957c50",
+            "title": "北京大学信息工程学院2025年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-01-07",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2844.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-62067de4efcc",
+            "title": "北京大学信息工程学院2025年接收推荐免试研究生说明",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-09-10",
+            "applicationEnd": "2024-09-14",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2831.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-d151bec0198d",
+            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-11-15",
+            "applicationEnd": "2025-01-08",
+            "degreeTypes": [
+              "博士",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2868.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-af19ea6682d5",
+            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生招生复试安排-北京大学信息工程学院",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2914.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          },
+          {
+            "id": "college-c6dbb95836b7",
+            "title": "北京大学信息工程学院2025年外国来华留学生研究生招生说明 （中文授课项目）-北京大学信息工程学院",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-10-14",
+            "applicationEnd": "2025-01-10",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1008/2861.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-09-04",
+        "lastApplicationEnd": "2023-09-08",
+        "notices": [
+          {
+            "id": "college-904f5ab2f5ed",
+            "title": "北京大学信息工程学院2024年接收推荐免试研究生说明",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-09-04",
+            "applicationEnd": "2023-09-08",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2653.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "直博",
+          "学术型硕士",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2013-01-01",
+        "lastPublishedAt": "2013-01-01",
+        "firstApplicationStart": "2012-09-18",
+        "lastApplicationEnd": "2012-09-18",
+        "notices": [
+          {
+            "id": "college-5c98f6758144",
+            "title": "2013年北京大学信息工程学院(深圳)关于申请和接受推荐免试研究生的说明",
+            "stage": "推免报名",
+            "year": 2013,
+            "publishedAt": "2013-01-01",
+            "applicationStart": "2012-09-18",
+            "applicationEnd": "2012-09-18",
+            "degreeTypes": [
+              "直博",
+              "学术型硕士",
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/1753.htm",
+            "sourceHost": "www.ece.pku.edu.cn",
+            "sourceHomepage": "https://www.ece.pku.edu.cn/",
+            "departmentHomepage": "https://www.ece.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 4,
+    "latestPastYear": 2026,
+    "noticeCount": 21,
+    "llmStructuredCount": 10,
+    "years": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2013
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "推免",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "博士",
+      "硕士",
+      "直博",
+      "学术型硕士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "计算机科学与技术",
+      "电子信息",
+      "人工智能",
+      "信息与通信工程",
+      "集成电路科学与工程",
+      "通信与信息系统",
+      "软件工程",
+      "信息安全",
+      "集成电路科学与工程专业",
+      "计算机应用技术",
+      "微电子学与固体电子学",
+      "集成电路与系统"
+    ],
+    "sourceHosts": [
+      "www.ece.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://www.ece.pku.edu.cn/",
+      "https://www.ece.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.ece.pku.edu.cn/",
+      "https://www.ece.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-80a30337b4e2",
     "school": "清华大学",
     "department": "领导力与组织管理系",
@@ -15065,18 +15686,36 @@
     "timeline": [
       {
         "year": 2027,
-        "count": 1,
+        "count": 2,
         "stages": [
+          "复试/考核",
           "推免报名"
         ],
         "degreeTypes": [
+          "直博",
           "待确认"
         ],
         "firstPublishedAt": "2027-01-01",
         "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
+        "firstApplicationStart": "2026-10-26",
         "lastApplicationEnd": "2027-09-10",
         "notices": [
+          {
+            "id": "college-af8d1cf675cb",
+            "title": "【研招】北京大学材料科学与工程学院2027年“申请-考核制” 博士研究生招生说明（学术型）",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2026-12-25",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/7464.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.mse.pku.edu.cn/"
+          },
           {
             "id": "college-353ef8987ce9",
             "title": "【研招】材料科学与工程学院关于接收2027年推荐免试研究生的说明",
@@ -15479,9 +16118,9 @@
       }
     ],
     "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 1,
+    "currentSeasonCount": 2,
     "latestPastYear": 2026,
-    "noticeCount": 19,
+    "noticeCount": 20,
     "llmStructuredCount": 8,
     "years": [
       2027,
@@ -15492,17 +16131,17 @@
       2021
     ],
     "stages": [
+      "复试/考核",
       "推免报名",
       "招生简章",
       "夏令营/研学营",
-      "推免",
-      "复试/考核"
+      "推免"
     ],
     "degreeTypes": [
+      "直博",
       "待确认",
       "博士",
       "硕士",
-      "直博",
       "学术型硕士"
     ],
     "majors": [
@@ -16035,475 +16674,6 @@
     ],
     "departmentHomepages": [
       "https://cese.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-dfb9ce782003",
-    "school": "北京大学",
-    "department": "信息工程学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 信息工程学院",
-    "tracks": [
-      "计算机/AI"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 3,
-        "stages": [
-          "复试/考核",
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2026-10-26",
-        "lastApplicationEnd": "2027-09-18",
-        "notices": [
-          {
-            "id": "college-086c20c6f7ff",
-            "title": "北京大学信息工程学院2027年“申请-考核制”博士研究生招生说明 2026-10-25",
-            "stage": "复试/考核",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2026-10-26",
-            "applicationEnd": "2026-11-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3243.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-904c2ed080d4",
-            "title": "北京大学信息工程学院2027年度推荐免试研究生复试通知 2026-09-12",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2027-09-16",
-            "applicationEnd": "2027-09-18",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3225.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-4cb74768d0da",
-            "title": "北京大学信息工程学院2027年接收推荐免试研究生说明 2026-08-31",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3213.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 9,
-        "stages": [
-          "推免",
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2026-11-25",
-        "notices": [
-          {
-            "id": "college-6fc2425f0117",
-            "title": "( 2026-10-25 )",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-10-26",
-            "applicationEnd": "2026-11-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3243.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-b163509965e4",
-            "title": "( 2026-09-12 )",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3225.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-6467bbc96b58",
-            "title": "( 2026-08-31 )",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1025/3213.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-acefcaad13b2",
-            "title": "( 2026-07-07 )",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3182.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-d9b4913690da",
-            "title": "北京大学信息工程学院2026年国际暑期探索营招生简章-北京大学信息工程学院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3161.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-94f530dd913b",
-            "title": "北京大学信息工程学院2026年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章-北京大学信息工程学院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-11-10",
-            "applicationEnd": "2026-01-09",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3057.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-f6de9ea6fdb6",
-            "title": "北京大学信息工程学院2026年外国来华留学生研究生招生说明 （中文授课项目）",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-23",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/3052.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-26d67a8704c2",
-            "title": "关于举办“汇智凝芯---北京大学信息工程学院 2026年全国优秀大学生学术探索营”的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-03",
-            "applicationEnd": "2026-06-25",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://www.ece.pku.edu.cn/info/1027/3175.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "http://www.ece.pku.edu.cn/",
-            "departmentHomepage": "http://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-a60280e07711",
-            "title": "招生简章-北京大学信息工程学院",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/zsjy/zs/zsjz.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 5,
-        "stages": [
-          "复试/考核",
-          "推免报名",
-          "招生简章",
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士",
-          "待确认",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-09-10",
-        "lastApplicationEnd": "2025-01-10",
-        "notices": [
-          {
-            "id": "college-da05a0957c50",
-            "title": "北京大学信息工程学院2025年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-01-07",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2844.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-62067de4efcc",
-            "title": "北京大学信息工程学院2025年接收推荐免试研究生说明",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-09-10",
-            "applicationEnd": "2024-09-14",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2831.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-d151bec0198d",
-            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生、博士研究生招生简章",
-            "stage": "招生简章",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-11-15",
-            "applicationEnd": "2025-01-08",
-            "degreeTypes": [
-              "博士",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2868.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-af19ea6682d5",
-            "title": "北京大学信息工程学院2025年面向香港、澳门、台湾地区招收硕士研究生招生复试安排-北京大学信息工程学院",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1025/2914.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          },
-          {
-            "id": "college-c6dbb95836b7",
-            "title": "北京大学信息工程学院2025年外国来华留学生研究生招生说明 （中文授课项目）-北京大学信息工程学院",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-10-14",
-            "applicationEnd": "2025-01-10",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1008/2861.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-09-04",
-        "lastApplicationEnd": "2023-09-08",
-        "notices": [
-          {
-            "id": "college-904f5ab2f5ed",
-            "title": "北京大学信息工程学院2024年接收推荐免试研究生说明",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-09-04",
-            "applicationEnd": "2023-09-08",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/2653.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2013,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博",
-          "学术型硕士",
-          "专业型硕士"
-        ],
-        "firstPublishedAt": "2013-01-01",
-        "lastPublishedAt": "2013-01-01",
-        "firstApplicationStart": "2012-09-18",
-        "lastApplicationEnd": "2012-09-18",
-        "notices": [
-          {
-            "id": "college-5c98f6758144",
-            "title": "2013年北京大学信息工程学院(深圳)关于申请和接受推荐免试研究生的说明",
-            "stage": "推免报名",
-            "year": 2013,
-            "publishedAt": "2013-01-01",
-            "applicationStart": "2012-09-18",
-            "applicationEnd": "2012-09-18",
-            "degreeTypes": [
-              "直博",
-              "学术型硕士",
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.ece.pku.edu.cn/info/1026/1753.htm",
-            "sourceHost": "www.ece.pku.edu.cn",
-            "sourceHomepage": "https://www.ece.pku.edu.cn/",
-            "departmentHomepage": "https://www.ece.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 3,
-    "latestPastYear": 2026,
-    "noticeCount": 19,
-    "llmStructuredCount": 10,
-    "years": [
-      2027,
-      2026,
-      2025,
-      2024,
-      2013
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "推免",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "博士",
-      "待确认",
-      "硕士",
-      "直博",
-      "学术型硕士",
-      "专业型硕士"
-    ],
-    "majors": [
-      "计算机科学与技术",
-      "人工智能",
-      "信息与通信工程",
-      "集成电路科学与工程",
-      "通信与信息系统",
-      "软件工程",
-      "信息安全",
-      "集成电路科学与工程专业",
-      "计算机应用技术",
-      "微电子学与固体电子学",
-      "集成电路与系统"
-    ],
-    "sourceHosts": [
-      "www.ece.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://www.ece.pku.edu.cn/",
-      "https://www.ece.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://www.ece.pku.edu.cn/",
-      "https://www.ece.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -17787,6 +17957,500 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-6f2d0cd5a5d0",
+    "school": "北京大学",
+    "department": "区域与国别研究院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 区域与国别研究院",
+    "tracks": [
+      "计算机/AI",
+      "理工基础",
+      "法学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "复试/考核",
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "博士",
+          "直博"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-10-26",
+        "lastApplicationEnd": "2027-01-08",
+        "notices": [
+          {
+            "id": "college-f15269844a65",
+            "title": "26 10-26 北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2027-01-08",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/c91c9fc018cf4e70987b9e282d79026e.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-254b24ee4877",
+            "title": "01 09-01 北京大学区域与国别研究院关于接收2027年推荐免试（直博）研究生的说明",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/81f998201ebd42c1907b56ab9c30d69e.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 7,
+        "stages": [
+          "复试/考核",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-10-09",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2026-09-08",
+        "notices": [
+          {
+            "id": "college-0219f377145d",
+            "title": "2026-10-26 北京大学前沿交叉学科研究院2027年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/c91c9fc018cf4e70987b9e282d79026e.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-fee012d68b6b",
+            "title": "北京大学区域与国别研究院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-26",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/958490420ad74412af8c7a5e5caca6e1.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-17736adac046",
+            "title": "2026-09-01 北京大学区域与国别研究院关于接收2027年推荐免试（直博）研究生的说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-09-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/81f998201ebd42c1907b56ab9c30d69e.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-3cbfaf59969f",
+            "title": "2026-03-26 北京大学区域与国别研究院2026年“申请-考核制”博士研究生招生复试面试名单",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/8ed1443e197e4148bd03e31834b03da9.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-d01301fd67ff",
+            "title": "26 03-26 北京大学区域与国别研究院2026年“申请-考核制”博士研究生招生复试面试名单",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/8ed1443e197e4148bd03e31834b03da9.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-8085ef3ba400",
+            "title": "北京大学区域与国别研究院",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/8ed1443e197e4148bd03e31834b03da9.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-c7490eab5db9",
+            "title": "北京大学2026年硕士研究生招生简章（校本部） 2025-10-09",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009102223204061.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "直博",
+          "博士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2025-12-26",
+        "notices": [
+          {
+            "id": "college-72b5b082f105",
+            "title": "2025-09-01 北京大学区域与国别研究院关于接收2026年推荐免试（直博）研究生的说明",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2025-09-10",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/fed5f1c3b4dc4b8192e3ece37097fe7b.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-7d7cbabf1fa7",
+            "title": "2025-10-20 北京大学前沿交叉学科研究院2026年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-26",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/958490420ad74412af8c7a5e5caca6e1.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "直博",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2024-10-11",
+        "lastApplicationEnd": "2024-12-25",
+        "notices": [
+          {
+            "id": "college-aa1300a5c12d",
+            "title": "2024-09-11 北京大学区域与国别研究院关于接收2025年推荐免试（直博）研究生的说明",
+            "stage": "推免报名",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2024-09-16",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/e457bd1f891f4bd7813521dcf7a030b7.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-f8a1dc93f472",
+            "title": "2024-10-11 北京大学前沿交叉学科研究院2025年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2024-10-11",
+            "applicationEnd": "2024-12-25",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/86a6b8ccd71e41e782ff785e430f4c12.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "直博",
+          "博士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "2023-10-11",
+        "lastApplicationEnd": "2023-12-06",
+        "notices": [
+          {
+            "id": "college-78267a1c7947",
+            "title": "2023-09-01 北京大学区域与国别研究院关于接收2024年推荐免试研究生的说明",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2023-09-08",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/2bac1624275345cc8752a060341061ff.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          },
+          {
+            "id": "college-ef66d82c8d7d",
+            "title": "2023-10-09 北京大学前沿交叉学科研究院2024年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "2023-10-11",
+            "applicationEnd": "2023-12-06",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/2d714d9d305746c19c477da8dba622b2.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "2022-10-11",
+        "lastApplicationEnd": "2022-12-06",
+        "notices": [
+          {
+            "id": "college-b9949363afca",
+            "title": "2022-10-08 北京大学区域与国别研究院2023年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "2022-10-11",
+            "applicationEnd": "2022-12-06",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/68c38bc9b9a84047a3128e9a42044a92.htm",
+            "sourceHost": "ias.pku.edu.cn",
+            "sourceHomepage": "https://ias.pku.edu.cn/",
+            "departmentHomepage": "https://ias.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2016,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2016-01-01",
+        "lastPublishedAt": "2016-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-f9e48f54048e",
+            "title": "关于发布北京大学2016年硕士研究生招生复试基本分数线的通告 2016-03-09",
+            "stage": "复试/考核",
+            "year": 2016,
+            "publishedAt": "2016-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/ptzk/420.htm",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2015,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2015-01-01",
+        "lastPublishedAt": "2015-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-91eb99401339",
+            "title": "关于发布北京大学2015年硕士研究生招生复试基本分数线的通告 2015-03-06",
+            "stage": "复试/考核",
+            "year": 2015,
+            "publishedAt": "2015-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/ptzk/423.htm",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://admission.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
+    "latestPastYear": 2026,
+    "noticeCount": 18,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2016,
+      2015
+    ],
+    "stages": [
+      "复试/考核",
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "直博",
+      "硕士"
+    ],
+    "majors": [
+      "外国语言文学",
+      "心理学",
+      "数学",
+      "物理学",
+      "化学",
+      "软件工程",
+      "金融",
+      "社会学"
+    ],
+    "sourceHosts": [
+      "ias.pku.edu.cn",
+      "admission.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://ias.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://ias.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-8557be322b30",
     "school": "湖南大学",
     "department": "湖南大学校级/待分院",
@@ -18280,6 +18944,419 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-e63086ab4ae7",
+    "school": "北京大学",
+    "department": "汇丰商学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 汇丰商学院",
+    "tracks": [
+      "经管金融",
+      "计算机/AI",
+      "新闻传播外语"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 8,
+        "stages": [
+          "推免报名",
+          "复试/考核",
+          "推免"
+        ],
+        "degreeTypes": [
+          "博士",
+          "学术型硕士",
+          "硕士",
+          "待确认",
+          "直博"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-06-01",
+        "lastApplicationEnd": "2026-06-10",
+        "notices": [
+          {
+            "id": "college-c022cfd8b0c2",
+            "title": "2026.10.26 北京大学汇丰商学院2027年博士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181461.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-432844263d05",
+            "title": "2026.10.22 北京大学汇丰商学院2027年硕士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181401.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-0a6d945ec509",
+            "title": "2026.03.18 北京大学汇丰商学院2026年博士研究生招生复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164271.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-c12fa6b2f463",
+            "title": "2026.03.18 北京大学汇丰商学院2026年硕士研究生招生考试复试通知（不含MBA、EMBA）",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164261.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-ed2cdf6bc4f3",
+            "title": "2026.05.29 北京大学汇丰商学院关于举办“2026年全国优秀大学生经济金融论坛”的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/178531.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-ae06f31863db",
+            "title": "2026.08.31 北京大学汇丰商学院接收2027年免试研究生（直博生）的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180531.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-b501c314fb08",
+            "title": "2026.09.15 北京大学汇丰商学院2027年博士研究生（直博生）招生复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180801.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-f7c0857abdbf",
+            "title": "通知公告-北京大学汇丰商学院-MBA",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2019-04-30",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/zsxx/zsjz/tzgg/1.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-11-15",
+        "lastApplicationEnd": "2026-01-09",
+        "notices": [
+          {
+            "id": "college-14e40d9e649e",
+            "title": "2025.09.12 北京大学汇丰商学院2026年接收推荐免试研究生复试通知",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158031.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-321d41a28f1b",
+            "title": "2025.10.20 北京大学汇丰商学院2026年博士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158581.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-12099307fe5a",
+            "title": "2025.10.23 北京大学汇丰商学院2026年硕士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158661.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-7ea86eafb9f5",
+            "title": "2025.11.12 北京大学汇丰商学院2026年面向香港、澳门、台湾地区招收硕士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-11-10",
+            "applicationEnd": "2026-01-09",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/159501.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-f30df7178565",
+            "title": "北京大学汇丰商学院2025年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-01-14",
+            "applicationEnd": "2025-03-14",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24811.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-fd4380309662",
+            "title": "上一篇 北京大学汇丰商学院2025年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-11-15",
+            "applicationEnd": "2025-01-08",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24901.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-10",
+        "lastApplicationEnd": "2024-03-31",
+        "notices": [
+          {
+            "id": "college-048a61cd67b9",
+            "title": "北京大学汇丰商学院2024年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13981.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-0e277a924ed6",
+            "title": "北京大学汇丰商学院2024年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10-16",
+            "applicationEnd": "2024-03-31",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13991.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-7b9b9b457783",
+            "title": "北京大学汇丰商学院关于举办2023年推免交流会的通知",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/2161/86581.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 17,
+    "llmStructuredCount": 5,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "推免"
+    ],
+    "degreeTypes": [
+      "博士",
+      "学术型硕士",
+      "硕士",
+      "待确认",
+      "直博"
+    ],
+    "majors": [
+      "金融",
+      "数学",
+      "新闻与传播",
+      "翻译",
+      "电子信息",
+      "工商管理硕士（MBA）",
+      "统计学",
+      "人工智能",
+      "软件工程",
+      "信息安全",
+      "工商管理"
+    ],
+    "sourceHosts": [
+      "www.phbs.pku.edu.cn",
+      "mba.phbs.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.phbs.pku.edu.cn/",
+      "https://mba.phbs.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.phbs.pku.edu.cn/",
+      "https://mba.phbs.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-b7a00083c843",
     "school": "中国科学技术大学",
     "department": "合肥微尺度物质科学国家研究中心",
@@ -18716,863 +19793,6 @@
     ],
     "departmentHomepages": [
       "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-e63086ab4ae7",
-    "school": "北京大学",
-    "department": "汇丰商学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 汇丰商学院",
-    "tracks": [
-      "经管金融",
-      "计算机/AI",
-      "新闻传播外语"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 7,
-        "stages": [
-          "推免报名",
-          "复试/考核",
-          "推免"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "博士",
-          "硕士",
-          "待确认",
-          "直博"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-06-01",
-        "lastApplicationEnd": "2026-06-10",
-        "notices": [
-          {
-            "id": "college-432844263d05",
-            "title": "2026.10.22 北京大学汇丰商学院2027年硕士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181401.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-0a6d945ec509",
-            "title": "2026.03.18 北京大学汇丰商学院2026年博士研究生招生复试通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164271.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-c12fa6b2f463",
-            "title": "2026.03.18 北京大学汇丰商学院2026年硕士研究生招生考试复试通知（不含MBA、EMBA）",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164261.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-ed2cdf6bc4f3",
-            "title": "2026.05.29 北京大学汇丰商学院关于举办“2026年全国优秀大学生经济金融论坛”的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/178531.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-ae06f31863db",
-            "title": "2026.08.31 北京大学汇丰商学院接收2027年免试研究生（直博生）的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180531.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-b501c314fb08",
-            "title": "2026.09.15 北京大学汇丰商学院2027年博士研究生（直博生）招生复试通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180801.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-f7c0857abdbf",
-            "title": "通知公告-北京大学汇丰商学院-MBA",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2019-04-30",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/zsxx/zsjz/tzgg/1.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-11-15",
-        "lastApplicationEnd": "2026-01-09",
-        "notices": [
-          {
-            "id": "college-14e40d9e649e",
-            "title": "2025.09.12 北京大学汇丰商学院2026年接收推荐免试研究生复试通知",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158031.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-321d41a28f1b",
-            "title": "2025.10.20 北京大学汇丰商学院2026年博士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-19",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158581.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-12099307fe5a",
-            "title": "2025.10.23 北京大学汇丰商学院2026年硕士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158661.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-7ea86eafb9f5",
-            "title": "2025.11.12 北京大学汇丰商学院2026年面向香港、澳门、台湾地区招收硕士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-11-10",
-            "applicationEnd": "2026-01-09",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/159501.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-f30df7178565",
-            "title": "北京大学汇丰商学院2025年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-01-14",
-            "applicationEnd": "2025-03-14",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24811.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-fd4380309662",
-            "title": "上一篇 北京大学汇丰商学院2025年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-11-15",
-            "applicationEnd": "2025-01-08",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24901.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-10",
-        "lastApplicationEnd": "2024-03-31",
-        "notices": [
-          {
-            "id": "college-048a61cd67b9",
-            "title": "北京大学汇丰商学院2024年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13981.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-0e277a924ed6",
-            "title": "北京大学汇丰商学院2024年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10-16",
-            "applicationEnd": "2024-03-31",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13991.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-7b9b9b457783",
-            "title": "北京大学汇丰商学院关于举办2023年推免交流会的通知",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/2161/86581.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 16,
-    "llmStructuredCount": 5,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023
-    ],
-    "stages": [
-      "推免报名",
-      "复试/考核",
-      "推免"
-    ],
-    "degreeTypes": [
-      "学术型硕士",
-      "博士",
-      "硕士",
-      "待确认",
-      "直博"
-    ],
-    "majors": [
-      "金融",
-      "数学",
-      "新闻与传播",
-      "翻译",
-      "电子信息",
-      "工商管理硕士（MBA）",
-      "统计学",
-      "人工智能",
-      "软件工程",
-      "信息安全",
-      "工商管理"
-    ],
-    "sourceHosts": [
-      "www.phbs.pku.edu.cn",
-      "mba.phbs.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.phbs.pku.edu.cn/",
-      "https://mba.phbs.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.phbs.pku.edu.cn/",
-      "https://mba.phbs.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-6f2d0cd5a5d0",
-    "school": "北京大学",
-    "department": "区域与国别研究院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 区域与国别研究院",
-    "tracks": [
-      "计算机/AI",
-      "理工基础",
-      "法学"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "直博"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "2026-09-08",
-        "notices": [
-          {
-            "id": "college-254b24ee4877",
-            "title": "01 09-01 北京大学区域与国别研究院关于接收2027年推荐免试（直博）研究生的说明",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-09-08",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/81f998201ebd42c1907b56ab9c30d69e.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "复试/考核",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-10-09",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2026-09-08",
-        "notices": [
-          {
-            "id": "college-fee012d68b6b",
-            "title": "北京大学区域与国别研究院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-26",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/958490420ad74412af8c7a5e5caca6e1.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-17736adac046",
-            "title": "2026-09-01 北京大学区域与国别研究院关于接收2027年推荐免试（直博）研究生的说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-09-08",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/81f998201ebd42c1907b56ab9c30d69e.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-3cbfaf59969f",
-            "title": "2026-03-26 北京大学区域与国别研究院2026年“申请-考核制”博士研究生招生复试面试名单",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/8ed1443e197e4148bd03e31834b03da9.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-d01301fd67ff",
-            "title": "26 03-26 北京大学区域与国别研究院2026年“申请-考核制”博士研究生招生复试面试名单",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/8ed1443e197e4148bd03e31834b03da9.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-8085ef3ba400",
-            "title": "北京大学区域与国别研究院",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/8ed1443e197e4148bd03e31834b03da9.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-c7490eab5db9",
-            "title": "北京大学2026年硕士研究生招生简章（校本部） 2025-10-09",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009102223204061.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 2,
-        "stages": [
-          "推免报名",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "直博",
-          "博士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2025-12-26",
-        "notices": [
-          {
-            "id": "college-72b5b082f105",
-            "title": "2025-09-01 北京大学区域与国别研究院关于接收2026年推荐免试（直博）研究生的说明",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2025-09-10",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/fed5f1c3b4dc4b8192e3ece37097fe7b.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-7d7cbabf1fa7",
-            "title": "2025-10-20 北京大学前沿交叉学科研究院2026年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-26",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/958490420ad74412af8c7a5e5caca6e1.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "推免报名",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "直博",
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2024-10-11",
-        "lastApplicationEnd": "2024-12-25",
-        "notices": [
-          {
-            "id": "college-aa1300a5c12d",
-            "title": "2024-09-11 北京大学区域与国别研究院关于接收2025年推荐免试（直博）研究生的说明",
-            "stage": "推免报名",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2024-09-16",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/e457bd1f891f4bd7813521dcf7a030b7.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-f8a1dc93f472",
-            "title": "2024-10-11 北京大学前沿交叉学科研究院2025年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2024-10-11",
-            "applicationEnd": "2024-12-25",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/86a6b8ccd71e41e782ff785e430f4c12.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 2,
-        "stages": [
-          "推免报名",
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "直博",
-          "博士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "2023-10-11",
-        "lastApplicationEnd": "2023-12-06",
-        "notices": [
-          {
-            "id": "college-78267a1c7947",
-            "title": "2023-09-01 北京大学区域与国别研究院关于接收2024年推荐免试研究生的说明",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2023-09-08",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/2bac1624275345cc8752a060341061ff.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          },
-          {
-            "id": "college-ef66d82c8d7d",
-            "title": "2023-10-09 北京大学前沿交叉学科研究院2024年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "2023-10-11",
-            "applicationEnd": "2023-12-06",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/2d714d9d305746c19c477da8dba622b2.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2022-01-01",
-        "lastPublishedAt": "2022-01-01",
-        "firstApplicationStart": "2022-10-11",
-        "lastApplicationEnd": "2022-12-06",
-        "notices": [
-          {
-            "id": "college-b9949363afca",
-            "title": "2022-10-08 北京大学区域与国别研究院2023年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2022,
-            "publishedAt": "2022-01-01",
-            "applicationStart": "2022-10-11",
-            "applicationEnd": "2022-12-06",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://ias.pku.edu.cn/jxgl/zsjz/68c38bc9b9a84047a3128e9a42044a92.htm",
-            "sourceHost": "ias.pku.edu.cn",
-            "sourceHomepage": "https://ias.pku.edu.cn/",
-            "departmentHomepage": "https://ias.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2016,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2016-01-01",
-        "lastPublishedAt": "2016-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-f9e48f54048e",
-            "title": "关于发布北京大学2016年硕士研究生招生复试基本分数线的通告 2016-03-09",
-            "stage": "复试/考核",
-            "year": 2016,
-            "publishedAt": "2016-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/ptzk/420.htm",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2015,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2015-01-01",
-        "lastPublishedAt": "2015-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-91eb99401339",
-            "title": "关于发布北京大学2015年硕士研究生招生复试基本分数线的通告 2015-03-06",
-            "stage": "复试/考核",
-            "year": 2015,
-            "publishedAt": "2015-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/ptzk/423.htm",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://admission.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 1,
-    "latestPastYear": 2026,
-    "noticeCount": 16,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026,
-      2025,
-      2024,
-      2023,
-      2022,
-      2016,
-      2015
-    ],
-    "stages": [
-      "推免报名",
-      "复试/考核",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "直博",
-      "博士",
-      "硕士"
-    ],
-    "majors": [
-      "外国语言文学",
-      "心理学",
-      "数学",
-      "物理学",
-      "化学",
-      "软件工程",
-      "金融",
-      "社会学"
-    ],
-    "sourceHosts": [
-      "ias.pku.edu.cn",
-      "admission.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://ias.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://ias.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -28050,6 +28270,295 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-7c49b0b08198",
+    "school": "北京大学",
+    "department": "新材料学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 新材料学院",
+    "tracks": [
+      "人文社科",
+      "医学药学",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 9,
+        "stages": [
+          "复试/考核",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "直博",
+          "博士",
+          "专业型硕士",
+          "硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-08-31",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2025-10-26",
+        "lastApplicationEnd": "2027-01-08",
+        "notices": [
+          {
+            "id": "college-3a197349e9f5",
+            "title": "北京大学材料科学与工程学院2027年“申请-考核制” 博士研究生招生说明（学术型） 2026-10-26",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2026-12-25",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.mse.pku.edu.cn/info/1013/7464.htm",
+            "sourceHost": "www.mse.pku.edu.cn",
+            "sourceHomepage": "https://www.mse.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-dabcc71337b5",
+            "title": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明 2026-10-24",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2025-10-26",
+            "applicationEnd": "2027-01-08",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.aais.pku.edu.cn/info/1350/20771.htm",
+            "sourceHost": "www.aais.pku.edu.cn",
+            "sourceHomepage": "https://www.aais.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-9f27ed906480",
+            "title": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/b62c0ee5a8514750a98a5d15aa5e899f.htm",
+            "sourceHost": "www.psy.pku.edu.cn",
+            "sourceHomepage": "https://www.psy.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-66d771591009",
+            "title": "北京大学现代农学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-10-26",
+            "applicationEnd": "2026-12-28",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://saas.pku.edu.cn/xwzx/tzgg/8896bd2268fb483ba2fb6d5cc3569643.htm",
+            "sourceHost": "saas.pku.edu.cn",
+            "sourceHomepage": "https://saas.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-5318d27d361e",
+            "title": "北京大学2027年硕士研究生招生专业目录（校本部） 2026-10-08",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2027/yx/zsml_ss_yx.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-fdd5ff1ff356",
+            "title": "北京大学2027年推荐免试攻读硕士学位研究生专业目录(校本部) 2026-09-15",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/2027/yx/zsml_ss_tm.html",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-aec35c110256",
+            "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2026-10-09",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2026-10-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-258b235823c6",
+            "title": "北京大学 2027 年硕士研究生招生简章（校本部） 2026-10-08",
+            "stage": "招生简章",
+            "year": 2027,
+            "publishedAt": "2026-10-08",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20261008162609970607.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-911b7d40e46d",
+            "title": "北京大学2027年接收推荐免试研究生办法（校本部） 2026-08-31",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2026-08-31",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-10-09",
+        "lastPublishedAt": "2025-10-15",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-3b9e3a4c9fcf",
+            "title": "北京大学2026年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2025-10-15",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-15",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251015110237141921.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          },
+          {
+            "id": "college-4b76c24c380f",
+            "title": "北京大学2026年硕士研究生招生简章（校本部） 2025-10-09",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2025-10-09",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009101959431969.pdf",
+            "sourceHost": "admission.pku.edu.cn",
+            "sourceHomepage": "https://admission.pku.edu.cn/",
+            "departmentHomepage": "https://www.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 9,
+    "latestPastYear": 2026,
+    "noticeCount": 11,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "复试/考核",
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "直博",
+      "博士",
+      "专业型硕士",
+      "硕士",
+      "待确认"
+    ],
+    "majors": [
+      "材料科学与工程",
+      "材料与化工",
+      "人工智能",
+      "软件工程",
+      "数学",
+      "化学",
+      "生物学",
+      "生物医学工程",
+      "哲学",
+      "法学",
+      "社会学",
+      "教育学",
+      "中国语言文学",
+      "历史学",
+      "工商管理"
+    ],
+    "sourceHosts": [
+      "www.mse.pku.edu.cn",
+      "www.aais.pku.edu.cn",
+      "www.psy.pku.edu.cn",
+      "saas.pku.edu.cn",
+      "admission.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.mse.pku.edu.cn/",
+      "https://www.aais.pku.edu.cn/",
+      "https://www.psy.pku.edu.cn/",
+      "https://saas.pku.edu.cn/",
+      "https://admission.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-80651a7e0fb3",
     "school": "北京师范大学",
     "department": "北京师范大学校级/待分院",
@@ -32177,273 +32686,6 @@
     ],
     "departmentHomepages": [
       "https://marxism.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-7c49b0b08198",
-    "school": "北京大学",
-    "department": "新材料学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 新材料学院",
-    "tracks": [
-      "人文社科",
-      "医学药学",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 8,
-        "stages": [
-          "复试/考核",
-          "推免报名",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "博士",
-          "专业型硕士",
-          "硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-08-31",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2025-10-26",
-        "lastApplicationEnd": "2027-01-08",
-        "notices": [
-          {
-            "id": "college-dabcc71337b5",
-            "title": "北京大学前沿交叉学科研究院2027年医学+X项目“申请-考核制”博士研究生招生说明 2026-10-24",
-            "stage": "复试/考核",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2025-10-26",
-            "applicationEnd": "2027-01-08",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.aais.pku.edu.cn/info/1350/20771.htm",
-            "sourceHost": "www.aais.pku.edu.cn",
-            "sourceHomepage": "https://www.aais.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-9f27ed906480",
-            "title": "北京大学心理与认知科学学院2027年“申请-考核制”应用心理博士专业学位研究生招生说明 2026-10-23",
-            "stage": "复试/考核",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://www.psy.pku.edu.cn/xwzx/tzgg/b62c0ee5a8514750a98a5d15aa5e899f.htm",
-            "sourceHost": "www.psy.pku.edu.cn",
-            "sourceHomepage": "https://www.psy.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-66d771591009",
-            "title": "北京大学现代农学院2027年“申请-考核制”博士研究生招生说明 2026-10-22",
-            "stage": "复试/考核",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2026-10-26",
-            "applicationEnd": "2026-12-28",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://saas.pku.edu.cn/xwzx/tzgg/8896bd2268fb483ba2fb6d5cc3569643.htm",
-            "sourceHost": "saas.pku.edu.cn",
-            "sourceHomepage": "https://saas.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-5318d27d361e",
-            "title": "北京大学2027年硕士研究生招生专业目录（校本部） 2026-10-08",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/zyml/2027/yx/zsml_ss_yx.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-fdd5ff1ff356",
-            "title": "北京大学2027年推荐免试攻读硕士学位研究生专业目录(校本部) 2026-09-15",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/zsxx/sszs/tjms/2027/yx/zsml_ss_tm.html",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-aec35c110256",
-            "title": "北京大学2027年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2026-10-09",
-            "stage": "招生简章",
-            "year": 2027,
-            "publishedAt": "2026-10-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20261009163855012333.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-258b235823c6",
-            "title": "北京大学 2027 年硕士研究生招生简章（校本部） 2026-10-08",
-            "stage": "招生简章",
-            "year": 2027,
-            "publishedAt": "2026-10-08",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20261008162609970607.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-911b7d40e46d",
-            "title": "北京大学2027年接收推荐免试研究生办法（校本部） 2026-08-31",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2026-08-31",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "专业型硕士",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-10-09",
-        "lastPublishedAt": "2025-10-15",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-3b9e3a4c9fcf",
-            "title": "北京大学2026年高级管理人员工商管理（EMBA）专业学位硕士研究生招生简章 2025-10-15",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-15",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "专业型硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251015110237141921.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          },
-          {
-            "id": "college-4b76c24c380f",
-            "title": "北京大学2026年硕士研究生招生简章（校本部） 2025-10-09",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2025-10-09",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://admission.pku.edu.cn/docs/20251009101959431969.pdf",
-            "sourceHost": "admission.pku.edu.cn",
-            "sourceHomepage": "https://admission.pku.edu.cn/",
-            "departmentHomepage": "https://www.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 8,
-    "latestPastYear": 2026,
-    "noticeCount": 10,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "博士",
-      "专业型硕士",
-      "硕士",
-      "待确认"
-    ],
-    "majors": [
-      "人工智能",
-      "软件工程",
-      "数学",
-      "化学",
-      "生物学",
-      "生物医学工程",
-      "哲学",
-      "法学",
-      "社会学",
-      "教育学",
-      "中国语言文学",
-      "历史学",
-      "工商管理"
-    ],
-    "sourceHosts": [
-      "www.aais.pku.edu.cn",
-      "www.psy.pku.edu.cn",
-      "saas.pku.edu.cn",
-      "admission.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.aais.pku.edu.cn/",
-      "https://www.psy.pku.edu.cn/",
-      "https://saas.pku.edu.cn/",
-      "https://admission.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -89797,6 +90039,82 @@
     ],
     "departmentHomepages": [
       "https://vsph.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-eabe607d469f",
+    "school": "清华大学",
+    "department": "杨振宁高等研究院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 杨振宁高等研究院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-8b3b730149d7",
+            "title": "清华大学高等研究院2027年博士研究生招生综合考核及录取办法",
+            "stage": "复试/考核",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.ias.tsinghua.edu.cn/info/1044/1936.htm",
+            "sourceHost": "www.ias.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.ias.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.ias.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
+    "latestPastYear": 2027,
+    "noticeCount": 1,
+    "llmStructuredCount": 0,
+    "years": [
+      2027
+    ],
+    "stages": [
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "博士"
+    ],
+    "majors": [
+      "网络空间安全",
+      "数学"
+    ],
+    "sourceHosts": [
+      "www.ias.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.ias.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.ias.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

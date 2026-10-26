@@ -1704,6 +1704,19 @@
     "priority": 52
   },
   {
+    "id": "6999376f2b",
+    "school": "清华大学",
+    "department": "杨振宁高等研究院",
+    "aliases": [
+      "杨振宁高等研究院"
+    ],
+    "sourceName": "清华大学官方院系页面自动发现",
+    "sourceUrl": "https://www.ias.tsinghua.edu.cn/",
+    "sourceStatus": "auto_discovered",
+    "schoolPriority": 3,
+    "priority": 52
+  },
+  {
     "id": "41a404cc9c",
     "school": "清华大学",
     "department": "基础医学院",
