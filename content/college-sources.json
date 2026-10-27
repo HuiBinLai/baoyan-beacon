@@ -10166,7 +10166,12 @@
     "sourceHost": "transmed.sjtu.edu.cn",
     "baseUrl": "https://transmed.sjtu.edu.cn/#/",
     "listUrls": [
-      "https://transmed.sjtu.edu.cn/#/"
+      "https://transmed.sjtu.edu.cn/#/",
+      "https://transmed.sjtu.edu.cn/xspy/zsgz.htm",
+      "https://transmed.sjtu.edu.cn/xspy/rcpy.htm",
+      "https://transmed.sjtu.edu.cn/info/1187/19931.htm",
+      "https://transmed.sjtu.edu.cn/info/5321/35211.htm",
+      "https://transmed.sjtu.edu.cn/info/5321/35231.htm"
     ],
     "includeKeywords": [
       "推免",

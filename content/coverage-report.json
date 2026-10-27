@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-26T04:32:22.265Z",
+  "generatedAt": "2026-10-27T05:26:51.213Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2607,
+    "notices": 2629,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 326,
-    "missingCollegeSources": 87,
+    "missingCollegeSources": 86,
     "llmStructured": 1530,
     "unstructured": 0
   },
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 546,
+      "total": 561,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -60,10 +60,10 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 395,
+      "total": 401,
       "currentYear": 2,
       "recentFiveYears": 2,
-      "departments": 54,
+      "departments": 55,
       "llmStructured": 159,
       "latestDate": "2041-01-01",
       "status": "covered"
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 246,
+      "total": 247,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -527,7 +527,7 @@
       "id": "auto-a6e907aa138f",
       "school": "北京大学",
       "department": "对外汉语教育学院",
-      "total": 7,
+      "total": 8,
       "years": [
         2027,
         2026,
@@ -598,7 +598,7 @@
       "id": "auto-0c7482477085",
       "school": "北京大学",
       "department": "光华管理学院",
-      "total": 41,
+      "total": 46,
       "years": [
         2027,
         2026
@@ -744,7 +744,7 @@
       "id": "auto-241ae2d891dd",
       "school": "北京大学",
       "department": "教育学院",
-      "total": 20,
+      "total": 21,
       "years": [
         2027,
         2026,
@@ -771,12 +771,12 @@
       "id": "auto-a44105818f04",
       "school": "北京大学",
       "department": "经济与管理学部",
-      "total": 6,
+      "total": 10,
       "years": [
         2027,
         2026
       ],
-      "latestDate": "2026-10-23",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -810,12 +810,12 @@
       "id": "auto-f53dfecbd1db",
       "school": "北京大学",
       "department": "理学部",
-      "total": 6,
+      "total": 10,
       "years": [
         2027,
         2026
       ],
-      "latestDate": "2026-10-23",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -929,7 +929,7 @@
       "id": "auto-6f38e9dc8bb7",
       "school": "北京大学",
       "department": "软件工程国家工程研究中心",
-      "total": 12,
+      "total": 13,
       "years": [
         2027,
         2026,
@@ -1005,7 +1005,7 @@
       "id": "auto-679583d27270",
       "school": "北京大学",
       "department": "碳中和研究院",
-      "total": 9,
+      "total": 12,
       "years": [
         2027,
         2026,
@@ -1104,7 +1104,7 @@
       "id": "auto-7a8f641a2bed",
       "school": "北京大学",
       "department": "新材料学院",
-      "total": 11,
+      "total": 12,
       "years": [
         2027,
         2026
@@ -2865,10 +2865,13 @@
       "id": "auto-14509d364004",
       "school": "上海交通大学",
       "department": "转化医学研究院",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 6,
+      "years": [
+        2026,
+        2025
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-83994ca4700b",
@@ -3924,7 +3927,7 @@
       "id": "auto-e36122ef1f74",
       "school": "中国科学技术大学",
       "department": "苏州高等研究院",
-      "total": 5,
+      "total": 6,
       "years": [
         2027,
         2026
@@ -4473,7 +4476,6 @@
     "上海交通大学致远学院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学中国法与社会研究院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学中文主页院系 已登记源但暂无候选，需要检查公告页。",
-    "上海交通大学转化医学研究院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学Bio-X研究院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学Med-X研究院 已登记源但暂无候选，需要检查公告页。",
     "上海交通大学X研究院转化医学研究院 已登记源但暂无候选，需要检查公告页。",
