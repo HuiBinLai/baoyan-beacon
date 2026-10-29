@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:20:28.432Z",
+  "generatedAt": "2026-10-29T06:01:09.329Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,9 +10,9 @@
   ],
   "totals": {
     "units": 1150,
-    "covered": 782,
+    "covered": 783,
     "stale": 11,
-    "missing": 357,
+    "missing": 356,
     "currentSeasonCovered": 145
   },
   "units": [
@@ -6839,12 +6839,14 @@
       "department": "环境科学与健康系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "bf42dc3e45",
@@ -8069,14 +8071,15 @@
       "department": "教育学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://se.tsinghua.edu.cn/",
-      "total": 5,
-      "recentFiveYears": 5,
+      "total": 6,
+      "recentFiveYears": 6,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -8313,8 +8316,8 @@
       "department": "法学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://www.law.tsinghua.edu.cn/info/1080/19934.htm",
-      "total": 12,
-      "recentFiveYears": 12,
+      "total": 13,
+      "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15484,8 +15487,8 @@
       "department": "苏州高等研究院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://sz.ustc.edu.cn/",
-      "total": 6,
-      "recentFiveYears": 4,
+      "total": 7,
+      "recentFiveYears": 5,
       "currentSeason": 2,
       "years": [
         2027,
@@ -17734,7 +17737,6 @@
     "清华大学景观学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学土木水利学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学建设管理系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "清华大学环境科学与健康系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学机械工程学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学信息国家研究中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学人工智能学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",

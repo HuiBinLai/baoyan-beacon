@@ -41763,6 +41763,212 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-5eb33cd7f774",
+    "school": "中国科学技术大学",
+    "department": "苏州高等研究院",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 苏州高等研究院",
+    "tracks": [
+      "理工基础",
+      "计算机/AI",
+      "医学药学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 2,
+        "stages": [
+          "推免",
+          "预推免"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "直博"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-8dca170217b4",
+            "title": "苏州高研院举行2027年研究生招生宣讲会",
+            "stage": "推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2555.html",
+            "sourceHost": "sz.ustc.edu.cn",
+            "sourceHomepage": "https://sz.ustc.edu.cn/",
+            "departmentHomepage": "https://sz.ustc.edu.cn/"
+          },
+          {
+            "id": "college-49f32c6f7449",
+            "title": "2027年纳米科学技术学院推免生（含直博生）预报名通知",
+            "stage": "预推免",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2519.html",
+            "sourceHost": "sz.ustc.edu.cn",
+            "sourceHomepage": "https://sz.ustc.edu.cn/",
+            "departmentHomepage": "https://sz.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 5,
+        "stages": [
+          "推免报名",
+          "预推免",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-03-07",
+        "lastApplicationEnd": "2026-09-08",
+        "notices": [
+          {
+            "id": "college-845dde2ba4cd",
+            "title": "2026-10-27 苏州高研院举行2027年研究生招生宣讲会",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2555.html",
+            "sourceHost": "sz.ustc.edu.cn",
+            "sourceHomepage": "https://sz.ustc.edu.cn/",
+            "departmentHomepage": "https://sz.ustc.edu.cn/"
+          },
+          {
+            "id": "college-968980550eaf",
+            "title": "关于2026年12月大学英语四、六级考试预报名的通知",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-09-02",
+            "applicationEnd": "2026-09-08",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2514.html",
+            "sourceHost": "sz.ustc.edu.cn",
+            "sourceHomepage": "https://sz.ustc.edu.cn/",
+            "departmentHomepage": "https://sz.ustc.edu.cn/"
+          },
+          {
+            "id": "college-11315d7fcdd3",
+            "title": "关于2026年6月大学英语四、六级考试预报名的通知",
+            "stage": "预推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-03-07",
+            "applicationEnd": "2026-03-13",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2368.html",
+            "sourceHost": "sz.ustc.edu.cn",
+            "sourceHomepage": "https://sz.ustc.edu.cn/",
+            "departmentHomepage": "https://sz.ustc.edu.cn/"
+          },
+          {
+            "id": "college-c0a2b81b4c80",
+            "title": "中国科学技术大学科技创新班项目招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2151.html",
+            "sourceHost": "sz.ustc.edu.cn",
+            "sourceHomepage": "https://sz.ustc.edu.cn/",
+            "departmentHomepage": "https://sz.ustc.edu.cn/"
+          },
+          {
+            "id": "college-bea76eed097a",
+            "title": "中国科学技术大学科技投资人项目招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2152.html",
+            "sourceHost": "sz.ustc.edu.cn",
+            "sourceHomepage": "https://sz.ustc.edu.cn/",
+            "departmentHomepage": "https://sz.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 2,
+    "latestPastYear": 2026,
+    "noticeCount": 7,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "推免",
+      "预推免",
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "直博",
+      "待确认"
+    ],
+    "majors": [
+      "人工智能",
+      "软件工程",
+      "数学",
+      "化学",
+      "材料科学与工程",
+      "环境科学与工程",
+      "生物医学工程"
+    ],
+    "sourceHosts": [
+      "sz.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://sz.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://sz.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-46e0362434b8",
     "school": "中国科学技术大学",
     "department": "中国科学技术大学校级/待分院",
@@ -46944,193 +47150,6 @@
     ],
     "departmentHomepages": [
       "https://yz1.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-5eb33cd7f774",
-    "school": "中国科学技术大学",
-    "department": "苏州高等研究院",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 苏州高等研究院",
-    "tracks": [
-      "理工基础",
-      "计算机/AI",
-      "医学药学"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 2,
-        "stages": [
-          "推免",
-          "预推免"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "直博"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-8dca170217b4",
-            "title": "苏州高研院举行2027年研究生招生宣讲会",
-            "stage": "推免",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2555.html",
-            "sourceHost": "sz.ustc.edu.cn",
-            "sourceHomepage": "https://sz.ustc.edu.cn/",
-            "departmentHomepage": "https://sz.ustc.edu.cn/"
-          },
-          {
-            "id": "college-49f32c6f7449",
-            "title": "2027年纳米科学技术学院推免生（含直博生）预报名通知",
-            "stage": "预推免",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2519.html",
-            "sourceHost": "sz.ustc.edu.cn",
-            "sourceHomepage": "https://sz.ustc.edu.cn/",
-            "departmentHomepage": "https://sz.ustc.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 4,
-        "stages": [
-          "预推免",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-03-07",
-        "lastApplicationEnd": "2026-09-08",
-        "notices": [
-          {
-            "id": "college-968980550eaf",
-            "title": "关于2026年12月大学英语四、六级考试预报名的通知",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-09-02",
-            "applicationEnd": "2026-09-08",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2514.html",
-            "sourceHost": "sz.ustc.edu.cn",
-            "sourceHomepage": "https://sz.ustc.edu.cn/",
-            "departmentHomepage": "https://sz.ustc.edu.cn/"
-          },
-          {
-            "id": "college-11315d7fcdd3",
-            "title": "关于2026年6月大学英语四、六级考试预报名的通知",
-            "stage": "预推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-03-07",
-            "applicationEnd": "2026-03-13",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2368.html",
-            "sourceHost": "sz.ustc.edu.cn",
-            "sourceHomepage": "https://sz.ustc.edu.cn/",
-            "departmentHomepage": "https://sz.ustc.edu.cn/"
-          },
-          {
-            "id": "college-c0a2b81b4c80",
-            "title": "中国科学技术大学科技创新班项目招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2151.html",
-            "sourceHost": "sz.ustc.edu.cn",
-            "sourceHomepage": "https://sz.ustc.edu.cn/",
-            "departmentHomepage": "https://sz.ustc.edu.cn/"
-          },
-          {
-            "id": "college-bea76eed097a",
-            "title": "中国科学技术大学科技投资人项目招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://sz.ustc.edu.cn/xwgg_show/2152.html",
-            "sourceHost": "sz.ustc.edu.cn",
-            "sourceHomepage": "https://sz.ustc.edu.cn/",
-            "departmentHomepage": "https://sz.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 2,
-    "latestPastYear": 2026,
-    "noticeCount": 6,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026
-    ],
-    "stages": [
-      "推免",
-      "预推免",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "直博",
-      "待确认"
-    ],
-    "majors": [
-      "人工智能",
-      "软件工程",
-      "数学",
-      "化学",
-      "材料科学与工程",
-      "环境科学与工程",
-      "生物医学工程"
-    ],
-    "sourceHosts": [
-      "sz.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://sz.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://sz.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -60145,6 +60164,122 @@
     ],
     "departmentHomepages": [
       "https://www.ctwx.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-981732000e3d",
+    "school": "清华大学",
+    "department": "环境科学与健康系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 环境科学与健康系",
+    "tracks": [
+      "法学",
+      "经管金融",
+      "材料能源化工"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认",
+          "专业型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-26d23476bc25",
+            "title": "29 2026.10 清华大学-中国人民银行金融研究所2027年联合培养博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecc4b95-3c13-49c0-992e-31855476b7f2?yxsdm=060",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sigs.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-6632b35c837e",
+            "title": "28 2026.10 清华大学法学院法律领军人才（非全日制）专业博士项目2027年招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/67e4754d-efa5-4822-a05d-dd532a4cf4bb",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sigs.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-6515a40bc3f8",
+            "title": "28 2026.10 清华大学教育学院2027年教育博士专业学位研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "专业型硕士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fc9bae87-8ba4-4da5-9777-53c08004b569",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.sigs.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认",
+      "专业型硕士"
+    ],
+    "majors": [
+      "金融",
+      "法学",
+      "法律",
+      "教育学"
+    ],
+    "sourceHosts": [
+      "yzbm.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzbm.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.sigs.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
