@@ -40543,6 +40543,240 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-7b09ba7a2654",
+    "school": "清华大学",
+    "department": "环境可持续系统管理系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 环境可持续系统管理系",
+    "tracks": [
+      "医学药学",
+      "人文社科",
+      "经管金融"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-4b3f2ce598fb",
+            "title": "30 2026.10 清华大学马克思主义学院思政课骨干提升计划教育博士项目2027年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/410f1b12-e047-4f72-832f-3e39596f545a",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-77382baa3c73",
+            "title": "30 2026.10 清华大学临床医学院2027年卓越医师（非全日制）专业博士项目招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/a81f81ab-4e82-4848-96fb-cb6e515952d0",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "推免"
+        ],
+        "degreeTypes": [
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-bf77ffb7c393",
+            "title": "上一篇：精彩预告|清华大学2025级公共管理硕士（MPA双证）研究生招生说明会",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7344.htm",
+            "sourceHost": "www.sppm.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 4,
+        "stages": [
+          "推免",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "学术型硕士",
+          "专业型硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-10-08",
+        "lastApplicationEnd": "2023-10-25",
+        "notices": [
+          {
+            "id": "college-218b44aef3c2",
+            "title": "16 2024.08 精彩预告|清华大学公共管理学院2025级学术研究生招生宣讲会 精彩预告|清华大学公共管理学院2025级学术研究生招生宣讲会",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1164/3027.htm",
+            "sourceHost": "www.sppm.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-2fbbb54a807a",
+            "title": "上一篇：清华大学2024年公共管理硕士（MPA双证）研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10-08",
+            "applicationEnd": "2023-10-25",
+            "degreeTypes": [
+              "学术型硕士",
+              "专业型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7370.htm",
+            "sourceHost": "www.sppm.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-13f8e595ded1",
+            "title": "下一篇：清华大学2024年公共管理硕士（MPA双证-定向新疆）研究生招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10-25",
+            "applicationEnd": "2023-10-25",
+            "degreeTypes": [
+              "学术型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7338.htm",
+            "sourceHost": "www.sppm.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-93f503d9ebc3",
+            "title": "下一篇：清华大学2024年公共管理硕士（MPA双证-公共政策方向）招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7340.htm",
+            "sourceHost": "www.sppm.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 7,
+    "llmStructuredCount": 5,
+    "years": [
+      2026,
+      2025,
+      2024
+    ],
+    "stages": [
+      "招生简章",
+      "推免"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认",
+      "学术型硕士",
+      "专业型硕士"
+    ],
+    "majors": [
+      "临床医学",
+      "公共管理硕士（MPA双证）",
+      "公共政策",
+      "政府管理（含政府运行保障管理）",
+      "公益慈善与社会治理",
+      "全球治理与可持续发展",
+      "应急管理",
+      "发展规划",
+      "城乡治理与乡村振兴",
+      "大湾区",
+      "数字治理与智能社会治理",
+      "可持续发展公共政策（MPP-SDG）国际双硕士学位项目",
+      "MPA-EMBA双硕士学位项目",
+      "公共管理硕士（MPA双证-定向新疆）",
+      "公共管理硕士（MPA双证-公共政策方向）"
+    ],
+    "sourceHosts": [
+      "yzbm.tsinghua.edu.cn",
+      "www.sppm.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzbm.tsinghua.edu.cn/",
+      "https://www.sppm.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yz.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-410c9d437711",
     "school": "上海交通大学",
     "department": "变革性分子前沿科学中心",
@@ -49159,186 +49393,6 @@
     ],
     "sourceHomepages": [
       "https://www.hy.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://yz.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-7b09ba7a2654",
-    "school": "清华大学",
-    "department": "环境可持续系统管理系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 环境可持续系统管理系",
-    "tracks": [
-      "经管金融",
-      "材料能源化工",
-      "人文社科"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "推免"
-        ],
-        "degreeTypes": [
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-bf77ffb7c393",
-            "title": "上一篇：精彩预告|清华大学2025级公共管理硕士（MPA双证）研究生招生说明会",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7344.htm",
-            "sourceHost": "www.sppm.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 4,
-        "stages": [
-          "推免",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "学术型硕士",
-          "专业型硕士",
-          "博士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-10-08",
-        "lastApplicationEnd": "2023-10-25",
-        "notices": [
-          {
-            "id": "college-218b44aef3c2",
-            "title": "16 2024.08 精彩预告|清华大学公共管理学院2025级学术研究生招生宣讲会 精彩预告|清华大学公共管理学院2025级学术研究生招生宣讲会",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1164/3027.htm",
-            "sourceHost": "www.sppm.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-2fbbb54a807a",
-            "title": "上一篇：清华大学2024年公共管理硕士（MPA双证）研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10-08",
-            "applicationEnd": "2023-10-25",
-            "degreeTypes": [
-              "学术型硕士",
-              "专业型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7370.htm",
-            "sourceHost": "www.sppm.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-13f8e595ded1",
-            "title": "下一篇：清华大学2024年公共管理硕士（MPA双证-定向新疆）研究生招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10-25",
-            "applicationEnd": "2023-10-25",
-            "degreeTypes": [
-              "学术型硕士",
-              "博士"
-            ],
-            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7338.htm",
-            "sourceHost": "www.sppm.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-93f503d9ebc3",
-            "title": "下一篇：清华大学2024年公共管理硕士（MPA双证-公共政策方向）招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.sppm.tsinghua.edu.cn/info/1177/7340.htm",
-            "sourceHost": "www.sppm.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.sppm.tsinghua.edu.cn/",
-            "departmentHomepage": "https://yz.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2025,
-    "noticeCount": 5,
-    "llmStructuredCount": 5,
-    "years": [
-      2025,
-      2024
-    ],
-    "stages": [
-      "推免",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "学术型硕士",
-      "专业型硕士",
-      "博士"
-    ],
-    "majors": [
-      "公共管理硕士（MPA双证）",
-      "公共政策",
-      "政府管理（含政府运行保障管理）",
-      "公益慈善与社会治理",
-      "全球治理与可持续发展",
-      "应急管理",
-      "发展规划",
-      "城乡治理与乡村振兴",
-      "大湾区",
-      "数字治理与智能社会治理",
-      "可持续发展公共政策（MPP-SDG）国际双硕士学位项目",
-      "MPA-EMBA双硕士学位项目",
-      "公共管理硕士（MPA双证-定向新疆）",
-      "公共管理硕士（MPA双证-公共政策方向）"
-    ],
-    "sourceHosts": [
-      "www.sppm.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.sppm.tsinghua.edu.cn/"
     ],
     "departmentHomepages": [
       "https://yz.tsinghua.edu.cn/"

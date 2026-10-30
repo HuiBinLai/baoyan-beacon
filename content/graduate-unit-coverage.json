@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:01:09.329Z",
+  "generatedAt": "2026-10-30T05:55:03.354Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -6854,14 +6854,15 @@
       "department": "环境可持续系统管理系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 5,
-      "recentFiveYears": 5,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -7710,8 +7711,8 @@
       "department": "马克思主义学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.smarx.tsinghua.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 10,
+      "total": 11,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8149,14 +8150,15 @@
       "department": "环境可持续系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 5,
-      "recentFiveYears": 5,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -8165,14 +8167,15 @@
       "department": "统管理系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 5,
-      "recentFiveYears": 5,
+      "total": 7,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -8248,13 +8251,14 @@
       "department": "临床医学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.scm.tsinghua.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
+        2026,
         2025
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {

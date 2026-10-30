@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-29T06:01:07.831Z",
+  "generatedAt": "2026-10-30T05:55:01.828Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2636,
+    "notices": 2638,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
-    "collegeSources": 326,
-    "missingCollegeSources": 85,
+    "collegeSources": 327,
+    "missingCollegeSources": 86,
     "llmStructured": 1530,
     "unstructured": 0
   },
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 274,
+      "total": 276,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 53,
@@ -1452,7 +1452,7 @@
       "id": "auto-d3ad835c55a1",
       "school": "清华大学",
       "department": "工艺美术系",
-      "total": 41,
+      "total": 43,
       "years": [
         2027,
         2026,
@@ -1594,7 +1594,7 @@
       "id": "auto-bf42dc3e4524",
       "school": "清华大学",
       "department": "环境可持续系统管理系",
-      "total": 52,
+      "total": 54,
       "years": [
         2027,
         2026,
@@ -1613,7 +1613,7 @@
       "id": "auto-e2bf126a21a7",
       "school": "清华大学",
       "department": "环境艺术设计系",
-      "total": 41,
+      "total": 43,
       "years": [
         2027,
         2026,
@@ -1708,7 +1708,7 @@
       "id": "auto-e0050b4ec741",
       "school": "清华大学",
       "department": "建筑技术科学系",
-      "total": 41,
+      "total": 43,
       "years": [
         2027,
         2026,
@@ -1900,7 +1900,7 @@
       "id": "auto-1ac063963b25",
       "school": "清华大学",
       "department": "人工智能学院",
-      "total": 41,
+      "total": 43,
       "years": [
         2027,
         2026,
@@ -2059,7 +2059,7 @@
       "id": "auto-6e523fba3bb2",
       "school": "清华大学",
       "department": "信息艺术设计系",
-      "total": 41,
+      "total": 43,
       "years": [
         2027,
         2026,
@@ -2147,7 +2147,7 @@
       "id": "auto-cdcba6c3f5c5",
       "school": "清华大学",
       "department": "政治学系",
-      "total": 43,
+      "total": 45,
       "years": [
         2027,
         2026,
@@ -2966,6 +2966,15 @@
       "id": "auto-20695cbb3afb",
       "school": "浙江大学",
       "department": "电气工程学院",
+      "total": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "auto-a5037dae5798",
+      "school": "浙江大学",
+      "department": "高分子系",
       "total": 0,
       "years": [],
       "latestDate": "",
@@ -4486,6 +4495,7 @@
     "浙江大学党委教师工作部 已登记源但暂无候选，需要检查公告页。",
     "浙江大学地球科学学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学电气工程学院 已登记源但暂无候选，需要检查公告页。",
+    "浙江大学高分子系 已登记源但暂无候选，需要检查公告页。",
     "浙江大学公共管理学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学光华法学院 已登记源但暂无候选，需要检查公告页。",
     "浙江大学航空航天学院 已登记源但暂无候选，需要检查公告页。",
