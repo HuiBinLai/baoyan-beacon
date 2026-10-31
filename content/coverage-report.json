@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T05:55:01.828Z",
+  "generatedAt": "2026-10-31T05:55:32.657Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2638,
+    "notices": 2639,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 562,
+      "total": 563,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -459,7 +459,7 @@
       "id": "auto-b852a577dfd1",
       "school": "北京大学",
       "department": "北京国际数学研究中心",
-      "total": 7,
+      "total": 8,
       "years": [
         2026,
         2025

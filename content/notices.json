@@ -1,37 +1,37 @@
 [
   {
-    "id": "college-4b3f2ce598fb",
-    "title": "30 2026.10 清华大学马克思主义学院思政课骨干提升计划教育博士项目2027年博士研究生招生简章",
-    "school": "清华大学",
-    "department": "环境可持续系统管理系",
+    "id": "college-2a0e9966f508",
+    "title": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "北京国际数学研究中心",
     "majors": [
-      "待确认"
+      "数学"
     ],
     "type": "推免",
     "year": 2026,
     "region": "北京",
     "deadline": "",
     "publishedAt": "2026-01-01",
-    "sourceName": "清华大学环境可持续系统管理系官方站点",
-    "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/410f1b12-e047-4f72-832f-3e39596f545a",
-    "sourceHost": "yzbm.tsinghua.edu.cn",
-    "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
-    "summary": "环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "北京大学北京国际数学研究中心官方站点",
+    "sourceUrl": "https://math.pku.edu.cn/zygg/173038.htm",
+    "sourceHost": "math.pku.edu.cn",
+    "sourceHomepage": "https://math.pku.edu.cn/",
+    "departmentHomepage": "http://bicmr.pku.edu.cn/",
+    "summary": "北京国际数学研究中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-bf42dc3e4524"
+      "auto-b852a577dfd1"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "30 2026.10 清华大学马克思主义学院思政课骨干提升计划教育博士项目2027年博士研究生招生简章。环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "sourceExcerpt": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明。北京国际数学研究中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "环境可持续系统管理系学院官网补漏发现的推免相关官方信息",
+      "北京国际数学研究中心学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -42,56 +42,9 @@
       "博士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-30",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-30"
-  },
-  {
-    "id": "college-77382baa3c73",
-    "title": "30 2026.10 清华大学临床医学院2027年卓越医师（非全日制）专业博士项目招生简章",
-    "school": "清华大学",
-    "department": "环境可持续系统管理系",
-    "majors": [
-      "临床医学"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "清华大学环境可持续系统管理系官方站点",
-    "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/a81f81ab-4e82-4848-96fb-cb6e515952d0",
-    "sourceHost": "yzbm.tsinghua.edu.cn",
-    "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
-    "summary": "环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-bf42dc3e4524"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "30 2026.10 清华大学临床医学院2027年卓越医师（非全日制）专业博士项目招生简章。环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "环境可持续系统管理系学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-30",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-10-30"
+    "structuredAt": "2026-10-31",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-31"
   },
   {
     "id": "college-aefd2b5cad3f",
@@ -46995,6 +46948,100 @@
     "sourceHost": "pharmacy.nankai.edu.cn",
     "sourceHomepage": "https://pharmacy.nankai.edu.cn/",
     "departmentHomepage": "https://pharmacy.nankai.edu.cn/"
+  },
+  {
+    "id": "college-4b3f2ce598fb",
+    "title": "30 2026.10 清华大学马克思主义学院思政课骨干提升计划教育博士项目2027年博士研究生招生简章",
+    "school": "清华大学",
+    "department": "环境可持续系统管理系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学环境可持续系统管理系官方站点",
+    "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/410f1b12-e047-4f72-832f-3e39596f545a",
+    "sourceHost": "yzbm.tsinghua.edu.cn",
+    "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
+    "summary": "环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-bf42dc3e4524"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "30 2026.10 清华大学马克思主义学院思政课骨干提升计划教育博士项目2027年博士研究生招生简章。环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "环境可持续系统管理系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-30",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-30"
+  },
+  {
+    "id": "college-77382baa3c73",
+    "title": "30 2026.10 清华大学临床医学院2027年卓越医师（非全日制）专业博士项目招生简章",
+    "school": "清华大学",
+    "department": "环境可持续系统管理系",
+    "majors": [
+      "临床医学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学环境可持续系统管理系官方站点",
+    "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/a81f81ab-4e82-4848-96fb-cb6e515952d0",
+    "sourceHost": "yzbm.tsinghua.edu.cn",
+    "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+    "departmentHomepage": "https://yz.tsinghua.edu.cn/",
+    "summary": "环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-bf42dc3e4524"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "30 2026.10 清华大学临床医学院2027年卓越医师（非全日制）专业博士项目招生简章。环境可持续系统管理系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "环境可持续系统管理系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-30",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-10-30"
   },
   {
     "id": "college-26d23476bc25",

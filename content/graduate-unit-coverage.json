@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:55:03.354Z",
+  "generatedAt": "2026-10-31T05:55:34.201Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -145,8 +145,8 @@
       "department": "数学科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.math.pku.edu.cn/",
-      "total": 34,
-      "recentFiveYears": 19,
+      "total": 35,
+      "recentFiveYears": 20,
       "currentSeason": 14,
       "years": [
         2027,
@@ -959,8 +959,8 @@
       "department": "北京国际数学研究中心",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://bicmr.pku.edu.cn/",
-      "total": 8,
-      "recentFiveYears": 8,
+      "total": 9,
+      "recentFiveYears": 9,
       "currentSeason": 0,
       "years": [
         2026,

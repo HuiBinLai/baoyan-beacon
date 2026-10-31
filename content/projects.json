@@ -35326,6 +35326,227 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-7aadd5a0815f",
+    "school": "北京大学",
+    "department": "北京国际数学研究中心",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 北京国际数学研究中心",
+    "tracks": [
+      "计算机/AI",
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 7,
+        "stages": [
+          "复试/考核",
+          "夏令营/研学营",
+          "推免报名",
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "博士",
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2025-10-20",
+        "lastApplicationEnd": "2026-09-08",
+        "notices": [
+          {
+            "id": "college-2a0e9966f508",
+            "title": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://math.pku.edu.cn/zygg/173038.htm",
+            "sourceHost": "math.pku.edu.cn",
+            "sourceHomepage": "https://math.pku.edu.cn/",
+            "departmentHomepage": "http://bicmr.pku.edu.cn/"
+          },
+          {
+            "id": "college-d635b15ed3ad",
+            "title": "2026-06-01 北京大学数学科学学院大数据全国优秀大学生暑期夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-15",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172436.htm",
+            "sourceHost": "www.math.pku.edu.cn",
+            "sourceHomepage": "https://www.math.pku.edu.cn/",
+            "departmentHomepage": "http://bicmr.pku.edu.cn/"
+          },
+          {
+            "id": "college-77e978ea0a34",
+            "title": "2026-07-07 北京大学数学科学学院大数据全国优秀大学生暑期夏令营参营通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172681.htm",
+            "sourceHost": "www.math.pku.edu.cn",
+            "sourceHomepage": "https://www.math.pku.edu.cn/",
+            "departmentHomepage": "http://bicmr.pku.edu.cn/"
+          },
+          {
+            "id": "college-af10739de379",
+            "title": "2026-08-04 2026 年北京大学数学科学学院大数据全国优秀大学生暑期夏令营优秀营员通知",
+            "stage": "夏令营/研学营",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172719.htm",
+            "sourceHost": "www.math.pku.edu.cn",
+            "sourceHomepage": "https://www.math.pku.edu.cn/",
+            "departmentHomepage": "http://bicmr.pku.edu.cn/"
+          },
+          {
+            "id": "college-8944f50eeec2",
+            "title": "2026-09-01 北京大学数学学院关于接收2027年推荐免试研究生的报名说明",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-09-01",
+            "applicationEnd": "2026-09-08",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172744.htm",
+            "sourceHost": "www.math.pku.edu.cn",
+            "sourceHomepage": "https://www.math.pku.edu.cn/",
+            "departmentHomepage": "http://bicmr.pku.edu.cn/"
+          },
+          {
+            "id": "college-7061767ffaf2",
+            "title": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.math.pku.edu.cn/yjs/yjszs/bsyjs/index.htm",
+            "sourceHost": "www.math.pku.edu.cn",
+            "sourceHomepage": "https://www.math.pku.edu.cn/",
+            "departmentHomepage": "https://www.math.pku.edu.cn/"
+          },
+          {
+            "id": "college-69f94e41028c",
+            "title": "北京国际数学研究中心英文授课博士留学生项目招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-23",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://bicmr.pku.edu.cn/content/page/24.html",
+            "sourceHost": "bicmr.pku.edu.cn",
+            "sourceHomepage": "https://bicmr.pku.edu.cn/",
+            "departmentHomepage": "https://www.math.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "博士"
+        ],
+        "firstPublishedAt": "2018-06-27",
+        "lastPublishedAt": "2018-06-27",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-3b7a2e916d10",
+            "title": "北京大学数学科学学院和北京国际数学研究中心 2025年“申请-考核制”博士研究生招生说明",
+            "stage": "复试/考核",
+            "year": 2025,
+            "publishedAt": "2018-06-27",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.math.pku.edu.cn/yjs/yjszs/bsyjs/zstz_20180627191047688027/161977.htm",
+            "sourceHost": "www.math.pku.edu.cn",
+            "sourceHomepage": "https://www.math.pku.edu.cn/",
+            "departmentHomepage": "http://bicmr.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 8,
+    "llmStructuredCount": 2,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "复试/考核",
+      "夏令营/研学营",
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "博士",
+      "待确认"
+    ],
+    "majors": [
+      "数学",
+      "纯数学",
+      "计算数学",
+      "概率与统计"
+    ],
+    "sourceHosts": [
+      "math.pku.edu.cn",
+      "www.math.pku.edu.cn",
+      "bicmr.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://math.pku.edu.cn/",
+      "https://www.math.pku.edu.cn/",
+      "https://bicmr.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://bicmr.pku.edu.cn/",
+      "https://www.math.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-1f12c8e39df8",
     "school": "北京大学",
     "department": "对外汉语教育学院",
@@ -39530,209 +39751,6 @@
       "https://www.sis.pku.edu.cn/",
       "https://news.pku.edu.cn/",
       "https://bbs.pku.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-7aadd5a0815f",
-    "school": "北京大学",
-    "department": "北京国际数学研究中心",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 北京国际数学研究中心",
-    "tracks": [
-      "计算机/AI",
-      "理工基础"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 6,
-        "stages": [
-          "夏令营/研学营",
-          "推免报名",
-          "复试/考核",
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "博士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2025-10-20",
-        "lastApplicationEnd": "2026-09-08",
-        "notices": [
-          {
-            "id": "college-d635b15ed3ad",
-            "title": "2026-06-01 北京大学数学科学学院大数据全国优秀大学生暑期夏令营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-15",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172436.htm",
-            "sourceHost": "www.math.pku.edu.cn",
-            "sourceHomepage": "https://www.math.pku.edu.cn/",
-            "departmentHomepage": "http://bicmr.pku.edu.cn/"
-          },
-          {
-            "id": "college-77e978ea0a34",
-            "title": "2026-07-07 北京大学数学科学学院大数据全国优秀大学生暑期夏令营参营通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172681.htm",
-            "sourceHost": "www.math.pku.edu.cn",
-            "sourceHomepage": "https://www.math.pku.edu.cn/",
-            "departmentHomepage": "http://bicmr.pku.edu.cn/"
-          },
-          {
-            "id": "college-af10739de379",
-            "title": "2026-08-04 2026 年北京大学数学科学学院大数据全国优秀大学生暑期夏令营优秀营员通知",
-            "stage": "夏令营/研学营",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172719.htm",
-            "sourceHost": "www.math.pku.edu.cn",
-            "sourceHomepage": "https://www.math.pku.edu.cn/",
-            "departmentHomepage": "http://bicmr.pku.edu.cn/"
-          },
-          {
-            "id": "college-8944f50eeec2",
-            "title": "2026-09-01 北京大学数学学院关于接收2027年推荐免试研究生的报名说明",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-09-01",
-            "applicationEnd": "2026-09-08",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.math.pku.edu.cn/zygg/172744.htm",
-            "sourceHost": "www.math.pku.edu.cn",
-            "sourceHomepage": "https://www.math.pku.edu.cn/",
-            "departmentHomepage": "http://bicmr.pku.edu.cn/"
-          },
-          {
-            "id": "college-7061767ffaf2",
-            "title": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.math.pku.edu.cn/yjs/yjszs/bsyjs/index.htm",
-            "sourceHost": "www.math.pku.edu.cn",
-            "sourceHomepage": "https://www.math.pku.edu.cn/",
-            "departmentHomepage": "https://www.math.pku.edu.cn/"
-          },
-          {
-            "id": "college-69f94e41028c",
-            "title": "北京国际数学研究中心英文授课博士留学生项目招生简章",
-            "stage": "招生简章",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-23",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://bicmr.pku.edu.cn/content/page/24.html",
-            "sourceHost": "bicmr.pku.edu.cn",
-            "sourceHomepage": "https://bicmr.pku.edu.cn/",
-            "departmentHomepage": "https://www.math.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "博士"
-        ],
-        "firstPublishedAt": "2018-06-27",
-        "lastPublishedAt": "2018-06-27",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-3b7a2e916d10",
-            "title": "北京大学数学科学学院和北京国际数学研究中心 2025年“申请-考核制”博士研究生招生说明",
-            "stage": "复试/考核",
-            "year": 2025,
-            "publishedAt": "2018-06-27",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.math.pku.edu.cn/yjs/yjszs/bsyjs/zstz_20180627191047688027/161977.htm",
-            "sourceHost": "www.math.pku.edu.cn",
-            "sourceHomepage": "https://www.math.pku.edu.cn/",
-            "departmentHomepage": "http://bicmr.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 7,
-    "llmStructuredCount": 2,
-    "years": [
-      2026,
-      2025
-    ],
-    "stages": [
-      "夏令营/研学营",
-      "推免报名",
-      "复试/考核",
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "待确认",
-      "博士"
-    ],
-    "majors": [
-      "数学",
-      "纯数学",
-      "计算数学",
-      "概率与统计"
-    ],
-    "sourceHosts": [
-      "www.math.pku.edu.cn",
-      "bicmr.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.math.pku.edu.cn/",
-      "https://bicmr.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://bicmr.pku.edu.cn/",
-      "https://www.math.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
