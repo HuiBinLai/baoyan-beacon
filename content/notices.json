@@ -1,52 +1,5 @@
 [
   {
-    "id": "college-2a0e9966f508",
-    "title": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明",
-    "school": "北京大学",
-    "department": "北京国际数学研究中心",
-    "majors": [
-      "数学"
-    ],
-    "type": "推免",
-    "year": 2026,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "北京大学北京国际数学研究中心官方站点",
-    "sourceUrl": "https://math.pku.edu.cn/zygg/173038.htm",
-    "sourceHost": "math.pku.edu.cn",
-    "sourceHomepage": "https://math.pku.edu.cn/",
-    "departmentHomepage": "http://bicmr.pku.edu.cn/",
-    "summary": "北京国际数学研究中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-b852a577dfd1"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明。北京国际数学研究中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "北京国际数学研究中心学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "博士"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-10-31",
-    "noticeStage": "复试/考核",
-    "classifiedAt": "2026-10-31"
-  },
-  {
     "id": "college-aefd2b5cad3f",
     "title": "中国人民大学信息学院2027年工程硕博士培养改革专项工程直博报名通知",
     "school": "中国人民大学",
@@ -26655,6 +26608,53 @@
     "sourceExcerpt": "中山大学 哲学系 2027 年接收优秀应届本科毕业生推荐免试攻读研究生...。搜索引擎发现的中山大学2027年推免相关官方信息，已按官方域名过滤。请在后台复核学院、专业、截止日期和正文摘要。。",
     "noticeStage": "推免报名",
     "classifiedAt": "2026-08-27"
+  },
+  {
+    "id": "college-2a0e9966f508",
+    "title": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明",
+    "school": "北京大学",
+    "department": "北京国际数学研究中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学北京国际数学研究中心官方站点",
+    "sourceUrl": "https://math.pku.edu.cn/zygg/173038.htm",
+    "sourceHost": "math.pku.edu.cn",
+    "sourceHomepage": "https://math.pku.edu.cn/",
+    "departmentHomepage": "http://bicmr.pku.edu.cn/",
+    "summary": "北京国际数学研究中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-b852a577dfd1"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明。北京国际数学研究中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "北京国际数学研究中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-10-31",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-10-31"
   },
   {
     "id": "college-0f2eb0e8555a",
