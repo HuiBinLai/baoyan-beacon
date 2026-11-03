@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:36:40.701Z",
+  "generatedAt": "2026-11-03T07:16:23.811Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -692,8 +692,8 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 32,
-      "recentFiveYears": 16,
+      "total": 33,
+      "recentFiveYears": 17,
       "currentSeason": 16,
       "years": [
         2027,
@@ -9613,8 +9613,8 @@
       "department": "航空发动机研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 10,
-      "recentFiveYears": 9,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 1,
       "years": [
         2027,

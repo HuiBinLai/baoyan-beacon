@@ -1,5 +1,99 @@
 [
   {
+    "id": "college-6b1f11eb4667",
+    "title": "北京大学关于2026年“国优计划”遴选在读研究生招生说明-含报名表",
+    "school": "北京大学",
+    "department": "教育学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学教育学院官方站点",
+    "sourceUrl": "http://www.gse.pku.edu.cn/syxw/tzgg/147d8335f45a4da5a0fcec6ae8393ac2.htm",
+    "sourceHost": "www.gse.pku.edu.cn",
+    "sourceHomepage": "http://www.gse.pku.edu.cn/",
+    "departmentHomepage": "http://www.gse.pku.edu.cn/",
+    "summary": "教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-241ae2d891dd"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "北京大学关于2026年“国优计划”遴选在读研究生招生说明-含报名表。教育学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "教育学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-11-03",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-03"
+  },
+  {
+    "id": "college-cab69ff3fc8f",
+    "title": "资讯公告 - 上海交通大学研究生院",
+    "school": "上海交通大学",
+    "department": "航空发动机研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学航空发动机研究院官方站点",
+    "sourceUrl": "https://gs.sjtu.edu.cn/announcement",
+    "sourceHost": "gs.sjtu.edu.cn",
+    "sourceHomepage": "https://gs.sjtu.edu.cn/",
+    "departmentHomepage": "https://me.sjtu.edu.cn/",
+    "summary": "航空发动机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-67ef1cef2c0a"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "资讯公告 - 上海交通大学研究生院。航空发动机研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "航空发动机研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-11-03",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-03"
+  },
+  {
     "id": "college-aefd2b5cad3f",
     "title": "中国人民大学信息学院2027年工程硕博士培养改革专项工程直博报名通知",
     "school": "中国人民大学",
