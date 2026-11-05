@@ -4513,6 +4513,19 @@
     "priority": 54
   },
   {
+    "id": "29fdbf8830",
+    "school": "浙江大学",
+    "department": "脑科学与脑医学学院",
+    "aliases": [
+      "脑科学与脑医学学院"
+    ],
+    "sourceName": "当前通知库自动归并",
+    "sourceUrl": "http://www.neuroscience.zju.edu.cn/2026/0512/c75666a3161752/page.htm",
+    "sourceStatus": "from_notices",
+    "schoolPriority": 6,
+    "priority": 9022
+  },
+  {
     "id": "de664d6e25",
     "school": "浙江大学",
     "department": "外国语学院",

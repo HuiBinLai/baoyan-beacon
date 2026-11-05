@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:03:36.723Z",
+  "generatedAt": "2026-11-05T06:34:37.560Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,10 +9,10 @@
     2022
   ],
   "totals": {
-    "units": 1150,
-    "covered": 775,
+    "units": 1151,
+    "covered": 778,
     "stale": 13,
-    "missing": 362,
+    "missing": 360,
     "currentSeasonCovered": 144
   },
   "units": [
@@ -443,8 +443,8 @@
       "department": "对外汉语教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://hanyu.pku.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 6,
+      "total": 16,
+      "recentFiveYears": 8,
       "currentSeason": 8,
       "years": [
         2027,
@@ -673,9 +673,9 @@
       "department": "马克思主义学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://marxism.pku.edu.cn/",
-      "total": 9,
+      "total": 10,
       "recentFiveYears": 4,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -692,8 +692,8 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 27,
-      "recentFiveYears": 14,
+      "total": 29,
+      "recentFiveYears": 16,
       "currentSeason": 13,
       "years": [
         2027,
@@ -6289,12 +6289,14 @@
       "department": "关于2027年教育部系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://mp.weixin.qq.com/s/gpSyNxEm_ArYbbNwZlUTAw",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-11-05",
+      "status": "covered"
     },
     {
       "id": "ca5f5942c4",
@@ -6643,13 +6645,14 @@
       "department": "奖助体系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
+        2026,
         2022
       ],
-      "latestDate": "2022-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -6658,8 +6661,8 @@
       "department": "校地合作研究院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/hzjl/gnhz/xdhzyjy.htm",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
         2026,
@@ -6786,14 +6789,15 @@
       "department": "海洋工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 3,
-      "recentFiveYears": 3,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
+        2026,
         2025,
         2024
       ],
-      "latestDate": "2025-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -6926,8 +6930,8 @@
       "department": "车辆与运载学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.svm.tsinghua.edu.cn/",
-      "total": 38,
-      "recentFiveYears": 32,
+      "total": 40,
+      "recentFiveYears": 34,
       "currentSeason": 3,
       "years": [
         2027,
@@ -6966,7 +6970,7 @@
       "department": "航天航空学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.hy.tsinghua.edu.cn/",
-      "total": 17,
+      "total": 18,
       "recentFiveYears": 13,
       "currentSeason": 0,
       "years": [
@@ -6976,7 +6980,8 @@
         2022,
         2021,
         2020,
-        2019
+        2019,
+        2018
       ],
       "latestDate": "2026-07-03",
       "status": "covered"
@@ -6987,8 +6992,8 @@
       "department": "工程力学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 9,
-      "recentFiveYears": 4,
+      "total": 11,
+      "recentFiveYears": 5,
       "currentSeason": 1,
       "years": [
         2027,
@@ -6996,7 +7001,8 @@
         2022,
         2021,
         2020,
-        2019
+        2019,
+        2018
       ],
       "latestDate": "2027-01-01",
       "status": "covered"
@@ -7007,7 +7013,7 @@
       "department": "航空宇航工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 7,
+      "total": 8,
       "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
@@ -7015,7 +7021,8 @@
         2022,
         2021,
         2020,
-        2019
+        2019,
+        2018
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -7253,9 +7260,9 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 28,
-      "recentFiveYears": 26,
-      "currentSeason": 2,
+      "total": 38,
+      "recentFiveYears": 35,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -7499,8 +7506,8 @@
       "department": "数学科学中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://ymsc.tsinghua.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 14,
+      "total": 17,
+      "recentFiveYears": 17,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7577,9 +7584,9 @@
       "department": "会计系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/ac/",
-      "total": 2,
-      "recentFiveYears": 1,
-      "currentSeason": 1,
+      "total": 4,
+      "recentFiveYears": 2,
+      "currentSeason": 2,
       "years": [
         2027,
         2026
@@ -7653,8 +7660,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 9,
-      "recentFiveYears": 9,
+      "total": 18,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7669,12 +7676,14 @@
       "department": "市场营销系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mark/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "d17f669430",
@@ -7749,13 +7758,14 @@
       "department": "历史系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.lsx.tsinghua.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
+        2026,
         2024
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -7833,8 +7843,8 @@
       "department": "社会学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.soc.tsinghua.edu.cn/index.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2024
@@ -7864,8 +7874,8 @@
       "department": "国际关系学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.dir.tsinghua.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 6,
+      "total": 8,
+      "recentFiveYears": 7,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8038,8 +8048,8 @@
       "department": "雕塑系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 22,
-      "recentFiveYears": 15,
+      "total": 25,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8077,12 +8087,13 @@
       "department": "全球创新学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://gix.tsinghua.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 2,
+      "total": 6,
+      "recentFiveYears": 4,
       "currentSeason": 2,
       "years": [
         2027,
-        2026
+        2026,
+        2023
       ],
       "latestDate": "2027-01-01",
       "status": "covered"
@@ -8093,8 +8104,8 @@
       "department": "国家卓越工程师学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.ngce.tsinghua.edu.cn/",
-      "total": 3,
-      "recentFiveYears": 3,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2025,
@@ -8122,8 +8133,8 @@
       "department": "出土文献研究与保护中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.ctwx.tsinghua.edu.cn/",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
         2026
@@ -8218,8 +8229,8 @@
       "department": "国际关系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.dir.tsinghua.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 8,
+      "total": 11,
+      "recentFiveYears": 10,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8272,9 +8283,9 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 21,
-      "recentFiveYears": 19,
-      "currentSeason": 2,
+      "total": 31,
+      "recentFiveYears": 28,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -8340,8 +8351,8 @@
       "department": "数学科学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-      "total": 23,
-      "recentFiveYears": 23,
+      "total": 26,
+      "recentFiveYears": 26,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8940,9 +8951,9 @@
       "department": "船舶海洋与建筑工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://naoce.sjtu.edu.cn/",
-      "total": 16,
-      "recentFiveYears": 12,
-      "currentSeason": 4,
+      "total": 20,
+      "recentFiveYears": 13,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -9103,8 +9114,8 @@
       "department": "海洋学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://soo.sjtu.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 11,
+      "total": 12,
+      "recentFiveYears": 12,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9317,8 +9328,8 @@
       "department": "文化创意产业学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://icci.sjtu.edu.cn/",
-      "total": 11,
-      "recentFiveYears": 9,
+      "total": 12,
+      "recentFiveYears": 10,
       "currentSeason": 1,
       "years": [
         2041,
@@ -9398,8 +9409,8 @@
       "department": "溥渊未来技术学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://gift.sjtu.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 11,
+      "total": 19,
+      "recentFiveYears": 16,
       "currentSeason": 3,
       "years": [
         2027,
@@ -9416,8 +9427,8 @@
       "department": "人工智能学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://soai.sjtu.edu.cn/",
-      "total": 22,
-      "recentFiveYears": 20,
+      "total": 24,
+      "recentFiveYears": 22,
       "currentSeason": 2,
       "years": [
         2027,
@@ -9482,8 +9493,8 @@
       "department": "海洋研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://ioo.sjtu.edu.cn/",
-      "total": 39,
-      "recentFiveYears": 39,
+      "total": 40,
+      "recentFiveYears": 40,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9590,8 +9601,8 @@
       "department": "航空发动机研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 8,
-      "recentFiveYears": 7,
+      "total": 10,
+      "recentFiveYears": 9,
       "currentSeason": 1,
       "years": [
         2027,
@@ -13356,6 +13367,21 @@
       "years": [],
       "latestDate": "",
       "status": "missing"
+    },
+    {
+      "id": "29fdbf8830",
+      "school": "浙江大学",
+      "department": "脑科学与脑医学学院",
+      "sourceName": "当前通知库自动归并",
+      "sourceUrl": "http://www.neuroscience.zju.edu.cn/2026/0512/c75666a3161752/page.htm",
+      "total": 1,
+      "recentFiveYears": 1,
+      "currentSeason": 0,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "de664d6e25",
@@ -17708,7 +17734,6 @@
     "哈尔滨工业大学商学院人文社科学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "华南理工大学物理与光电学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "华南理工大学法学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "南京大学关于2027年教育部系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学建筑系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学城市规划系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学建筑技术科学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
@@ -17722,7 +17747,6 @@
     "清华大学杨振宁高等研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学碳中和研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学经济系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "清华大学市场营销系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学中国语言文学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学哲学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学艺术史论系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
