@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T06:34:36.616Z",
+  "generatedAt": "2026-11-06T05:44:04.927Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2505,
+    "notices": 2514,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 502,
+      "total": 510,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 356,
+      "total": 357,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 53,
@@ -499,7 +499,7 @@
       "id": "auto-c7fc6c80b87d",
       "school": "北京大学",
       "department": "地球与空间科学学院",
-      "total": 9,
+      "total": 10,
       "years": [
         2026,
         2025,
@@ -744,7 +744,7 @@
       "id": "auto-241ae2d891dd",
       "school": "北京大学",
       "department": "教育学院",
-      "total": 19,
+      "total": 20,
       "years": [
         2027,
         2026,
@@ -850,7 +850,7 @@
       "id": "auto-809c9df6fb79",
       "school": "北京大学",
       "department": "前沿交叉学科研究院",
-      "total": 9,
+      "total": 11,
       "years": [
         2027,
         2026,
@@ -1005,7 +1005,7 @@
       "id": "auto-679583d27270",
       "school": "北京大学",
       "department": "碳中和研究院",
-      "total": 5,
+      "total": 9,
       "years": [
         2027,
         2026,
@@ -2338,7 +2338,7 @@
       "id": "auto-c449e622ea85",
       "school": "上海交通大学",
       "department": "环境科学与工程学院",
-      "total": 8,
+      "total": 9,
       "years": [
         2027,
         2026,

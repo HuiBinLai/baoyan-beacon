@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:34:37.560Z",
+  "generatedAt": "2026-11-06T05:44:05.761Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -195,8 +195,8 @@
       "department": "地球与空间科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://sess.pku.edu.cn/",
-      "total": 24,
-      "recentFiveYears": 14,
+      "total": 25,
+      "recentFiveYears": 15,
       "currentSeason": 10,
       "years": [
         2027,
@@ -692,9 +692,9 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 29,
+      "total": 30,
       "recentFiveYears": 16,
-      "currentSeason": 13,
+      "currentSeason": 14,
       "years": [
         2027,
         2026,
@@ -882,8 +882,8 @@
       "department": "区域与国别研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ias.pku.edu.cn/",
-      "total": 14,
-      "recentFiveYears": 7,
+      "total": 15,
+      "recentFiveYears": 8,
       "currentSeason": 5,
       "years": [
         2027,
@@ -922,9 +922,9 @@
       "department": "碳中和研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://carbon.pku.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 5,
-      "currentSeason": 4,
+      "total": 13,
+      "recentFiveYears": 6,
+      "currentSeason": 7,
       "years": [
         2027,
         2026,
@@ -939,9 +939,9 @@
       "department": "前沿交叉学科研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.aais.pku.edu.cn/",
-      "total": 19,
-      "recentFiveYears": 12,
-      "currentSeason": 7,
+      "total": 21,
+      "recentFiveYears": 13,
+      "currentSeason": 8,
       "years": [
         2027,
         2026,
@@ -9066,8 +9066,8 @@
       "department": "环境科学与工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://sese.sjtu.edu.cn/",
-      "total": 8,
-      "recentFiveYears": 5,
+      "total": 9,
+      "recentFiveYears": 6,
       "currentSeason": 3,
       "years": [
         2027,
