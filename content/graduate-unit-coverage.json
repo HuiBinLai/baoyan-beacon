@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T05:44:05.761Z",
+  "generatedAt": "2026-11-07T05:55:50.512Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,10 +10,10 @@
   ],
   "totals": {
     "units": 1151,
-    "covered": 778,
-    "stale": 13,
+    "covered": 779,
+    "stale": 12,
     "missing": 360,
-    "currentSeasonCovered": 144
+    "currentSeasonCovered": 146
   },
   "units": [
     {
@@ -68,9 +68,9 @@
       "department": "工学部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://fe.pku.edu.cn/",
-      "total": 25,
+      "total": 26,
       "recentFiveYears": 10,
-      "currentSeason": 14,
+      "currentSeason": 15,
       "years": [
         2027,
         2026,
@@ -145,8 +145,8 @@
       "department": "数学科学学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.math.pku.edu.cn/",
-      "total": 25,
-      "recentFiveYears": 12,
+      "total": 31,
+      "recentFiveYears": 18,
       "currentSeason": 12,
       "years": [
         2027,
@@ -285,9 +285,9 @@
       "department": "集成电路学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ic.pku.edu.cn/",
-      "total": 35,
+      "total": 36,
       "recentFiveYears": 21,
-      "currentSeason": 14,
+      "currentSeason": 15,
       "years": [
         2027,
         2026,
@@ -673,8 +673,8 @@
       "department": "马克思主义学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://marxism.pku.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 4,
+      "total": 12,
+      "recentFiveYears": 5,
       "currentSeason": 4,
       "years": [
         2027,
@@ -692,9 +692,9 @@
       "department": "教育学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gse.pku.edu.cn/",
-      "total": 30,
+      "total": 33,
       "recentFiveYears": 16,
-      "currentSeason": 14,
+      "currentSeason": 17,
       "years": [
         2027,
         2026,
@@ -709,14 +709,15 @@
       "department": "体育教研部",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://pe.pku.edu.cn/",
-      "total": 2,
-      "recentFiveYears": 0,
+      "total": 3,
+      "recentFiveYears": 1,
       "currentSeason": 2,
       "years": [
-        2027
+        2027,
+        2026
       ],
       "latestDate": "2027-01-01",
-      "status": "stale"
+      "status": "covered"
     },
     {
       "id": "ed3a080630",
@@ -724,8 +725,8 @@
       "department": "经济学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://econ.pku.edu.cn/",
-      "total": 8,
-      "recentFiveYears": 4,
+      "total": 9,
+      "recentFiveYears": 5,
       "currentSeason": 3,
       "years": [
         2027,
@@ -743,9 +744,9 @@
       "department": "光华管理学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.gsm.pku.edu.cn/index.htm",
-      "total": 25,
+      "total": 26,
       "recentFiveYears": 4,
-      "currentSeason": 21,
+      "currentSeason": 22,
       "years": [
         2027,
         2026
@@ -864,7 +865,7 @@
       "department": "元培学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://yuanpei.pku.edu.cn/",
-      "total": 4,
+      "total": 5,
       "recentFiveYears": 1,
       "currentSeason": 0,
       "years": [
@@ -882,8 +883,8 @@
       "department": "区域与国别研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://ias.pku.edu.cn/",
-      "total": 15,
-      "recentFiveYears": 8,
+      "total": 20,
+      "recentFiveYears": 13,
       "currentSeason": 5,
       "years": [
         2027,
@@ -922,9 +923,9 @@
       "department": "碳中和研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://carbon.pku.edu.cn/",
-      "total": 13,
-      "recentFiveYears": 6,
-      "currentSeason": 7,
+      "total": 16,
+      "recentFiveYears": 8,
+      "currentSeason": 8,
       "years": [
         2027,
         2026,
@@ -939,8 +940,8 @@
       "department": "前沿交叉学科研究院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.aais.pku.edu.cn/",
-      "total": 21,
-      "recentFiveYears": 13,
+      "total": 23,
+      "recentFiveYears": 15,
       "currentSeason": 8,
       "years": [
         2027,
@@ -958,8 +959,8 @@
       "department": "北京国际数学研究中心",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://bicmr.pku.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 6,
+      "recentFiveYears": 6,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7260,8 +7261,8 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 38,
-      "recentFiveYears": 35,
+      "total": 39,
+      "recentFiveYears": 36,
       "currentSeason": 3,
       "years": [
         2027,
@@ -7660,8 +7661,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 18,
-      "recentFiveYears": 18,
+      "total": 19,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8283,8 +8284,8 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 31,
-      "recentFiveYears": 28,
+      "total": 32,
+      "recentFiveYears": 29,
       "currentSeason": 3,
       "years": [
         2027,
@@ -9148,8 +9149,8 @@
       "department": "医学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 13,
-      "recentFiveYears": 13,
+      "total": 14,
+      "recentFiveYears": 14,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9464,14 +9465,16 @@
       "department": "系统生物医学研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://scsb.sjtu.edu.cn/",
-      "total": 2,
-      "recentFiveYears": 2,
-      "currentSeason": 0,
+      "total": 10,
+      "recentFiveYears": 9,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
+        2025,
         2024
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -9542,8 +9545,8 @@
       "department": "张江高等研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://zias.sjtu.edu.cn/",
-      "total": 12,
-      "recentFiveYears": 10,
+      "total": 13,
+      "recentFiveYears": 11,
       "currentSeason": 2,
       "years": [
         2027,
@@ -9960,14 +9963,16 @@
       "department": "统生物医学研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 2,
-      "recentFiveYears": 2,
-      "currentSeason": 0,
+      "total": 10,
+      "recentFiveYears": 9,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026,
+        2025,
         2024
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -16116,11 +16121,12 @@
       "department": "应用经济学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 4,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
-        2026
+        2026,
+        2020
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -16131,13 +16137,14 @@
       "department": "经济学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 5,
-      "recentFiveYears": 5,
+      "total": 7,
+      "recentFiveYears": 6,
       "currentSeason": 0,
       "years": [
         2026,
         2025,
-        2023
+        2023,
+        2020
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -16252,8 +16259,8 @@
       "department": "文学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2026
@@ -17617,7 +17624,6 @@
   ],
   "actionItems": [
     "北京大学医学部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "北京大学体育教研部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学基础医学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学护理学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京大学医学人文学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
