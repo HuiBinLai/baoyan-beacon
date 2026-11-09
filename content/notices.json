@@ -1,5 +1,52 @@
 [
   {
+    "id": "college-41248d9b43ba",
+    "title": "医学院博士生招生简章",
+    "school": "上海交通大学",
+    "department": "媒体与传播学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "上海交通大学媒体与传播学院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/xxgs/ytmgs#",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
+    "summary": "媒体与传播学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-fd16084a37e1"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "医学院博士生招生简章。媒体与传播学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "媒体与传播学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-11-09",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-11-09"
+  },
+  {
     "id": "college-ae923fe6dc63",
     "title": "中国人民大学2027年接收优秀应届本科毕业生免试攻读研究生工作办法",
     "school": "中国人民大学",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T05:30:29.300Z",
+  "generatedAt": "2026-11-09T05:54:23.311Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,9 +10,9 @@
   ],
   "totals": {
     "units": 1151,
-    "covered": 779,
+    "covered": 780,
     "stale": 12,
-    "missing": 360,
+    "missing": 359,
     "currentSeasonCovered": 146
   },
   "units": [
@@ -9149,8 +9149,8 @@
       "department": "医学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 14,
-      "recentFiveYears": 14,
+      "total": 15,
+      "recentFiveYears": 15,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9250,12 +9250,14 @@
       "department": "媒体与传播学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://smc.sjtu.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "65d1f24dd7",
@@ -17767,7 +17769,6 @@
     "清华大学体育部 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学药学院临床医学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学外国语学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "上海交通大学媒体与传播学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学致远学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学自然科学研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学中国法与社会研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-08T05:30:27.738Z",
+  "generatedAt": "2026-11-09T05:54:22.120Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2552,
+    "notices": 2553,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -60,10 +60,10 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 366,
+      "total": 367,
       "currentYear": 1,
       "recentFiveYears": 1,
-      "departments": 53,
+      "departments": 54,
       "llmStructured": 159,
       "latestDate": "2041-01-01",
       "status": "covered"
@@ -2455,7 +2455,7 @@
       "id": "auto-fd16084a37e1",
       "school": "上海交通大学",
       "department": "媒体与传播学院",
-      "total": 1,
+      "total": 2,
       "years": [
         2026
       ],
