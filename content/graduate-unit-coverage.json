@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:54:23.311Z",
+  "generatedAt": "2026-11-10T08:33:34.571Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -513,8 +513,8 @@
       "department": "先进制造与机器人学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://amr.pku.edu.cn/",
-      "total": 26,
-      "recentFiveYears": 13,
+      "total": 27,
+      "recentFiveYears": 14,
       "currentSeason": 13,
       "years": [
         2027,
@@ -7261,8 +7261,8 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 39,
-      "recentFiveYears": 36,
+      "total": 40,
+      "recentFiveYears": 37,
       "currentSeason": 3,
       "years": [
         2027,
@@ -7507,8 +7507,8 @@
       "department": "数学科学中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://ymsc.tsinghua.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 17,
+      "total": 18,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -7661,8 +7661,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 19,
-      "recentFiveYears": 19,
+      "total": 20,
+      "recentFiveYears": 20,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8284,8 +8284,8 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 32,
-      "recentFiveYears": 29,
+      "total": 33,
+      "recentFiveYears": 30,
       "currentSeason": 3,
       "years": [
         2027,
@@ -8352,8 +8352,8 @@
       "department": "数学科学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-      "total": 26,
-      "recentFiveYears": 26,
+      "total": 27,
+      "recentFiveYears": 27,
       "currentSeason": 0,
       "years": [
         2026,
