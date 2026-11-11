@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:33:34.571Z",
+  "generatedAt": "2026-11-11T06:35:13.316Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,10 +10,10 @@
   ],
   "totals": {
     "units": 1151,
-    "covered": 780,
+    "covered": 781,
     "stale": 12,
-    "missing": 359,
-    "currentSeasonCovered": 146
+    "missing": 358,
+    "currentSeasonCovered": 147
   },
   "units": [
     {
@@ -7261,9 +7261,9 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 40,
+      "total": 41,
       "recentFiveYears": 37,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -7677,13 +7677,14 @@
       "department": "市场营销系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mark/",
-      "total": 2,
+      "total": 3,
       "recentFiveYears": 2,
-      "currentSeason": 0,
+      "currentSeason": 1,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -7844,13 +7845,14 @@
       "department": "社会学系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://www.soc.tsinghua.edu.cn/index.htm",
-      "total": 2,
-      "recentFiveYears": 2,
+      "total": 3,
+      "recentFiveYears": 3,
       "currentSeason": 0,
       "years": [
+        2026,
         2024
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
@@ -8088,9 +8090,9 @@
       "department": "全球创新学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "http://gix.tsinghua.edu.cn/",
-      "total": 6,
+      "total": 7,
       "recentFiveYears": 4,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -8284,9 +8286,9 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 33,
+      "total": 34,
       "recentFiveYears": 30,
-      "currentSeason": 3,
+      "currentSeason": 4,
       "years": [
         2027,
         2026,
@@ -9578,12 +9580,14 @@
       "department": "空天科学技术研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2022
+      ],
+      "latestDate": "2022-01-01",
+      "status": "covered"
     },
     {
       "id": "ede1912961",
@@ -17772,7 +17776,6 @@
     "上海交通大学致远学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学自然科学研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学中国法与社会研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "上海交通大学空天科学技术研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学上海智能制造研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学医疗机器人研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "上海交通大学医学影像先进技术研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",

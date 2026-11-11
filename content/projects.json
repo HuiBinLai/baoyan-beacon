@@ -39101,6 +39101,226 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-52173e0234c0",
+    "school": "清华大学",
+    "department": "全球创新学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 全球创新学院",
+    "tracks": [
+      "经管金融",
+      "医学药学"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 3,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "2026-07-01",
+        "lastApplicationEnd": "2026-10-24",
+        "notices": [
+          {
+            "id": "college-d63649244664",
+            "title": "清华大学2027年全球创新学院接收推荐免试直硕生拟...",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1443.htm",
+            "sourceHost": "gix.tsinghua.edu.cn",
+            "sourceHomepage": "http://gix.tsinghua.edu.cn/",
+            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-6bc9167ed551",
+            "title": "2027年全国硕士研究生招生考试清华大学报考点（1103）公告-清华研究生招生网",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2026-10-24",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1009/3271.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-a5a86ae49cd2",
+            "title": "推免生(2027)",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "2026-07-01",
+            "applicationEnd": "2026-07-28",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3233.htm",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 3,
+        "stages": [
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-6220dbbfa81d",
+            "title": "清华大学研究生招生网",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://yz.tsinghua.edu.cn/",
+            "sourceHost": "yz.tsinghua.edu.cn",
+            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
+            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-c28c1a3977fa",
+            "title": "2026 年清华大学全球创新学院接收推荐免试直硕生拟...",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1408.htm",
+            "sourceHost": "gix.tsinghua.edu.cn",
+            "sourceHomepage": "http://gix.tsinghua.edu.cn/",
+            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-4ac3c193fd61",
+            "title": "清华大学全球创新学院关于调整全国硕士研究生招生...",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1418.htm",
+            "sourceHost": "gix.tsinghua.edu.cn",
+            "sourceHomepage": "http://gix.tsinghua.edu.cn/",
+            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-fe57cc3922e1",
+            "title": "2023年清华大学全球创新学院全国硕士研究生招生考试复试公式名单-清华大学全球创新学院",
+            "stage": "复试/考核",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://gix.tsinghua.edu.cn/info/1043/1286.htm",
+            "sourceHost": "gix.tsinghua.edu.cn",
+            "sourceHomepage": "https://gix.tsinghua.edu.cn/",
+            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 3,
+    "latestPastYear": 2026,
+    "noticeCount": 7,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026,
+      2023
+    ],
+    "stages": [
+      "推免报名",
+      "推免",
+      "复试/考核"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士"
+    ],
+    "majors": [
+      "工商管理",
+      "设计学",
+      "人工智能",
+      "金融",
+      "临床医学"
+    ],
+    "sourceHosts": [
+      "gix.tsinghua.edu.cn",
+      "yz.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://gix.tsinghua.edu.cn/",
+      "https://yz.tsinghua.edu.cn/",
+      "http://yz.tsinghua.edu.cn/",
+      "https://gix.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://gix.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-410c9d437711",
     "school": "上海交通大学",
     "department": "变革性分子前沿科学中心",
@@ -42079,210 +42299,6 @@
     ],
     "departmentHomepages": [
       "https://yz.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-52173e0234c0",
-    "school": "清华大学",
-    "department": "全球创新学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 全球创新学院",
-    "tracks": [
-      "经管金融",
-      "医学药学"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2027,
-        "count": 2,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "硕士",
-          "待确认"
-        ],
-        "firstPublishedAt": "2027-01-01",
-        "lastPublishedAt": "2027-01-01",
-        "firstApplicationStart": "2026-07-01",
-        "lastApplicationEnd": "2026-10-24",
-        "notices": [
-          {
-            "id": "college-6bc9167ed551",
-            "title": "2027年全国硕士研究生招生考试清华大学报考点（1103）公告-清华研究生招生网",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2026-10-24",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1009/3271.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-a5a86ae49cd2",
-            "title": "推免生(2027)",
-            "stage": "推免报名",
-            "year": 2027,
-            "publishedAt": "2027-01-01",
-            "applicationStart": "2026-07-01",
-            "applicationEnd": "2026-07-28",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://yz.tsinghua.edu.cn/info/1008/3233.htm",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "https://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2026,
-        "count": 3,
-        "stages": [
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-6220dbbfa81d",
-            "title": "清华大学研究生招生网",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://yz.tsinghua.edu.cn/",
-            "sourceHost": "yz.tsinghua.edu.cn",
-            "sourceHomepage": "http://yz.tsinghua.edu.cn/",
-            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-c28c1a3977fa",
-            "title": "2026 年清华大学全球创新学院接收推荐免试直硕生拟...",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1408.htm",
-            "sourceHost": "gix.tsinghua.edu.cn",
-            "sourceHomepage": "http://gix.tsinghua.edu.cn/",
-            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-4ac3c193fd61",
-            "title": "清华大学全球创新学院关于调整全国硕士研究生招生...",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1418.htm",
-            "sourceHost": "gix.tsinghua.edu.cn",
-            "sourceHomepage": "http://gix.tsinghua.edu.cn/",
-            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-fe57cc3922e1",
-            "title": "2023年清华大学全球创新学院全国硕士研究生招生考试复试公式名单-清华大学全球创新学院",
-            "stage": "复试/考核",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://gix.tsinghua.edu.cn/info/1043/1286.htm",
-            "sourceHost": "gix.tsinghua.edu.cn",
-            "sourceHomepage": "https://gix.tsinghua.edu.cn/",
-            "departmentHomepage": "https://gix.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "已发现",
-    "currentSeasonCount": 2,
-    "latestPastYear": 2026,
-    "noticeCount": 6,
-    "llmStructuredCount": 0,
-    "years": [
-      2027,
-      2026,
-      2023
-    ],
-    "stages": [
-      "推免报名",
-      "推免",
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "硕士",
-      "待确认"
-    ],
-    "majors": [
-      "工商管理",
-      "设计学",
-      "人工智能",
-      "金融",
-      "临床医学"
-    ],
-    "sourceHosts": [
-      "yz.tsinghua.edu.cn",
-      "gix.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yz.tsinghua.edu.cn/",
-      "http://yz.tsinghua.edu.cn/",
-      "http://gix.tsinghua.edu.cn/",
-      "https://gix.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://gix.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -59443,6 +59459,271 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-8a5b4a42b5f2",
+    "school": "清华大学",
+    "department": "社会学系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 社会学系",
+    "tracks": [
+      "人文社科"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-3e65ec9c1765",
+            "title": "人才培养-清华大学社会学系",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.soc.tsinghua.edu.cn/rcpy.htm",
+            "sourceHost": "www.soc.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.soc.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-f92e5b037c61",
+            "title": "清华大学社科学院2024年社会工作硕士（MSW）(社区规划与社会智能治理项目)专业学位招生简章",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.soc.tsinghua.edu.cn/info/1113/1710.htm",
+            "sourceHost": "www.soc.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.soc.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-360ab1c68338",
+            "title": "清华大学社科学院2024年社会工作硕士（MSW）(社区规划与社会智能治理项目)专业学位招生简章-清华大学社会学系",
+            "stage": "招生简章",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.soc.tsinghua.edu.cn/info/1113/1710.htm",
+            "sourceHost": "www.soc.tsinghua.edu.cn",
+            "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
+            "departmentHomepage": "https://www.soc.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 0,
+    "years": [
+      2026,
+      2024
+    ],
+    "stages": [
+      "推免报名",
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "硕士"
+    ],
+    "majors": [
+      "社会学",
+      "人工智能",
+      "建筑学"
+    ],
+    "sourceHosts": [
+      "www.soc.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.soc.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.soc.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-198c1225351f",
+    "school": "清华大学",
+    "department": "市场营销系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 市场营销系",
+    "tracks": [
+      "经管金融"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2027,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2027-01-01",
+        "lastPublishedAt": "2027-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-8f8f09b7f6f3",
+            "title": "清华大学经济管理学院全日制硕士项目2027年香港、澳门、台湾地区研究生招生说明",
+            "stage": "推免报名",
+            "year": 2027,
+            "publishedAt": "2027-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1292/3677.htm",
+            "sourceHost": "masters.sem.tsinghua.edu.cn",
+            "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "count": 2,
+        "stages": [
+          "推免"
+        ],
+        "degreeTypes": [
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-07-01",
+        "lastApplicationEnd": "2027-09-04",
+        "notices": [
+          {
+            "id": "college-d72ff2fa5082",
+            "title": "2026-08-13",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-08-12",
+            "applicationEnd": "2027-09-04",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/3377370e-ce1f-40e1-a328-b5ae5ff5b2e3?yxsdm=051",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          },
+          {
+            "id": "college-3a4eb44b799a",
+            "title": "2026-07-02",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-07-01",
+            "applicationEnd": "2026-07-28",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/564ce360-8352-4c87-98d4-228eca1ed3ae?yxsdm=051",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "已发现",
+    "currentSeasonCount": 1,
+    "latestPastYear": 2026,
+    "noticeCount": 3,
+    "llmStructuredCount": 0,
+    "years": [
+      2027,
+      2026
+    ],
+    "stages": [
+      "推免报名",
+      "推免"
+    ],
+    "degreeTypes": [
+      "待确认",
+      "直博",
+      "硕士"
+    ],
+    "majors": [
+      "理论经济学",
+      "应用经济学",
+      "金融",
+      "教育学",
+      "管理科学与工程",
+      "工商管理"
+    ],
+    "sourceHosts": [
+      "masters.sem.tsinghua.edu.cn",
+      "yzbm.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://masters.sem.tsinghua.edu.cn/",
+      "https://yzbm.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://pg.sem.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-fb9953878031",
     "school": "清华大学",
     "department": "政治学系",
@@ -69891,99 +70172,6 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
-    "id": "project-8a5b4a42b5f2",
-    "school": "清华大学",
-    "department": "社会学系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 社会学系",
-    "tracks": [
-      "人文社科"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "招生简章"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-f92e5b037c61",
-            "title": "清华大学社科学院2024年社会工作硕士（MSW）(社区规划与社会智能治理项目)专业学位招生简章",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.soc.tsinghua.edu.cn/info/1113/1710.htm",
-            "sourceHost": "www.soc.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.soc.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-360ab1c68338",
-            "title": "清华大学社科学院2024年社会工作硕士（MSW）(社区规划与社会智能治理项目)专业学位招生简章-清华大学社会学系",
-            "stage": "招生简章",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.soc.tsinghua.edu.cn/info/1113/1710.htm",
-            "sourceHost": "www.soc.tsinghua.edu.cn",
-            "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
-            "departmentHomepage": "https://www.soc.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2024,
-    "noticeCount": 2,
-    "llmStructuredCount": 0,
-    "years": [
-      2024
-    ],
-    "stages": [
-      "招生简章"
-    ],
-    "degreeTypes": [
-      "硕士"
-    ],
-    "majors": [
-      "人工智能",
-      "社会学",
-      "建筑学"
-    ],
-    "sourceHosts": [
-      "www.soc.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.soc.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.soc.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
     "id": "project-2430cbe02fa2",
     "school": "清华大学",
     "department": "生物医学交叉研究院",
@@ -70104,106 +70292,6 @@
     ],
     "departmentHomepages": [
       "https://www.timbr.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-198c1225351f",
-    "school": "清华大学",
-    "department": "市场营销系",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "清华大学 · 市场营销系",
-    "tracks": [
-      "经管金融"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "推免"
-        ],
-        "degreeTypes": [
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-07-01",
-        "lastApplicationEnd": "2027-09-04",
-        "notices": [
-          {
-            "id": "college-d72ff2fa5082",
-            "title": "2026-08-13",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-08-12",
-            "applicationEnd": "2027-09-04",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0301/detail/3377370e-ce1f-40e1-a328-b5ae5ff5b2e3?yxsdm=051",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          },
-          {
-            "id": "college-3a4eb44b799a",
-            "title": "2026-07-02",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-07-01",
-            "applicationEnd": "2026-07-28",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/564ce360-8352-4c87-98d4-228eca1ed3ae?yxsdm=051",
-            "sourceHost": "yzbm.tsinghua.edu.cn",
-            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
-            "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 0,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "推免"
-    ],
-    "degreeTypes": [
-      "直博",
-      "硕士"
-    ],
-    "majors": [
-      "理论经济学",
-      "应用经济学",
-      "金融",
-      "教育学",
-      "管理科学与工程",
-      "工商管理"
-    ],
-    "sourceHosts": [
-      "yzbm.tsinghua.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://yzbm.tsinghua.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://pg.sem.tsinghua.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -91551,6 +91639,79 @@
       "网络空间安全",
       "电子信息"
     ],
+    "sourceHosts": [
+      "yzb.sjtu.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yzb.sjtu.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
+    "id": "project-1be316ea74c8",
+    "school": "上海交通大学",
+    "department": "空天科学技术研究院",
+    "region": "上海",
+    "levels": [
+      "985"
+    ],
+    "title": "上海交通大学 · 空天科学技术研究院",
+    "tracks": [
+      "综合/待确认"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2022,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "硕士"
+        ],
+        "firstPublishedAt": "2022-01-01",
+        "lastPublishedAt": "2022-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-ddca1884c5b7",
+            "title": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知",
+            "stage": "推免报名",
+            "year": 2022,
+            "publishedAt": "2022-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://yzb.sjtu.edu.cn/post/3315#",
+            "sourceHost": "yzb.sjtu.edu.cn",
+            "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+            "departmentHomepage": "https://yzb.sjtu.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2022,
+    "noticeCount": 1,
+    "llmStructuredCount": 0,
+    "years": [
+      2022
+    ],
+    "stages": [
+      "推免报名"
+    ],
+    "degreeTypes": [
+      "硕士"
+    ],
+    "majors": [],
     "sourceHosts": [
       "yzb.sjtu.edu.cn"
     ],

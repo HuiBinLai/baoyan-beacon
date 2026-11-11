@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10T08:33:33.640Z",
+  "generatedAt": "2026-11-11T06:35:11.877Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2556,
+    "notices": 2560,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 263,
+      "total": 266,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 52,
@@ -60,10 +60,10 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 367,
+      "total": 368,
       "currentYear": 1,
       "recentFiveYears": 1,
-      "departments": 54,
+      "departments": 55,
       "llmStructured": 159,
       "latestDate": "2041-01-01",
       "status": "covered"
@@ -1869,7 +1869,7 @@
       "id": "auto-dff1f4250423",
       "school": "清华大学",
       "department": "全球创新学院",
-      "total": 6,
+      "total": 7,
       "years": [
         2027,
         2026,
@@ -1906,22 +1906,24 @@
       "id": "auto-8af503cd77b2",
       "school": "清华大学",
       "department": "社会学系",
-      "total": 2,
+      "total": 3,
       "years": [
+        2026,
         2024
       ],
-      "latestDate": "2024-01-01",
+      "latestDate": "2026-01-01",
       "status": "covered"
     },
     {
       "id": "auto-cd1e5a886948",
       "school": "清华大学",
       "department": "市场营销系",
-      "total": 2,
+      "total": 3,
       "years": [
+        2027,
         2026
       ],
-      "latestDate": "2026-01-01",
+      "latestDate": "2027-01-01",
       "status": "covered"
     },
     {
@@ -2413,9 +2415,10 @@
       "id": "auto-0cdf797feff4",
       "school": "上海交通大学",
       "department": "空天科学技术研究院",
-      "total": 1,
+      "total": 2,
       "years": [
-        2026
+        2026,
+        2022
       ],
       "latestDate": "2026-05-11",
       "status": "covered"

@@ -1,40 +1,36 @@
 [
   {
-    "id": "college-035a6d1a750a",
-    "title": "10 2026-11 【研究生招生（留学生）】2027 English Taught Ph.D. Programs at School of Advanced Manufacturing and Robotics",
-    "school": "北京大学",
-    "department": "先进制造与机器人学院",
+    "id": "college-d63649244664",
+    "title": "清华大学2027年全球创新学院接收推荐免试直硕生拟...",
+    "school": "清华大学",
+    "department": "全球创新学院",
     "majors": [
       "待确认"
     ],
     "type": "推免",
-    "year": 2026,
+    "year": 2027,
     "region": "北京",
     "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "北京大学先进制造与机器人学院官方站点",
-    "sourceUrl": "https://isd.pku.edu.cn/cn/detail.php?id=875",
-    "sourceHost": "isd.pku.edu.cn",
-    "sourceHomepage": "https://isd.pku.edu.cn/",
-    "departmentHomepage": "https://amr.pku.edu.cn/",
-    "summary": "先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学全球创新学院官方站点",
+    "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1443.htm",
+    "sourceHost": "gix.tsinghua.edu.cn",
+    "sourceHomepage": "http://gix.tsinghua.edu.cn/",
+    "departmentHomepage": "https://gix.tsinghua.edu.cn/",
+    "summary": "2026/11",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-a4607f78b5d8"
+      "auto-dff1f4250423"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "10 2026-11 【研究生招生（留学生）】2027 English Taught Ph.D. Programs at School of Advanced Manufacturing and Robotics。先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。2027 English Taught Ph.D. Programs at School of Advanced Manufacturing and Robotics 请输入关键字 确定 En --> En 首页 关于我们 学校介绍 留学寄语 如何到达 联系我们 留学申请 本科生 研究生 交换生 进修生 预科生 国际暑期学院 国际短期课程 奖学金 奖学金公告 奖学金项目 校园文化 多彩活动 认识中国 认识世界 生活服务 学业指导 生活服务 住宿与设施 签证手续 毕业手续 规章制度 学籍学历 就业实习 政策手续 就业信息 实习信息 留学生校友 常用下载 招生简章类 申请类 奖学金类 手册类 院系相关类 2027 English Taught Ph.D. Programs at Scho",
+    "sourceExcerpt": "清华大学2027年全球创新学院接收推荐免试直硕生拟...。2026/11。清华大学2027年全球创新学院接收推荐免试直硕生拟录取名单公示-清华大学全球创新学院 新闻 媒体聚焦 视频 活动公告 人物故事 联系我们 GIX Network 在线申请 English / 关于GIX GIX概况 GIX大记事 学院领导 学习环境 生活环境 联系我们 / 招生 项目介绍 培养目标 项目特色 申请要求 申请材料 联系我们 / 教学 全英文课程体系 学科融合教学体系 创新项目实践机制 / 师资 / 科研 科研项目 / 活动 GIX创新大赛 GIX全球创新体验营 本科生暑研项目 全球校园体育论坛及球赛 / 合作 合作方 捐赠方 关于GIX 招生 教学 师资 科研 活动 合作 新闻 媒体聚焦 视频 活动公告 人物故事 联系我们 GIX Network 在线申请 English news 首页 &raquo; 新闻 &raquo; 正文 清华大学2027年全球创新学院接收推荐免试直硕生拟录取名单公示 2026-11-06 全球创新学院 The Global Innovation Exchange (GIX",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
-    "requirements": [
-      "先进制造与机器人学院学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
+    "requirements": [],
     "materials": [],
     "applicationMethod": "",
     "targetStudents": "",
@@ -42,53 +38,92 @@
       "待确认"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-11-10",
+    "structuredAt": "2026-11-11",
     "noticeStage": "推免报名",
-    "classifiedAt": "2026-11-10"
+    "classifiedAt": "2026-11-11"
   },
   {
-    "id": "college-3a47f26b98b7",
-    "title": "首页-清华大学经济管理学院硕士",
+    "id": "college-8f8f09b7f6f3",
+    "title": "清华大学经济管理学院全日制硕士项目2027年香港、澳门、台湾地区研究生招生说明",
     "school": "清华大学",
-    "department": "管理科学与工程系",
+    "department": "市场营销系",
     "majors": [
-      "人工智能",
-      "金融",
-      "管理科学与工程",
-      "会计"
+      "待确认"
     ],
     "type": "推免",
-    "year": 2026,
+    "year": 2027,
     "region": "北京",
-    "deadline": "2026-09-19",
-    "publishedAt": "2026-01-01",
-    "sourceName": "清华大学管理科学与工程系官方站点",
-    "sourceUrl": "https://masters.sem.tsinghua.edu.cn/",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学市场营销系官方站点",
+    "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1292/3677.htm",
     "sourceHost": "masters.sem.tsinghua.edu.cn",
     "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
-    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
+    "summary": "市场营销系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-de047849affc"
+      "auto-cd1e5a886948"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "首页-清华大学经济管理学院硕士。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。首页-清华大学经济管理学院硕士 您的浏览器版本过低，为了保证更好的使用体验，请升级您的浏览器 （ IE 浏览器需要 IE9 及 IE9 以上版本 ） 清华大学 | 经管学院 | 用户登录 EN 搜索 首页 关于我们 院长致辞 应用型硕士项目特色 教学项目 金融硕士项目 管理硕士项目 清华-哥大商务分析双硕士 数字经济与智能管理硕士项目 高级财务管理与大数据硕士项目 首席财务官会计硕士项目 师资力量 招生 招生日程 招生信息 联系我们 EN 首页 关于我们 院长致辞 应用型硕士项目特色 教学项目 金融硕士项目 管理硕士项目 清华-哥大商务分析双硕士 数字经济与智能管理硕士项目 高级财务管理与大数据硕士项目 首席财务官会计硕士项目 师资力量 招生 招生日程 招生信息 联系我们 × 网上报名 网上报名 中国（境内）考生 推免 中国（境内）考生 普通招考 中国（港澳台）考生 国际考生 资料下载专区 金融硕士项目 管理硕士项目 清华大学 - 哥伦比亚大学 商务分析双硕士学位项",
-    "applicationStart": "2026-09-21",
-    "applicationEnd": "2026-09-19",
-    "registrationTime": "2026-09-21 数智时代的社会经济系统重构 | 清华经管学院数字经济硕士2027级招生说明会举办 2026年9月19日下午，清华大学经济管理学院数字经济与智能管理硕士2027级招生说明会在清华经管学院举办",
+    "sourceExcerpt": "清华大学经济管理学院全日制硕士项目2027年香港、澳门、台湾地区研究生招生说明。市场营销系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
     "requirements": [
-      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
+      "市场营销系学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
-      "项目类型和申请要求",
-      "在无工作经验要求类别中",
-      "清华大学经济管理学院金融硕士项目再度蝉联FT榜单全球第3",
-      "连续六年排名亚洲榜首",
-      "项目始终屹立全球商学教育第一梯队",
-      "以稳健实力树立亚洲金融人才培养标杆"
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-11-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-11"
+  },
+  {
+    "id": "college-3e65ec9c1765",
+    "title": "人才培养-清华大学社会学系",
+    "school": "清华大学",
+    "department": "社会学系",
+    "majors": [
+      "社会学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学社会学系官方站点",
+    "sourceUrl": "https://www.soc.tsinghua.edu.cn/rcpy.htm",
+    "sourceHost": "www.soc.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
+    "departmentHomepage": "https://www.soc.tsinghua.edu.cn/",
+    "summary": "社会学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-8af503cd77b2"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "人才培养-清华大学社会学系。社会学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。人才培养-清华大学社会学系 清华主页 清华新闻网 ·English· 首页 系所介绍 历史沿革 动态新闻 通知公告 学术期刊 师资力量 人才培养 学术发表 联系我们 人才培养 您所在的位置： 首页 &#8250; 人才培养 动态新闻 更多… 11 10 图片新闻/ 论坛回顾｜新百年 新征程：清华大学社会学系建系百年系列... 11 04 图片新闻/ 论坛回顾｜新百年 新征程：清华社会学百年纪念系列研讨会... 09 03 图片新闻/ 躬行田野，访箱包之都：社会学本科生专业实习（白沟）圆... 04 28 图片新闻/ 精彩集锦｜清华大学建校115周年暨清华大学社会学系建系百... 04 27 图片新闻/ 校友捐赠再添佳话 百年育人薪火相传——香港杏范教育基金... 人才培养 2023-10-16 清华大学社科学院2024年社会工作硕士（MSW）(社区规划与社会智能治理项目)专业学位招生简章 2020-02-06 社会学系研究生培养 2020-02-06 社会学系留学生培养 202",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "社会学系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
     ],
     "materials": [],
     "applicationMethod": "",
@@ -97,43 +132,43 @@
       "待确认"
     ],
     "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-11-10",
+    "structuredAt": "2026-11-11",
     "noticeStage": "推免报名",
-    "classifiedAt": "2026-11-10"
+    "classifiedAt": "2026-11-11"
   },
   {
-    "id": "college-9f7a21a57578",
-    "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
-    "school": "清华大学",
-    "department": "数学科学中心",
+    "id": "college-ddca1884c5b7",
+    "title": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知",
+    "school": "上海交通大学",
+    "department": "空天科学技术研究院",
     "majors": [
-      "数学"
+      "待确认"
     ],
     "type": "推免",
-    "year": 2026,
-    "region": "北京",
+    "year": 2022,
+    "region": "上海",
     "deadline": "",
-    "publishedAt": "2026-01-01",
-    "sourceName": "清华大学数学科学中心官方站点",
-    "sourceUrl": "https://math.tsinghua.edu.cn/info/1119/3563.htm",
-    "sourceHost": "math.tsinghua.edu.cn",
-    "sourceHomepage": "https://math.tsinghua.edu.cn/",
-    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
-    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "publishedAt": "2022-01-01",
+    "sourceName": "上海交通大学空天科学技术研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3315#",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
+    "summary": "空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-f645b052e302"
+      "auto-0cdf797feff4"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2027年博士研究生招生简章-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 English 清华大",
+    "sourceExcerpt": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知。空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "空天科学技术研究院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -141,12 +176,12 @@
     "applicationMethod": "",
     "targetStudents": "",
     "degreeTypes": [
-      "博士"
+      "硕士"
     ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-11-10",
-    "noticeStage": "招生简章",
-    "classifiedAt": "2026-11-10"
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-11-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-11"
   },
   {
     "id": "college-ae923fe6dc63",
@@ -25199,6 +25234,53 @@
     "classifiedAt": "2026-08-27"
   },
   {
+    "id": "college-035a6d1a750a",
+    "title": "10 2026-11 【研究生招生（留学生）】2027 English Taught Ph.D. Programs at School of Advanced Manufacturing and Robotics",
+    "school": "北京大学",
+    "department": "先进制造与机器人学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "北京大学先进制造与机器人学院官方站点",
+    "sourceUrl": "https://isd.pku.edu.cn/cn/detail.php?id=875",
+    "sourceHost": "isd.pku.edu.cn",
+    "sourceHomepage": "https://isd.pku.edu.cn/",
+    "departmentHomepage": "https://amr.pku.edu.cn/",
+    "summary": "先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-a4607f78b5d8"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "10 2026-11 【研究生招生（留学生）】2027 English Taught Ph.D. Programs at School of Advanced Manufacturing and Robotics。先进制造与机器人学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。2027 English Taught Ph.D. Programs at School of Advanced Manufacturing and Robotics 请输入关键字 确定 En --> En 首页 关于我们 学校介绍 留学寄语 如何到达 联系我们 留学申请 本科生 研究生 交换生 进修生 预科生 国际暑期学院 国际短期课程 奖学金 奖学金公告 奖学金项目 校园文化 多彩活动 认识中国 认识世界 生活服务 学业指导 生活服务 住宿与设施 签证手续 毕业手续 规章制度 学籍学历 就业实习 政策手续 就业信息 实习信息 留学生校友 常用下载 招生简章类 申请类 奖学金类 手册类 院系相关类 2027 English Taught Ph.D. Programs at Scho",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "先进制造与机器人学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-10",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-10"
+  },
+  {
     "id": "college-0586e2db0fe2",
     "title": "北京大学数学科学学院和北京国际数学研究中心 “申请-考核制”博士研究生招生说明",
     "school": "北京大学",
@@ -44589,6 +44671,108 @@
     "sourceHost": "pharmacy.nankai.edu.cn",
     "sourceHomepage": "https://pharmacy.nankai.edu.cn/",
     "departmentHomepage": "https://pharmacy.nankai.edu.cn/"
+  },
+  {
+    "id": "college-3a47f26b98b7",
+    "title": "首页-清华大学经济管理学院硕士",
+    "school": "清华大学",
+    "department": "管理科学与工程系",
+    "majors": [
+      "人工智能",
+      "金融",
+      "管理科学与工程",
+      "会计"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "2026-09-19",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学管理科学与工程系官方站点",
+    "sourceUrl": "https://masters.sem.tsinghua.edu.cn/",
+    "sourceHost": "masters.sem.tsinghua.edu.cn",
+    "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "departmentHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "summary": "管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-de047849affc"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "首页-清华大学经济管理学院硕士。管理科学与工程系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。首页-清华大学经济管理学院硕士 您的浏览器版本过低，为了保证更好的使用体验，请升级您的浏览器 （ IE 浏览器需要 IE9 及 IE9 以上版本 ） 清华大学 | 经管学院 | 用户登录 EN 搜索 首页 关于我们 院长致辞 应用型硕士项目特色 教学项目 金融硕士项目 管理硕士项目 清华-哥大商务分析双硕士 数字经济与智能管理硕士项目 高级财务管理与大数据硕士项目 首席财务官会计硕士项目 师资力量 招生 招生日程 招生信息 联系我们 EN 首页 关于我们 院长致辞 应用型硕士项目特色 教学项目 金融硕士项目 管理硕士项目 清华-哥大商务分析双硕士 数字经济与智能管理硕士项目 高级财务管理与大数据硕士项目 首席财务官会计硕士项目 师资力量 招生 招生日程 招生信息 联系我们 × 网上报名 网上报名 中国（境内）考生 推免 中国（境内）考生 普通招考 中国（港澳台）考生 国际考生 资料下载专区 金融硕士项目 管理硕士项目 清华大学 - 哥伦比亚大学 商务分析双硕士学位项",
+    "applicationStart": "2026-09-21",
+    "applicationEnd": "2026-09-19",
+    "registrationTime": "2026-09-21 数智时代的社会经济系统重构 | 清华经管学院数字经济硕士2027级招生说明会举办 2026年9月19日下午，清华大学经济管理学院数字经济与智能管理硕士2027级招生说明会在清华经管学院举办",
+    "requirements": [
+      "管理科学与工程系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "在无工作经验要求类别中",
+      "清华大学经济管理学院金融硕士项目再度蝉联FT榜单全球第3",
+      "连续六年排名亚洲榜首",
+      "项目始终屹立全球商学教育第一梯队",
+      "以稳健实力树立亚洲金融人才培养标杆"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-10",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-10"
+  },
+  {
+    "id": "college-9f7a21a57578",
+    "title": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章",
+    "school": "清华大学",
+    "department": "数学科学中心",
+    "majors": [
+      "数学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学数学科学中心官方站点",
+    "sourceUrl": "https://math.tsinghua.edu.cn/info/1119/3563.htm",
+    "sourceHost": "math.tsinghua.edu.cn",
+    "sourceHomepage": "https://math.tsinghua.edu.cn/",
+    "departmentHomepage": "https://ymsc.tsinghua.edu.cn/",
+    "summary": "数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-f645b052e302"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2026-06-30 清华大学数学科学系2027年博士研究生招生简章。数学科学中心学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。清华大学数学科学系2027年博士研究生招生简章-清华大学数学科学系 12·100/.,mnbxdrrrreeqgy] 本站不再支持您的浏览器，请使用360浏览器8及以上（极速模式）、IE9及以上、Chrome5、Safari6、Firefox 3.6及以上、 Opera 10.5及以上浏览器观看。请升级您的浏览器到 更高的版本 ！以获得更好的观看效果。 English 清华大学 人才招聘 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 首页 --> 院系概况 主任致辞 历史沿革 现任领导 历任领导 机构设置 教师队伍 教师 博士后 教辅行政 教育培养 本科生教学 研究生教学 招生就业 科学研究 科研团队 学科资源 新闻公告 党团建设 师生之家 招聘信息 English 清华大",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "数学科学中心学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "博士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-10",
+    "noticeStage": "招生简章",
+    "classifiedAt": "2026-11-10"
   },
   {
     "id": "college-27e72c896416",
