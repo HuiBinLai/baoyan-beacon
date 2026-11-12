@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:35:13.316Z",
+  "generatedAt": "2026-11-12T07:55:03.014Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -1089,8 +1089,8 @@
       "department": "汇丰商学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.phbs.pku.edu.cn/",
-      "total": 17,
-      "recentFiveYears": 17,
+      "total": 18,
+      "recentFiveYears": 18,
       "currentSeason": 0,
       "years": [
         2026,
@@ -15224,8 +15224,8 @@
       "department": "核科学技术学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://www.snst.ustc.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 8,
+      "total": 12,
+      "recentFiveYears": 11,
       "currentSeason": 0,
       "years": [
         2026,

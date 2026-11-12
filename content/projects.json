@@ -16031,6 +16031,435 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-e63086ab4ae7",
+    "school": "北京大学",
+    "department": "汇丰商学院",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "北京大学 · 汇丰商学院",
+    "tracks": [
+      "经管金融",
+      "计算机/AI",
+      "新闻传播外语"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 9,
+        "stages": [
+          "推免报名",
+          "复试/考核",
+          "推免"
+        ],
+        "degreeTypes": [
+          "硕士",
+          "博士",
+          "待确认",
+          "直博",
+          "学术型硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-06-01",
+        "lastApplicationEnd": "2026-06-10",
+        "notices": [
+          {
+            "id": "college-2222bb6e0515",
+            "title": "2026.11.12 北京大学汇丰商学院2027年面向香港、澳门、台湾地区招收硕士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181831.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-0a6d945ec509",
+            "title": "2026.03.18 北京大学汇丰商学院2026年博士研究生招生复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164271.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-c12fa6b2f463",
+            "title": "2026.03.18 北京大学汇丰商学院2026年硕士研究生招生考试复试通知（不含MBA、EMBA）",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164261.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-ed2cdf6bc4f3",
+            "title": "2026.05.29 北京大学汇丰商学院关于举办“2026年全国优秀大学生经济金融论坛”的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-06-01",
+            "applicationEnd": "2026-06-10",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/178531.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-ae06f31863db",
+            "title": "2026.08.31 北京大学汇丰商学院接收2027年免试研究生（直博生）的通知",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180531.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-b501c314fb08",
+            "title": "2026.09.15 北京大学汇丰商学院2027年博士研究生（直博生）招生复试通知",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "直博"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180801.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-432844263d05",
+            "title": "2026.10.22 北京大学汇丰商学院2027年硕士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "学术型硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181401.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-c022cfd8b0c2",
+            "title": "2026.10.26 北京大学汇丰商学院2027年博士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "博士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181461.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-f7c0857abdbf",
+            "title": "通知公告-北京大学汇丰商学院-MBA",
+            "stage": "推免",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "2019-04-30",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/zsxx/zsjz/tzgg/1.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 6,
+        "stages": [
+          "推免报名",
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认",
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "2024-11-15",
+        "lastApplicationEnd": "2026-01-09",
+        "notices": [
+          {
+            "id": "college-14e40d9e649e",
+            "title": "2025.09.12 北京大学汇丰商学院2026年接收推荐免试研究生复试通知",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158031.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-321d41a28f1b",
+            "title": "2025.10.20 北京大学汇丰商学院2026年博士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-10-20",
+            "applicationEnd": "2025-12-19",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158581.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-12099307fe5a",
+            "title": "2025.10.23 北京大学汇丰商学院2026年硕士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158661.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-7ea86eafb9f5",
+            "title": "2025.11.12 北京大学汇丰商学院2026年面向香港、澳门、台湾地区招收硕士研究生招生信息",
+            "stage": "推免报名",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-11-10",
+            "applicationEnd": "2026-01-09",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/159501.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-f30df7178565",
+            "title": "北京大学汇丰商学院2025年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2025-01-14",
+            "applicationEnd": "2025-03-14",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24811.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-fd4380309662",
+            "title": "上一篇 北京大学汇丰商学院2025年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "2024-11-15",
+            "applicationEnd": "2025-01-08",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24901.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "count": 2,
+        "stages": [
+          "推免"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2024-01-01",
+        "lastPublishedAt": "2024-01-01",
+        "firstApplicationStart": "2023-10",
+        "lastApplicationEnd": "2024-03-31",
+        "notices": [
+          {
+            "id": "college-048a61cd67b9",
+            "title": "北京大学汇丰商学院2024年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13981.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          },
+          {
+            "id": "college-0e277a924ed6",
+            "title": "北京大学汇丰商学院2024年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
+            "stage": "推免",
+            "year": 2024,
+            "publishedAt": "2024-01-01",
+            "applicationStart": "2023-10-16",
+            "applicationEnd": "2024-03-31",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13991.htm",
+            "sourceHost": "mba.phbs.pku.edu.cn",
+            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "count": 1,
+        "stages": [
+          "推免报名"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2023-01-01",
+        "lastPublishedAt": "2023-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-7b9b9b457783",
+            "title": "北京大学汇丰商学院关于举办2023年推免交流会的通知",
+            "stage": "推免报名",
+            "year": 2023,
+            "publishedAt": "2023-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "https://www.phbs.pku.edu.cn/info/2161/86581.htm",
+            "sourceHost": "www.phbs.pku.edu.cn",
+            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 18,
+    "llmStructuredCount": 5,
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "推免"
+    ],
+    "degreeTypes": [
+      "硕士",
+      "博士",
+      "待确认",
+      "直博",
+      "学术型硕士"
+    ],
+    "majors": [
+      "金融",
+      "数学",
+      "翻译",
+      "电子信息",
+      "新闻与传播",
+      "工商管理硕士（MBA）",
+      "统计学",
+      "人工智能",
+      "软件工程",
+      "信息安全",
+      "工商管理"
+    ],
+    "sourceHosts": [
+      "www.phbs.pku.edu.cn",
+      "mba.phbs.pku.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://www.phbs.pku.edu.cn/",
+      "https://mba.phbs.pku.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://www.phbs.pku.edu.cn/",
+      "https://mba.phbs.pku.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-6f2d0cd5a5d0",
     "school": "北京大学",
     "department": "区域与国别研究院",
@@ -17426,419 +17855,6 @@
     ],
     "departmentHomepages": [
       "https://ymsc.tsinghua.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-e63086ab4ae7",
-    "school": "北京大学",
-    "department": "汇丰商学院",
-    "region": "北京",
-    "levels": [
-      "985"
-    ],
-    "title": "北京大学 · 汇丰商学院",
-    "tracks": [
-      "经管金融",
-      "计算机/AI",
-      "新闻传播外语"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 8,
-        "stages": [
-          "复试/考核",
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "博士",
-          "硕士",
-          "待确认",
-          "直博",
-          "学术型硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "2026-06-01",
-        "lastApplicationEnd": "2026-06-10",
-        "notices": [
-          {
-            "id": "college-0a6d945ec509",
-            "title": "2026.03.18 北京大学汇丰商学院2026年博士研究生招生复试通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164271.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-c12fa6b2f463",
-            "title": "2026.03.18 北京大学汇丰商学院2026年硕士研究生招生考试复试通知（不含MBA、EMBA）",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/164261.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-ed2cdf6bc4f3",
-            "title": "2026.05.29 北京大学汇丰商学院关于举办“2026年全国优秀大学生经济金融论坛”的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "2026-06-01",
-            "applicationEnd": "2026-06-10",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/178531.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-ae06f31863db",
-            "title": "2026.08.31 北京大学汇丰商学院接收2027年免试研究生（直博生）的通知",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180531.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-b501c314fb08",
-            "title": "2026.09.15 北京大学汇丰商学院2027年博士研究生（直博生）招生复试通知",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "直博"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/180801.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-432844263d05",
-            "title": "2026.10.22 北京大学汇丰商学院2027年硕士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "学术型硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181401.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-c022cfd8b0c2",
-            "title": "2026.10.26 北京大学汇丰商学院2027年博士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "博士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181461.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-f7c0857abdbf",
-            "title": "通知公告-北京大学汇丰商学院-MBA",
-            "stage": "推免",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "2019-04-30",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/zsxx/zsjz/tzgg/1.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2025,
-        "count": 6,
-        "stages": [
-          "推免报名",
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认",
-          "直博",
-          "硕士"
-        ],
-        "firstPublishedAt": "2025-01-01",
-        "lastPublishedAt": "2025-01-01",
-        "firstApplicationStart": "2024-11-15",
-        "lastApplicationEnd": "2026-01-09",
-        "notices": [
-          {
-            "id": "college-14e40d9e649e",
-            "title": "2025.09.12 北京大学汇丰商学院2026年接收推荐免试研究生复试通知",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158031.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-321d41a28f1b",
-            "title": "2025.10.20 北京大学汇丰商学院2026年博士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-10-20",
-            "applicationEnd": "2025-12-19",
-            "degreeTypes": [
-              "直博",
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158581.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-12099307fe5a",
-            "title": "2025.10.23 北京大学汇丰商学院2026年硕士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/158661.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-7ea86eafb9f5",
-            "title": "2025.11.12 北京大学汇丰商学院2026年面向香港、澳门、台湾地区招收硕士研究生招生信息",
-            "stage": "推免报名",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-11-10",
-            "applicationEnd": "2026-01-09",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/159501.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-f30df7178565",
-            "title": "北京大学汇丰商学院2025年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2025-01-14",
-            "applicationEnd": "2025-03-14",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24811.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-fd4380309662",
-            "title": "上一篇 北京大学汇丰商学院2025年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2025,
-            "publishedAt": "2025-01-01",
-            "applicationStart": "2024-11-15",
-            "applicationEnd": "2025-01-08",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/24901.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2024,
-        "count": 2,
-        "stages": [
-          "推免"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2024-01-01",
-        "lastPublishedAt": "2024-01-01",
-        "firstApplicationStart": "2023-10",
-        "lastApplicationEnd": "2024-03-31",
-        "notices": [
-          {
-            "id": "college-048a61cd67b9",
-            "title": "北京大学汇丰商学院2024年面向香港、澳门、台湾地区招收工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13981.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          },
-          {
-            "id": "college-0e277a924ed6",
-            "title": "北京大学汇丰商学院2024年招收外国学生来华留学攻读工商管理硕士（MBA）研究生招生信息",
-            "stage": "推免",
-            "year": 2024,
-            "publishedAt": "2024-01-01",
-            "applicationStart": "2023-10-16",
-            "applicationEnd": "2024-03-31",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://mba.phbs.pku.edu.cn/info/1401/13991.htm",
-            "sourceHost": "mba.phbs.pku.edu.cn",
-            "sourceHomepage": "https://mba.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://mba.phbs.pku.edu.cn/"
-          }
-        ]
-      },
-      {
-        "year": 2023,
-        "count": 1,
-        "stages": [
-          "推免报名"
-        ],
-        "degreeTypes": [
-          "待确认"
-        ],
-        "firstPublishedAt": "2023-01-01",
-        "lastPublishedAt": "2023-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-7b9b9b457783",
-            "title": "北京大学汇丰商学院关于举办2023年推免交流会的通知",
-            "stage": "推免报名",
-            "year": 2023,
-            "publishedAt": "2023-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "待确认"
-            ],
-            "sourceUrl": "https://www.phbs.pku.edu.cn/info/2161/86581.htm",
-            "sourceHost": "www.phbs.pku.edu.cn",
-            "sourceHomepage": "https://www.phbs.pku.edu.cn/",
-            "departmentHomepage": "https://www.phbs.pku.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 17,
-    "llmStructuredCount": 5,
-    "years": [
-      2026,
-      2025,
-      2024,
-      2023
-    ],
-    "stages": [
-      "复试/考核",
-      "推免报名",
-      "推免"
-    ],
-    "degreeTypes": [
-      "博士",
-      "硕士",
-      "待确认",
-      "直博",
-      "学术型硕士"
-    ],
-    "majors": [
-      "金融",
-      "数学",
-      "翻译",
-      "电子信息",
-      "新闻与传播",
-      "工商管理硕士（MBA）",
-      "统计学",
-      "人工智能",
-      "软件工程",
-      "信息安全",
-      "工商管理"
-    ],
-    "sourceHosts": [
-      "www.phbs.pku.edu.cn",
-      "mba.phbs.pku.edu.cn"
-    ],
-    "sourceHomepages": [
-      "https://www.phbs.pku.edu.cn/",
-      "https://mba.phbs.pku.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "https://www.phbs.pku.edu.cn/",
-      "https://mba.phbs.pku.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
@@ -48664,6 +48680,172 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-0e0296b0bf98",
+    "school": "中国科学技术大学",
+    "department": "核科学技术学院",
+    "region": "安徽",
+    "levels": [
+      "985"
+    ],
+    "title": "中国科学技术大学 · 核科学技术学院",
+    "tracks": [
+      "理工基础"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 4,
+        "stages": [
+          "推免报名",
+          "复试/考核"
+        ],
+        "degreeTypes": [
+          "直博",
+          "硕士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-03-20",
+        "lastApplicationEnd": "2026-04-06",
+        "notices": [
+          {
+            "id": "college-477c500a31c8",
+            "title": "中国科学技术大学核科学技术学院2026年博士研究生招生公告",
+            "stage": "推免报名",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-03-20",
+            "applicationEnd": "2026-04-06",
+            "degreeTypes": [
+              "直博",
+              "硕士"
+            ],
+            "sourceUrl": "http://www.snst.ustc.edu.cn/2026/0320/c23668a723700/page.htm",
+            "sourceHost": "www.snst.ustc.edu.cn",
+            "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+            "departmentHomepage": "http://www.snst.ustc.edu.cn/"
+          },
+          {
+            "id": "college-96149d4711d7",
+            "title": "核科学技术学院2026年硕士研究生招生复试办法",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-03-24",
+            "applicationEnd": "2026-03-23",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://www.snst.ustc.edu.cn/2026/0319/c23668a723594/page.htm",
+            "sourceHost": "www.snst.ustc.edu.cn",
+            "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+            "departmentHomepage": "http://www.snst.ustc.edu.cn/"
+          },
+          {
+            "id": "college-27effcea3e82",
+            "title": "关于成立核科学技术学院硕士研究生招生复试工作领导小组的决定.docx",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://www.snst.ustc.edu.cn/_upload/article/files/f0/87/2623249341008cb36a855773c603/ce92c2ab-c497-4ed9-a2cc-f786cf09d267.docx",
+            "sourceHost": "www.snst.ustc.edu.cn",
+            "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+            "departmentHomepage": "http://www.snst.ustc.edu.cn/"
+          },
+          {
+            "id": "college-aa261dcd502c",
+            "title": "关于成立核科学技术学院硕士研究生招生复试工作领导小组的决定.docx",
+            "stage": "复试/考核",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "硕士"
+            ],
+            "sourceUrl": "http://www.snst.ustc.edu.cn/_upload/article/files/f4/2c/bfd920cf41f1947dc717867084b2/f6a0ad3c-4cf5-4d70-8998-61f7b63c6b31.docx",
+            "sourceHost": "www.snst.ustc.edu.cn",
+            "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+            "departmentHomepage": "http://www.snst.ustc.edu.cn/"
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "count": 1,
+        "stages": [
+          "夏令营/研学营"
+        ],
+        "degreeTypes": [
+          "待确认"
+        ],
+        "firstPublishedAt": "2025-01-01",
+        "lastPublishedAt": "2025-01-01",
+        "firstApplicationStart": "",
+        "lastApplicationEnd": "",
+        "notices": [
+          {
+            "id": "college-02b15581cf1c",
+            "title": "2025年第十一届核科学与技术夏令营通知",
+            "stage": "夏令营/研学营",
+            "year": 2025,
+            "publishedAt": "2025-01-01",
+            "applicationStart": "",
+            "applicationEnd": "",
+            "degreeTypes": [
+              "待确认"
+            ],
+            "sourceUrl": "http://www.snst.ustc.edu.cn/2025/0619/c23668a688194/page.htm",
+            "sourceHost": "www.snst.ustc.edu.cn",
+            "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+            "departmentHomepage": "http://www.snst.ustc.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 5,
+    "llmStructuredCount": 0,
+    "years": [
+      2026,
+      2025
+    ],
+    "stages": [
+      "推免报名",
+      "复试/考核",
+      "夏令营/研学营"
+    ],
+    "degreeTypes": [
+      "直博",
+      "硕士",
+      "待确认"
+    ],
+    "majors": [
+      "数学",
+      "翻译",
+      "物理学",
+      "化学"
+    ],
+    "sourceHosts": [
+      "www.snst.ustc.edu.cn"
+    ],
+    "sourceHomepages": [
+      "http://www.snst.ustc.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "http://www.snst.ustc.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-a18acf0cdf13",
     "school": "中国科学技术大学",
     "department": "稀土学院科教融合学院",
@@ -74856,95 +75038,6 @@
     ],
     "departmentHomepages": [
       "https://ses.ustc.edu.cn/"
-    ],
-    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
-  },
-  {
-    "id": "project-0e0296b0bf98",
-    "school": "中国科学技术大学",
-    "department": "核科学技术学院",
-    "region": "安徽",
-    "levels": [
-      "985"
-    ],
-    "title": "中国科学技术大学 · 核科学技术学院",
-    "tracks": [
-      "综合/待确认"
-    ],
-    "qualityFlags": [],
-    "timeline": [
-      {
-        "year": 2026,
-        "count": 2,
-        "stages": [
-          "复试/考核"
-        ],
-        "degreeTypes": [
-          "硕士"
-        ],
-        "firstPublishedAt": "2026-01-01",
-        "lastPublishedAt": "2026-01-01",
-        "firstApplicationStart": "",
-        "lastApplicationEnd": "",
-        "notices": [
-          {
-            "id": "college-27effcea3e82",
-            "title": "关于成立核科学技术学院硕士研究生招生复试工作领导小组的决定.docx",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://www.snst.ustc.edu.cn/_upload/article/files/f0/87/2623249341008cb36a855773c603/ce92c2ab-c497-4ed9-a2cc-f786cf09d267.docx",
-            "sourceHost": "www.snst.ustc.edu.cn",
-            "sourceHomepage": "http://www.snst.ustc.edu.cn/",
-            "departmentHomepage": "http://www.snst.ustc.edu.cn/"
-          },
-          {
-            "id": "college-aa261dcd502c",
-            "title": "关于成立核科学技术学院硕士研究生招生复试工作领导小组的决定.docx",
-            "stage": "复试/考核",
-            "year": 2026,
-            "publishedAt": "2026-01-01",
-            "applicationStart": "",
-            "applicationEnd": "",
-            "degreeTypes": [
-              "硕士"
-            ],
-            "sourceUrl": "http://www.snst.ustc.edu.cn/_upload/article/files/f4/2c/bfd920cf41f1947dc717867084b2/f6a0ad3c-4cf5-4d70-8998-61f7b63c6b31.docx",
-            "sourceHost": "www.snst.ustc.edu.cn",
-            "sourceHomepage": "http://www.snst.ustc.edu.cn/",
-            "departmentHomepage": "http://www.snst.ustc.edu.cn/"
-          }
-        ]
-      }
-    ],
-    "currentSeasonStatus": "监控中，暂未发现官方通知",
-    "currentSeasonCount": 0,
-    "latestPastYear": 2026,
-    "noticeCount": 2,
-    "llmStructuredCount": 0,
-    "years": [
-      2026
-    ],
-    "stages": [
-      "复试/考核"
-    ],
-    "degreeTypes": [
-      "硕士"
-    ],
-    "majors": [],
-    "sourceHosts": [
-      "www.snst.ustc.edu.cn"
-    ],
-    "sourceHomepages": [
-      "http://www.snst.ustc.edu.cn/"
-    ],
-    "departmentHomepages": [
-      "http://www.snst.ustc.edu.cn/"
     ],
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },

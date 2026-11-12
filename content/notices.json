@@ -1,174 +1,37 @@
 [
   {
-    "id": "college-d63649244664",
-    "title": "清华大学2027年全球创新学院接收推荐免试直硕生拟...",
-    "school": "清华大学",
-    "department": "全球创新学院",
+    "id": "college-2222bb6e0515",
+    "title": "2026.11.12 北京大学汇丰商学院2027年面向香港、澳门、台湾地区招收硕士研究生招生信息",
+    "school": "北京大学",
+    "department": "汇丰商学院",
     "majors": [
       "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "清华大学全球创新学院官方站点",
-    "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1443.htm",
-    "sourceHost": "gix.tsinghua.edu.cn",
-    "sourceHomepage": "http://gix.tsinghua.edu.cn/",
-    "departmentHomepage": "https://gix.tsinghua.edu.cn/",
-    "summary": "2026/11",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-dff1f4250423"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学2027年全球创新学院接收推荐免试直硕生拟...。2026/11。清华大学2027年全球创新学院接收推荐免试直硕生拟录取名单公示-清华大学全球创新学院 新闻 媒体聚焦 视频 活动公告 人物故事 联系我们 GIX Network 在线申请 English / 关于GIX GIX概况 GIX大记事 学院领导 学习环境 生活环境 联系我们 / 招生 项目介绍 培养目标 项目特色 申请要求 申请材料 联系我们 / 教学 全英文课程体系 学科融合教学体系 创新项目实践机制 / 师资 / 科研 科研项目 / 活动 GIX创新大赛 GIX全球创新体验营 本科生暑研项目 全球校园体育论坛及球赛 / 合作 合作方 捐赠方 关于GIX 招生 教学 师资 科研 活动 合作 新闻 媒体聚焦 视频 活动公告 人物故事 联系我们 GIX Network 在线申请 English news 首页 &raquo; 新闻 &raquo; 正文 清华大学2027年全球创新学院接收推荐免试直硕生拟录取名单公示 2026-11-06 全球创新学院 The Global Innovation Exchange (GIX",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-11-11",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-11-11"
-  },
-  {
-    "id": "college-8f8f09b7f6f3",
-    "title": "清华大学经济管理学院全日制硕士项目2027年香港、澳门、台湾地区研究生招生说明",
-    "school": "清华大学",
-    "department": "市场营销系",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2027,
-    "region": "北京",
-    "deadline": "",
-    "publishedAt": "2027-01-01",
-    "sourceName": "清华大学市场营销系官方站点",
-    "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1292/3677.htm",
-    "sourceHost": "masters.sem.tsinghua.edu.cn",
-    "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
-    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
-    "summary": "市场营销系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-cd1e5a886948"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "清华大学经济管理学院全日制硕士项目2027年香港、澳门、台湾地区研究生招生说明。市场营销系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "市场营销系学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-11-11",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-11-11"
-  },
-  {
-    "id": "college-3e65ec9c1765",
-    "title": "人才培养-清华大学社会学系",
-    "school": "清华大学",
-    "department": "社会学系",
-    "majors": [
-      "社会学"
     ],
     "type": "推免",
     "year": 2026,
     "region": "北京",
     "deadline": "",
     "publishedAt": "2026-01-01",
-    "sourceName": "清华大学社会学系官方站点",
-    "sourceUrl": "https://www.soc.tsinghua.edu.cn/rcpy.htm",
-    "sourceHost": "www.soc.tsinghua.edu.cn",
-    "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
-    "departmentHomepage": "https://www.soc.tsinghua.edu.cn/",
-    "summary": "社会学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "sourceName": "北京大学汇丰商学院官方站点",
+    "sourceUrl": "https://www.phbs.pku.edu.cn/info/1801/181831.htm",
+    "sourceHost": "www.phbs.pku.edu.cn",
+    "sourceHomepage": "https://www.phbs.pku.edu.cn/",
+    "departmentHomepage": "https://www.phbs.pku.edu.cn/",
+    "summary": "汇丰商学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
     "tags": [
       "985",
       "官方域名",
       "学院官网",
       "补漏",
-      "auto-8af503cd77b2"
+      "auto-92763d60deb0"
     ],
     "confidence": "auto",
-    "sourceExcerpt": "人才培养-清华大学社会学系。社会学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。人才培养-清华大学社会学系 清华主页 清华新闻网 ·English· 首页 系所介绍 历史沿革 动态新闻 通知公告 学术期刊 师资力量 人才培养 学术发表 联系我们 人才培养 您所在的位置： 首页 &#8250; 人才培养 动态新闻 更多… 11 10 图片新闻/ 论坛回顾｜新百年 新征程：清华大学社会学系建系百年系列... 11 04 图片新闻/ 论坛回顾｜新百年 新征程：清华社会学百年纪念系列研讨会... 09 03 图片新闻/ 躬行田野，访箱包之都：社会学本科生专业实习（白沟）圆... 04 28 图片新闻/ 精彩集锦｜清华大学建校115周年暨清华大学社会学系建系百... 04 27 图片新闻/ 校友捐赠再添佳话 百年育人薪火相传——香港杏范教育基金... 人才培养 2023-10-16 清华大学社科学院2024年社会工作硕士（MSW）(社区规划与社会智能治理项目)专业学位招生简章 2020-02-06 社会学系研究生培养 2020-02-06 社会学系留学生培养 202",
+    "sourceExcerpt": "2026.11.12 北京大学汇丰商学院2027年面向香港、澳门、台湾地区招收硕士研究生招生信息。汇丰商学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
     "applicationStart": "",
     "applicationEnd": "",
     "registrationTime": "",
     "requirements": [
-      "社会学系学院官网补漏发现的推免相关官方信息",
-      "请复核报名时间",
-      "项目类型和申请要求"
-    ],
-    "materials": [],
-    "applicationMethod": "",
-    "targetStudents": "",
-    "degreeTypes": [
-      "待确认"
-    ],
-    "structuredStatus": "heuristic_page",
-    "structuredAt": "2026-11-11",
-    "noticeStage": "推免报名",
-    "classifiedAt": "2026-11-11"
-  },
-  {
-    "id": "college-ddca1884c5b7",
-    "title": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知",
-    "school": "上海交通大学",
-    "department": "空天科学技术研究院",
-    "majors": [
-      "待确认"
-    ],
-    "type": "推免",
-    "year": 2022,
-    "region": "上海",
-    "deadline": "",
-    "publishedAt": "2022-01-01",
-    "sourceName": "上海交通大学空天科学技术研究院官方站点",
-    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3315#",
-    "sourceHost": "yzb.sjtu.edu.cn",
-    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
-    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
-    "summary": "空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
-    "tags": [
-      "985",
-      "官方域名",
-      "学院官网",
-      "补漏",
-      "auto-0cdf797feff4"
-    ],
-    "confidence": "auto",
-    "sourceExcerpt": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知。空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
-    "applicationStart": "",
-    "applicationEnd": "",
-    "registrationTime": "",
-    "requirements": [
-      "空天科学技术研究院学院官网补漏发现的推免相关官方信息",
+      "汇丰商学院学院官网补漏发现的推免相关官方信息",
       "请复核报名时间",
       "项目类型和申请要求"
     ],
@@ -179,9 +42,219 @@
       "硕士"
     ],
     "structuredStatus": "heuristic_title",
-    "structuredAt": "2026-11-11",
+    "structuredAt": "2026-11-12",
     "noticeStage": "推免报名",
-    "classifiedAt": "2026-11-11"
+    "classifiedAt": "2026-11-12"
+  },
+  {
+    "id": "college-477c500a31c8",
+    "title": "中国科学技术大学核科学技术学院2026年博士研究生招生公告",
+    "school": "中国科学技术大学",
+    "department": "核科学技术学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "安徽",
+    "deadline": "2026-04-06",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国科学技术大学核科学技术学院官方站点",
+    "sourceUrl": "http://www.snst.ustc.edu.cn/2026/0320/c23668a723700/page.htm",
+    "sourceHost": "www.snst.ustc.edu.cn",
+    "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+    "departmentHomepage": "http://www.snst.ustc.edu.cn/",
+    "summary": "核科学技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-ad5dca14be09"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "中国科学技术大学核科学技术学院2026年博士研究生招生公告。核科学技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。中国科学技术大学核科学技术学院2026年博士研究生招生公告 搜索 切换主导航 首页 视频展示 新闻动态 党建学工 科研动态 公告通知 学术活动 学院概况 潜心立德树人，执着攻关创新 学院概况 现任领导 组织机构 行政办公 师资队伍 名师荟萃，深耕学术沃土 两院院士 正高级 副高级 人才招聘 教育培养 聚天下英才，育国之栋梁 本科生教育 研究生教育 就业信息 学生活动 科学研究 聚焦核能前沿，勇攀科学高峰 科研平台 重大工程 重大任务 科研动态 科研设施 产科教融合 教研相长，激发创新活力 科教融合 产教融合 成果转化 党建文化 传承红色基因，铸就奋斗底色 组织架构 理论学习 党建动态 搜索 关闭主导航 × 首页 视频展示 新闻动态 党建学工 科研动态 公告通知 学术活动 学院概况 学院概况 现任领导 组织机构 行政办公 师资队伍 两院院士 正高级 副高级 人才招聘 教育培养 本科生教育 研究生教育 就业信息 学生活动 科学研究 科研平台 重",
+    "applicationStart": "2026-03-20",
+    "applicationEnd": "2026-04-06",
+    "registrationTime": "2. 报名 （ 1 ）报名及缴费时间： 2026 年 3 月 20 日至 2026 年 4 月 6 日",
+    "requirements": [
+      "核科学技术学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "未列入本公告的",
+      "按照《中国科大 2026 年博士学位研究生招生网上报名通告》的相关要求执行",
+      "1.2 硕博连读 选拔范围为我校 2024 级及部分 2023 级在读硕士研究生 （不可获得硕士研究生毕业证书及学位证书",
+      "否则将取消录取资格）",
+      "申请者应达到培养方案规定的申请硕士学位所需的课程学习要求",
+      "课程考核成绩合格",
+      "基础课加权平均成绩不低于 75 分",
+      "学业水平优秀",
+      "具有科研潜力者优先"
+    ],
+    "materials": [
+      "1.3 海外直博 入学前取得海外一流大学本科毕业证明（需提供教育部留学服务中心出具的认证书）",
+      "系统采用身份证号码注册",
+      "请务必如实填写",
+      "并牢记密码",
+      "三",
+      "申请材料 1. 材料准备 材料说明详见报考服务系统",
+      "所需模板请在系统中下载",
+      "包括但不限于： 普通招考： （ 1 ）有效身份证件正反面扫描件",
+      "（ 2 ）《报考博士研究生诚信考试承诺书》（考生签字后上传至报名系统）",
+      "（ 4 ）专家推荐信 2 封"
+    ],
+    "applicationMethod": "未列入本公告的，按照《中国科大 2026 年博士学位研究生招生网上报名通告》的相关要求执行",
+    "targetStudents": "非应届毕业生也可由考生档案所在人事部门提供，并加盖公章",
+    "degreeTypes": [
+      "直博",
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-12",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-12"
+  },
+  {
+    "id": "college-96149d4711d7",
+    "title": "核科学技术学院2026年硕士研究生招生复试办法",
+    "school": "中国科学技术大学",
+    "department": "核科学技术学院",
+    "majors": [
+      "数学",
+      "翻译"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "安徽",
+    "deadline": "2026-03-23",
+    "publishedAt": "2026-01-01",
+    "sourceName": "中国科学技术大学核科学技术学院官方站点",
+    "sourceUrl": "http://www.snst.ustc.edu.cn/2026/0319/c23668a723594/page.htm",
+    "sourceHost": "www.snst.ustc.edu.cn",
+    "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+    "departmentHomepage": "http://www.snst.ustc.edu.cn/",
+    "summary": "核科学技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-ad5dca14be09"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "核科学技术学院2026年硕士研究生招生复试办法。核科学技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。核科学技术学院2026年硕士研究生招生复试办法 搜索 切换主导航 首页 视频展示 新闻动态 党建学工 科研动态 公告通知 学术活动 学院概况 潜心立德树人，执着攻关创新 学院概况 现任领导 组织机构 行政办公 师资队伍 名师荟萃，深耕学术沃土 两院院士 正高级 副高级 人才招聘 教育培养 聚天下英才，育国之栋梁 本科生教育 研究生教育 就业信息 学生活动 科学研究 聚焦核能前沿，勇攀科学高峰 科研平台 重大工程 重大任务 科研动态 科研设施 产科教融合 教研相长，激发创新活力 科教融合 产教融合 成果转化 党建文化 传承红色基因，铸就奋斗底色 组织架构 理论学习 党建动态 搜索 关闭主导航 × 首页 视频展示 新闻动态 党建学工 科研动态 公告通知 学术活动 学院概况 学院概况 现任领导 组织机构 行政办公 师资队伍 两院院士 正高级 副高级 人才招聘 教育培养 本科生教育 研究生教育 就业信息 学生活动 科学研究 科研平台 重大工程 重大任务 科研动",
+    "applicationStart": "2026-03-24",
+    "applicationEnd": "2026-03-23",
+    "registrationTime": "复试时间、地点： 2026 年 3 月 24 日 星期二 上午 8 ： 30 西区 科技实验楼 东附楼 核学院 16 楼 1603 房间（科大西区黄山路大门入口处第一排楼房） 复试材料： 请各位考生携带以下材料，于 2026 年 3 月 23 日 星期一 14 ： 30 ～ 16 ： 30 至我校 西区 科技实验楼 东附楼 核学院 16 楼 1616 室报到（科大西区黄山路大门入口处第一排楼房） （ 1 ）应届生：学生证、成绩单原件（加盖所在学校教务部门公章）",
+    "requirements": [
+      "核科学技术学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "面试包括——专业英语现场翻译",
+      "专业素质和综合素质问答考核",
+      "复试成绩——满分 100 分",
+      "复试成绩 = （英语成绩 + 专业素质 + 综合素质） ÷1.5",
+      "其中：英语 50 分",
+      "专业素质 50 分",
+      "综合素质测评 50 分",
+      "最终成绩计算办法： 满分 100 分",
+      "初试成绩不计政治",
+      "外语",
+      "复试成绩占比 50%",
+      "即最终成绩 = （初试成绩【不计政治",
+      "外语】 ÷3+ 复试成绩） ÷2"
+    ],
+    "materials": [
+      "复试内容： 专业素质问答覆盖范围——普通物理",
+      "电动力学",
+      "高等数学",
+      "线性代数",
+      "概率论",
+      "热工传热流体力学",
+      "反应堆物理",
+      "辐射防护",
+      "材料科学基础",
+      "电子学基础",
+      "机械设计",
+      "热工基础等",
+      "复试时间、地点： 2026 年 3 月 24 日 星期二 上午 8 ： 30 西区 科技实验楼 东附楼 核学院 16 楼 1603 房间（科大西区黄山路大门入口处第一排楼房） 复试材料： 请各位考生携带以下材料，于 2026 年 3 月 23 日 星期一 14 ： 30 ～ 16 ： 30 至我校 西区 科技实验楼 东附楼 核学院 16 楼 1616 室报到（科大西区黄山路大门入口处第一排楼房） （ 1 ）应届生：学生证、成绩单原件（加盖所在学校教务部门公章）",
+      "（ 2 ）往届生：毕业证和学位证原件，成绩单（加盖档案所在单位人事部门公章） 身份查验：（身份无误后方可参加复试） （ 1 ）考生须在复试前按院系要求签订、提交《诚信复试承诺书》，确保提交材料真实和复试过程诚信，承诺书可从 https://yz.ustc.edu.cn/ “ 文档下载”中获取",
+      "（ 3 ）考生须携带本人《准考证》和有效居民身份证现场候考"
+    ],
+    "applicationMethod": "（ 2 ）往届生：毕业证和学位证原件，成绩单（加盖档案所在单位人事部门公章） 身份查验：（身份无误后方可参加复试） （ 1 ）考生须在复试前按院系要求签订、提交《诚信复试承诺书》，确保提交材料真实和复试过程诚信，承诺书可从 https://yz.ustc.edu.cn/ “ 文档下载”中获取",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-12",
+    "noticeStage": "复试/考核",
+    "classifiedAt": "2026-11-12"
+  },
+  {
+    "id": "college-02b15581cf1c",
+    "title": "2025年第十一届核科学与技术夏令营通知",
+    "school": "中国科学技术大学",
+    "department": "核科学技术学院",
+    "majors": [
+      "物理学",
+      "化学"
+    ],
+    "type": "夏令营",
+    "year": 2025,
+    "region": "安徽",
+    "deadline": "",
+    "publishedAt": "2025-01-01",
+    "sourceName": "中国科学技术大学核科学技术学院官方站点",
+    "sourceUrl": "http://www.snst.ustc.edu.cn/2025/0619/c23668a688194/page.htm",
+    "sourceHost": "www.snst.ustc.edu.cn",
+    "sourceHomepage": "http://www.snst.ustc.edu.cn/",
+    "departmentHomepage": "http://www.snst.ustc.edu.cn/",
+    "summary": "核科学技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-ad5dca14be09"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "2025年第十一届核科学与技术夏令营通知。核科学技术学院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。2025年第十一届核科学与技术夏令营通知 搜索 切换主导航 首页 视频展示 新闻动态 党建学工 科研动态 公告通知 学术活动 学院概况 潜心立德树人，执着攻关创新 学院概况 现任领导 组织机构 行政办公 师资队伍 名师荟萃，深耕学术沃土 两院院士 正高级 副高级 人才招聘 教育培养 聚天下英才，育国之栋梁 本科生教育 研究生教育 就业信息 学生活动 科学研究 聚焦核能前沿，勇攀科学高峰 科研平台 重大工程 重大任务 科研动态 科研设施 产科教融合 教研相长，激发创新活力 科教融合 产教融合 成果转化 党建文化 传承红色基因，铸就奋斗底色 组织架构 理论学习 党建动态 搜索 关闭主导航 × 首页 视频展示 新闻动态 党建学工 科研动态 公告通知 学术活动 学院概况 学院概况 现任领导 组织机构 行政办公 师资队伍 两院院士 正高级 副高级 人才招聘 教育培养 本科生教育 研究生教育 就业信息 学生活动 科学研究 科研平台 重大工程 重大任务 科研动态 科研设施",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "核科学技术学院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求",
+      "2.学习成绩优秀",
+      "能在母校获得推荐免试名额",
+      "3. 英语水平良好",
+      "2.前两年半成绩单 原件 （有学校教务部门公章）",
+      "3.能体现自身能力的获奖证书复印件",
+      "英语水平证明",
+      "学术论文等"
+    ],
+    "materials": [
+      "）选择 “第十 一 届核科学与技术暑期夏令营 ”并上传相关材料",
+      "三",
+      "提交材料 1.网上报名后生成的表格",
+      "打印后本人亲笔签字（扫描上传）",
+      "2.前两年半成绩单 原件 （有学校教务部门公章）",
+      "3.能体现自身能力的获奖证书复印件",
+      "英语水平证明",
+      "学术论文等",
+      "以上所有申请材料请扫描为图片打包为PDF后上传至网络报名系统"
+    ],
+    "applicationMethod": "二、网上报名 中国科学技术大学夏令营在线报名系统已开通",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-12",
+    "noticeStage": "夏令营/研学营",
+    "classifiedAt": "2026-11-12"
   },
   {
     "id": "college-ae923fe6dc63",
@@ -19520,6 +19593,96 @@
     "sourceExcerpt": "湖南大学2027 年接收推荐免试研究生(含直博生)预报名 通知 -湖南大学...。搜索引擎发现的湖南大学2027年预推免相关官方信息，已按官方域名过滤。请在后台复核学院、专业、截止日期和正文摘要。。",
     "noticeStage": "预推免",
     "classifiedAt": "2026-09-23"
+  },
+  {
+    "id": "college-d63649244664",
+    "title": "清华大学2027年全球创新学院接收推荐免试直硕生拟...",
+    "school": "清华大学",
+    "department": "全球创新学院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学全球创新学院官方站点",
+    "sourceUrl": "http://gix.tsinghua.edu.cn/info/1043/1443.htm",
+    "sourceHost": "gix.tsinghua.edu.cn",
+    "sourceHomepage": "http://gix.tsinghua.edu.cn/",
+    "departmentHomepage": "https://gix.tsinghua.edu.cn/",
+    "summary": "2026/11",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-dff1f4250423"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学2027年全球创新学院接收推荐免试直硕生拟...。2026/11。清华大学2027年全球创新学院接收推荐免试直硕生拟录取名单公示-清华大学全球创新学院 新闻 媒体聚焦 视频 活动公告 人物故事 联系我们 GIX Network 在线申请 English / 关于GIX GIX概况 GIX大记事 学院领导 学习环境 生活环境 联系我们 / 招生 项目介绍 培养目标 项目特色 申请要求 申请材料 联系我们 / 教学 全英文课程体系 学科融合教学体系 创新项目实践机制 / 师资 / 科研 科研项目 / 活动 GIX创新大赛 GIX全球创新体验营 本科生暑研项目 全球校园体育论坛及球赛 / 合作 合作方 捐赠方 关于GIX 招生 教学 师资 科研 活动 合作 新闻 媒体聚焦 视频 活动公告 人物故事 联系我们 GIX Network 在线申请 English news 首页 &raquo; 新闻 &raquo; 正文 清华大学2027年全球创新学院接收推荐免试直硕生拟录取名单公示 2026-11-06 全球创新学院 The Global Innovation Exchange (GIX",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-11"
+  },
+  {
+    "id": "college-8f8f09b7f6f3",
+    "title": "清华大学经济管理学院全日制硕士项目2027年香港、澳门、台湾地区研究生招生说明",
+    "school": "清华大学",
+    "department": "市场营销系",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2027,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2027-01-01",
+    "sourceName": "清华大学市场营销系官方站点",
+    "sourceUrl": "https://masters.sem.tsinghua.edu.cn/info/1292/3677.htm",
+    "sourceHost": "masters.sem.tsinghua.edu.cn",
+    "sourceHomepage": "https://masters.sem.tsinghua.edu.cn/",
+    "departmentHomepage": "http://pg.sem.tsinghua.edu.cn/",
+    "summary": "市场营销系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-cd1e5a886948"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "清华大学经济管理学院全日制硕士项目2027年香港、澳门、台湾地区研究生招生说明。市场营销系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "市场营销系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-11-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-11"
   },
   {
     "id": "college-612f0c36786f",
@@ -44671,6 +44834,53 @@
     "sourceHost": "pharmacy.nankai.edu.cn",
     "sourceHomepage": "https://pharmacy.nankai.edu.cn/",
     "departmentHomepage": "https://pharmacy.nankai.edu.cn/"
+  },
+  {
+    "id": "college-3e65ec9c1765",
+    "title": "人才培养-清华大学社会学系",
+    "school": "清华大学",
+    "department": "社会学系",
+    "majors": [
+      "社会学"
+    ],
+    "type": "推免",
+    "year": 2026,
+    "region": "北京",
+    "deadline": "",
+    "publishedAt": "2026-01-01",
+    "sourceName": "清华大学社会学系官方站点",
+    "sourceUrl": "https://www.soc.tsinghua.edu.cn/rcpy.htm",
+    "sourceHost": "www.soc.tsinghua.edu.cn",
+    "sourceHomepage": "https://www.soc.tsinghua.edu.cn/",
+    "departmentHomepage": "https://www.soc.tsinghua.edu.cn/",
+    "summary": "社会学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-8af503cd77b2"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "人才培养-清华大学社会学系。社会学系学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。人才培养-清华大学社会学系 清华主页 清华新闻网 ·English· 首页 系所介绍 历史沿革 动态新闻 通知公告 学术期刊 师资力量 人才培养 学术发表 联系我们 人才培养 您所在的位置： 首页 &#8250; 人才培养 动态新闻 更多… 11 10 图片新闻/ 论坛回顾｜新百年 新征程：清华大学社会学系建系百年系列... 11 04 图片新闻/ 论坛回顾｜新百年 新征程：清华社会学百年纪念系列研讨会... 09 03 图片新闻/ 躬行田野，访箱包之都：社会学本科生专业实习（白沟）圆... 04 28 图片新闻/ 精彩集锦｜清华大学建校115周年暨清华大学社会学系建系百... 04 27 图片新闻/ 校友捐赠再添佳话 百年育人薪火相传——香港杏范教育基金... 人才培养 2023-10-16 清华大学社科学院2024年社会工作硕士（MSW）(社区规划与社会智能治理项目)专业学位招生简章 2020-02-06 社会学系研究生培养 2020-02-06 社会学系留学生培养 202",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "社会学系学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "待确认"
+    ],
+    "structuredStatus": "heuristic_page",
+    "structuredAt": "2026-11-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-11"
   },
   {
     "id": "college-3a47f26b98b7",
@@ -138350,6 +138560,53 @@
     "sourceHost": "www.art.sdu.edu.cn",
     "sourceHomepage": "https://www.art.sdu.edu.cn/",
     "departmentHomepage": "https://www.art.sdu.edu.cn/"
+  },
+  {
+    "id": "college-ddca1884c5b7",
+    "title": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知",
+    "school": "上海交通大学",
+    "department": "空天科学技术研究院",
+    "majors": [
+      "待确认"
+    ],
+    "type": "推免",
+    "year": 2022,
+    "region": "上海",
+    "deadline": "",
+    "publishedAt": "2022-01-01",
+    "sourceName": "上海交通大学空天科学技术研究院官方站点",
+    "sourceUrl": "https://yzb.sjtu.edu.cn/post/3315#",
+    "sourceHost": "yzb.sjtu.edu.cn",
+    "sourceHomepage": "https://yzb.sjtu.edu.cn/",
+    "departmentHomepage": "https://yzb.sjtu.edu.cn/",
+    "summary": "空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。",
+    "tags": [
+      "985",
+      "官方域名",
+      "学院官网",
+      "补漏",
+      "auto-0cdf797feff4"
+    ],
+    "confidence": "auto",
+    "sourceExcerpt": "30 2022.11 关于上海市2023年全国硕士研究生招生考试部分考生考试地点调整等相关事项的通知。空天科学技术研究院学院官网补漏发现的推免相关官方信息，请复核报名时间、项目类型和申请要求。。",
+    "applicationStart": "",
+    "applicationEnd": "",
+    "registrationTime": "",
+    "requirements": [
+      "空天科学技术研究院学院官网补漏发现的推免相关官方信息",
+      "请复核报名时间",
+      "项目类型和申请要求"
+    ],
+    "materials": [],
+    "applicationMethod": "",
+    "targetStudents": "",
+    "degreeTypes": [
+      "硕士"
+    ],
+    "structuredStatus": "heuristic_title",
+    "structuredAt": "2026-11-11",
+    "noticeStage": "推免报名",
+    "classifiedAt": "2026-11-11"
   },
   {
     "id": "college-439204e8b6ff",
