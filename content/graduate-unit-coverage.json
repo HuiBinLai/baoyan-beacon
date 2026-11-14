@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:37:27.986Z",
+  "generatedAt": "2026-11-14T07:27:15.883Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -994,9 +994,9 @@
       "department": "信息工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ece.pku.edu.cn/",
-      "total": 20,
+      "total": 21,
       "recentFiveYears": 15,
-      "currentSeason": 4,
+      "currentSeason": 5,
       "years": [
         2027,
         2026,
@@ -15311,9 +15311,9 @@
       "department": "科技商学院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://fbs.ustc.edu.cn/",
-      "total": 3,
+      "total": 4,
       "recentFiveYears": 2,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026
@@ -15564,9 +15564,9 @@
       "department": "国际金融研究院",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://iif.ustc.edu.cn/",
-      "total": 13,
+      "total": 14,
       "recentFiveYears": 7,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -15898,9 +15898,9 @@
       "department": "管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "http://mf.ustc.edu.cn/2024/0529/c14030a642293/page.htm",
-      "total": 42,
+      "total": 43,
       "recentFiveYears": 33,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T07:37:26.482Z",
+  "generatedAt": "2026-11-14T07:27:14.971Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2564,
+    "notices": 2566,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 537,
+      "total": 538,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -93,7 +93,7 @@
     {
       "school": "中国科学技术大学",
       "region": "安徽",
-      "total": 249,
+      "total": 250,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 50,
@@ -1129,7 +1129,7 @@
       "id": "auto-e676521d61b7",
       "school": "北京大学",
       "department": "信息工程学院",
-      "total": 20,
+      "total": 21,
       "years": [
         2027,
         2026,
@@ -3367,7 +3367,7 @@
       "id": "auto-17b841659512",
       "school": "中国科学技术大学",
       "department": "国际金融研究院",
-      "total": 13,
+      "total": 14,
       "years": [
         2027,
         2026,
