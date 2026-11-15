@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T07:27:15.883Z",
+  "generatedAt": "2026-11-15T06:56:33.837Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -8971,9 +8971,9 @@
       "department": "电子信息与电气工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://www.seiee.sjtu.edu.cn/",
-      "total": 12,
-      "recentFiveYears": 11,
-      "currentSeason": 1,
+      "total": 14,
+      "recentFiveYears": 12,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -8989,9 +8989,9 @@
       "department": "电气工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://see.sjtu.edu.cn/",
-      "total": 21,
-      "recentFiveYears": 20,
-      "currentSeason": 1,
+      "total": 23,
+      "recentFiveYears": 21,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -9053,8 +9053,8 @@
       "department": "集成电路学院信息与电子工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://icisee.sjtu.edu.cn/",
-      "total": 6,
-      "recentFiveYears": 6,
+      "total": 8,
+      "recentFiveYears": 8,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9204,8 +9204,8 @@
       "department": "凯原法学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://law.sjtu.edu.cn/",
-      "total": 23,
-      "recentFiveYears": 22,
+      "total": 24,
+      "recentFiveYears": 23,
       "currentSeason": 1,
       "years": [
         2027,
@@ -9316,13 +9316,14 @@
       "department": "巴黎卓越工程师学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://speit.sjtu.edu.cn/",
-      "total": 4,
-      "recentFiveYears": 4,
+      "total": 5,
+      "recentFiveYears": 5,
       "currentSeason": 0,
       "years": [
         2026,
         2025,
-        2024
+        2024,
+        2022
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -9333,9 +9334,9 @@
       "department": "文化创意产业学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://icci.sjtu.edu.cn/",
-      "total": 12,
-      "recentFiveYears": 10,
-      "currentSeason": 1,
+      "total": 15,
+      "recentFiveYears": 12,
+      "currentSeason": 2,
       "years": [
         2041,
         2027,
@@ -9452,8 +9453,8 @@
       "department": "心理学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://psychology.sjtu.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 8,
+      "total": 12,
+      "recentFiveYears": 11,
       "currentSeason": 1,
       "years": [
         2027,
@@ -9469,8 +9470,8 @@
       "department": "系统生物医学研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://scsb.sjtu.edu.cn/",
-      "total": 10,
-      "recentFiveYears": 9,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 1,
       "years": [
         2027,
@@ -9580,8 +9581,8 @@
       "department": "空天科学技术研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 1,
-      "recentFiveYears": 1,
+      "total": 2,
+      "recentFiveYears": 2,
       "currentSeason": 0,
       "years": [
         2022
@@ -9862,8 +9863,8 @@
       "department": "集成电路学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://icisee.sjtu.edu.cn/",
-      "total": 7,
-      "recentFiveYears": 7,
+      "total": 9,
+      "recentFiveYears": 9,
       "currentSeason": 0,
       "years": [
         2026,
@@ -9969,8 +9970,8 @@
       "department": "统生物医学研究院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "https://www.sjtu.edu.cn/yxsz/",
-      "total": 10,
-      "recentFiveYears": 9,
+      "total": 14,
+      "recentFiveYears": 13,
       "currentSeason": 1,
       "years": [
         2027,
@@ -16600,9 +16601,9 @@
       "department": "公共管理学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 33,
+      "total": 34,
       "recentFiveYears": 23,
-      "currentSeason": 7,
+      "currentSeason": 8,
       "years": [
         2027,
         2026,

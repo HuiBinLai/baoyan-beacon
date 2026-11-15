@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T07:27:14.971Z",
+  "generatedAt": "2026-11-15T06:56:32.993Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2566,
+    "notices": 2584,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -16,7 +16,7 @@
     {
       "school": "中国人民大学",
       "region": "北京",
-      "total": 161,
+      "total": 162,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 35,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 368,
+      "total": 385,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 55,
@@ -2193,11 +2193,12 @@
       "id": "auto-e0a3c3912518",
       "school": "上海交通大学",
       "department": "巴黎卓越工程师学院",
-      "total": 4,
+      "total": 5,
       "years": [
         2026,
         2025,
-        2024
+        2024,
+        2022
       ],
       "latestDate": "2026-01-01",
       "status": "covered"
@@ -2233,7 +2234,7 @@
       "id": "auto-a33482cdb1bf",
       "school": "上海交通大学",
       "department": "电气工程学院",
-      "total": 17,
+      "total": 19,
       "years": [
         2027,
         2026,
@@ -2303,7 +2304,7 @@
       "id": "auto-a6176ddbcf96",
       "school": "上海交通大学",
       "department": "海洋研究院",
-      "total": 40,
+      "total": 41,
       "years": [
         2026,
         2025,
@@ -2355,7 +2356,7 @@
       "id": "auto-350442648cf5",
       "school": "上海交通大学",
       "department": "集成电路学院信息与电子工程学院",
-      "total": 6,
+      "total": 8,
       "years": [
         2026,
         2025
@@ -2401,7 +2402,7 @@
       "id": "auto-58ddd8f8b4bf",
       "school": "上海交通大学",
       "department": "凯原法学院",
-      "total": 23,
+      "total": 24,
       "years": [
         2027,
         2026,
@@ -2415,7 +2416,7 @@
       "id": "auto-0cdf797feff4",
       "school": "上海交通大学",
       "department": "空天科学技术研究院",
-      "total": 2,
+      "total": 3,
       "years": [
         2026,
         2022
@@ -2649,7 +2650,7 @@
       "id": "auto-4c3c7749c1d7",
       "school": "上海交通大学",
       "department": "文化创意产业学院",
-      "total": 12,
+      "total": 15,
       "years": [
         2041,
         2027,
@@ -2664,7 +2665,7 @@
       "id": "auto-e104caede43a",
       "school": "上海交通大学",
       "department": "系统生物医学研究院",
-      "total": 10,
+      "total": 14,
       "years": [
         2027,
         2026,
@@ -2678,7 +2679,7 @@
       "id": "auto-1fb018107a19",
       "school": "上海交通大学",
       "department": "心理学院",
-      "total": 9,
+      "total": 12,
       "years": [
         2027,
         2026,
@@ -4176,7 +4177,7 @@
       "id": "auto-cd3a02b4b857",
       "school": "中国人民大学",
       "department": "公共管理学院",
-      "total": 33,
+      "total": 34,
       "years": [
         2027,
         2026,
