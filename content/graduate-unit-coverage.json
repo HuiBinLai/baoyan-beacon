@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:01:58.664Z",
+  "generatedAt": "2026-11-17T09:14:24.753Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -513,8 +513,8 @@
       "department": "先进制造与机器人学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://amr.pku.edu.cn/",
-      "total": 27,
-      "recentFiveYears": 14,
+      "total": 28,
+      "recentFiveYears": 15,
       "currentSeason": 13,
       "years": [
         2027,
@@ -7261,8 +7261,8 @@
       "department": "理学院",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 41,
-      "recentFiveYears": 37,
+      "total": 42,
+      "recentFiveYears": 38,
       "currentSeason": 4,
       "years": [
         2027,
@@ -7661,8 +7661,8 @@
       "department": "管理科学与工程系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.sem.tsinghua.edu.cn/mse/",
-      "total": 20,
-      "recentFiveYears": 20,
+      "total": 21,
+      "recentFiveYears": 21,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8286,8 +8286,8 @@
       "department": "经济管理学院",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://masters.sem.tsinghua.edu.cn/zlxzzq/xly_tmzl.htm",
-      "total": 34,
-      "recentFiveYears": 30,
+      "total": 35,
+      "recentFiveYears": 31,
       "currentSeason": 4,
       "years": [
         2027,

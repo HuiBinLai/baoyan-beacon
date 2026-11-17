@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T07:01:57.197Z",
+  "generatedAt": "2026-11-17T09:14:23.550Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2584,
+    "notices": 2586,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 538,
+      "total": 539,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -38,7 +38,7 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 266,
+      "total": 267,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 52,
@@ -1069,7 +1069,7 @@
       "id": "auto-a4607f78b5d8",
       "school": "北京大学",
       "department": "先进制造与机器人学院",
-      "total": 6,
+      "total": 7,
       "years": [
         2026
       ],
@@ -1466,7 +1466,7 @@
       "id": "auto-de047849affc",
       "school": "清华大学",
       "department": "管理科学与工程系",
-      "total": 20,
+      "total": 21,
       "years": [
         2026,
         2025
