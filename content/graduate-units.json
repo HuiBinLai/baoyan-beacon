@@ -7984,6 +7984,19 @@
     "priority": 47
   },
   {
+    "id": "0358fcc151",
+    "school": "北京航空航天大学",
+    "department": "中西智能学院",
+    "aliases": [
+      "中西智能学院"
+    ],
+    "sourceName": "北京航空航天大学官方院系页面自动发现",
+    "sourceUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "sourceStatus": "auto_discovered",
+    "schoolPriority": 11,
+    "priority": 47
+  },
+  {
     "id": "3aa9f2a401",
     "school": "北京航空航天大学",
     "department": "国际前沿交叉科学研究院",

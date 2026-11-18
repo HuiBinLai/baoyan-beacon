@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T09:14:24.753Z",
+  "generatedAt": "2026-11-18T08:35:06.678Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -9,10 +9,10 @@
     2022
   ],
   "totals": {
-    "units": 1151,
+    "units": 1152,
     "covered": 781,
     "stale": 12,
-    "missing": 358,
+    "missing": 359,
     "currentSeasonCovered": 147
   },
   "units": [
@@ -1978,6 +1978,19 @@
       "department": "继续教育学院",
       "sourceName": "北京航空航天大学官方院系页面自动发现",
       "sourceUrl": "http://cce.buaa.edu.cn/",
+      "total": 0,
+      "recentFiveYears": 0,
+      "currentSeason": 0,
+      "years": [],
+      "latestDate": "",
+      "status": "missing"
+    },
+    {
+      "id": "0358fcc151",
+      "school": "北京航空航天大学",
+      "department": "中西智能学院",
+      "sourceName": "北京航空航天大学官方院系页面自动发现",
+      "sourceUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
       "total": 0,
       "recentFiveYears": 0,
       "currentSeason": 0,
@@ -9069,8 +9082,8 @@
       "department": "环境科学与工程学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://sese.sjtu.edu.cn/",
-      "total": 9,
-      "recentFiveYears": 6,
+      "total": 11,
+      "recentFiveYears": 8,
       "currentSeason": 3,
       "years": [
         2027,
@@ -16093,9 +16106,9 @@
       "department": "哲学院",
       "sourceName": "人大研招网学院联系电话",
       "sourceUrl": "https://pgs.ruc.edu.cn/lxwm/xylxdh.htm",
-      "total": 13,
+      "total": 14,
       "recentFiveYears": 11,
-      "currentSeason": 2,
+      "currentSeason": 3,
       "years": [
         2027,
         2026,
@@ -17677,6 +17690,7 @@
     "北京航空航天大学中法航空学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学中法未来科技学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学继续教育学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
+    "北京航空航天大学中西智能学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学国际前沿交叉科学研究院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学期刊中心 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "北京航空航天大学统邮件系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
