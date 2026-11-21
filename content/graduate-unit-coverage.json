@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:07:53.338Z",
+  "generatedAt": "2026-11-21T08:02:15.403Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -7520,8 +7520,8 @@
       "department": "数学科学中心",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://ymsc.tsinghua.edu.cn/",
-      "total": 18,
-      "recentFiveYears": 18,
+      "total": 19,
+      "recentFiveYears": 19,
       "currentSeason": 0,
       "years": [
         2026,
@@ -8367,8 +8367,8 @@
       "department": "数学科学系",
       "sourceName": "当前通知库自动归并",
       "sourceUrl": "https://math.tsinghua.edu.cn/info/1118/2492.htm",
-      "total": 27,
-      "recentFiveYears": 27,
+      "total": 28,
+      "recentFiveYears": 28,
       "currentSeason": 0,
       "years": [
         2026,
