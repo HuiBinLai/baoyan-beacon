@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:04:22.605Z",
+  "generatedAt": "2026-11-23T07:44:43.569Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,9 +10,9 @@
   ],
   "totals": {
     "units": 1152,
-    "covered": 781,
-    "stale": 12,
-    "missing": 359,
+    "covered": 783,
+    "stale": 11,
+    "missing": 358,
     "currentSeasonCovered": 147
   },
   "units": [
@@ -513,8 +513,8 @@
       "department": "先进制造与机器人学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://amr.pku.edu.cn/",
-      "total": 28,
-      "recentFiveYears": 15,
+      "total": 29,
+      "recentFiveYears": 16,
       "currentSeason": 13,
       "years": [
         2027,
@@ -994,9 +994,9 @@
       "department": "信息工程学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "http://www.ece.pku.edu.cn/",
-      "total": 21,
+      "total": 22,
       "recentFiveYears": 15,
-      "currentSeason": 5,
+      "currentSeason": 6,
       "years": [
         2027,
         2026,
@@ -14820,14 +14820,20 @@
       "department": "自动化系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://auto.ustc.edu.cn/",
-      "total": 1,
-      "recentFiveYears": 0,
+      "total": 13,
+      "recentFiveYears": 6,
       "currentSeason": 0,
       "years": [
+        2026,
+        2025,
+        2024,
+        2021,
+        2020,
+        2019,
         2011
       ],
-      "latestDate": "2011-01-01",
-      "status": "stale"
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "7fad5c03cf",
@@ -15007,12 +15013,14 @@
       "department": "系统生物学系",
       "sourceName": "中国科学技术大学官方院系页面自动发现",
       "sourceUrl": "https://biox.ustc.edu.cn/",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "5c51ec5b10",
@@ -17974,10 +17982,8 @@
     "中国科学技术大学数学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学计算与应用数学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学概率统计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国科学技术大学自动化系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学地球物理与空间科学技术系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学神经生物学与生物物理学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "中国科学技术大学系统生物学系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学基础医学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学公共管理学院 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "中国科学技术大学加速器科学与工程物理系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
