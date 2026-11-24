@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:44:43.569Z",
+  "generatedAt": "2026-11-24T10:57:40.111Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -1057,8 +1057,8 @@
       "department": "新材料学院",
       "sourceName": "北京大学官方院系页面自动发现",
       "sourceUrl": "https://www.pku.edu.cn/department.html",
-      "total": 6,
-      "recentFiveYears": 2,
+      "total": 8,
+      "recentFiveYears": 4,
       "currentSeason": 4,
       "years": [
         2027,
@@ -9146,9 +9146,9 @@
       "department": "生命科学技术学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://life.sjtu.edu.cn/",
-      "total": 8,
+      "total": 9,
       "recentFiveYears": 7,
-      "currentSeason": 1,
+      "currentSeason": 2,
       "years": [
         2027,
         2026,
@@ -9381,8 +9381,8 @@
       "department": "中英国际低碳学院",
       "sourceName": "上海交通大学官方院系页面自动发现",
       "sourceUrl": "http://lcc.sjtu.edu.cn/",
-      "total": 3,
-      "recentFiveYears": 3,
+      "total": 4,
+      "recentFiveYears": 4,
       "currentSeason": 0,
       "years": [
         2026,

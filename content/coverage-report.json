@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T07:44:41.995Z",
+  "generatedAt": "2026-11-24T10:57:38.908Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2605,
+    "notices": 2609,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
@@ -27,7 +27,7 @@
     {
       "school": "北京大学",
       "region": "北京",
-      "total": 541,
+      "total": 543,
       "currentYear": 0,
       "recentFiveYears": 0,
       "departments": 65,
@@ -60,7 +60,7 @@
     {
       "school": "上海交通大学",
       "region": "上海",
-      "total": 387,
+      "total": 389,
       "currentYear": 1,
       "recentFiveYears": 1,
       "departments": 55,
@@ -1105,7 +1105,7 @@
       "id": "auto-7a8f641a2bed",
       "school": "北京大学",
       "department": "新材料学院",
-      "total": 6,
+      "total": 8,
       "years": [
         2027,
         2026
@@ -2601,7 +2601,7 @@
       "id": "auto-e34844047681",
       "school": "上海交通大学",
       "department": "生命科学技术学院",
-      "total": 6,
+      "total": 7,
       "years": [
         2027,
         2026,
@@ -2845,7 +2845,7 @@
       "id": "auto-50475338268c",
       "school": "上海交通大学",
       "department": "中英国际低碳学院",
-      "total": 2,
+      "total": 3,
       "years": [
         2026,
         2025
