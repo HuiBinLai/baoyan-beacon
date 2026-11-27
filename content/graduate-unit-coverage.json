@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:57:00.145Z",
+  "generatedAt": "2026-11-27T09:07:30.538Z",
   "currentSeasonAdmissionYear": 2027,
   "recentReferenceYears": [
     2026,
@@ -10,9 +10,9 @@
   ],
   "totals": {
     "units": 1152,
-    "covered": 783,
+    "covered": 784,
     "stale": 11,
-    "missing": 358,
+    "missing": 357,
     "currentSeasonCovered": 147
   },
   "units": [
@@ -7986,12 +7986,14 @@
       "department": "陶瓷艺术设计系",
       "sourceName": "清华大学官方院系页面自动发现",
       "sourceUrl": "https://www.tsinghua.edu.cn/yxsz.htm?s=103",
-      "total": 0,
-      "recentFiveYears": 0,
+      "total": 1,
+      "recentFiveYears": 1,
       "currentSeason": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "7d2925b263",
@@ -17788,7 +17790,6 @@
     "清华大学艺术史论系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学工业设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学环境艺术设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
-    "清华大学陶瓷艺术设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学视觉传达设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学染织服装艺术设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",
     "清华大学信息艺术设计系 最近五年暂无招生项目候选，需要补官网/公众号来源。",

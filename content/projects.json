@@ -90594,6 +90594,90 @@
     "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
   },
   {
+    "id": "project-bc371ea717ca",
+    "school": "清华大学",
+    "department": "陶瓷艺术设计系",
+    "region": "北京",
+    "levels": [
+      "985"
+    ],
+    "title": "清华大学 · 陶瓷艺术设计系",
+    "tracks": [
+      "材料能源化工",
+      "艺术设计"
+    ],
+    "qualityFlags": [],
+    "timeline": [
+      {
+        "year": 2026,
+        "count": 1,
+        "stages": [
+          "招生简章"
+        ],
+        "degreeTypes": [
+          "专业型硕士",
+          "博士"
+        ],
+        "firstPublishedAt": "2026-01-01",
+        "lastPublishedAt": "2026-01-01",
+        "firstApplicationStart": "2026-12-01",
+        "lastApplicationEnd": "2026-12-31",
+        "notices": [
+          {
+            "id": "college-6b9c7ceba350",
+            "title": "27 2026.11 清华大学创新领军工程博士项目2027年博士研究生招生简章",
+            "stage": "招生简章",
+            "year": 2026,
+            "publishedAt": "2026-01-01",
+            "applicationStart": "2026-12-01",
+            "applicationEnd": "2026-12-31",
+            "degreeTypes": [
+              "专业型硕士",
+              "博士"
+            ],
+            "sourceUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c37efd4f-8f49-4590-b1d5-3885af8d38a3",
+            "sourceHost": "yzbm.tsinghua.edu.cn",
+            "sourceHomepage": "https://yzbm.tsinghua.edu.cn/",
+            "departmentHomepage": "https://yzbm.tsinghua.edu.cn/"
+          }
+        ]
+      }
+    ],
+    "currentSeasonStatus": "监控中，暂未发现官方通知",
+    "currentSeasonCount": 0,
+    "latestPastYear": 2026,
+    "noticeCount": 1,
+    "llmStructuredCount": 0,
+    "years": [
+      2026
+    ],
+    "stages": [
+      "招生简章"
+    ],
+    "degreeTypes": [
+      "专业型硕士",
+      "博士"
+    ],
+    "majors": [
+      "教育学",
+      "能源动力",
+      "电子信息",
+      "材料与化工",
+      "资源与环境",
+      "生物与医药"
+    ],
+    "sourceHosts": [
+      "yzbm.tsinghua.edu.cn"
+    ],
+    "sourceHomepages": [
+      "https://yzbm.tsinghua.edu.cn/"
+    ],
+    "departmentHomepages": [
+      "https://yzbm.tsinghua.edu.cn/"
+    ],
+    "referenceNote": "往期时间仅供参考，具体以当年官方通知为准。"
+  },
+  {
     "id": "project-cb94f3bf820d",
     "school": "清华大学",
     "department": "万科公共卫生与健康学院",

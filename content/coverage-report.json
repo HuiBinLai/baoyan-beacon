@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26T08:56:58.558Z",
+  "generatedAt": "2026-11-27T09:07:28.942Z",
   "currentYear": 2041,
   "totals": {
-    "notices": 2624,
+    "notices": 2625,
     "schools": 39,
     "coveredSchools": 1,
     "staleSchools": 38,
     "missingSchools": 0,
     "collegeSources": 327,
-    "missingCollegeSources": 85,
+    "missingCollegeSources": 84,
     "llmStructured": 1528,
     "unstructured": 0
   },
@@ -38,10 +38,10 @@
     {
       "school": "清华大学",
       "region": "北京",
-      "total": 268,
+      "total": 269,
       "currentYear": 0,
       "recentFiveYears": 0,
-      "departments": 52,
+      "departments": 53,
       "llmStructured": 109,
       "latestDate": "2027-01-01",
       "status": "stale"
@@ -1451,7 +1451,7 @@
       "id": "auto-d3ad835c55a1",
       "school": "清华大学",
       "department": "工艺美术系",
-      "total": 43,
+      "total": 44,
       "years": [
         2027,
         2026,
@@ -1608,7 +1608,7 @@
       "id": "auto-e2bf126a21a7",
       "school": "清华大学",
       "department": "环境艺术设计系",
-      "total": 43,
+      "total": 44,
       "years": [
         2027,
         2026,
@@ -1703,7 +1703,7 @@
       "id": "auto-e0050b4ec741",
       "school": "清华大学",
       "department": "建筑技术科学系",
-      "total": 43,
+      "total": 44,
       "years": [
         2027,
         2026,
@@ -1891,7 +1891,7 @@
       "id": "auto-1ac063963b25",
       "school": "清华大学",
       "department": "人工智能学院",
-      "total": 43,
+      "total": 44,
       "years": [
         2027,
         2026,
@@ -1971,10 +1971,12 @@
       "id": "auto-f1c88b07d0af",
       "school": "清华大学",
       "department": "陶瓷艺术设计系",
-      "total": 0,
-      "years": [],
-      "latestDate": "",
-      "status": "missing"
+      "total": 1,
+      "years": [
+        2026
+      ],
+      "latestDate": "2026-01-01",
+      "status": "covered"
     },
     {
       "id": "auto-aab461a3bbf6",
@@ -2052,7 +2054,7 @@
       "id": "auto-6e523fba3bb2",
       "school": "清华大学",
       "department": "信息艺术设计系",
-      "total": 43,
+      "total": 44,
       "years": [
         2027,
         2026,
@@ -2136,7 +2138,7 @@
       "id": "auto-cdcba6c3f5c5",
       "school": "清华大学",
       "department": "政治学系",
-      "total": 46,
+      "total": 47,
       "years": [
         2027,
         2026,
@@ -4455,7 +4457,6 @@
     "清华大学视觉传达设计系 已登记源但暂无候选，需要检查公告页。",
     "清华大学水利水电工程系 已登记源但暂无候选，需要检查公告页。",
     "清华大学碳中和研究院 已登记源但暂无候选，需要检查公告页。",
-    "清华大学陶瓷艺术设计系 已登记源但暂无候选，需要检查公告页。",
     "清华大学体育部 已登记源但暂无候选，需要检查公告页。",
     "清华大学土木工程系 已登记源但暂无候选，需要检查公告页。",
     "清华大学土木水利学院 已登记源但暂无候选，需要检查公告页。",
